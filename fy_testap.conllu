@@ -1,0 +1,1969 @@
+# sent_id = 1
+# text = Yn oansluting op it nasjonale tema krigen alle reizgers fergees in eksimplaar fan de dichtbondel “ Gjin grinzen , de reis ” .
+1	Yn	In	ADP	_	_	2	case	_	_
+2	oansluting	aansluiting	NOUN	_	Gender=Com|Number=Sing	7	obl	_	_
+3	op	op	ADP	_	_	6	case	_	_
+4	it	het	DET	_	Definite=Def	6	det	_	_
+5	nasjonale	nationale	ADJ	_	Degree=Pos	6	amod	_	_
+6	tema	thema	NOUN	_	Gender=Neut|Number=Sing	2	nmod	_	_
+7	krigen	kregen	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+8	alle	alle	DET	_	_	9	det	_	_
+9	reizgers	reizigers	NOUN	_	Number=Plur	7	nsubj	_	_
+10	fergees	gratis	ADJ	_	Degree=Pos	7	advmod	_	_
+11	in	een	DET	_	Definite=Ind	12	det	_	_
+12	eksimplaar	exemplaar	NOUN	_	Gender=Neut|Number=Sing	7	obj	_	_
+13	fan	van	ADP	_	_	15	case	_	_
+14	de	de	DET	_	Definite=Def	15	det	_	_
+15	dichtbondel	gedichtenbundel	NOUN	_	Gender=Com|Number=Sing	12	nmod	_	_
+16	“	"	PUNCT	_	_	7	punct	_	_
+17	Gjin	Geen	DET	_	PronType=Ind	15	appos	_	_
+18	grinzen	grenzen	NOUN	_	VerbForm=Inf	17	fixed	_	_
+19	,	,	PUNCT	_	_	17	fixed	_	_
+20	de	de	DET	_	Definite=Def	17	fixed	_	_
+21	reis	reis	NOUN	_	Gender=Com|Number=Sing	17	fixed	_	_
+22	”	"	PUNCT	_	_	7	punct	_	_
+23	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 2
+# text = Hjirûnder in tal foto's makke yn de trein tusken Snits en Ljouwert .
+1	Hjirûnder	Hieronder	ADV	_	_	5	advmod	_	_
+2	in	een	DET	_	Definite=Ind	3	det	_	_
+3	tal	aantal	NOUN	_	Gender=Neut|Number=Sing	5	obj	_	_
+4	foto's	foto's	NOUN	_	Number=Plur	3	nmod	_	_
+5	makke	gemaakt	VERB	_	VerbForm=Part	0	root	_	_
+6	yn	in	ADP	_	_	8	case	_	_
+7	de	de	DET	_	Definite=Def	8	det	_	_
+8	trein	trein	NOUN	_	Gender=Com|Number=Sing	5	obl	_	_
+9	tusken	tussen	ADP	_	_	10	case	_	_
+10	Snits	Sneek	PROPN	_	Gender=Neut|Number=Sing	8	nmod	_	_
+11	en	en	CCONJ	_	_	12	cc	_	_
+12	Ljouwert	Leeuwarden	PROPN	_	Gender=Neut|Number=Sing	10	conj	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 3
+# text = Om de diskusje op gong te helpen frege er bydragen fan âld- steatelid foar Grien Links en Frysk skriuwer Willem Verf , en fan Teake Oppewal , meiwurker fan Tresoar .
+1	Om	Om	ADP	_	_	7	mark	_	_
+2	de	de	DET	_	Definite=Def	3	det	_	_
+3	diskusje	discussie	NOUN	_	Gender=Com|Number=Sing	7	obj	_	_
+4	op	op	ADP	_	_	5	case	_	_
+5	gong	gang	NOUN	_	Gender=Com|Number=Sing	7	obl	_	_
+6	te	te	ADP	_	_	7	mark	_	_
+7	helpen	helpen	VERB	_	VerbForm=Inf	0	root	_	_
+8	frege	vroeg	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	7	parataxis	_	_
+9	er	hij	PRON	_	Case=Nom|Person=3|PronType=Prs	8	nsubj	_	_
+10	bydragen	bijdragen	NOUN	_	Number=Plur	8	obj	_	_
+11	fan	van	ADP	_	_	8	advmod	_	_
+12	âld-steatelid	oud-statenlid	ADJ	_	_	7	appos	_	_
+13	foar	voor	ADP	_	_	14	case	_	_
+14	Grien	Groen	PROPN	_	_	12	nmod	_	_
+15	Links	Links	PROPN	_	_	14	flat	_	_
+16	en	en	CCONJ	_	_	17	cc	_	_
+17	Frysk	Fries	ADJ	_	Gender=Com|Number=Sing	14	conj	_	_
+18	skriuwer	schrijver	NOUN	_	Gender=Com|Number=Sing	17	appos	_	_
+19	Willem	Willem	PROPN	_	_	18	appos	_	_
+20	Verf	Verf	PROPN	_	_	19	flat	_	_
+21	,	,	PUNCT	_	_	7	punct	_	_
+22	en	en	CCONJ	_	_	24	cc	_	_
+23	fan	van	ADP	_	_	24	case	_	_
+24	Teake	Teake	PROPN	_	_	14	conj	_	_
+25	Oppewal	Oppewal	PROPN	_	_	24	flat	_	_
+26	,	,	PUNCT	_	_	7	punct	_	_
+27	meiwurker	medewerker	NOUN	_	Gender=Com|Number=Sing	24	appos	_	_
+28	fan	van	ADP	_	_	29	case	_	_
+29	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	27	nmod	_	_
+30	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 4
+# text = It ûnderwerp libbet wol , der komme sawol positive as negative reaksjes op .
+1	It	Het	DET	_	Definite=Def	2	det	_	_
+2	ûnderwerp	onderwerp	NOUN	_	Gender=Neut|Number=Sing	4	nsubj	_	_
+3	libbet	gemoederen	VERB	_	Number=Plur	4	obj	_	_
+4	wol	houdt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	der	er	ADV	_	_	7	advmod	_	_
+7	komme	komen	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
+8	sawol	zowel	ADV	_	_	9	cc	_	_
+9	positive	positieve	ADJ	_	Degree=Pos	12	nmod	_	_
+10	as	als	SCONJ	_	_	11	cc	_	_
+11	negative	negatieve	ADJ	_	Degree=Pos	9	conj	_	_
+12	reaksjes	reacties	NOUN	_	Number=Plur	7	nsubj	_	_
+13	op	op	ADP	_	_	7	compound_prt	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 5
+# text = Foar wa ’ t mear witte wol , de taspraken fan Teake Oppewal en fan Willem Verf binne hjir te finen .
+1	Foar	Voor	ADP	_	_	7	case	_	_
+2	wa	wie	PRON	_	Person=3|PronType=Int	7	nsubj	_	_
+3	’	wie	PRON	_	Person=3|PronType=Int	7	nsubj	_	_
+4	t	wie	PRON	_	Person=3|PronType=Int	7	nsubj	_	_
+5	mear	meer	PRON	_	PronType=Ind	6	obj	_	_
+6	witte	weten	VERB	_	VerbForm=Inf	7	xcomp	_	_
+7	wol	wil	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	21	parataxis	_	_
+8	,	,	PUNCT	_	_	21	punct	_	_
+9	de	de	DET	_	Definite=Def	10	det	_	_
+10	taspraken	toespraken	NOUN	_	Number=Plur	21	nsubj	_	_
+11	fan	van	ADP	_	_	12	case	_	_
+12	Teake	Teake	PROPN	_	_	10	nmod	_	_
+13	Oppewal	Oppewal	PROPN	_	_	12	flat	_	_
+14	en	en	CCONJ	_	_	16	cc	_	_
+15	fan	van	ADP	_	_	16	case	_	_
+16	Willem	Willem	PROPN	_	_	12	conj	_	_
+17	Verf	Verf	PROPN	_	_	16	flat	_	_
+18	binne	zijn	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	21	aux	_	_
+19	hjir	hier	ADV	_	_	21	advmod	_	_
+20	te	te	ADP	_	_	21	mark	_	_
+21	finen	vinden	VERB	_	VerbForm=Inf	0	root	_	_
+22	.	.	PUNCT	_	_	21	punct	_	_
+
+# sent_id = 6
+# text = Tresoar krijt 290 meter provinsjaal argyf ( 1962 - 1986 ) Op 21 jannewaris hat Kommissaris fan de Keninginne J. A .
+1	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	2	nsubj	_	_
+2	krijt	krijgt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	290	290	NUM	_	_	4	nummod	_	_
+4	meter	meter	NOUN	_	Gender=Com|Number=Sing	2	obj	_	_
+5	provinsjaal	provinciaal	ADJ	_	Degree=Pos	6	amod	_	_
+6	argyf	archief	NOUN	_	Gender=Neut|Number=Sing	4	nmod	_	_
+7	(	(	PUNCT	_	_	2	punct	_	_
+8	1962	1962-	NUM	_	_	10	nummod	_	_
+9	-	(	PUNCT	_	_	2	punct	_	_
+10	1986	1986	NUM	_	_	4	nmod	_	_
+11	)	)	PUNCT	_	_	2	punct	_	_
+12	Op	Op	ADP	_	_	13	case	_	_
+13	21	21	NUM	_	_	2	obl	_	_
+14	jannewaris	januari	PROPN	_	Gender=Com|Number=Sing	13	flat	_	_
+15	hat	heeft	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+16	Kommissaris	Commissaris	NOUN	_	Gender=Com|Number=Sing	15	obj	_	_
+17	fan	van	ADP	_	_	19	case	_	_
+18	de	de	DET	_	Definite=Def	19	det	_	_
+19	Keninginne	Koningin	PROPN	_	_	16	nmod	_	_
+20	J.	J.	PROPN	_	_	19	flat	_	_
+21	A	A	PROPN	_	_	19	flat	_	_
+22	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 7
+# text = Jorritsma symboalysk 290 meter argiven oan Tresoar oerhandige .
+1	Jorritsma	Jorritsma	PROPN	_	Gender=Com|Number=Sing	8	iobj	_	_
+2	symboalysk	symbolisch	ADJ	_	Degree=Pos	8	advmod	_	_
+3	290	290	NUM	_	_	4	nummod	_	_
+4	meter	meter	NOUN	_	Gender=Com|Number=Sing	8	obj	_	_
+5	argiven	archieven	NOUN	_	Number=Plur	4	nmod	_	_
+6	oan	aan	ADP	_	_	7	case	_	_
+7	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	8	obl	_	_
+8	oerhandige	overhandigd	VERB	_	VerbForm=Part	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 8
+# text = De argiven foarmje de skriftlike delslach fan de bemuoienis fan it provinsjaal bestjoer ( Provinsjale Steaten , Deputearre Steaten en Kommissaris fan de Keninginne ) mei it maatskiplik libben yn al har fasetten .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	argiven	archiefbescheiden	NOUN	_	Number=Plur	3	nsubj	_	_
+3	foarmje	vormen	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	de	de	DET	_	Definite=Def	6	det	_	_
+5	skriftlike	schriftelijke	ADJ	_	Degree=Pos	6	amod	_	_
+6	delslach	neerslag	NOUN	_	Gender=Com|Number=Sing	3	obj	_	_
+7	fan	van	ADP	_	_	9	case	_	_
+8	de	de	DET	_	Definite=Def	9	det	_	_
+9	bemuoienis	bemoeienis	NOUN	_	Gender=Com|Number=Sing	6	nmod	_	_
+10	fan	van	ADP	_	_	13	case	_	_
+11	it	het	DET	_	Definite=Def	13	det	_	_
+12	provinsjaal	provinciaal	ADJ	_	Degree=Pos	13	amod	_	_
+13	bestjoer	bestuur	NOUN	_	Gender=Neut|Number=Sing	9	nmod	_	_
+14	(	(	PUNCT	_	_	3	punct	_	_
+15	Provinsjale	Provinciale	PROPN	_	_	13	nmod	_	_
+16	Steaten	Staten	PROPN	_	_	15	flat	_	_
+17	,	,	PUNCT	_	_	3	punct	_	_
+18	Deputearre	Gedeputeerde	PROPN	_	_	15	conj	_	_
+19	Steaten	Staten	PROPN	_	_	18	flat	_	_
+20	en	en	CCONJ	_	_	21	cc	_	_
+21	Kommissaris	Commissaris	NOUN	_	Gender=Com|Number=Sing	15	conj	_	_
+22	fan	van	ADP	_	_	24	case	_	_
+23	de	de	DET	_	Definite=Def	24	det	_	_
+24	Keninginne	Koningin	PROPN	_	Gender=Neut|Number=Sing	21	nmod	_	_
+25	)	)	PUNCT	_	_	3	punct	_	_
+26	mei	met	ADP	_	_	29	case	_	_
+27	it	het	DET	_	Definite=Def	29	det	_	_
+28	maatskiplik	maatschappelijke	ADJ	_	Degree=Pos	29	amod	_	_
+29	libben	leven	NOUN	_	Gender=Neut|Number=Sing	3	obl	_	_
+30	yn	in	ADP	_	_	33	case	_	_
+31	al	al	PRON	_	PronType=Ind	32	amod	_	_
+32	har	haar	PRON	_	Person=3|PronType=Prs	33	det	_	_
+33	fasetten	facetten	NOUN	_	Number=Plur	29	nmod	_	_
+34	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 9
+# text = Jorritsma sei oer de argiven : , , De argiven litte sjen dat de provinsje altyd yn beweging is .
+1	Jorritsma	Jorritsma	PROPN	_	Gender=Com|Number=Sing	2	nsubj	_	_
+2	sei	zei	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
+3	oer	over	ADP	_	_	5	case	_	_
+4	de	de	DET	_	Definite=Def	5	det	_	_
+5	argiven	archieven	NOUN	_	Number=Plur	2	obl	_	_
+6	:	:	PUNCT	_	_	7	punct	_	_
+7	,	,	PUNCT	_	_	2	punct	_	_
+8	,	,	PUNCT	_	_	7	fixed	_	_
+9	De	De	DET	_	Definite=Def	10	det	_	_
+10	argiven	archieven	NOUN	_	Number=Plur	11	nsubj	_	_
+11	litte	laten	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+12	sjen	zien	VERB	_	VerbForm=Inf	11	compound_prt	_	_
+13	dat	dat	SCONJ	_	_	18	mark	_	_
+14	de	de	DET	_	Definite=Def	15	det	_	_
+15	provinsje	provincie	NOUN	_	Gender=Com|Number=Sing	18	nsubj	_	_
+16	altyd	altijd	ADV	_	_	18	advmod	_	_
+17	yn	in	ADP	_	_	18	case	_	_
+18	beweging	beweging	NOUN	_	Gender=Com|Number=Sing	11	ccomp	_	_
+19	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	18	cop	_	_
+20	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 10
+# text = Doedestiids wiene dat wichtige provinsjale taken .
+1	Doedestiids	Toen	ADV	_	_	6	advmod	_	_
+2	wiene	waren	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	6	cop	_	_
+3	dat	dit	PRON	_	Person=3|PronType=Prs	6	nsubj	_	_
+4	wichtige	belangrijke	ADJ	_	Degree=Pos	6	amod	_	_
+5	provinsjale	provinciale	ADJ	_	Degree=Pos	6	amod	_	_
+6	taken	taken	NOUN	_	Number=Plur	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 11
+# text = Tsjintwurdich sjogge wy dat hiel oars ” .
+1	Tsjintwurdich	Tegenwoordig	ADV	_	Degree=Pos	2	advmod	_	_
+2	sjogge	zien	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	wy	we	PRON	_	Case=Nom|Person=1|PronType=Prs	2	nsubj	_	_
+4	dat	dit	PRON	_	Person=3|PronType=Dem	2	obj	_	_
+5	hiel	heel	ADJ	_	Degree=Pos	6	advmod	_	_
+6	oars	anders	ADV	_	_	2	advmod	_	_
+7	”	”	PUNCT	_	_	2	punct	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 12
+# text = Dizze oerdracht is in ferfolch op de stikken oer de perioade 1498 oant 1961 .
+1	Dizze	Deze	DET	_	_	2	det	_	_
+2	oerdracht	overdracht	NOUN	_	Gender=Com|Number=Sing	5	nsubj	_	_
+3	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	in	een	DET	_	Definite=Ind	5	det	_	_
+5	ferfolch	vervolg	NOUN	_	Gender=Neut|Number=Sing	0	root	_	_
+6	op	op	ADP	_	_	8	case	_	_
+7	de	de	DET	_	Definite=Def	8	det	_	_
+8	stikken	stukken	NOUN	_	Number=Plur	5	nmod	_	_
+9	oer	over	ADP	_	_	11	case	_	_
+10	de	de	DET	_	Definite=Def	11	det	_	_
+11	perioade	periode	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	_
+12	1498	1498	NUM	_	_	11	appos	_	_
+13	oant	tot	ADP	_	_	14	case	_	_
+14	1961	1961	NUM	_	_	11	nmod	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 13
+# text = Dizze lunsjlêzingen wurde organisearre troch Tresoar , Frysk Museum en Folksuniversiteit .
+1	Dizze	Deze	DET	_	_	2	det	_	_
+2	lunsjlêzingen	lunchlezingen	NOUN	_	Number=Plur	4	nsubj_pass	_	_
+3	wurde	worden	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	4	aux_pass	_	_
+4	organisearre	georganiseerd	VERB	_	VerbForm=Part	0	root	_	_
+5	troch	door	ADP	_	_	6	case	_	_
+6	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	4	obl_agent	_	_
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	Frysk	Fries	PROPN	_	_	6	conj	_	_
+9	Museum	Museum	PROPN	_	_	8	flat	_	_
+10	en	en	CCONJ	_	_	11	cc	_	_
+11	Folksuniversiteit	Volksuniversiteit	PROPN	_	Gender=Com|Number=Sing	6	conj	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 14
+# text = It tema fan dizze searje is ‘ Fryske famylje .
+1	It	Het	DET	_	Definite=Def	2	det	_	_
+2	tema	thema	NOUN	_	Gender=Neut|Number=Sing	6	nsubj	_	_
+3	fan	van	ADP	_	_	5	case	_	_
+4	dizze	deze	DET	_	_	5	det	_	_
+5	searje	serie	NOUN	_	Gender=Com|Number=Sing	2	nmod	_	_
+6	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	‘	‘	PUNCT	_	_	6	punct	_	_
+8	Fryske	Friese	ADJ	_	Degree=Pos	9	amod	_	_
+9	famylje	familie	NOUN	_	Gender=Com|Number=Sing	6	parataxis	_	_
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 15
+# text = De earste lêzing fynt plak op tongersdei 4 febrewaris 2010 .
+1	De	De	DET	_	Definite=Def	3	det	_	_
+2	earste	eerste	ADJ	_	_	3	amod	_	_
+3	lêzing	lezing	NOUN	_	Gender=Com|Number=Sing	4	nsubj	_	_
+4	fynt	vindt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	plak	plaats	NOUN	_	Gender=Com|Number=Sing	4	compound_prt	_	_
+6	op	op	ADP	_	_	7	case	_	_
+7	tongersdei	donderdag	PROPN	_	Gender=Com|Number=Sing	4	obl	_	_
+8	4	4	NUM	_	_	7	nmod	_	_
+9	febrewaris	februari	PROPN	_	Gender=Com|Number=Sing	8	flat	_	_
+10	2010	2010	NUM	_	_	8	flat	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 16
+# text = Otto Kuipers fan Tresoar sil jo dan mear fertelle oer
+1	Otto	Otto	PROPN	_	_	9	nsubj	_	_
+2	Kuipers	Kuipers	PROPN	_	_	1	flat	_	_
+3	fan	van	ADP	_	_	1	flat	_	_
+4	Tresoar	Tresoar	PROPN	_	_	1	flat	_	_
+5	sil	zal	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux	_	_
+6	jo	u	PRON	_	Case=Nom|Person=2|PronType=Prs	9	iobj	_	_
+7	dan	dan	ADV	_	_	9	advmod	_	_
+8	mear	meer	PRON	_	PronType=Ind	9	obj	_	_
+9	fertelle	vertellen	VERB	_	VerbForm=Inf	0	root	_	_
+10	oer	over	ADP	_	Degree=Pos	9	parataxis	_	_
+
+# sent_id = 18
+# text = Der binne boekeplanken fol skreaun oer Friezen dy't ‘ it Heitelân ’ ferlieten op sykje nei wurk , lok of wat oars yn de Rânestêd , Súd- Limburch of fierder fuort yn Kanada , Amearika , Súd- Afrika of Australië .
+# text = As dy net gau komt , wurde de aksjes útwreide .
+1	Der	Er	ADV	_	_	5	advmod	_	_
+2	binne	zijn	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	5	aux_pass	_	_
+3	boekeplanken	boekenplanken	NOUN	_	Number=Plur	5	nsubj_pass	_	_
+4	fol	vol	ADJ	_	Degree=Pos	3	amod	_	_
+5	skreaun	geschreven	VERB	_	VerbForm=Part	0	root	_	_
+6	oer	over	ADP	_	_	7	case	_	_
+7	Friezen	Friezen	PROPN	_	Number=Plur	3	nmod	_	_
+8	dy't	die	PRON	_	PronType=Rel	13	nsubj	_	_
+9	‘	‘	PUNCT	_	_	5	punct	_	_
+10	it	it	DET	_	_	13	obj	_	_
+11	Heitelân	Heitelân	PROPN	_	_	10	flat	_	_
+12	’	’	PUNCT	_	_	5	punct	_	_
+13	ferlieten	verlieten	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	7	acl_relcl	_	_
+14	op	op	ADP	_	_	5	advcl	_	_
+15	sykje	zoek	NOUN	_	Gender=Neut|Number=Sing	14	fixed	_	_
+16	nei	naar	ADP	_	_	17	case	_	_
+17	wurk	werk	NOUN	_	Gender=Neut|Number=Sing	5	obl	_	_
+18	,	,	PUNCT	_	_	5	punct	_	_
+19	lok	geluk	NOUN	_	Gender=Neut|Number=Sing	5	parataxis	_	_
+20	of	of	CCONJ	_	_	21	cc	_	_
+21	wat	iets	PRON	_	Person=3|PronType=Ind	19	conj	_	_
+22	oars	anders	ADJ	_	Degree=Pos	21	amod	_	_
+23	yn	in	ADP	_	_	25	case	_	_
+24	de	de	DET	_	Definite=Def	25	det	_	_
+25	Rânestêd	Randstad	PROPN	_	Gender=Com|Number=Sing	19	nmod	_	_
+26	,	,	PUNCT	_	_	5	punct	_	_
+27	Súd-	Zuid-	PROPN	_	_	25	conj	_	_
+28	Limburch	Limburg	PROPN	_	_	27	flat	_	_
+29	of	of	CCONJ	_	_	31	cc	_	_
+30	fierder	verder	ADJ	_	Degree=Cmp	31	amod	_	_
+31	fuort	weg	NOUN	_	Gender=Com|Number=Sing	25	conj	_	_
+32	yn	in	ADP	_	_	33	case	_	_
+33	Kanada	Canada	PROPN	_	Gender=Neut|Number=Sing	19	nmod	_	_
+34	,	,	PUNCT	_	_	5	punct	_	_
+35	Amearika	Amerika	PROPN	_	Gender=Neut|Number=Sing	33	conj	_	_
+36	,	,	PUNCT	_	_	5	punct	_	_
+37	Súd-	Zuid-	PROPN	_	_	33	conj	_	_
+38	Afrika	Afrika	PROPN	_	_	37	flat	_	_
+39	of	of	CCONJ	_	_	40	cc	_	_
+40	Australië	Australië	PROPN	_	Gender=Neut|Number=Sing	33	conj	_	_
+41	.	.	PUNCT	_	_	5	punct	_	_
+1	As	Als	SCONJ	_	_	5	mark	_	_
+2	dy	die	PRON	_	Person=3|PronType=Dem	5	nsubj	_	_
+3	net	niet	ADV	_	_	5	advmod	_	_
+4	gau	snel	ADJ	_	Degree=Pos	5	advmod	_	_
+5	komt	komt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	wurde	worde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	10	aux_pass	_	_
+8	de	de	DET	_	Definite=Def	9	det	_	_
+9	aksjes	acties	NOUN	_	Number=Plur	10	nsubj_pass	_	_
+10	útwreide	uitgebreid	VERB	_	VerbForm=Part	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 19
+# text = Hurdfytser Lieuwe Westra ( 29 ) fan 'e Tynje liket op wei nei in sensaasje .
+1	Hurdfytser	Wielrenner	NOUN	_	Gender=Com|Number=Sing	11	nsubj	_	_
+2	Lieuwe	Lieuwe	PROPN	_	_	1	appos	_	_
+3	Westra	Westra	PROPN	_	_	2	flat	_	_
+4	(	(	PUNCT	_	_	11	punct	_	_
+5	29	29	NUM	_	_	1	nummod	_	_
+6	)	)	PUNCT	_	_	11	punct	_	_
+7	fan	uit	ADP	_	_	9	case	_	_
+8	'e	uit	DET	_	_	9	case	_	_
+9	Tynje	Tijnje	PROPN	_	Gender=Neut|Number=Sing	1	nmod	_	_
+10	liket	lijkt	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	op	op	ADP	_	_	0	root	_	_
+12	wei	weg	NOUN	_	Gender=Com|Number=Sing	11	fixed	_	_
+13	nei	naar	ADP	_	_	15	case	_	_
+14	in	een	DET	_	Definite=Ind	15	det	_	_
+15	sensaasje	sensatie	NOUN	_	Gender=Com|Number=Sing	11	obl	_	_
+16	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 20
+# text = Tongersdei pakte hy op fantastyske wize de oerwinning yn 'e swierste berchetappe fan Parys- Nice .
+1	Tongersdei	Donderdag	PROPN	_	Gender=Com|Number=Sing	2	obl	_	_
+2	pakte	pakte	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
+3	hy	hij	PRON	_	Case=Nom|Person=3|PronType=Prs	2	nsubj	_	_
+4	op	op	ADP	_	_	6	case	_	_
+5	fantastyske	fantastische	ADJ	_	Degree=Pos	6	amod	_	_
+6	wize	wijze	NOUN	_	Gender=Com|Number=Sing	2	obl	_	_
+7	de	de	DET	_	Definite=Def	8	det	_	_
+8	oerwinning	overwinning	NOUN	_	Gender=Com|Number=Sing	2	obj	_	_
+9	yn	in	ADP	_	_	12	case	_	_
+10	'e	de	DET	_	Definite=Def	12	det	_	_
+11	swierste	zwaarste	ADJ	_	Degree=Sup	12	amod	_	_
+12	berchetappe	bergetappe	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	_
+13	fan	van	ADP	_	_	15	case	_	_
+14	Parys-	Parijs-	PROPN	_	Number=Sing	15	nmod_poss	_	_
+15	Nice	Nice	PROPN	_	Gender=Neut|Number=Sing	12	nmod	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 21
+# text = Westra wie in pear jier lyn noch strjitmakker , mar heart no neffens kenners yn ien klap by de wrâldtop .
+1	Westra	Westra	PROPN	_	Gender=Com|Number=Sing	8	nsubj	_	_
+2	wie	was	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	8	cop	_	_
+3	in	een	DET	_	Definite=Ind	4	det	_	_
+4	pear	paar	NOUN	_	Gender=Com_Neut|Number=Sing	5	det	_	_
+5	jier	jaar	NOUN	_	Gender=Neut|Number=Sing	6	nmod	_	_
+6	lyn	geleden	ADV	_	_	8	advmod	_	_
+7	noch	nog	ADV	_	_	6	advmod	_	_
+8	strjitmakker	stratenmaker	NOUN	_	Gender=Com|Number=Sing	0	root	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	mar	maar	CCONJ	_	_	11	cc	_	_
+11	heart	hoort	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	8	conj	_	_
+12	no	nu	ADV	_	_	11	advmod	_	_
+13	neffens	volgens	ADP	_	_	14	case	_	_
+14	kenners	kenners	NOUN	_	Number=Plur	11	obl	_	_
+15	yn	in	ADP	_	_	17	case	_	_
+16	ien	één	NUM	_	_	17	nummod	_	_
+17	klap	klap	NOUN	_	Gender=Com|Number=Sing	11	obl	_	_
+18	by	bij	ADP	_	_	20	case	_	_
+19	de	de	DET	_	Definite=Def	20	det	_	_
+20	wrâldtop	wereldtop	NOUN	_	Gender=Com|Number=Sing	11	obl	_	_
+21	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 22
+# text = Westra hat dy bynamme te tankjen oan syn oanfallende styl fan riden .
+1	Westra	Westra	PROPN	_	Gender=Com|Number=Sing	6	nsubj	_	_
+2	hat	heeft	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	aux	_	_
+3	dy	die	DET	_	_	4	det	_	_
+4	bynamme	bijnaam	NOUN	_	Gender=Com|Number=Sing	6	obj	_	_
+5	te	te	ADP	_	_	6	mark	_	_
+6	tankjen	danken	VERB	_	VerbForm=Inf	0	root	_	_
+7	oan	aan	ADP	_	_	12	case	_	_
+8	syn	zijn	PRON	_	Person=3|PronType=Prs	12	nmod_poss	_	_
+9	oanfallende	aanvallende	VERB	_	VerbForm=Part	12	amod	_	_
+10	styl	aanvallende	NOUN	_	VerbForm=Part	12	amod	_	_
+11	fan	aanvallende	ADP	_	VerbForm=Part	12	amod	_	_
+12	riden	rijstijl	VERB	_	Gender=Com|Number=Sing	6	obl	_	_
+13	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 23
+# text = Ek de famylje fan Westra yn Fryslân folget de prestaasjes fan Lieuwe .
+1	Ek	Ook	ADV	_	_	3	amod	_	_
+2	de	de	DET	_	Definite=Def	3	det	_	_
+3	famylje	familie	NOUN	_	Gender=Com|Number=Sing	8	nsubj	_	_
+4	fan	van	ADP	_	_	5	case	_	_
+5	Westra	Westra	PROPN	_	Gender=Com|Number=Sing	3	nmod	_	_
+6	yn	in	ADP	_	_	7	case	_	_
+7	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	3	nmod	_	_
+8	folget	volgt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	de	de	DET	_	Definite=Def	10	det	_	_
+10	prestaasjes	prestaties	NOUN	_	Number=Plur	8	obj	_	_
+11	fan	van	ADP	_	_	12	case	_	_
+12	Lieuwe	Lieuwe	PROPN	_	Gender=Com|Number=Sing	10	nmod	_	_
+13	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 24
+# text = Snein is de finale fan Parys- Nice mei in tiidrit berchop .
+1	Snein	Zondag	PROPN	_	Gender=Com|Number=Sing	11	nsubj	_	_
+2	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	11	cop	_	_
+3	de	de	DET	_	Definite=Def	4	det	_	_
+4	finale	finale	NOUN	_	Gender=Com|Number=Sing	11	nmod	_	_
+5	fan	van	ADP	_	_	7	case	_	_
+6	Parys-	Parijs-	PROPN	_	Number=Sing	7	nmod_poss	_	_
+7	Nice	Nice	PROPN	_	Gender=Neut|Number=Sing	4	nmod	_	_
+8	mei	met	ADP	_	_	10	case	_	_
+9	in	een	DET	_	Definite=Ind	10	det	_	_
+10	tiidrit	tijdrit	NOUN	_	Gender=Com|Number=Sing	7	nmod	_	_
+11	berchop	bergop	ADV	_	_	0	root	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 25
+# text = En de tiidrit is in spesjalisme fan Westra .
+1	En	En	CCONJ	_	_	6	mark	_	_
+2	de	de	DET	_	Definite=Def	3	det	_	_
+3	tiidrit	tijdrit	NOUN	_	Gender=Com|Number=Sing	6	nsubj	_	_
+4	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	in	een	DET	_	Definite=Ind	6	det	_	_
+6	spesjalisme	specialisme	NOUN	_	Gender=Neut|Number=Sing	0	root	_	_
+7	fan	van	ADP	_	_	8	case	_	_
+8	Westra	Westra	PROPN	_	Gender=Com|Number=Sing	6	nmod	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 26
+# text = Pisjende wurknimmers kinne bedriuwen jild opsmite .
+1	Pisjende	Pissende	VERB	_	VerbForm=Part	2	amod	_	_
+2	wurknimmers	werknemers	NOUN	_	Number=Plur	6	nsubj	_	_
+3	kinne	kunnen	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	6	aux	_	_
+4	bedriuwen	bedrijven	NOUN	_	Number=Plur	6	iobj	_	_
+5	jild	geld	NOUN	_	Gender=Neut|Number=Sing	6	obj	_	_
+6	opsmite	opleveren	VERB	_	VerbForm=Inf	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 27
+# text = Wettertechnologysk ynstitút Wetsus yn Ljouwert hat in systeem ûntwikkele wêrby 't enerzjy wûn wurdt út urine .
+1	Wettertechnologysk	Watertechnologisch	PROPN	_	Number=Sing	2	nmod_poss	_	_
+2	ynstitút	instituut	NOUN	_	Gender=Neut|Number=Sing	9	nsubj	_	_
+3	Wetsus	Wetsus	PROPN	_	Gender=Com|Number=Sing	2	appos	_	_
+4	yn	in	ADP	_	_	5	case	_	_
+5	Ljouwert	Leeuwarden	PROPN	_	Gender=Neut|Number=Sing	2	nmod	_	_
+6	hat	heeft	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux	_	_
+7	in	een	DET	_	Definite=Ind	8	det	_	_
+8	systeem	systeem	NOUN	_	Gender=Neut|Number=Sing	9	obj	_	_
+9	ûntwikkele	ontwikkeld	VERB	_	VerbForm=Part	0	root	_	_
+10	wêrby	waarbij	ADV	_	_	13	advmod	_	_
+11	't	waarbij	ADV	_	_	13	advmod	_	_
+12	enerzjy	energie	NOUN	_	Gender=Com|Number=Sing	13	nsubj_pass	_	_
+13	wûn	gewonnen	VERB	_	VerbForm=Part	8	acl_relcl	_	_
+14	wurdt	wordt	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	13	aux_pass	_	_
+15	út	uit	ADP	_	_	16	case	_	_
+16	urine	urine	NOUN	_	Gender=Com|Number=Sing	13	obl	_	_
+17	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 28
+# text = It systeem kin derfoar soargje dat in bedriuw yn 'e takomst gjin smoarch wetter mear hoecht te loazen op it rioel .
+1	It	Het	DET	_	Definite=Def	2	det	_	_
+2	systeem	systeem	NOUN	_	Gender=Neut|Number=Sing	5	nsubj	_	_
+3	kin	kan	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	derfoar	ervoor	ADV	_	_	5	advmod	_	_
+5	soargje	zorgen	VERB	_	VerbForm=Inf	0	root	_	_
+6	dat	dat	SCONJ	_	Gender=Com|Number=Sing	5	parataxis	_	_
+7	in	een	DET	_	Definite=Ind	8	det	_	_
+8	bedriuw	bedrijf	NOUN	_	Gender=Neut|Number=Sing	6	parataxis	_	_
+9	yn	in	ADP	_	_	11	case	_	_
+10	'e	de	DET	_	Definite=Def	11	det	_	_
+11	takomst	toekomst	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	_
+12	gjin	geen	DET	_	_	14	det	_	_
+13	smoarch	vuil	ADJ	_	Degree=Pos	14	amod	_	_
+14	wetter	water	NOUN	_	Gender=Neut|Number=Sing	15	nmod	_	_
+15	mear	meer	PRON	_	PronType=Ind	16	det	_	_
+16	hoecht	hoegt	AUX	_	Gender=Com|Number=Sing	18	obj	_	_
+17	te	te	ADP	_	_	18	mark	_	_
+18	loazen	lozen	VERB	_	VerbForm=Inf	5	parataxis	_	_
+19	op	op	ADP	_	_	21	case	_	_
+20	it	het	DET	_	Definite=Def	21	det	_	_
+21	rioel	riool	NOUN	_	Gender=Neut|Number=Sing	18	obl	_	_
+22	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 29
+# text = Ynkoarten set by Wetterskip Fryslân in proef mei it systeem útein .
+1	Ynkoarten	Binnenkort	ADV	_	_	2	advmod	_	_
+2	set	begint	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	by	bij	ADP	_	_	4	case	_	_
+4	Wetterskip	Wetterskip	PROPN	_	_	2	obl	_	_
+5	Fryslân	Fryslân	PROPN	_	_	4	flat	_	_
+6	in	een	DET	_	Definite=Ind	7	det	_	_
+7	proef	proef	NOUN	_	Gender=Com|Number=Sing	2	nsubj	_	_
+8	mei	met	ADP	_	_	11	case	_	_
+9	it	dit	DET	_	_	11	det	_	_
+10	systeem	systeem	NOUN	_	Gender=Neut|Number=Sing	2	obl	_	_
+11	útein	systeem	NOUN	_	Gender=Neut|Number=Sing	2	obl	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 30
+# text = It earste ljipaai fan Fryslân is sneontemoarn om kertier foar achten fûn .
+1	It	Het	DET	_	Definite=Def	3	det	_	_
+2	earste	eerste	ADJ	_	_	3	amod	_	_
+3	ljipaai	kievitsei	NOUN	_	Gender=Neut|Number=Sing	12	nsubj_pass	_	_
+4	fan	van	ADP	_	_	5	case	_	_
+5	Fryslân	Friesland	PROPN	_	Gender=Neut|Number=Sing	3	nmod	_	_
+6	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	12	aux_pass	_	_
+7	sneontemoarn	zaterdagochtend	NOUN	_	Gender=Com|Number=Sing	12	obl	_	_
+8	om	om	ADP	_	_	9	case	_	_
+9	kertier	kwart	NUM	_	_	7	nmod	_	_
+10	foar	voor	ADP	_	_	9	fixed	_	_
+11	achten	acht	NUM	_	_	9	fixed	_	_
+12	fûn	gevonden	VERB	_	VerbForm=Part	0	root	_	_
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 31
+# text = Oosterman hie de ljip al in wike op it each .
+1	Oosterman	Oosterman	PROPN	_	Gender=Com|Number=Sing	2	nsubj	_	_
+2	hie	had	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
+3	de	de	DET	_	Definite=Def	4	det	_	_
+4	ljip	kievit	NOUN	_	Gender=Com|Number=Sing	2	obj	_	_
+5	al	al	ADV	_	_	7	amod	_	_
+6	in	een	DET	_	Definite=Ind	7	det	_	_
+7	wike	week	NOUN	_	Gender=Com|Number=Sing	2	obl	_	_
+8	op	op	ADP	_	_	2	compound_prt	_	_
+9	it	het	DET	_	Definite=Def	8	fixed	_	_
+10	each	oog	NOUN	_	Gender=Neut|Number=Sing	8	fixed	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 32
+# text = Syn ljipaai is ek it earste ljipaai fan Nederlân .
+1	Syn	Zijn	PRON	_	Person=3|PronType=Prs	2	nmod_poss	_	_
+2	ljipaai	kievitsei	NOUN	_	Gender=Com|Number=Sing	7	nsubj	_	_
+3	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	cop	_	_
+4	ek	ook	ADV	_	_	7	advmod	_	_
+5	it	het	DET	_	Definite=Def	7	det	_	_
+6	earste	eerste	ADJ	_	_	7	amod	_	_
+7	ljipaai	kievitsei	NOUN	_	Gender=Neut|Number=Sing	0	root	_	_
+8	fan	van	ADP	_	_	9	case	_	_
+9	Nederlân	Nederland	PROPN	_	Gender=Neut|Number=Sing	7	nmod	_	_
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 33
+# text = Kommissaris Jorritsma sil it aai sneontemiddei lotterje op it provinsjehûs .
+1	Kommissaris	Commissaris	NOUN	_	Gender=Com|Number=Sing	7	nsubj	_	_
+2	Jorritsma	Jorritsma	PROPN	_	Gender=Com|Number=Sing	1	appos	_	_
+3	sil	zal	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	aux	_	_
+4	it	het	DET	_	Definite=Def	5	det	_	_
+5	aai	ei	NOUN	_	Gender=Neut|Number=Sing	7	obj	_	_
+6	sneontemiddei	zaterdagmiddag	NOUN	_	Gender=Com|Number=Sing	7	obl	_	_
+7	lotterje	keuren	VERB	_	VerbForm=Inf	0	root	_	_
+8	op	op	ADP	_	_	10	case	_	_
+9	it	het	DET	_	Definite=Def	10	det	_	_
+10	provinsjehûs	provinciehuis	NOUN	_	Gender=Neut|Number=Sing	7	obl	_	_
+11	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 34
+# text = It is hjoed de santichste dei fan it jier .
+1	It	Het	PRON	_	Person=3|PronType=Prs	6	nsubj	_	_
+2	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	cop	_	_
+3	hjoed	vandaag	ADV	_	_	6	advmod	_	_
+4	de	de	DET	_	Definite=Def	6	det	_	_
+5	santichste	zeventigste	ADJ	_	_	6	amod	_	_
+6	dei	dag	NOUN	_	Gender=Com|Number=Sing	0	root	_	_
+7	fan	van	ADP	_	_	9	case	_	_
+8	it	het	DET	_	Definite=Def	9	det	_	_
+9	jier	jaar	NOUN	_	Gender=Neut|Number=Sing	6	nmod	_	_
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 35
+# text = Troch de grutte takelput is dit wykein gjin treinferkear mooglik tusken Ljouwert , Snits en Harns .
+1	Troch	Door	ADP	_	_	4	case	_	_
+2	de	de	DET	_	Definite=Def	4	det	_	_
+3	grutte	grote	ADJ	_	Degree=Pos	4	amod	_	_
+4	takelput	takelklus	NOUN	_	Gender=Com|Number=Sing	9	obl	_	_
+5	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	cop	_	_
+6	dit	dit	DET	_	_	7	det	_	_
+7	wykein	weekeinde	NOUN	_	Gender=Neut|Number=Sing	9	nsubj	_	_
+8	gjin	geen	DET	_	_	9	det	_	_
+9	treinferkear	treinverkeer	NOUN	_	Gender=Neut|Number=Sing	0	root	_	_
+10	mooglik	treinverkeer	ADJ	_	Gender=Neut|Number=Sing	0	root	_	_
+11	tusken	tussen	ADP	_	_	12	case	_	_
+12	Ljouwert	Leeuwarden	PROPN	_	Gender=Neut|Number=Sing	9	nmod	_	_
+13	,	,	PUNCT	_	_	9	punct	_	_
+14	Snits	Sneek	PROPN	_	Gender=Neut|Number=Sing	12	conj	_	_
+15	en	en	CCONJ	_	_	16	cc	_	_
+16	Harns	Harlingen	PROPN	_	Gender=Neut|Number=Sing	12	conj	_	_
+17	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 36
+# text = De treinreizgers wurde op dy rûtes mei de bus ferfierd .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	treinreizgers	treinreizigers	NOUN	_	Number=Plur	10	nsubj_pass	_	_
+3	wurde	worden	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	10	aux_pass	_	_
+4	op	op	ADP	_	_	6	case	_	_
+5	dy	die	DET	_	_	6	det	_	_
+6	rûtes	routes	NOUN	_	Number=Plur	10	obl	_	_
+7	mei	met	ADP	_	_	9	case	_	_
+8	de	de	DET	_	Definite=Def	9	det	_	_
+9	bus	bus	NOUN	_	Gender=Com|Number=Sing	10	obl	_	_
+10	ferfierd	vervoerd	VERB	_	VerbForm=Part	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 37
+# text = De nije wei moat oer twa jier klear wêze .
+1	De	De	DET	_	Definite=Def	3	det	_	_
+2	nije	nieuwe	ADJ	_	Degree=Pos	3	amod	_	_
+3	wei	weg	NOUN	_	Gender=Com|Number=Sing	8	nsubj	_	_
+4	moat	moet	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	8	aux	_	_
+5	oer	over	ADP	_	_	7	case	_	_
+6	twa	twee	NUM	_	_	7	nummod	_	_
+7	jier	jaar	NOUN	_	Gender=Neut|Number=Sing	8	obl	_	_
+8	klear	klaar	ADJ	_	Degree=Pos	0	root	_	_
+9	wêze	zijn	AUX	_	VerbForm=Inf	8	cop	_	_
+10	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 38
+# text = Yn 'e gemeente Littenseradiel kostet in grêf it minste fan Nederlân .
+1	Yn	In	ADP	_	_	3	case	_	_
+2	'e	de	DET	_	Definite=Def	3	det	_	_
+3	gemeente	gemeente	NOUN	_	Gender=Com|Number=Sing	5	obl	_	_
+4	Littenseradiel	Littenseradiel	PROPN	_	Gender=Neut|Number=Sing	3	appos	_	_
+5	kostet	kost	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	in	een	DET	_	Definite=Ind	7	det	_	_
+7	grêf	graf	NOUN	_	Gender=Neut|Number=Sing	5	nsubj	_	_
+8	it	het	DET	_	Definite=Def	9	det	_	_
+9	minste	minste	ADJ	_	Degree=Sup	5	obl	_	_
+10	fan	van	ADP	_	_	11	case	_	_
+11	Nederlân	Nederland	PROPN	_	Gender=Neut|Number=Sing	9	nmod	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 39
+# text = Dat docht bliken út ûndersyk fan útfeartfersoarger DELA nei de tariven fan goed 580 gemeentlike begraafplakken yn goed 280 gemeenten .
+1	Dat	Dat	PRON	_	Person=3|PronType=Dem	2	nsubj	_	_
+2	docht	blijkt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bliken	blijkt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	út	uit	ADP	_	_	5	case	_	_
+5	ûndersyk	onderzoek	NOUN	_	Gender=Neut|Number=Sing	2	obl	_	_
+6	fan	van	ADP	_	_	7	case	_	_
+7	útfeartfersoarger	uitvaartverzorger	NOUN	_	Gender=Com|Number=Sing	5	nmod	_	_
+8	DELA	DELA	PROPN	_	Gender=Com|Number=Sing	7	appos	_	_
+9	nei	naar	ADP	_	_	11	case	_	_
+10	de	de	DET	_	Definite=Def	11	det	_	_
+11	tariven	tarieven	NOUN	_	Number=Plur	5	nmod	_	_
+12	fan	van	ADP	_	_	16	case	_	_
+13	goed	ruim	ADJ	_	Degree=Pos	16	amod	_	_
+14	580	580	NUM	_	_	16	nummod	_	_
+15	gemeentlike	gemeentelijke	ADJ	_	Degree=Pos	16	amod	_	_
+16	begraafplakken	begraafplaatsen	NOUN	_	Number=Plur	11	nmod	_	_
+17	yn	in	ADP	_	_	20	case	_	_
+18	goed	ruim	ADJ	_	Degree=Pos	20	amod	_	_
+19	280	280	NUM	_	_	20	nummod	_	_
+20	gemeenten	gemeenten	NOUN	_	Number=Plur	16	nmod	_	_
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 40
+# text = Yn Ferwerderadiel gie it taryf mei 50 persint omheech .
+1	Yn	In	ADP	_	_	2	case	_	_
+2	Ferwerderadiel	Ferwerderadiel	PROPN	_	Gender=Neut|Number=Sing	3	obl	_	_
+3	gie	ging	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
+4	it	het	DET	_	Definite=Def	5	det	_	_
+5	taryf	tarief	NOUN	_	Gender=Neut|Number=Sing	3	nsubj	_	_
+6	mei	met	ADP	_	_	8	case	_	_
+7	50	50	NUM	_	_	8	nummod	_	_
+8	persint	procent	NOUN	_	Gender=Neut|Number=Sing	3	obl	_	_
+9	omheech	omhoog	ADV	_	_	3	advmod	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 41
+# text = Dêr kostet in grêf no 870 euro .
+1	Dêr	Daar	ADV	_	_	2	advmod	_	_
+2	kostet	kost	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	in	een	DET	_	Definite=Ind	4	det	_	_
+4	grêf	graf	NOUN	_	Gender=Neut|Number=Sing	2	nsubj	_	_
+5	no	nu	ADV	_	_	2	advmod	_	_
+6	870	870	NUM	_	_	7	nummod	_	_
+7	euro	euro	NOUN	_	Gender=Com|Number=Sing	2	obl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 42
+# text = Dêrmei stiet de gemeente op it achtste plak yn 'e top tsien fan goedkeapste gemeenten .
+1	Dêrmei	Daarmee	ADV	_	_	2	advmod	_	_
+2	stiet	staat	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	de	de	DET	_	Definite=Def	4	det	_	_
+4	gemeente	gemeente	NOUN	_	Gender=Com|Number=Sing	2	nsubj	_	_
+5	op	op	ADP	_	_	6	case	_	_
+6	it	plaats	DET	_	Gender=Com|Number=Sing	2	obl	_	_
+7	achtste	achtste	ADJ	_	_	6	amod	_	_
+8	plak	plaats	NOUN	_	Gender=Com|Number=Sing	2	obl	_	_
+9	yn	in	ADP	_	_	11	case	_	_
+10	'e	de	DET	_	Definite=Def	11	det	_	_
+11	top	top	NOUN	_	Gender=Com|Number=Sing	6	nmod	_	_
+12	tsien	tien	NUM	_	_	11	appos	_	_
+13	fan	van	ADP	_	_	15	case	_	_
+14	goedkeapste	goedkoopste	ADJ	_	Degree=Sup	15	amod	_	_
+15	gemeenten	gemeenten	NOUN	_	Number=Plur	11	nmod	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 43
+# text = Op nûmer twa stiet Tytsjerksteradiel .
+1	Op	Op	ADP	_	_	2	case	_	_
+2	nûmer	nummer	NOUN	_	Gender=Neut|Number=Sing	4	obl	_	_
+3	twa	twee	NUM	_	_	2	appos	_	_
+4	stiet	staat	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	Tytsjerksteradiel	Tytsjerksteradiel	PROPN	_	Gender=Neut|Number=Sing	4	nsubj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 44
+# text = Dêr is it taryf 567 euro foar in grêf .
+1	Dêr	Daar	ADV	_	_	2	advmod	_	_
+2	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	it	het	DET	_	Definite=Def	4	det	_	_
+4	taryf	tarief	NOUN	_	Gender=Neut|Number=Sing	2	nsubj	_	_
+5	567	567	NUM	_	_	6	nummod	_	_
+6	euro	euro	NOUN	_	Gender=Com|Number=Sing	9	amod	_	_
+7	foar	voor	ADP	_	_	9	case	_	_
+8	in	een	DET	_	Definite=Ind	9	det	_	_
+9	grêf	graf	NOUN	_	Gender=Neut|Number=Sing	4	nmod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 45
+# text = Lieuwe Westra is wer thús op 'e Tynje .
+1	Lieuwe	Lieuwe	PROPN	_	_	3	nsubj	_	_
+2	Westra	Westra	PROPN	_	_	1	flat	_	_
+3	is	is	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	wer	weer	ADV	_	_	3	advmod	_	_
+5	thús	thuis	ADV	_	_	3	compound_prt	_	_
+6	op	in	ADP	_	_	8	case	_	_
+7	'e	in	DET	_	_	8	case	_	_
+8	Tynje	Tijnje	PROPN	_	Gender=Neut|Number=Sing	3	obl	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 46
+# text = Hy heart der no hielendal by .
+1	Hy	Hij	PRON	_	Case=Nom|Person=3|PronType=Prs	2	nsubj	_	_
+2	heart	hoort	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	der	er	ADV	_	_	2	obl	_	_
+4	no	nu	ADV	_	_	2	advmod	_	_
+5	hielendal	helemaal	ADV	_	_	2	advmod	_	_
+6	by	bij	ADP	_	_	3	case	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 47
+# text = Cambuur wie benammen yn de earste helte folle better as FC Den Bosch .
+1	Cambuur	Cambuur	PROPN	_	Gender=Com|Number=Sing	9	nsubj	_	_
+2	wie	was	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	9	cop	_	_
+3	benammen	vooral	ADV	_	_	7	amod	_	_
+4	yn	in	ADP	_	_	7	case	_	_
+5	de	de	DET	_	Definite=Def	7	det	_	_
+6	earste	eerste	ADJ	_	_	7	amod	_	_
+7	helte	helft	NOUN	_	Gender=Com|Number=Sing	9	obl	_	_
+8	folle	veel	PRON	_	PronType=Ind	9	obl	_	_
+9	better	beter	ADJ	_	Degree=Cmp	0	root	_	_
+10	as	dan	SCONJ	_	_	11	mark	_	_
+11	FC	FC	PROPN	_	_	9	advcl	_	_
+12	Den	Den	PROPN	_	_	11	flat	_	_
+13	Bosch	Bosch	PROPN	_	_	11	flat	_	_
+14	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 48
+# text = De Ljouwerters fuotballen hiel goed en de 1 - 0 foarsprong wie in meagere ôfspegeling fan 'e ferhâldingen yn it fjild .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	Ljouwerters	Leeuwarders	PROPN	_	Number=Plur	3	nsubj	_	_
+3	fuotballen	voetbalden	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+4	hiel	heel	ADJ	_	Degree=Pos	5	advmod	_	_
+5	goed	goed	ADJ	_	Degree=Pos	3	parataxis	_	_
+6	en	en	CCONJ	_	_	10	cc	_	_
+7	de	de	DET	_	Definite=Def	10	det	_	_
+8	1	1-	NUM	_	_	10	nummod	_	_
+9	-	1-	NUM	_	_	10	nummod	_	_
+10	0	0	NUM	_	Gender=Com|Number=Sing	5	conj	_	_
+11	foarsprong	voorsprong	NOUN	_	Gender=Com|Number=Sing	15	nsubj	_	_
+12	wie	was	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	15	cop	_	_
+13	in	een	DET	_	Definite=Ind	15	det	_	_
+14	meagere	magere	ADJ	_	Degree=Pos	15	amod	_	_
+15	ôfspegeling	afspiegeling	NOUN	_	Gender=Com|Number=Sing	3	parataxis	_	_
+16	fan	van	ADP	_	_	18	case	_	_
+17	'e	de	DET	_	Definite=Def	18	det	_	_
+18	ferhâldingen	verhoudingen	NOUN	_	Number=Plur	15	nmod	_	_
+19	yn	in	ADP	_	_	21	case	_	_
+20	it	het	DET	_	Definite=Def	21	det	_	_
+21	fjild	veld	NOUN	_	Gender=Neut|Number=Sing	18	nmod	_	_
+22	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 49
+# text = Yn 'e twadde helte besocht FC Den Bosch it wol , mar echt grutte kânsen krigen de Brabanners net .
+1	Yn	In	ADP	_	_	4	case	_	_
+2	'e	de	DET	_	Definite=Def	4	det	_	_
+3	twadde	tweede	ADJ	_	_	4	amod	_	_
+4	helte	helft	NOUN	_	Gender=Com|Number=Sing	5	obl	_	_
+5	besocht	probeerde	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
+6	FC	FC	PROPN	_	_	5	nsubj	_	_
+7	Den	Den	PROPN	_	_	6	flat	_	_
+8	Bosch	Bosch	PROPN	_	_	6	flat	_	_
+9	it	het	PRON	_	Person=3|PronType=Prs	5	obj	_	_
+10	wol	wel	ADV	_	_	5	advmod	_	_
+11	,	,	PUNCT	_	_	5	punct	_	_
+12	mar	maar	CCONJ	_	_	16	cc	_	_
+13	echt	echt	ADJ	_	Degree=Pos	14	advmod	_	_
+14	grutte	grote	ADJ	_	Degree=Pos	15	amod	_	_
+15	kânsen	kansen	NOUN	_	Number=Plur	16	obj	_	_
+16	krigen	kregen	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	5	conj	_	_
+17	de	de	DET	_	Definite=Def	18	det	_	_
+18	Brabanners	Brabanders	PROPN	_	Number=Plur	16	nsubj	_	_
+19	net	niet	ADV	_	_	16	advmod	_	_
+20	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 50
+# text = Twa manlju kamen om healwei tsienen de saak binnen en bedrigen de meiwurker mei in fjoerwapen .
+1	Twa	Twee	NUM	_	_	2	nummod	_	_
+2	manlju	mannen	NOUN	_	Number=Plur	3	nsubj	_	_
+3	kamen	kwamen	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+4	om	om	ADP	_	_	5	case	_	_
+5	healwei	half	ADJ	_	Degree=Pos	3	obl	_	_
+6	tsienen	tien	NUM	_	_	5	fixed	_	_
+7	de	de	DET	_	Definite=Def	8	det	_	_
+8	saak	zaak	NOUN	_	Gender=Com|Number=Sing	3	obl	_	_
+9	binnen	binnen	ADP	_	_	3	compound_prt	_	_
+10	en	en	CCONJ	_	_	11	cc	_	_
+11	bedrigen	bedreigden	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	3	conj	_	_
+12	de	de	DET	_	Definite=Def	13	det	_	_
+13	meiwurker	medewerker	NOUN	_	Gender=Com|Number=Sing	11	obj	_	_
+14	mei	met	ADP	_	_	16	case	_	_
+15	in	een	DET	_	Definite=Ind	16	det	_	_
+16	fjoerwapen	vuurwapen	NOUN	_	Gender=Neut|Number=Sing	11	obl	_	_
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 51
+# text = De eigener wist de oerfallers it pistoal ôf te pakken en doe binne de manlju fuortgien sûnder wat mei te nimmen .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	eigener	eigenaar	NOUN	_	Gender=Com|Number=Sing	3	nsubj	_	_
+3	wist	wist	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
+4	de	de	DET	_	Definite=Def	5	det	_	_
+5	oerfallers	overvallers	NOUN	_	Number=Plur	10	iobj	_	_
+6	it	het	DET	_	Definite=Def	7	det	_	_
+7	pistoal	pistool	NOUN	_	Gender=Neut|Number=Sing	10	obj	_	_
+8	ôf	af	ADP	_	_	10	compound_prt	_	_
+9	te	te	ADP	_	_	10	mark	_	_
+10	pakken	pakken	VERB	_	VerbForm=Inf	3	xcomp	_	_
+11	en	en	CCONJ	_	_	16	cc	_	_
+12	doe	toen	ADV	_	_	16	advmod	_	_
+13	binne	zijn	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	16	aux	_	_
+14	de	de	DET	_	Definite=Def	15	det	_	_
+15	manlju	mannen	NOUN	_	Number=Plur	16	nsubj	_	_
+16	fuortgien	vertrokken	VERB	_	VerbForm=Part	3	conj	_	_
+17	sûnder	zonder	ADP	_	_	21	mark	_	_
+18	wat	wat	PRON	_	Person=3|PronType=Ind	21	obj	_	_
+19	mei	mee	ADP	_	_	21	compound_prt	_	_
+20	te	te	ADP	_	_	21	mark	_	_
+21	nimmen	nemen	VERB	_	VerbForm=Inf	16	advcl	_	_
+22	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 52
+# text = De warskôge plysje hat mei in plysjehûn socht om de oerfallers , mar de hûn rekke it spoar kwyt by de splitsing fan 'e Jacob Patijnwei en de Thijs Veenstrawei .
+1	De	De	DET	_	Definite=Def	3	det	_	_
+2	warskôge	gewaarschuwde	VERB	_	VerbForm=Part	3	amod	_	_
+3	plysje	politie	NOUN	_	Gender=Com|Number=Sing	9	nsubj	_	_
+4	hat	politie	AUX	_	Gender=Com|Number=Sing	9	nsubj	_	_
+5	mei	met	ADP	_	_	7	case	_	_
+6	in	een	DET	_	Definite=Ind	7	det	_	_
+7	plysjehûn	politiehond	NOUN	_	Gender=Com|Number=Sing	9	obl	_	_
+8	socht	naar	ADP	_	_	11	case	_	_
+9	om	zocht	ADP	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
+10	de	de	DET	_	Definite=Def	11	det	_	_
+11	oerfallers	overvallers	NOUN	_	Number=Plur	9	obl	_	_
+12	,	,	PUNCT	_	_	9	punct	_	_
+13	mar	maar	CCONJ	_	_	16	cc	_	_
+14	de	de	DET	_	Definite=Def	15	det	_	_
+15	hûn	hond	NOUN	_	Gender=Com|Number=Sing	16	nsubj	_	_
+16	rekke	raakte	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	9	conj	_	_
+17	it	het	DET	_	Definite=Def	18	det	_	_
+18	spoar	spoor	NOUN	_	Gender=Neut|Number=Sing	16	obj	_	_
+19	kwyt	kwijt	ADJ	_	Degree=Pos	16	compound_prt	_	_
+20	by	bij	ADP	_	_	22	case	_	_
+21	de	de	DET	_	Definite=Def	22	det	_	_
+22	splitsing	splitsing	NOUN	_	Gender=Com|Number=Sing	16	obl	_	_
+23	fan	van	ADP	_	_	25	case	_	_
+24	'e	de	DET	_	Definite=Def	25	det	_	_
+25	Jacob	Jacob	PROPN	_	_	22	nmod	_	_
+26	Patijnwei	Patijnweg	PROPN	_	_	25	flat	_	_
+27	en	en	CCONJ	_	_	29	cc	_	_
+28	de	de	DET	_	Definite=Def	29	det	_	_
+29	Thijs	Thijs	PROPN	_	_	25	conj	_	_
+30	Veenstrawei	Veenstraweg	PROPN	_	_	29	flat	_	_
+31	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 53
+# text = Keninginne Beatrix hat sneon mei ferskillende reedriders praat by de WK ôfstannen yn Thialf .
+1	Keninginne	Koningin	NOUN	_	Gender=Com|Number=Sing	8	nsubj	_	_
+2	Beatrix	Beatrix	PROPN	_	Gender=Com|Number=Sing	1	appos	_	_
+3	hat	heeft	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	8	aux	_	_
+4	sneon	zaterdag	PROPN	_	Gender=Com|Number=Sing	8	obl	_	_
+5	mei	met	ADP	_	_	6	case	_	_
+6	ferskillende	aantal	ADJ	_	Gender=Neut|Number=Sing	8	obl	_	_
+7	reedriders	schaatsers	NOUN	_	Number=Plur	6	nmod	_	_
+8	praat	gepraat	VERB	_	VerbForm=Part	0	root	_	_
+9	by	op	ADP	_	_	11	case	_	_
+10	de	de	DET	_	Definite=Def	11	det	_	_
+11	WK	WK	PROPN	_	Gender=Com_Neut|Number=Sing	8	obl	_	_
+12	ôfstannen	afstanden	NOUN	_	_	11	amod	_	_
+13	yn	in	ADP	_	_	14	case	_	_
+14	Thialf	Thialf	PROPN	_	Gender=Com|Number=Sing	11	nmod	_	_
+15	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 54
+# text = De Keninginne kaam efkes foar tolven oan om 'e 1000 meter by te wenjen .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	Keninginne	Koningin	NOUN	_	Gender=Com|Number=Sing	3	nsubj	_	_
+3	kaam	kwam	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
+4	efkes	even	ADV	_	Degree=Pos	6	amod	_	_
+5	foar	voor	ADP	_	_	6	case	_	_
+6	tolven	twaalven	NOUN	_	Number=Plur	3	obl	_	_
+7	oan	aan	ADP	_	_	3	compound_prt	_	_
+8	om	om	ADP	_	_	14	mark	_	_
+9	'e	de	DET	_	Definite=Def	11	det	_	_
+10	1000	1000	NUM	_	_	11	nummod	_	_
+11	meter	meter	NOUN	_	Gender=Com|Number=Sing	14	obj	_	_
+12	by	bij	ADP	_	_	14	compound_prt	_	_
+13	te	te	ADP	_	_	14	mark	_	_
+14	wenjen	wonen	VERB	_	VerbForm=Inf	3	advcl	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 55
+# text = Se waard ûntfongen troch kommissaris fan 'e Keninginne John Jorritsma , KNSB- foarsitter Doekle Terpstra en boargemaster Van der Zwan fan Hearrenfean .
+1	Se	Ze	PRON	_	Person=3|PronType=Prs	3	nsubj_pass	_	_
+2	waard	werd	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	3	aux_pass	_	_
+3	ûntfongen	ontvangen	VERB	_	VerbForm=Part	0	root	_	_
+4	troch	door	ADP	_	_	5	case	_	_
+5	kommissaris	Commissaris	NOUN	_	Gender=Com|Number=Sing	3	obl_agent	_	_
+6	fan	van	ADP	_	_	8	case	_	_
+7	'e	de	DET	_	Definite=Def	8	det	_	_
+8	Keninginne	Koningin	NOUN	_	Gender=Com|Number=Sing	5	nmod	_	_
+9	John	John	PROPN	_	Gender=Com|Number=Sing	8	appos	_	_
+10	Jorritsma	Jorritsma	PROPN	_	Gender=Com|Number=Sing	5	appos	_	_
+11	,	,	PUNCT	_	_	3	punct	_	_
+12	KNSB-	KNSB-	PROPN	_	_	3	appos	_	_
+13	foarsitter	voorzitter	NOUN	_	Gender=Com|Number=Sing	3	parataxis	_	_
+14	Doekle	Doekle	PROPN	_	_	13	appos	_	_
+15	Terpstra	Terpstra	PROPN	_	_	14	flat	_	_
+16	en	en	CCONJ	_	_	17	cc	_	_
+17	boargemaster	burgemeester	NOUN	_	Gender=Com|Number=Sing	13	conj	_	_
+18	Van	Van	PROPN	_	_	17	appos	_	_
+19	der	der	PROPN	_	_	18	flat	_	_
+20	Zwan	Zwan	PROPN	_	_	18	flat	_	_
+21	fan	van	ADP	_	_	22	case	_	_
+22	Hearrenfean	Heerenveen	PROPN	_	Gender=Neut|Number=Sing	13	nmod	_	_
+23	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 56
+# text = Foar de besite waard it hiele stadion troch feilichheidsmeiwurkers trochsocht op fertochte pakketsjes .
+1	Foar	Voor	ADP	_	_	2	case	_	_
+2	de	bezoek	DET	_	Gender=Neut|Number=Sing	10	obl	_	_
+3	besite	bezoek	NOUN	_	Gender=Neut|Number=Sing	10	obl	_	_
+4	waard	werd	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	10	aux_pass	_	_
+5	it	het	DET	_	Definite=Def	7	det	_	_
+6	hiele	hele	ADJ	_	Degree=Pos	7	amod	_	_
+7	stadion	stadion	NOUN	_	Gender=Neut|Number=Sing	10	nsubj_pass	_	_
+8	troch	door	ADP	_	_	9	case	_	_
+9	feilichheidsmeiwurkers	veiligheidsmedewerkers	NOUN	_	Number=Plur	10	obl_agent	_	_
+10	trochsocht	doorzocht	VERB	_	VerbForm=Part	0	root	_	_
+11	op	op	ADP	_	_	13	case	_	_
+12	fertochte	verdachte	VERB	_	VerbForm=Part	13	amod	_	_
+13	pakketsjes	pakketjes	NOUN	_	Number=Plur	10	obl	_	_
+14	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 57
+# text = De keninginne wie allinnich by de 1000 meter , de oare ôfstannen folge se net .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	keninginne	koningin	NOUN	_	Gender=Com|Number=Sing	3	nsubj	_	_
+3	wie	was	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
+4	allinnich	alleen	ADV	_	_	3	advmod	_	_
+5	by	bij	ADP	_	_	8	case	_	_
+6	de	de	DET	_	Definite=Def	8	det	_	_
+7	1000	1000	NUM	_	_	8	nummod	_	_
+8	meter	meter	NOUN	_	Gender=Com|Number=Sing	3	obl	_	_
+9	,	,	PUNCT	_	_	3	punct	_	_
+10	de	de	DET	_	Definite=Def	12	det	_	_
+11	oare	andere	ADJ	_	Degree=Pos	12	amod	_	_
+12	ôfstannen	afstanden	NOUN	_	Number=Plur	13	obl	_	_
+13	folge	volgde	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	3	parataxis	_	_
+14	se	ze	PRON	_	Person=3|PronType=Prs	13	nsubj	_	_
+15	net	niet	ADV	_	_	13	advmod	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 58
+# text = It Heerenveen Holland House moat in jierliks weromkommend evenemint wurde by ynternasjonale reedriidwedstriden .
+1	It	Het	DET	_	Definite=Def	2	det	_	_
+2	Heerenveen	Heerenveen	PROPN	_	_	9	nsubj	_	_
+3	Holland	Holland	PROPN	_	_	2	flat	_	_
+4	House	House	PROPN	_	_	2	flat	_	_
+5	moat	moet	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux	_	_
+6	in	een	DET	_	Definite=Ind	9	det	_	_
+7	jierliks	jaarlijks	ADJ	_	Degree=Pos	8	advmod	_	_
+8	weromkommend	terugkerend	VERB	_	VerbForm=Part	9	acl	_	_
+9	evenemint	evenement	NOUN	_	Gender=Neut|Number=Sing	0	root	_	_
+10	wurde	worden	AUX	_	VerbForm=Inf	9	cop	_	_
+11	by	bij	ADP	_	_	13	case	_	_
+12	ynternasjonale	internationale	ADJ	_	Degree=Pos	13	amod	_	_
+13	reedriidwedstriden	schaatswedstrijden	NOUN	_	Number=Plur	9	obl	_	_
+14	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 59
+# text = It doel is om de fans út Thialf sa nei it sintrum te lûken .
+1	It	Het	DET	_	Definite=Def	2	det	_	_
+2	doel	doel	NOUN	_	Gender=Neut|Number=Sing	0	root	_	_
+3	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	om	om	ADP	_	_	14	mark	_	_
+5	de	de	DET	_	Definite=Def	6	det	_	_
+6	fans	fans	NOUN	_	Number=Plur	14	obj	_	_
+7	út	uit	ADP	_	_	8	case	_	_
+8	Thialf	Thialf	PROPN	_	Gender=Com|Number=Sing	6	nmod	_	_
+9	sa	zo	ADV	_	_	14	advmod	_	_
+10	nei	naar	ADP	_	_	12	case	_	_
+11	it	het	DET	_	Definite=Def	12	det	_	_
+12	sintrum	centrum	NOUN	_	Gender=Neut|Number=Sing	14	obl	_	_
+13	te	te	ADP	_	_	14	mark	_	_
+14	lûken	trekken	VERB	_	VerbForm=Inf	2	csubj	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 60
+# text = It Heerenveen Holland House is in tinte yn it sintrum fan It Hearrenfean mei festiviteiten dy't te krijen ha mei de WK Ofstannen .
+1	It	Het	DET	_	Definite=Def	2	det	_	_
+2	Heerenveen	Heerenveen	PROPN	_	_	7	nsubj	_	_
+3	Holland	Holland	PROPN	_	_	2	flat	_	_
+4	House	House	PROPN	_	_	2	flat	_	_
+5	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	in	een	DET	_	Definite=Ind	7	det	_	_
+7	tinte	tent	NOUN	_	Gender=Com|Number=Sing	0	root	_	_
+8	yn	in	ADP	_	_	10	case	_	_
+9	it	het	DET	_	Definite=Def	10	det	_	_
+10	sintrum	centrum	NOUN	_	Gender=Neut|Number=Sing	7	nmod	_	_
+11	fan	van	ADP	_	_	12	case	_	_
+12	It	Heerenveen	PROPN	_	Gender=Neut|Number=Sing	10	nmod	_	_
+13	Hearrenfean	Heerenveen	PROPN	_	Gender=Neut|Number=Sing	10	nmod	_	_
+14	mei	met	ADP	_	_	15	case	_	_
+15	festiviteiten	festiviteiten	NOUN	_	Number=Plur	7	nmod	_	_
+16	dy't	die	PRON	_	PronType=Rel	19	nsubj	_	_
+17	te	te	ADP	_	_	18	mark	_	_
+18	krijen	maken	VERB	_	VerbForm=Inf	19	compound_prt	_	_
+19	ha	hebben	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	15	acl_relcl	_	_
+20	mei	met	ADP	_	_	22	case	_	_
+21	de	de	DET	_	Definite=Def	22	det	_	_
+22	WK	WK	PROPN	_	Gender=Com_Neut|Number=Sing	19	obl	_	_
+23	Ofstannen	Afstanden	NOUN	_	Number=Plur	22	appos	_	_
+24	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 61
+# text = Der binne muzykoptredens en petearen mei minsken út de reedriidwrâld .
+1	Der	Er	ADV	_	_	2	advmod	_	_
+2	binne	zijn	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	muzykoptredens	muziekoptredens	NOUN	_	Number=Plur	2	nsubj	_	_
+4	en	en	CCONJ	_	_	5	cc	_	_
+5	petearen	gesprekken	NOUN	_	Number=Plur	3	conj	_	_
+6	mei	met	ADP	_	_	7	case	_	_
+7	minsken	mensen	NOUN	_	Number=Plur	3	nmod	_	_
+8	út	uit	ADP	_	_	10	case	_	_
+9	de	de	DET	_	Definite=Def	10	det	_	_
+10	reedriidwrâld	schaatswereld	NOUN	_	Gender=Com|Number=Sing	7	nmod	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 62
+# text = De organisaasje is yn hannen fan 'e gemeente en de ûndernimmers .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	organisaasje	organisatie	NOUN	_	Gender=Com|Number=Sing	3	nsubj	_	_
+3	is	is	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	yn	in	ADP	_	_	3	compound_prt	_	_
+5	hannen	handen	NOUN	_	Number=Plur	4	fixed	_	_
+6	fan	van	ADP	_	_	8	case	_	_
+7	'e	de	DET	_	Definite=Def	8	det	_	_
+8	gemeente	gemeente	NOUN	_	Gender=Com|Number=Sing	3	obl	_	_
+9	en	en	CCONJ	_	_	11	cc	_	_
+10	de	de	DET	_	Definite=Def	11	det	_	_
+11	ûndernimmers	ondernemers	NOUN	_	Number=Plur	8	conj	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 63
+# text = De tinte is noch net grôtfol , en de reaksjes binne wikseljend .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	tinte	tent	NOUN	_	Gender=Com|Number=Sing	6	nsubj	_	_
+3	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	noch	nog	ADV	_	_	5	advmod	_	_
+5	net	niet	ADV	_	_	6	advmod	_	_
+6	grôtfol	stampvol	ADJ	_	Degree=Pos	0	root	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	en	en	CCONJ	_	_	12	cc	_	_
+9	de	de	DET	_	Definite=Def	10	det	_	_
+10	reaksjes	reacties	NOUN	_	Number=Plur	12	nsubj	_	_
+11	binne	zijn	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	wikseljend	divers	ADJ	_	Degree=Pos	6	conj	_	_
+13	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 64
+# text = De organisaasje wol dat it Heerenveen Holland House de tiid krijt om in begryp te wurden .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	organisaasje	organisatie	NOUN	_	Gender=Com|Number=Sing	3	nsubj	_	_
+3	wol	wil	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dat	dat	SCONJ	_	_	11	mark	_	_
+5	it	het	DET	_	Definite=Def	6	det	_	_
+6	Heerenveen	Heerenveen	PROPN	_	_	11	nsubj	_	_
+7	Holland	Holland	PROPN	_	_	6	flat	_	_
+8	House	House	PROPN	_	_	6	flat	_	_
+9	de	de	DET	_	Definite=Def	11	compound_prt	_	_
+10	tiid	tijd	NOUN	_	Gender=Com|Number=Sing	9	fixed	_	_
+11	krijt	krijgt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+12	om	om	ADP	_	_	14	mark	_	_
+13	in	een	DET	_	Definite=Ind	14	det	_	_
+14	begryp	begrip	NOUN	_	Gender=Neut|Number=Sing	11	xcomp	_	_
+15	te	te	ADP	_	_	14	mark	_	_
+16	wurden	worden	AUX	_	VerbForm=Inf	14	cop	_	_
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 65
+# text = It is de bedoeling dat it Heerenveen Holland House takommend jier wer delset wurdt by in ynternasjonaal toernoai .
+1	It	Het	PRON	_	Person=3|PronType=Prs	4	expl	_	_
+2	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	de	de	DET	_	Definite=Def	4	det	_	_
+4	bedoeling	bedoeling	NOUN	_	Gender=Com|Number=Sing	0	root	_	_
+5	dat	dat	SCONJ	_	_	13	mark	_	_
+6	it	het	DET	_	Definite=Def	7	det	_	_
+7	Heerenveen	Heerenveen	PROPN	_	_	13	nsubj_pass	_	_
+8	Holland	Holland	PROPN	_	_	7	flat	_	_
+9	House	House	PROPN	_	_	7	flat	_	_
+10	takommend	House	VERB	_	_	7	flat	_	_
+11	jier	jaar	NOUN	_	Gender=Neut|Number=Sing	13	obl	_	_
+12	wer	weer	ADV	_	_	13	advmod	_	_
+13	delset	geplaatst	VERB	_	VerbForm=Part	4	csubj	_	_
+14	wurdt	wordt	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	13	aux_pass	_	_
+15	by	bij	ADP	_	_	18	case	_	_
+16	in	een	DET	_	Definite=Ind	18	det	_	_
+17	ynternasjonaal	internationaal	ADJ	_	Degree=Pos	18	amod	_	_
+18	toernoai	toernooi	NOUN	_	Gender=Neut|Number=Sing	13	obl	_	_
+19	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 66
+# text = Bern fan de iepenbiere basisskoalle yn Akkrum ha sneon jild ynsammele foar de twa Afgaanske broerkes Samadi .
+1	Bern	Kinderen	NOUN	_	Number=Plur	11	nsubj	_	_
+2	fan	van	ADP	_	_	5	case	_	_
+3	de	de	DET	_	Definite=Def	5	det	_	_
+4	iepenbiere	openbare	ADJ	_	Degree=Pos	5	amod	_	_
+5	basisskoalle	basisschool	NOUN	_	Gender=Com|Number=Sing	1	nmod	_	_
+6	yn	in	ADP	_	_	7	case	_	_
+7	Akkrum	Akkrum	PROPN	_	Gender=Neut|Number=Sing	5	nmod	_	_
+8	ha	hebben	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	11	aux	_	_
+9	sneon	zaterdag	PROPN	_	Gender=Com|Number=Sing	11	obl	_	_
+10	jild	geld	NOUN	_	Gender=Neut|Number=Sing	11	obj	_	_
+11	ynsammele	ingezameld	VERB	_	VerbForm=Part	0	root	_	_
+12	foar	voor	ADP	_	_	16	case	_	_
+13	de	de	DET	_	Definite=Def	16	det	_	_
+14	twa	twee	NUM	_	_	16	nummod	_	_
+15	Afgaanske	Afghaanse	ADJ	_	Degree=Pos	16	amod	_	_
+16	broerkes	broertjes	NOUN	_	Number=Plur	11	obl	_	_
+17	Samadi	Samadi	PROPN	_	Gender=Com|Number=Sing	16	appos	_	_
+18	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 67
+# text = Beide sitte by har op skoalle en wurde mooglik mei har âlden it lân útset .
+1	Beide	zitten	PRON	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	sitte	zitten	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	by	bij	ADP	_	_	4	case	_	_
+4	har	hun	PRON	_	Case=Acc|Person=3|PronType=Prs	1	obl	_	_
+5	op	op	ADP	_	_	6	case	_	_
+6	skoalle	school	NOUN	_	Gender=Com|Number=Sing	1	obl	_	_
+7	en	en	CCONJ	_	_	15	cc	_	_
+8	wurde	worden	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	15	aux_pass	_	_
+9	mooglik	mogelijk	ADJ	_	Degree=Pos	15	advmod	_	_
+10	mei	met	ADP	_	_	12	case	_	_
+11	har	hun	PRON	_	Person=3|PronType=Prs	12	nmod_poss	_	_
+12	âlden	ouders	NOUN	_	Number=Plur	9	obl	_	_
+13	it	het	DET	_	Definite=Def	14	det	_	_
+14	lân	land	NOUN	_	Gender=Neut|Number=Sing	15	obl	_	_
+15	útset	uitgezet	VERB	_	VerbForm=Part	1	conj	_	_
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 68
+# text = Om jild yn te sammeljen foar in nije proseduere hat in groep âlden in sponsorloop organisearre .
+1	Om	Om	ADP	_	_	5	mark	_	_
+2	jild	geld	NOUN	_	Gender=Neut|Number=Sing	5	obj	_	_
+3	yn	in	ADP	_	_	5	compound_prt	_	_
+4	te	te	ADP	_	_	5	mark	_	_
+5	sammeljen	zamelen	VERB	_	VerbForm=Inf	16	advcl	_	_
+6	foar	voor	ADP	_	_	9	case	_	_
+7	in	een	DET	_	Definite=Ind	9	det	_	_
+8	nije	nieuwe	ADJ	_	Degree=Pos	9	amod	_	_
+9	proseduere	procedure	NOUN	_	Gender=Com|Number=Sing	5	obl	_	_
+10	hat	heeft	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	16	aux	_	_
+11	in	een	DET	_	Definite=Ind	12	det	_	_
+12	groep	groep	NOUN	_	Gender=Com|Number=Sing	16	nsubj	_	_
+13	âlden	ouders	NOUN	_	Number=Plur	12	nmod	_	_
+14	in	een	DET	_	Definite=Ind	15	det	_	_
+15	sponsorloop	sponsorloop	NOUN	_	Gender=Com|Number=Sing	16	obj	_	_
+16	organisearre	georganiseerd	VERB	_	VerbForm=Part	0	root	_	_
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 69
+# text = De ferhalen spylje har ôf yn 'e provinsje en gean oer typysk Fryske ûnderwerpen lykas it skûtsjesilen en de Alvestêdetocht .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	ferhalen	verhalen	NOUN	_	Number=Plur	3	nsubj	_	_
+3	spylje	spelen	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	har	zich	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	3	expl_pv	_	_
+5	ôf	af	ADP	_	_	3	compound_prt	_	_
+6	yn	in	ADP	_	_	8	case	_	_
+7	'e	de	DET	_	Definite=Def	8	det	_	_
+8	provinsje	provincie	NOUN	_	Gender=Com|Number=Sing	3	obl	_	_
+9	en	en	CCONJ	_	_	10	cc	_	_
+10	gean	gaan	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	3	conj	_	_
+11	oer	over	ADP	_	_	14	case	_	_
+12	typysk	typisch	ADJ	_	Degree=Pos	13	advmod	_	_
+13	Fryske	Friese	ADJ	_	Degree=Pos	14	amod	_	_
+14	ûnderwerpen	onderwerpen	NOUN	_	Number=Plur	10	obl	_	_
+15	lykas	zoals	SCONJ	_	_	17	mark	_	_
+16	it	skûtsjesilen	DET	_	Gender=Com|Number=Sing	14	nmod	_	_
+17	skûtsjesilen	skûtsjesilen	NOUN	_	Gender=Com|Number=Sing	14	nmod	_	_
+18	en	en	CCONJ	_	_	20	cc	_	_
+19	de	de	DET	_	Definite=Def	20	det	_	_
+20	Alvestêdetocht	Elfstedentocht	PROPN	_	Gender=Com|Number=Sing	14	conj	_	_
+21	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 70
+# text = De edysje is benammen in promoasjestunt by it 60 - jierrich bestean fan 'e Donald Duck .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	edysje	editie	NOUN	_	Gender=Com|Number=Sing	6	nsubj	_	_
+3	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	benammen	voornamelijk	ADV	_	_	6	advmod	_	_
+5	in	een	DET	_	Definite=Ind	6	det	_	_
+6	promoasjestunt	promotiestunt	NOUN	_	Gender=Com|Number=Sing	0	root	_	_
+7	by	voor	ADP	_	_	12	case	_	_
+8	it	het	DET	_	Definite=Def	12	det	_	_
+9	60	60-	NUM	_	Degree=Pos	12	nmod	_	_
+10	-	60-	PUNCT	_	Degree=Pos	12	nmod	_	_
+11	jierrich	jarig	ADJ	_	Degree=Pos	9	fixed	_	_
+12	bestean	bestaan	NOUN	_	Gender=Neut|Number=Sing	6	nmod	_	_
+13	fan	van	ADP	_	_	15	case	_	_
+14	'e	de	DET	_	Definite=Def	15	det	_	_
+15	Donald	Donald	PROPN	_	_	12	nmod	_	_
+16	Duck	Duck	PROPN	_	_	15	flat	_	_
+17	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 71
+# text = By de Afûk binne njoggen stripferhalen oerset .
+1	By	Bij	ADP	_	_	3	case	_	_
+2	de	de	DET	_	Definite=Def	3	det	_	_
+3	Afûk	Afûk	PROPN	_	Gender=Neut|Number=Sing	7	obl	_	_
+4	binne	zijn	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	7	aux_pass	_	_
+5	njoggen	negen	NUM	_	_	6	nummod	_	_
+6	stripferhalen	stripverhalen	NOUN	_	Number=Plur	7	nsubj_pass	_	_
+7	oerset	vertaald	VERB	_	VerbForm=Part	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 72
+# text = De samlers moatte der gau by wêze , it blêd ferskynt yn in oplage fan 30. 000 stiks .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	samlers	verzamelaars	NOUN	_	Number=Plur	7	nsubj	_	_
+3	moatte	moeten	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	7	aux	_	_
+4	der	er	ADV	_	_	7	obl	_	_
+5	gau	snel	ADJ	_	Degree=Pos	7	advmod	_	_
+6	by	bij	ADP	_	_	4	case	_	_
+7	wêze	zijn	VERB	_	VerbForm=Inf	0	root	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	it	het	DET	_	Definite=Def	10	det	_	_
+10	blêd	blad	NOUN	_	Gender=Neut|Number=Sing	11	nsubj	_	_
+11	ferskynt	verschijnt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
+12	yn	in	ADP	_	_	14	case	_	_
+13	in	een	DET	_	Definite=Ind	14	det	_	_
+14	oplage	oplage	NOUN	_	Gender=Com|Number=Sing	11	obl	_	_
+15	fan	van	ADP	_	_	18	case	_	_
+16	30.	30.	NUM	_	_	18	det	_	_
+17	000	000	NUM	_	_	16	fixed	_	_
+18	stiks	stuks	NOUN	_	Number=Plur	14	nmod	_	_
+19	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 73
+# text = Yn Oerterp wurdt sneon in âlde Joadske wurkbarak ôfbrutsen .
+1	Yn	In	ADP	_	_	2	case	_	_
+2	Oerterp	Ureterp	PROPN	_	Gender=Neut|Number=Sing	9	obl	_	_
+3	wurdt	wordt	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux_pass	_	_
+4	sneon	zaterdag	PROPN	_	Gender=Com|Number=Sing	9	obl	_	_
+5	in	een	DET	_	Definite=Ind	8	det	_	_
+6	âlde	oude	ADJ	_	Degree=Pos	8	amod	_	_
+7	Joadske	Joodse	ADJ	_	Degree=Pos	8	amod	_	_
+8	wurkbarak	werkbarak	NOUN	_	Gender=Com|Number=Sing	9	nsubj_pass	_	_
+9	ôfbrutsen	afgebroken	VERB	_	VerbForm=Part	0	root	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 74
+# text = De Stichting Joodse Werkkampen wol de barak takom jier opbouwe yn Drinte .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	Stichting	Stichting	PROPN	_	_	5	nsubj	_	_
+3	Joodse	Joodse	PROPN	_	_	2	flat	_	_
+4	Werkkampen	Werkkampen	PROPN	_	_	2	flat	_	_
+5	wol	wil	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	de	de	DET	_	Definite=Def	7	det	_	_
+7	barak	barak	NOUN	_	Gender=Com|Number=Sing	10	obj	_	_
+8	takom	volgend	VERB	_	VerbForm=Part	9	amod	_	_
+9	jier	jaar	NOUN	_	Gender=Neut|Number=Sing	10	obl	_	_
+10	opbouwe	opbouwen	VERB	_	VerbForm=Inf	5	xcomp	_	_
+11	yn	in	ADP	_	_	12	case	_	_
+12	Drinte	Drenthe	PROPN	_	Gender=Neut|Number=Sing	10	obl	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 75
+# text = Dêr komt in museum mei Joadske wurkbarakken .
+1	Dêr	Daar	ADV	_	_	2	advmod	_	_
+2	komt	komt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	in	een	DET	_	Definite=Ind	4	det	_	_
+4	museum	museum	NOUN	_	Gender=Neut|Number=Sing	2	nsubj	_	_
+5	mei	met	ADP	_	_	6	case	_	_
+6	Joadske	Joodse	ADJ	_	_	2	obl	_	_
+7	wurkbarakken	werkbarakken	PROPN	_	_	6	flat	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 76
+# text = Dy hold der hinnen yn .
+1	Dy	Die	PRON	_	Person=3|PronType=Dem	2	nsubj	_	_
+2	hold	hield	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
+3	der	er	ADV	_	_	2	obl	_	_
+4	hinnen	kippen	NOUN	_	Number=Plur	2	obj	_	_
+5	yn	in	ADP	_	_	3	case	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 77
+# text = Nei de oarloch sieten der NSB ' ers en Molukkers yn .
+1	Nei	Na	ADP	_	_	3	case	_	_
+2	de	de	DET	_	Definite=Def	3	det	_	_
+3	oarloch	oorlog	NOUN	_	Gender=Com|Number=Sing	4	obl	_	_
+4	sieten	zaten	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+5	der	er	ADV	_	_	4	obl	_	_
+6	NSB	NSB	PROPN	_	Gender=Com|Number=Sing	4	iobj	_	_
+7	'	'	PUNCT	_	_	4	punct	_	_
+8	ers	ers	NOUN	_	Gender=Com|Number=Sing	4	nsubj	_	_
+9	en	en	CCONJ	_	_	10	cc	_	_
+10	Molukkers	Molukkers	PROPN	_	Number=Plur	8	conj	_	_
+11	yn	in	ADP	_	_	5	case	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 78
+# text = De barak is boud yn 'e jierren ' 30 foar de wurkferskaffing .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	barak	barak	NOUN	_	Gender=Com|Number=Sing	4	nsubj_pass	_	_
+3	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	aux_pass	_	_
+4	boud	gebouwd	VERB	_	VerbForm=Part	0	root	_	_
+5	yn	in	ADP	_	_	7	case	_	_
+6	'e	de	DET	_	Definite=Def	7	det	_	_
+7	jierren	jaren	NOUN	_	Number=Plur	4	obl	_	_
+8	'	'	PUNCT	_	_	4	punct	_	_
+9	30	30	NUM	_	_	7	appos	_	_
+10	foar	voor	ADP	_	_	12	case	_	_
+11	de	de	DET	_	Definite=Def	12	det	_	_
+12	wurkferskaffing	werkverschaffing	NOUN	_	Gender=Com|Number=Sing	7	nmod	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 79
+# text = Goed 600 Friezen sjonge sneon yn it provinsjehûs .
+1	Goed	Meer	PRON	_	PronType=Ind	2	amod	_	_
+2	600	600	NUM	_	_	3	det	_	_
+3	Friezen	Friezen	PROPN	_	Number=Plur	4	nsubj	_	_
+4	sjonge	zingen	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	sneon	zaterdag	PROPN	_	Gender=Com|Number=Sing	4	obl	_	_
+6	yn	in	ADP	_	_	8	case	_	_
+7	it	het	DET	_	Definite=Def	8	det	_	_
+8	provinsjehûs	provinsjehûs	NOUN	_	Gender=Neut|Number=Sing	4	obl	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 80
+# text = It giet om leden fan koaren út hiel Fryslân .
+1	It	Het	PRON	_	Person=3|PronType=Prs	2	nsubj	_	_
+2	giet	gaat	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	om	om	ADP	_	_	4	case	_	_
+4	leden	leden	NOUN	_	Number=Plur	2	obl	_	_
+5	fan	van	ADP	_	_	6	case	_	_
+6	koaren	koren	NOUN	_	Number=Plur	4	nmod	_	_
+7	út	uit	ADP	_	_	9	case	_	_
+8	hiel	heel	ADJ	_	Degree=Pos	9	amod	_	_
+9	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	6	nmod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 81
+# text = Yn ferskillende groepen studearje de koarleden it liet yn .
+1	Yn	In	ADP	_	_	2	case	_	_
+2	ferskillende	aantal	ADJ	_	Gender=Neut|Number=Sing	4	obl	_	_
+3	groepen	groepen	NOUN	_	Number=Plur	2	nmod	_	_
+4	studearje	studeren	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	de	de	DET	_	Definite=Def	6	det	_	_
+6	koarleden	koorleden	NOUN	_	Number=Plur	4	nsubj	_	_
+7	it	het	DET	_	Definite=Def	8	det	_	_
+8	liet	lied	NOUN	_	Gender=Neut|Number=Sing	4	obj	_	_
+9	yn	in	ADP	_	_	4	compound_prt	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 82
+# text = De oefensesje waard sneontemoarn iepene troch kommissaris fan 'e Keninginne John Jorritsma .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	oefensesje	oefensessie	NOUN	_	Gender=Com|Number=Sing	5	nsubj_pass	_	_
+3	waard	werd	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	5	aux_pass	_	_
+4	sneontemoarn	zaterdagochtend	NOUN	_	Gender=Com|Number=Sing	5	obl	_	_
+5	iepene	geopend	VERB	_	VerbForm=Part	0	root	_	_
+6	troch	door	ADP	_	_	7	case	_	_
+7	kommissaris	Commissaris	NOUN	_	Gender=Com|Number=Sing	5	obl_agent	_	_
+8	fan	van	ADP	_	_	10	case	_	_
+9	'e	de	DET	_	Definite=Def	10	det	_	_
+10	Keninginne	Koningin	NOUN	_	Gender=Com|Number=Sing	7	nmod	_	_
+11	John	John	PROPN	_	Gender=Com|Number=Sing	10	appos	_	_
+12	Jorritsma	Jorritsma	PROPN	_	Gender=Com|Number=Sing	7	appos	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 83
+# text = Dat seit ynterim- bestjoerder Wagenaar fan 'e Sionsberg .
+1	Dat	Dat	PRON	_	Person=3|PronType=Dem	2	obj	_	_
+2	seit	zegt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ynterim-	interim-	ADJ	_	Gender=Com|Number=Sing	2	nsubj	_	_
+4	bestjoerder	bestuurder	NOUN	_	Gender=Com|Number=Sing	3	appos	_	_
+5	Wagenaar	Wagenaar	PROPN	_	_	4	appos	_	_
+6	fan	van	ADP	_	_	5	flat	_	_
+7	'e	de	DET	_	_	5	flat	_	_
+8	Sionsberg	Sionsberg	PROPN	_	_	5	flat	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 84
+# text = Ek hat it ferdwinen fan 'e kreamôfdieling gefolgen foar de berne- ôfdieling .
+1	Ek	Ook	ADV	_	_	2	advmod	_	_
+2	hat	heeft	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	it	het	DET	_	Definite=Def	4	det	_	_
+4	ferdwinen	verdwijnen	VERB	_	VerbForm=Inf	2	nsubj	_	_
+5	fan	van	ADP	_	_	7	case	_	_
+6	'e	de	DET	_	Definite=Def	7	det	_	_
+7	kreamôfdieling	kraamafdeling	NOUN	_	Gender=Com|Number=Sing	4	nmod	_	_
+8	gefolgen	gevolgen	NOUN	_	Number=Plur	2	obj	_	_
+9	foar	voor	ADP	_	_	11	case	_	_
+10	de	de	DET	_	Definite=Def	11	det	_	_
+11	berne-	kinderafdeling	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	_
+12	ôfdieling	kinderafdeling	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 85
+# text = De ôfdielingen kardiology en ortopedy binne ek ticht .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	ôfdielingen	afdelingen	NOUN	_	Number=Plur	8	nsubj	_	_
+3	kardiology	cardiologie	NOUN	_	Gender=Com|Number=Sing	2	appos	_	_
+4	en	en	CCONJ	_	_	5	cc	_	_
+5	ortopedy	ortopedie	NOUN	_	Gender=Com|Number=Sing	3	conj	_	_
+6	binne	zijn	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	ek	ook	ADV	_	_	8	advmod	_	_
+8	ticht	dicht	ADJ	_	Degree=Pos	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 86
+# text = Der wurdt hurd wurke om dy werom te krijen .
+1	Der	Er	ADV	_	_	4	advmod	_	_
+2	wurdt	wordt	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	aux_pass	_	_
+3	hurd	hard	ADJ	_	Degree=Pos	4	advmod	_	_
+4	wurke	gewerkt	VERB	_	VerbForm=Part	0	root	_	_
+5	om	om	ADP	_	_	9	mark	_	_
+6	dy	die	PRON	_	Person=3|PronType=Dem	9	obj	_	_
+7	werom	terug	ADV	_	_	9	compound_prt	_	_
+8	te	te	ADP	_	_	9	mark	_	_
+9	krijen	krijgen	VERB	_	VerbForm=Inf	4	advcl	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 87
+# text = Wagenaar soe graach sjen dat de soarchfersekerders har ynspanne om de bertesoarch yn Dokkum oerein te hâlden en dêr ek gau mear dúdlikheid oer jouwe .
+1	Wagenaar	Wagenaar	PROPN	_	Gender=Com|Number=Sing	4	nsubj	_	_
+2	soe	zou	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	4	aux	_	_
+3	graach	graag	ADV	_	_	4	advmod	_	_
+4	sjen	zien	VERB	_	VerbForm=Inf	0	root	_	_
+5	dat	dat	SCONJ	_	_	9	mark	_	_
+6	de	de	DET	_	Definite=Def	7	det	_	_
+7	soarchfersekerders	zorgverzekeraars	NOUN	_	Number=Plur	9	nsubj	_	_
+8	har	zich	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	9	expl_pv	_	_
+9	ynspanne	inspannen	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+10	om	om	ADP	_	_	17	mark	_	_
+11	de	de	DET	_	Definite=Def	12	det	_	_
+12	bertesoarch	geboortezorg	NOUN	_	Gender=Com|Number=Sing	17	obj	_	_
+13	yn	in	ADP	_	_	14	case	_	_
+14	Dokkum	Dokkum	PROPN	_	Gender=Neut|Number=Sing	12	nmod	_	_
+15	oerein	overeind	ADV	_	_	17	compound_prt	_	_
+16	te	te	ADP	_	_	17	mark	_	_
+17	hâlden	houden	VERB	_	VerbForm=Inf	9	xcomp	_	_
+18	en	en	CCONJ	_	_	25	cc	_	_
+19	dêr	daar	ADV	_	_	25	advmod	_	_
+20	ek	ook	ADV	_	_	25	advmod	_	_
+21	gau	snel	ADJ	_	Degree=Pos	25	advmod	_	_
+22	mear	meer	DET	_	_	23	det	_	_
+23	dúdlikheid	duidelijkheid	NOUN	_	Gender=Com|Number=Sing	25	obj	_	_
+24	oer	over	ADP	_	_	25	compound_prt	_	_
+25	jouwe	geven	VERB	_	VerbForm=Inf	4	conj	_	_
+26	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 88
+# text = Lankhorst yn Snits giet in grutte takomst temjitte .
+1	Lankhorst	Lankhorst	PROPN	_	Gender=Neut|Number=Sing	4	nsubj	_	_
+2	yn	in	ADP	_	_	3	case	_	_
+3	Snits	Sneek	PROPN	_	Gender=Neut|Number=Sing	1	nmod	_	_
+4	giet	gaat	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	in	een	DET	_	Definite=Ind	7	det	_	_
+6	grutte	grootse	ADJ	_	Degree=Pos	7	amod	_	_
+7	takomst	toekomst	NOUN	_	Gender=Com|Number=Sing	4	obl	_	_
+8	temjitte	tegemoet	ADV	_	_	4	compound_prt	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 89
+# text = Dat sei Joop Atsma moandeitemoarn by de iepening fan in nije produksjehal .
+1	Dat	Dat	PRON	_	Person=3|PronType=Dem	2	obj	_	_
+2	sei	zei	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
+3	Joop	Joop	PROPN	_	_	2	nsubj	_	_
+4	Atsma	Atsma	PROPN	_	_	3	flat	_	_
+5	moandeitemoarn	maandagmorgen	NOUN	_	Gender=Com|Number=Sing	2	obl	_	_
+6	by	bij	ADP	_	_	8	case	_	_
+7	de	de	DET	_	Definite=Def	8	det	_	_
+8	iepening	opening	NOUN	_	Gender=Com|Number=Sing	2	obl	_	_
+9	fan	van	ADP	_	_	12	case	_	_
+10	in	een	DET	_	Definite=Ind	12	det	_	_
+11	nije	nieuwe	ADJ	_	Degree=Pos	12	amod	_	_
+12	produksjehal	productiehal	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 90
+# text = It bedriuw hat mear as seis miljoen euro ynvestearre yn 'e hal en yn nije masines .
+1	It	Het	DET	_	Definite=Def	2	det	_	_
+2	bedriuw	bedrijf	NOUN	_	Gender=Neut|Number=Sing	9	nsubj	_	_
+3	hat	heeft	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux	_	_
+4	mear	meer	PRON	_	PronType=Ind	6	amod	_	_
+5	as	dan	SCONJ	_	_	4	fixed	_	_
+6	seis	zes	NUM	_	_	7	det	_	_
+7	miljoen	miljoen	NOUN	_	Gender=Neut|Number=Sing	9	obj	_	_
+8	euro	euro	NOUN	_	Gender=Com|Number=Sing	7	nmod	_	_
+9	ynvestearre	geïnvesteerd	VERB	_	VerbForm=Part	0	root	_	_
+10	yn	in	ADP	_	_	12	case	_	_
+11	'e	de	DET	_	Definite=Def	12	det	_	_
+12	hal	hal	NOUN	_	Gender=Com|Number=Sing	9	obl	_	_
+13	en	en	CCONJ	_	_	16	cc	_	_
+14	yn	in	ADP	_	_	16	case	_	_
+15	nije	nieuwe	ADJ	_	Degree=Pos	16	amod	_	_
+16	masines	machines	NOUN	_	Number=Plur	12	conj	_	_
+17	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 91
+# text = Hy wol der ek hotelakkommodaasje by bouwe .
+1	Hy	Hij	PRON	_	Case=Nom|Person=3|PronType=Prs	2	nsubj	_	_
+2	wol	wil	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	der	er	ADV	_	_	7	obl	_	_
+4	ek	ook	ADV	_	_	7	advmod	_	_
+5	hotelakkommodaasje	hotelaccomodatie	NOUN	_	Gender=Com|Number=Sing	7	obj	_	_
+6	by	bij	ADP	_	_	3	case	_	_
+7	bouwe	bouwen	VERB	_	VerbForm=Inf	2	xcomp	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 92
+# text = De ynvestearrings passe net yn it Amelanner bestimmingsplan .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	ynvestearrings	investeringen	NOUN	_	Number=Plur	3	nsubj	_	_
+3	passe	passen	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	net	niet	ADV	_	_	3	advmod	_	_
+5	yn	in	ADP	_	_	8	case	_	_
+6	it	het	DET	_	Definite=Def	8	det	_	_
+7	Amelanner	Amelander	ADJ	_	Degree=Cmp	8	amod	_	_
+8	bestimmingsplan	bestemmingsplan	NOUN	_	Gender=Neut|Number=Sing	3	obl	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 93
+# text = Dat moat earst oanpast wurde .
+1	Dat	Dat	PRON	_	Person=3|PronType=Dem	4	nsubj_pass	_	_
+2	moat	moet	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	earst	eerst	ADV	_	_	4	advmod	_	_
+4	oanpast	aangepast	VERB	_	VerbForm=Part	0	root	_	_
+5	wurde	worden	AUX	_	VerbForm=Inf	4	aux_pass	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 94
+# text = Histoarysk Koudum hat tiisdei in oarlochsmonumint foar harren ûntbleate , omdat se net wolle dat de ferhalen ferlern geane .
+1	Histoarysk	Historich	PROPN	_	_	9	nsubj	_	_
+2	Koudum	Koudum	PROPN	_	_	1	flat	_	_
+3	hat	heeft	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux	_	_
+4	tiisdei	dinsdag	NOUN	_	Gender=Com|Number=Sing	9	obl	_	_
+5	in	een	DET	_	Definite=Ind	6	det	_	_
+6	oarlochsmonumint	oorlogsmonument	NOUN	_	Gender=Neut|Number=Sing	9	obj	_	_
+7	foar	voor	ADP	_	_	8	case	_	_
+8	harren	hun	PRON	_	Case=Acc|Person=3|PronType=Prs	6	nmod	_	_
+9	ûntbleate	ontbloot	VERB	_	VerbForm=Part	0	root	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	omdat	omdat	SCONJ	_	_	14	mark	_	_
+12	se	ze	PRON	_	Person=3|PronType=Prs	14	nsubj	_	_
+13	net	niet	ADV	_	_	14	advmod	_	_
+14	wolle	willen	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+15	dat	dat	SCONJ	_	_	19	mark	_	_
+16	de	de	DET	_	Definite=Def	17	det	_	_
+17	ferhalen	verhalen	NOUN	_	Number=Plur	19	nsubj	_	_
+18	ferlern	verloren	VERB	_	VerbForm=Part	19	xcomp	_	_
+19	geane	gaan	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
+20	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 95
+# text = De alliearden wiene yn in Hampden AE 248 ûnderweis nei Bremen om dêr bommen falle te litten .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	alliearden	geallieerden	NOUN	_	Degree=Pos	9	nsubj	_	_
+3	wiene	waren	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	9	cop	_	_
+4	yn	in	ADP	_	_	6	case	_	_
+5	in	een	DET	_	Definite=Ind	6	det	_	_
+6	Hampden	Hampden	PROPN	_	_	9	obl	_	_
+7	AE	AE	PROPN	_	_	6	flat	_	_
+8	248	248	PROPN	_	_	6	flat	_	_
+9	ûnderweis	onderweg	ADV	_	_	0	root	_	_
+10	nei	naar	ADP	_	_	11	case	_	_
+11	Bremen	Bremen	PROPN	_	Gender=Neut|Number=Sing	9	obl	_	_
+12	om	om	ADP	_	_	17	mark	_	_
+13	dêr	daar	ADV	_	_	15	advmod	_	_
+14	bommen	bommen	NOUN	_	Number=Plur	17	obj	_	_
+15	falle	vallen	VERB	_	VerbForm=Inf	17	xcomp	_	_
+16	te	te	ADP	_	_	17	mark	_	_
+17	litten	laten	VERB	_	VerbForm=Inf	9	advcl	_	_
+18	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 96
+# text = Allinnich de Kanadeeske piloat koe op tiid út it fleantúch springe .
+1	Allinnich	Alleen	ADV	_	_	4	amod	_	_
+2	de	de	DET	_	Definite=Def	4	det	_	_
+3	Kanadeeske	Canadese	ADJ	_	Degree=Pos	4	amod	_	_
+4	piloat	piloot	NOUN	_	Gender=Com|Number=Sing	11	nsubj	_	_
+5	koe	kon	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	11	aux	_	_
+6	op	tijdig	ADP	_	Degree=Pos	11	advmod	_	_
+7	tiid	tijdig	NOUN	_	Degree=Pos	11	advmod	_	_
+8	út	uit	ADP	_	_	10	case	_	_
+9	it	het	DET	_	Definite=Def	10	det	_	_
+10	fleantúch	vliegtuig	NOUN	_	Gender=Neut|Number=Sing	11	obl	_	_
+11	springe	springen	VERB	_	VerbForm=Inf	0	root	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 97
+# text = De oare trije , in Kanadees en twa Ingelsen , kamen om op it plak dêr't no in soarchsintrum stiet .
+1	De	De	DET	_	Definite=Def	3	det	_	_
+2	oare	andere	ADJ	_	Degree=Pos	3	amod	_	_
+3	trije	drie	NOUN	_	Gender=Com|Number=Sing	11	nsubj	_	_
+4	,	,	PUNCT	_	_	11	punct	_	_
+5	in	een	DET	_	Definite=Ind	6	det	_	_
+6	Kanadees	Canadees	PROPN	_	Gender=Com|Number=Sing	3	conj	_	_
+7	en	en	CCONJ	_	_	9	cc	_	_
+8	twa	twee	NUM	_	_	9	nummod	_	_
+9	Ingelsen	Engelsen	PROPN	_	Number=Plur	3	conj	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	kamen	kwamen	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+12	om	om	ADP	_	_	11	compound_prt	_	_
+13	op	op	ADP	_	_	14	case	_	_
+14	it	plek	DET	_	Gender=Com|Number=Sing	11	obl	_	_
+15	plak	plek	NOUN	_	Gender=Com|Number=Sing	11	obl	_	_
+16	dêr't	waar	ADV	_	_	20	advmod	_	_
+17	no	nu	ADV	_	_	20	advmod	_	_
+18	in	een	DET	_	Definite=Ind	19	det	_	_
+19	soarchsintrum	zorgcentrum	NOUN	_	Gender=Neut|Number=Sing	20	nsubj	_	_
+20	stiet	staat	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	14	acl_relcl	_	_
+21	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 98
+# text = Ulfert de Jong fan de wurkgroep Histoarysk Koudum fynt it wichtich dat der no in monumint foar harren is .
+1	Ulfert	Ulfert	PROPN	_	_	9	nsubj	_	_
+2	de	de	PROPN	_	_	1	flat	_	_
+3	Jong	Jong	PROPN	_	_	1	flat	_	_
+4	fan	van	ADP	_	_	6	case	_	_
+5	de	de	DET	_	Definite=Def	6	det	_	_
+6	wurkgroep	werkgroep	NOUN	_	Gender=Com|Number=Sing	1	nmod	_	_
+7	Histoarysk	Historisch	PROPN	_	_	6	appos	_	_
+8	Koudum	Koudum	PROPN	_	_	7	flat	_	_
+9	fynt	vindt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	it	het	PRON	_	Person=3|PronType=Prs	9	expl	_	_
+11	wichtich	belangrijk	ADJ	_	Degree=Pos	9	xcomp	_	_
+12	dat	dat	SCONJ	_	_	19	mark	_	_
+13	der	er	ADV	_	_	19	advmod	_	_
+14	no	nu	ADV	_	_	19	advmod	_	_
+15	in	een	DET	_	Definite=Ind	16	det	_	_
+16	monumint	monument	NOUN	_	Gender=Neut|Number=Sing	19	nsubj	_	_
+17	foar	voor	ADP	_	_	18	case	_	_
+18	harren	hen	PRON	_	Case=Acc|Person=3|PronType=Prs	16	nmod	_	_
+19	is	is	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+20	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 99
+# text = De Súdwesthoeke is klear foar de besite fan keninginne Beatrix freed .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	Súdwesthoeke	Súdwesthoeke	PROPN	_	Gender=Com|Number=Sing	4	nsubj	_	_
+3	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	klear	klaar	ADJ	_	Degree=Pos	0	root	_	_
+5	foar	voor	ADP	_	_	6	case	_	_
+6	de	bezoek	DET	_	Gender=Neut|Number=Sing	4	obl	_	_
+7	besite	bezoek	NOUN	_	Gender=Neut|Number=Sing	4	obl	_	_
+8	fan	van	ADP	_	_	9	case	_	_
+9	keninginne	koningin	NOUN	_	Gender=Com|Number=Sing	6	nmod	_	_
+10	Beatrix	Beatrix	PROPN	_	Gender=Com|Number=Sing	9	appos	_	_
+11	freed	vrijdag	PROPN	_	Gender=Com|Number=Sing	6	nmod	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 100
+# text = De lêste saken binne woansdei regele troch de kommissaris fan de Keninginne en de boargemasters Hayo Apotheker fan Súdwest- Fryslân en Willem Hoornstra fan Gaasterlân- Sleat .
+1	De	De	DET	_	Definite=Def	3	det	_	_
+2	lêste	laatste	ADJ	_	_	3	amod	_	_
+3	saken	zaken	NOUN	_	Number=Plur	4	nsubj	_	_
+4	binne	zijn	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	woansdei	woensdag	PROPN	_	Gender=Com|Number=Sing	4	obl	_	_
+6	regele	geregeld	VERB	_	VerbForm=Part	4	advcl	_	_
+7	troch	door	ADP	_	_	9	case	_	_
+8	de	de	DET	_	Definite=Def	9	det	_	_
+9	kommissaris	Commissaris	NOUN	_	Gender=Com|Number=Sing	6	obl	_	_
+10	fan	van	ADP	_	_	12	case	_	_
+11	de	de	DET	_	Definite=Def	12	det	_	_
+12	Keninginne	Koningin	PROPN	_	Gender=Neut|Number=Sing	9	nmod	_	_
+13	en	en	CCONJ	_	_	15	cc	_	_
+14	de	de	DET	_	Definite=Def	15	det	_	_
+15	boargemasters	burgemeesters	NOUN	_	Number=Plur	9	conj	_	_
+16	Hayo	Hayo	PROPN	_	_	15	appos	_	_
+17	Apotheker	Apotheker	PROPN	_	_	16	flat	_	_
+18	fan	van	ADP	_	_	19	case	_	_
+19	Súdwest-	Súdwest-	PROPN	_	_	15	nmod	_	_
+20	Fryslân	Fryslân	PROPN	_	_	19	flat	_	_
+21	en	en	CCONJ	_	_	22	cc	_	_
+22	Willem	Willem	PROPN	_	_	19	conj	_	_
+23	Hoornstra	Hoornstra	PROPN	_	_	22	flat	_	_
+24	fan	van	ADP	_	_	22	flat	_	_
+25	Gaasterlân-	Gaasterlân-	PROPN	_	_	22	flat	_	_
+26	Sleat	Sleat	PROPN	_	_	22	flat	_	_
+27	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 101
+# text = It giet om in wurkbesite .
+1	It	Het	PRON	_	Person=3|PronType=Prs	2	nsubj	_	_
+2	giet	gaat	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	om	om	ADP	_	_	5	case	_	_
+4	in	een	DET	_	Definite=Ind	5	det	_	_
+5	wurkbesite	werkbezoek	NOUN	_	Gender=Neut|Number=Sing	2	obl	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 102
+# text = Beatrix komt mei de helikopter oan yn Heech en giet dan fierder mei de bus , in boat of te gean .
+1	Beatrix	Beatrix	PROPN	_	Gender=Com|Number=Sing	2	nsubj	_	_
+2	komt	komt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mei	met	ADP	_	_	5	case	_	_
+4	de	de	DET	_	Definite=Def	5	det	_	_
+5	helikopter	helikopter	NOUN	_	Gender=Com|Number=Sing	2	obl	_	_
+6	oan	aan	ADP	_	_	2	compound_prt	_	_
+7	yn	in	ADP	_	_	8	case	_	_
+8	Heech	Heech	PROPN	_	Gender=Neut|Number=Sing	2	obl	_	_
+9	en	en	CCONJ	_	_	10	cc	_	_
+10	giet	gaat	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	2	conj	_	_
+11	dan	dan	ADV	_	_	10	advmod	_	_
+12	fierder	verder	ADJ	_	Degree=Cmp	10	compound_prt	_	_
+13	mei	met	ADP	_	_	15	case	_	_
+14	de	de	DET	_	Definite=Def	15	det	_	_
+15	bus	bus	NOUN	_	Gender=Com|Number=Sing	10	obl	_	_
+16	,	,	PUNCT	_	_	2	punct	_	_
+17	in	een	DET	_	Definite=Ind	18	det	_	_
+18	boat	boot	NOUN	_	Gender=Com|Number=Sing	15	appos	_	_
+19	of	of	CCONJ	_	_	20	cc	_	_
+20	te	lopend	ADP	_	VerbForm=Part	15	conj	_	_
+21	gean	lopend	VERB	_	VerbForm=Part	15	conj	_	_
+22	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 103
+# text = Yn it sikehûs yn Harns komt mooglik in proef mei in nije technyk om legionella op te spoaren .
+1	Yn	In	ADP	_	_	3	case	_	_
+2	it	het	DET	_	Definite=Def	3	det	_	_
+3	sikehûs	ziekenhuis	NOUN	_	Gender=Neut|Number=Sing	6	obl	_	_
+4	yn	in	ADP	_	_	5	case	_	_
+5	Harns	Harlingen	PROPN	_	Gender=Neut|Number=Sing	3	nmod	_	_
+6	komt	komt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	mooglik	mogelijk	ADJ	_	Degree=Pos	6	advmod	_	_
+8	in	een	DET	_	Definite=Ind	9	det	_	_
+9	proef	proef	NOUN	_	Gender=Com|Number=Sing	6	nsubj	_	_
+10	mei	met	ADP	_	_	13	case	_	_
+11	in	een	DET	_	Definite=Ind	13	det	_	_
+12	nije	nieuwe	ADJ	_	Degree=Pos	13	amod	_	_
+13	technyk	techniek	NOUN	_	Gender=Com|Number=Sing	9	nmod	_	_
+14	om	om	ADP	_	_	18	mark	_	_
+15	legionella	legionella	NOUN	_	Gender=Com|Number=Sing	18	obj	_	_
+16	op	op	ADP	_	_	18	compound_prt	_	_
+17	te	te	ADP	_	_	18	mark	_	_
+18	spoaren	sporen	VERB	_	VerbForm=Inf	6	advcl	_	_
+19	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 104
+# text = Troch dy baktearje kin minsken de feteranesykte krije .
+1	Troch	Door	ADP	_	_	3	case	_	_
+2	dy	die	DET	_	_	3	det	_	_
+3	baktearje	bacterie	NOUN	_	Gender=Com|Number=Sing	0	root	_	_
+4	kin	kan	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+5	minsken	mensen	NOUN	_	Number=Plur	3	parataxis	_	_
+6	de	de	DET	_	Definite=Def	7	det	_	_
+7	feteranesykte	veteranenziekte	NOUN	_	Gender=Com|Number=Sing	8	obj	_	_
+8	krije	krijgen	VERB	_	VerbForm=Inf	3	parataxis	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 105
+# text = It sikehûs wurdt oansletten op in meldkeamer dêr't 24 oeren deis mei sensoaren sjoen wurdt oft de baktearje yn de liedingen sit .
+1	It	Het	DET	_	Definite=Def	2	det	_	_
+2	sikehûs	ziekenhuis	NOUN	_	Gender=Neut|Number=Sing	4	nsubj_pass	_	_
+3	wurdt	wordt	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	aux_pass	_	_
+4	oansletten	aangesloten	VERB	_	VerbForm=Part	0	root	_	_
+5	op	op	ADP	_	_	7	case	_	_
+6	in	een	DET	_	Definite=Ind	7	det	_	_
+7	meldkeamer	meldkamer	NOUN	_	Gender=Com|Number=Sing	4	obl	_	_
+8	dêr't	waar	ADV	_	_	14	advmod	_	_
+9	24	24	NUM	_	_	10	nummod	_	_
+10	oeren	uur	NOUN	_	Gender=Neut|Number=Sing	14	obl	_	_
+11	deis	dag	NOUN	_	Gender=Com|Number=Sing	10	nmod	_	_
+12	mei	met	ADP	_	_	13	case	_	_
+13	sensoaren	sensoren	NOUN	_	Number=Plur	11	nmod	_	_
+14	sjoen	bekeken	VERB	_	VerbForm=Part	7	acl_relcl	_	_
+15	wurdt	wordt	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	14	aux_pass	_	_
+16	oft	of	SCONJ	_	_	22	mark	_	_
+17	de	de	DET	_	Definite=Def	18	det	_	_
+18	baktearje	bacterie	NOUN	_	Gender=Com|Number=Sing	22	nsubj	_	_
+19	yn	in	ADP	_	_	21	case	_	_
+20	de	de	DET	_	Definite=Def	21	det	_	_
+21	liedingen	leidingen	NOUN	_	Number=Plur	22	obl	_	_
+22	sit	zit	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
+23	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 106
+# text = De provinsje jout in subsydzje fan 180. 000 euro om sensoaren yn de liedingen te bouwen .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	provinsje	provincie	NOUN	_	Gender=Com|Number=Sing	3	nsubj	_	_
+3	jout	geeft	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	in	een	DET	_	Definite=Ind	5	det	_	_
+5	subsydzje	subsidie	NOUN	_	Gender=Com|Number=Sing	3	obj	_	_
+6	fan	van	ADP	_	_	9	case	_	_
+7	180.	180.	NUM	_	_	9	det	_	_
+8	000	000	NUM	_	_	7	fixed	_	_
+9	euro	euro	NOUN	_	Gender=Com|Number=Sing	5	nmod	_	_
+10	om	om	ADP	_	_	16	mark	_	_
+11	sensoaren	sensoren	NOUN	_	Number=Plur	16	obj	_	_
+12	yn	in	ADP	_	_	14	case	_	_
+13	de	de	DET	_	Definite=Def	14	det	_	_
+14	liedingen	leidingen	NOUN	_	Number=Plur	16	obl	_	_
+15	te	te	ADP	_	_	16	mark	_	_
+16	bouwen	bouwen	VERB	_	VerbForm=Inf	3	advcl	_	_
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 107
+# text = De technyk is ûntwikkele troch Holland Watertechnology .
+1	De	De	DET	_	Definite=Def	2	det	_	_
+2	technyk	techniek	NOUN	_	Gender=Com|Number=Sing	4	nsubj_pass	_	_
+3	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	aux_pass	_	_
+4	ûntwikkele	ontwikkeld	VERB	_	VerbForm=Part	0	root	_	_
+5	troch	door	ADP	_	_	6	case	_	_
+6	Holland	Holland	PROPN	_	_	4	obl_agent	_	_
+7	Watertechnology	Watertechnology	PROPN	_	_	6	flat	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 108
+# text = Dat bedriuw hat in festiging yn Drachten en hopet troch de nije technyk flink te groeien .
+1	Dat	Dat	DET	_	_	2	det	_	_
+2	bedriuw	bedrijf	NOUN	_	Gender=Neut|Number=Sing	3	nsubj	_	_
+3	hat	heeft	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	in	een	DET	_	Definite=Ind	5	det	_	_
+5	festiging	vestiging	NOUN	_	Gender=Com|Number=Sing	3	obj	_	_
+6	yn	in	ADP	_	_	7	case	_	_
+7	Drachten	Drachten	PROPN	_	Gender=Neut|Number=Sing	5	nmod	_	_
+8	en	en	CCONJ	_	_	9	cc	_	_
+9	hopet	hoopt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	troch	door	ADP	_	_	13	case	_	_
+11	de	de	DET	_	Definite=Def	13	det	_	_
+12	nije	nieuwe	ADJ	_	Degree=Pos	13	amod	_	_
+13	technyk	techniek	NOUN	_	Gender=Com|Number=Sing	16	obl	_	_
+14	flink	flink	ADJ	_	Degree=Pos	16	advmod	_	_
+15	te	te	ADP	_	_	16	mark	_	_
+16	groeien	groeien	VERB	_	VerbForm=Inf	9	xcomp	_	_
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 109
+# text = Dat kostet in soad enerzjy en wetter en dus jild .
+1	Dat	Dat	PRON	_	Person=3|PronType=Dem	2	nsubj	_	_
+2	kostet	kost	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	in	veel	DET	_	_	5	det	_	_
+4	soad	veel	DET	_	_	5	det	_	_
+5	enerzjy	energie	NOUN	_	Gender=Com|Number=Sing	2	obl	_	_
+6	en	en	CCONJ	_	_	7	cc	_	_
+7	wetter	water	NOUN	_	Gender=Neut|Number=Sing	5	conj	_	_
+8	en	en	CCONJ	_	_	10	cc	_	_
+9	dus	dus	ADV	_	_	10	amod	_	_
+10	jild	geld	NOUN	_	Gender=Neut|Number=Sing	5	conj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 110
+# text = Holland Watertechnology hat al in systeem om mei koper en sulver de baktearje te bestriden .
+1	Holland	Holland	PROPN	_	_	3	nsubj	_	_
+2	Watertechnology	Watertechnologie	PROPN	_	_	1	flat	_	_
+3	hat	heeft	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	al	al	ADV	_	_	3	advmod	_	_
+5	in	een	DET	_	Definite=Ind	6	det	_	_
+6	systeem	systeem	NOUN	_	Gender=Neut|Number=Sing	3	obj	_	_
+7	om	om	ADP	_	_	15	mark	_	_
+8	mei	met	ADP	_	_	9	case	_	_
+9	koper	koper	NOUN	_	Gender=Com|Number=Sing	15	obl	_	_
+10	en	en	CCONJ	_	_	11	cc	_	_
+11	sulver	zilver	NOUN	_	Gender=Neut|Number=Sing	9	conj	_	_
+12	de	de	DET	_	Definite=Def	13	det	_	_
+13	baktearje	bacterie	NOUN	_	Gender=Com|Number=Sing	15	obj	_	_
+14	te	te	ADP	_	_	15	mark	_	_
+15	bestriden	bestrijden	VERB	_	VerbForm=Inf	6	acl	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 111
+# text = In mearderheid fan de Twadde Keamer wol út de ûntwikkelingsfaze fan de JSF stappe .
+1	In	Een	DET	_	Definite=Ind	2	det	_	_
+2	mearderheid	meerderheid	NOUN	_	Gender=Com|Number=Sing	7	nsubj	_	_
+3	fan	van	ADP	_	_	5	case	_	_
+4	de	de	DET	_	Definite=Def	5	det	_	_
+5	Twadde	Tweede	PROPN	_	_	2	nmod	_	_
+6	Keamer	Kamer	PROPN	_	_	5	flat	_	_
+7	wol	wil	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	út	uit	ADP	_	_	10	case	_	_
+9	de	de	DET	_	Definite=Def	10	det	_	_
+10	ûntwikkelingsfaze	ontwikkelingsfase	NOUN	_	Gender=Com|Number=Sing	14	obl	_	_
+11	fan	van	ADP	_	_	13	case	_	_
+12	de	de	DET	_	Definite=Def	13	det	_	_
+13	JSF	JSF	PROPN	_	Gender=Com|Number=Sing	10	nmod	_	_
+14	stappe	stappen	VERB	_	VerbForm=Inf	7	xcomp	_	_
+15	.	.	PUNCT	_	_	7	punct	_	_
+
