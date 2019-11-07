@@ -41,7 +41,7 @@
 13	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 3
-# text = Om de diskusje op gong te helpen frege er bydragen fan âld- steatelid foar Grien Links en Frysk skriuwer Willem Verf , en fan Teake Oppewal , meiwurker fan Tresoar .
+# text = Om de diskusje op gong te helpen frege er bydragen fan âld-steatelid foar Grien Links en Frysk skriuwer Willem Verf , en fan Teake Oppewal , meiwurker fan Tresoar .
 1	Om	Om	ADP	_	_	7	mark	_	_
 2	de	de	DET	_	Definite=Def	3	det	_	_
 3	diskusje	discussie	NOUN	_	Gender=Com|Number=Sing	7	obj	_	_
