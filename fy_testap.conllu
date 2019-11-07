@@ -67,7 +67,7 @@
 23	fan	van	ADP	_	_	24	case	_	_
 24	Teake	Teake	PROPN	_	_	12	conj	_	_
 25	Oppewal	Oppewal	PROPN	_	_	24	flat	_	_
-26	,	,	PUNCT	_	_	25	punct	_	_
+26	,	,	PUNCT	_	_	24	punct	_	_
 27	meiwurker	medewerker	NOUN	_	Gender=Com|Number=Sing	24	appos	_	_
 28	fan	van	ADP	_	_	29	case	_	_
 29	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	27	nmod	_	_
