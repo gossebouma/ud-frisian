@@ -62,7 +62,7 @@
 18	skriuwer	schrijver	NOUN	_	Gender=Com|Number=Sing	14	appos	_	_
 19	Willem	Willem	PROPN	_	_	18	appos	_	_
 20	Verf	Verf	PROPN	_	_	19	flat	_	_
-21	,	,	PUNCT	_	_	7	punct	_	_
+21	,	,	PUNCT	_	_	8	punct	_	_
 22	en	en	CCONJ	_	_	24	cc	_	_
 23	fan	van	ADP	_	_	24	case	_	_
 24	Teake	Teake	PROPN	_	_	14	conj	_	_
