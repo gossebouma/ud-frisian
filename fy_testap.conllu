@@ -53,7 +53,7 @@
 9	er	hij	PRON	_	Case=Nom|Person=3|PronType=Prs	8	nsubj	_	_
 10	bydragen	bijdragen	NOUN	_	Number=Plur	8	obj	_	_
 11	fan	van	ADP	_	_	12	case	_	_
-12	âld-steatelid	oud-statenlid	ADJ	_	_	10	appos	_	_
+12	âld-steatelid	oud-statenlid	ADJ	_	_	10	nmod	_	_
 13	foar	voor	ADP	_	_	14	case	_	_
 14	Grien	Groen	PROPN	_	_	12	nmod	_	_
 15	Links	Links	PROPN	_	_	14	flat	_	_
