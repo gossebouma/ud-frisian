@@ -71,7 +71,7 @@
 27	meiwurker	medewerker	NOUN	_	Gender=Com|Number=Sing	24	appos	_	_
 28	fan	van	ADP	_	_	29	case	_	_
 29	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	27	nmod	_	_
-30	.	.	PUNCT	_	_	7	punct	_	_
+30	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 4
 # text = It ûnderwerp libbet wol , der komme sawol positive as negative reaksjes op .
