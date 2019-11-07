@@ -48,7 +48,7 @@
 4	op	op	ADP	_	_	5	case	_	_
 5	gong	gang	NOUN	_	Gender=Com|Number=Sing	7	obl	_	_
 6	te	te	ADP	_	_	7	mark	_	_
-7	helpen	helpen	VERB	_	VerbForm=Inf	0	root	_	_
+7	helpen	helpen	VERB	_	VerbForm=Inf	8	root	_	_
 8	frege	vroeg	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
 9	er	hij	PRON	_	Case=Nom|Person=3|PronType=Prs	8	nsubj	_	_
 10	bydragen	bijdragen	NOUN	_	Number=Plur	8	obj	_	_
