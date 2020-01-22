@@ -78,7 +78,7 @@
 1	It	Het	DET	_	Definite=Def	2	det	_	_
 2	ûnderwerp	onderwerp	NOUN	_	Gender=Neut|Number=Sing	4	nsubj	_	_
 3	libbet	gemoederen	VERB	_	Number=Plur	0	root	_	_
-4	wol	houdt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	wol	houdt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	3	advmod	_	_
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	der	er	ADV	_	_	7	advmod	_	_
 7	komme	komen	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
