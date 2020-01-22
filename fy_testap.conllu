@@ -96,7 +96,7 @@
 2	wa	wie	PRON	_	Person=3|PronType=Int	6	nsubj	_	_
 3	’t	wiewie	PRON	_	Person=3|PronType=Int	6	obj	_	_
 4	mear	meer	PRON	_	PronType=Ind	5	advmod	_	_
-5	witte	weten	VERB	_	VerbForm=Inf	6	xcomp	_	_
+5	witte	weten	VERB	_	VerbForm=Inf	0	root	_	_
 6	wol	wil	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	20	parataxis	_	_
 7	,	,	PUNCT	_	_	20	punct	_	_
 8	de	de	DET	_	Definite=Def	9	det	_	_
