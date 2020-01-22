@@ -111,7 +111,7 @@
 17	binne	zijn	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	20	aux	_	_
 18	hjir	hier	ADV	_	_	20	advmod	_	_
 19	te	te	ADP	_	_	20	mark	_	_
-20	finen	vinden	VERB	_	VerbForm=Inf	0	root	_	_
+20	finen	vinden	VERB	_	VerbForm=Inf	5	parataxis	_	_
 21	.	.	PUNCT	_	_	20	punct	_	_
 
 # sent_id = 6
