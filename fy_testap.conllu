@@ -94,7 +94,7 @@
 # text = Foar wa ’ t mear witte wol , de taspraken fan Teake Oppewal en fan Willem Verf binne hjir te finen .
 1	Foar	Voor	ADP	_	_	5	case	_	_
 2	wa	wie	PRON	_	Person=3|PronType=Int	5	nsubj	_	_
-3	’t	wiewie	PRON	_	Person=3|PronType=Int	6	obj	_	_
+3	’t	wiewie	PRON	_	Person=3|PronType=Int	5	obj	_	_
 4	mear	meer	PRON	_	PronType=Ind	5	advmod	_	_
 5	witte	weten	VERB	_	VerbForm=Inf	0	root	_	_
 6	wol	wil	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	20	parataxis	_	_
