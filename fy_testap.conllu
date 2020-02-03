@@ -733,7 +733,7 @@
 2	stiet	staat	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	de	de	DET	_	Definite=Def	4	det	_	_
 4	gemeente	gemeente	NOUN	_	Gender=Com|Number=Sing	2	nsubj	_	_
-5	op	op	ADP	_	_	6	case	_	_
+5	op	op	ADP	_	_	8	case	_	_
 6	it	plaats	DET	_	Gender=Com|Number=Sing	8	det	_	_
 7	achtste	achtste	ADJ	_	_	8	amod	_	_
 8	plak	plaats	NOUN	_	Gender=Com|Number=Sing	2	obl	_	_
