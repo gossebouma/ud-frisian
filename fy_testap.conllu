@@ -139,17 +139,16 @@
 7	de	de	DET	_	Definite=Def	8	det	_	_
 8	Keninginne	Koningin	PROPN	_	_	5	nmod	_	_
 9	J.	J.	PROPN	_	_	8	flat	_	_
-10	A	A	PROPN	_	_	8	flat	_	_
-11	.	.	PUNCT	_	_	0	root	_	_
-12	Jorritsma	Jorritsma	PROPN	_	Gender=Com|Number=Sing	19	iobj	_	_
-13	symboalysk	symbolisch	ADJ	_	Degree=Pos	19	advmod	_	_
-14	290	290	NUM	_	_	15	nummod	_	_
-15	meter	meter	NOUN	_	Gender=Com|Number=Sing	19	obj	_	_
-16	argiven	archieven	NOUN	_	Number=Plur	15	nmod	_	_
-17	oan	aan	ADP	_	_	18	case	_	_
-18	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	19	obl	_	_
-19	oerhandige	overhandigd	VERB	_	VerbForm=Part	0	root	_	_
-20	.	.	PUNCT	_	_	19	punct	_	_
+10	A.	A.	PUNCT	_	_	0	root	_	_
+11	Jorritsma	Jorritsma	PROPN	_	Gender=Com|Number=Sing	18	iobj	_	_
+12	symboalysk	symbolisch	ADJ	_	Degree=Pos	18	advmod	_	_
+13	290	290	NUM	_	_	14	nummod	_	_
+14	meter	meter	NOUN	_	Gender=Com|Number=Sing	18	obj	_	_
+15	argiven	archieven	NOUN	_	Number=Plur	14	nmod	_	_
+16	oan	aan	ADP	_	_	17	case	_	_
+17	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	18	obl	_	_
+18	oerhandige	overhandigd	VERB	_	VerbForm=Part	0	root	_	_
+19	.	.	PUNCT	_	_	18	punct	_	_
 
 # sent_id = 8
 # text = De argiven foarmje de skriftlike delslach fan de bemuoienis fan it provinsjaal bestjoer ( Provinsjale Steaten , Deputearre Steaten en Kommissaris fan de Keninginne ) mei it maatskiplik libben yn al har fasetten .
