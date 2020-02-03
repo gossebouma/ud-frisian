@@ -317,7 +317,7 @@
 10	it	it	DET	_	_	11	det	_	_
 11	Heitelân	Heitelân	PROPN	_	_	13	obj	_	_
 12	’	’	PUNCT	_	_	11	punct	_	_
-13	ferlieten	verlieten	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+13	ferlieten	verlieten	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	7	root	_	_
 14	op	op	ADP	_	_	0	root	_	_
 15	sykje	zoek	NOUN	_	Gender=Neut|Number=Sing	14	fixed	_	_
 16	nei	naar	ADP	_	_	17	case	_	_
