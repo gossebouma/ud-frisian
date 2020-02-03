@@ -330,7 +330,7 @@
 23	yn	in	ADP	_	_	25	case	_	_
 24	de	de	DET	_	Definite=Def	25	det	_	_
 25	Rânestêd	Randstad	PROPN	_	Gender=Com|Number=Sing	17	nmod	_	_
-26	,	,	PUNCT	_	_	0	root	_	_
+26	,	,	PUNCT	_	_	25	root	_	_
 27	Súd-	Zuid-	PROPN	_	_	25	conj	_	_
 28	Limburch	Limburg	PROPN	_	_	27	flat	_	_
 29	of	of	CCONJ	_	_	31	cc	_	_
