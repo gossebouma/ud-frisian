@@ -189,7 +189,7 @@
 34	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 9
-# text = Jorritsma sei oer de argiven : , , De argiven litte sjen dat de provinsje altyd yn beweging is .
+# text = Jorritsma sei oer de argiven : ,, De argiven litte sjen dat de provinsje altyd yn beweging is .
 1	Jorritsma	Jorritsma	PROPN	_	Gender=Com|Number=Sing	2	nsubj	_	_
 2	sei	zei	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
 3	oer	over	ADP	_	_	5	case	_	_
