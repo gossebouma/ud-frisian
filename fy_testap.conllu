@@ -516,7 +516,7 @@
 5	soargje	zorgen	VERB	_	VerbForm=Inf	0	root	_	_
 6	dat	dat	SCONJ	_	Gender=Com|Number=Sing	18	mark	_	_
 7	in	een	DET	_	Definite=Ind	8	det	_	_
-8	bedriuw	bedrijf	NOUN	_	Gender=Neut|Number=Sing	16	parataxis	_	_
+8	bedriuw	bedrijf	NOUN	_	Gender=Neut|Number=Sing	16	nsubj	_	_
 9	yn	in	ADP	_	_	11	case	_	_
 10	'e	de	DET	_	Definite=Def	11	det	_	_
 11	takomst	toekomst	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	_
