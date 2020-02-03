@@ -524,7 +524,7 @@
 13	smoarch	vuil	ADJ	_	Degree=Pos	14	amod	_	_
 14	wetter	water	NOUN	_	Gender=Neut|Number=Sing	15	nmod	_	_
 15	mear	meer	PRON	_	PronType=Ind	16	det	_	_
-16	hoecht	hoegt	AUX	_	Gender=Com|Number=Sing	5	obj	_	_
+16	hoecht	hoegt	AUX	_	Gender=Com|Number=Sing	5	ccomp	_	_
 17	te	te	ADP	_	_	18	mark	_	_
 18	loazen	lozen	VERB	_	VerbForm=Inf	5	ccomp	_	_
 19	op	op	ADP	_	_	21	case	_	_
