@@ -544,7 +544,7 @@
 8	mei	met	ADP	_	_	11	case	_	_
 9	it	dit	DET	_	_	11	det	_	_
 10	systeem	systeem	NOUN	_	Gender=Neut|Number=Sing	2	obl	_	_
-11	útein	systeem	NOUN	_	Gender=Neut|Number=Sing	2	obl	_	_
+11	útein	systeem	NOUN	_	Gender=Neut|Number=Sing	2	compound:prt	_	_
 12	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 30
