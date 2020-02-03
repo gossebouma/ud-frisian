@@ -346,7 +346,6 @@
 39	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 18-bis
-# text = Der binne boekeplanken fol skreaun oer Friezen dy't ‘ it Heitelân ’ ferlieten op sykje nei wurk , lok of wat oars yn de Rânestêd , Súd- Limburch of fierder fuort yn Kanada , Amearika , Súd- Afrika of Australië .
 # text = As dy net gau komt , wurde de aksjes útwreide .
 1	As	Als	SCONJ	_	_	5	mark	_	_
 2	dy	die	PRON	_	Person=3|PronType=Dem	5	nsubj	_	_
