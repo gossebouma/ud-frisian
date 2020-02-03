@@ -631,7 +631,7 @@
 10	mooglik	treinverkeer	ADJ	_	Gender=Neut|Number=Sing	9	advmod	_	_
 11	tusken	tussen	ADP	_	_	12	case	_	_
 12	Ljouwert	Leeuwarden	PROPN	_	Gender=Neut|Number=Sing	9	nmod	_	_
-13	,	,	PUNCT	_	_	9	punct	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_
 14	Snits	Sneek	PROPN	_	Gender=Neut|Number=Sing	12	conj	_	_
 15	en	en	CCONJ	_	_	16	cc	_	_
 16	Harns	Harlingen	PROPN	_	Gender=Neut|Number=Sing	12	conj	_	_
