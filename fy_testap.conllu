@@ -370,7 +370,7 @@
 7	fan	uit	ADP	_	_	9	case	_	_
 8	'e	uit	DET	_	_	9	case	_	_
 9	Tynje	Tijnje	PROPN	_	Gender=Neut|Number=Sing	1	nmod	_	_
-10	liket	lijkt	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	liket	lijkt	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	op	op	ADP	_	_	0	root	_	_
 12	wei	weg	NOUN	_	Gender=Com|Number=Sing	11	fixed	_	_
 13	nei	naar	ADP	_	_	15	case	_	_
