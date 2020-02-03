@@ -489,7 +489,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 27
-# text = Wettertechnologysk ynstitút Wetsus yn Ljouwert hat in systeem ûntwikkele wêrby 't enerzjy wûn wurdt út urine .
+# text = Wettertechnologysk ynstitút Wetsus yn Ljouwert hat in systeem ûntwikkele wêrby't enerzjy wûn wurdt út urine .
 1	Wettertechnologysk	Watertechnologisch	PROPN	_	Number=Sing	2	amod	_	_
 2	ynstitút	instituut	NOUN	_	Gender=Neut|Number=Sing	9	nsubj	_	_
 3	Wetsus	Wetsus	PROPN	_	Gender=Com|Number=Sing	2	appos	_	_
