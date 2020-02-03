@@ -273,7 +273,7 @@
 6	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	‘	‘	PUNCT	_	_	6	punct	_	_
 8	Fryske	Friese	ADJ	_	Degree=Pos	9	amod	_	_
-9	famylje	familie	NOUN	_	Gender=Com|Number=Sing	6	parataxis	_	_
+9	famylje	familie	NOUN	_	Gender=Com|Number=Sing	0	root	_	_
 10	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 15
