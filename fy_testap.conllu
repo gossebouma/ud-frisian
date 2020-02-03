@@ -309,7 +309,7 @@
 1	Der	Er	ADV	_	_	0	root	_	_
 2	binne	zijn	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	boekeplanken	boekenplanken	NOUN	_	Number=Plur	5	nsubj	_	_
-4	fol	vol	ADJ	_	Degree=Pos	5	root	_	_
+4	fol	vol	ADJ	_	Degree=Pos	5	advmod	_	_
 5	skreaun	geschreven	VERB	_	VerbForm=Part	0	root	_	_
 6	oer	over	ADP	_	_	0	root	_	_
 7	Friezen	Friezen	PROPN	_	Number=Plur	0	root	_	_
