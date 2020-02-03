@@ -59,7 +59,7 @@
 15	Links	Links	PROPN	_	_	14	flat	_	_
 16	en	en	CCONJ	_	_	18	cc	_	_
 17	Frysk	Fries	ADJ	_	Degree=Pos	18	amod	_	_
-18	skriuwer	schrijver	NOUN	_	Gender=Com|Number=Sing	12	appos	_	_
+18	skriuwer	schrijver	NOUN	_	Gender=Com|Number=Sing	12	conj	_	_
 19	Willem	Willem	PROPN	_	_	18	appos	_	_
 20	Verf	Verf	PROPN	_	_	19	flat	_	_
 21	,	,	PUNCT	_	_	12	punct	_	_
