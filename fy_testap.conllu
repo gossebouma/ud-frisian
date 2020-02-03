@@ -818,7 +818,7 @@
 7	de	de	DET	_	Definite=Def	11	det	_	_
 8	1	1-	NUM	_	_	11	nummod	_	_
 9	-	1-	NUM	_	_	8	fixed	_	_
-10	0	0	NUM	_	Gender=Com|Number=Sing	8	fixed	_	_
+10	0	0	NUM	_	Gender=Com|Number=Sing	22	fixed	_	_
 11	foarsprong	voorsprong	NOUN	_	Gender=Com|Number=Sing	15	nsubj	_	_
 12	wie	was	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	15	cop	_	_
 13	in	een	DET	_	Definite=Ind	15	det	_	_
