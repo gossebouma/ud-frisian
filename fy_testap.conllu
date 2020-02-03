@@ -139,7 +139,7 @@
 7	de	de	DET	_	Definite=Def	8	det	_	_
 8	Keninginne	Koningin	PROPN	_	_	5	nmod	_	_
 9	J.	J.	PROPN	_	_	8	flat	_	_
-10	A.	A.	PUNCT	_	_	9	root	_	_
+10	A.	A.	PUNCT	_	_	9	flat	_	_
 11	Jorritsma	Jorritsma	PROPN	_	Gender=Com|Number=Sing	9	iobj	_	_
 12	symboalysk	symbolisch	ADJ	_	Degree=Pos	18	advmod	_	_
 13	290	290	NUM	_	_	14	nummod	_	_
