@@ -181,7 +181,7 @@
 26	mei	met	ADP	_	_	29	case	_	_
 27	it	het	DET	_	Definite=Def	29	det	_	_
 28	maatskiplik	maatschappelijke	ADJ	_	Degree=Pos	29	amod	_	_
-29	libben	leven	NOUN	_	Gender=Neut|Number=Sing	3	obl	_	_
+29	libben	leven	NOUN	_	Gender=Neut|Number=Sing	9	obl	_	_
 30	yn	in	ADP	_	_	33	case	_	_
 31	al	al	PRON	_	PronType=Ind	32	amod	_	_
 32	har	haar	PRON	_	Person=3|PronType=Prs	33	det	_	_
