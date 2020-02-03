@@ -760,7 +760,7 @@
 1	Dêr	Daar	ADV	_	_	2	advmod	_	_
 2	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	cop	_	_
 3	it	het	DET	_	Definite=Def	4	det	_	_
-4	taryf	tarief	NOUN	_	Gender=Neut|Number=Sing	2	nsubj	_	_
+4	taryf	tarief	NOUN	_	Gender=Neut|Number=Sing	6	nsubj	_	_
 5	567	567	NUM	_	_	6	nummod	_	_
 6	euro	euro	NOUN	_	Gender=Com|Number=Sing	0	root	_	_
 7	foar	voor	ADP	_	_	9	case	_	_
