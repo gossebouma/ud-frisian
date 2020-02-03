@@ -541,7 +541,7 @@
 5	Fryslân	Fryslân	PROPN	_	_	4	flat	_	_
 6	in	een	DET	_	Definite=Ind	7	det	_	_
 7	proef	proef	NOUN	_	Gender=Com|Number=Sing	2	nsubj	_	_
-8	mei	met	ADP	_	_	11	case	_	_
+8	mei	met	ADP	_	_	10	case	_	_
 9	it	dit	DET	_	_	10	det	_	_
 10	systeem	systeem	NOUN	_	Gender=Neut|Number=Sing	2	obl	_	_
 11	útein	systeem	NOUN	_	Gender=Neut|Number=Sing	2	compound:prt	_	_
