@@ -331,21 +331,20 @@
 24	de	de	DET	_	Definite=Def	25	det	_	_
 25	Rânestêd	Randstad	PROPN	_	Gender=Com|Number=Sing	17	nmod	_	_
 26	,	,	PUNCT	_	_	25	punct	_	_
-27	Súd-	Zuid-	PROPN	_	_	25	conj	_	_
-28	Limburch	Limburg	PROPN	_	_	27	flat	_	_
-29	of	of	CCONJ	_	_	31	cc	_	_
-30	fierder	verder	ADJ	_	Degree=Cmp	31	amod	_	_
-31	fuort	weg	NOUN	_	Gender=Com|Number=Sing	25	conj	_	_
-32	yn	in	ADP	_	_	33	case	_	_
-33	Kanada	Canada	PROPN	_	Gender=Neut|Number=Sing	19	nmod	_	_
-34	,	,	PUNCT	_	_	0	root	_	_
-35	Amearika	Amerika	PROPN	_	Gender=Neut|Number=Sing	33	conj	_	_
-36	,	,	PUNCT	_	_	0	root	_	_
-37	Súd-	Zuid-	PROPN	_	_	33	conj	_	_
-38	Afrika	Afrika	PROPN	_	_	37	flat	_	_
-39	of	of	CCONJ	_	_	40	cc	_	_
-40	Australië	Australië	PROPN	_	Gender=Neut|Number=Sing	33	conj	_	_
-41	.	.	PUNCT	_	_	0	root	_	_
+27	Súd-Limburch	Zuid-Limburg	PROPN	_	_	25	conj	_	_
+28	of	of	CCONJ	_	_	30	cc	_	_
+29	fierder	verder	ADJ	_	Degree=Cmp	30	amod	_	_
+30	fuort	weg	NOUN	_	Gender=Com|Number=Sing	25	conj	_	_
+31	yn	in	ADP	_	_	32	case	_	_
+32	Kanada	Canada	PROPN	_	Gender=Neut|Number=Sing	19	nmod	_	_
+33	,	,	PUNCT	_	_	0	root	_	_
+34	Amearika	Amerika	PROPN	_	Gender=Neut|Number=Sing	32	conj	_	_
+35	,	,	PUNCT	_	_	0	root	_	_
+36	Súd-	Zuid-	PROPN	_	_	32	conj	_	_
+37	Afrika	Afrika	PROPN	_	_	36	flat	_	_
+38	of	of	CCONJ	_	_	39	cc	_	_
+39	Australië	Australië	PROPN	_	Gender=Neut|Number=Sing	32	conj	_	_
+40	.	.	PUNCT	_	_	0	root	_	_
 
 # sent_id = 18-bis
 # text = Der binne boekeplanken fol skreaun oer Friezen dy't ‘ it Heitelân ’ ferlieten op sykje nei wurk , lok of wat oars yn de Rânestêd , Súd- Limburch of fierder fuort yn Kanada , Amearika , Súd- Afrika of Australië .
