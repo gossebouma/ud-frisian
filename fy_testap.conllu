@@ -522,7 +522,7 @@
 11	takomst	toekomst	NOUN	_	Gender=Com|Number=Sing	16	obl	_	_
 12	gjin	geen	DET	_	_	14	det	_	_
 13	smoarch	vuil	ADJ	_	Degree=Pos	14	amod	_	_
-14	wetter	water	NOUN	_	Gender=Neut|Number=Sing	18	nmod	_	_
+14	wetter	water	NOUN	_	Gender=Neut|Number=Sing	18	obj	_	_
 15	mear	meer	PRON	_	PronType=Ind	16	advmod	_	_
 16	hoecht	hoegt	AUX	_	Gender=Com|Number=Sing	5	ccomp	_	_
 17	te	te	ADP	_	_	18	mark	_	_
