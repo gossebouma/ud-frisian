@@ -765,7 +765,7 @@
 6	euro	euro	NOUN	_	Gender=Com|Number=Sing	4	obl	_	_
 7	foar	voor	ADP	_	_	9	case	_	_
 8	in	een	DET	_	Definite=Ind	9	det	_	_
-9	grêf	graf	NOUN	_	Gender=Neut|Number=Sing	4	nmod	_	_
+9	grêf	graf	NOUN	_	Gender=Neut|Number=Sing	4	obl	_	_
 10	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 45
