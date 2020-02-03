@@ -124,7 +124,7 @@
 6	argyf	archief	NOUN	_	Gender=Neut|Number=Sing	4	nmod	_	_
 7	(	(	PUNCT	_	_	2	punct	_	_
 8	1962	1962-	NUM	_	_	10	nummod	_	_
-9	-	(	PUNCT	_	_	2	punct	_	_
+9	-	(	PUNCT	_	_	10	punct	_	_
 10	1986	1986	NUM	_	_	4	nmod	_	_
 11	)	)	PUNCT	_	_	2	punct	_	_
 
