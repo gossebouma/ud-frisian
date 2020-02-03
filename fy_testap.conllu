@@ -60,7 +60,7 @@
 16	en	en	CCONJ	_	_	18	cc	_	_
 17	Frysk	Fries	ADJ	_	Degree=Pos	18	amod	_	_
 18	skriuwer	schrijver	NOUN	_	Gender=Com|Number=Sing	12	conj	_	_
-19	Willem	Willem	PROPN	_	_	18	appos	_	_
+19	Willem	Willem	PROPN	_	_	12	appos	_	_
 20	Verf	Verf	PROPN	_	_	19	flat	_	_
 21	,	,	PUNCT	_	_	12	punct	_	_
 22	en	en	CCONJ	_	_	24	cc	_	_
