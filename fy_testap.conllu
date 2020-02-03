@@ -368,7 +368,7 @@
 5	29	29	NUM	_	_	1	nummod	_	_
 6	)	)	PUNCT	_	_	5	punct	_	_
 7	fan	uit	ADP	_	_	9	case	_	_
-8	'e	uit	DET	_	_	9	case	_	_
+8	'e	uit	DET	_	_	9	det	_	_
 9	Tynje	Tijnje	PROPN	_	Gender=Neut|Number=Sing	1	nmod	_	_
 10	liket	lijkt	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	op	op	ADP	_	_	0	root	_	_
