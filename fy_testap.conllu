@@ -376,7 +376,7 @@
 13	nei	naar	ADP	_	_	15	case	_	_
 14	in	een	DET	_	Definite=Ind	15	det	_	_
 15	sensaasje	sensatie	NOUN	_	Gender=Com|Number=Sing	11	obl	_	_
-16	.	.	PUNCT	_	_	11	punct	_	_
+16	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 20
 # text = Tongersdei pakte hy op fantastyske wize de oerwinning yn 'e swierste berchetappe fan Parys- Nice .
