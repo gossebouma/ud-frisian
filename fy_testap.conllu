@@ -339,7 +339,7 @@
 32	Kanada	Canada	PROPN	_	Gender=Neut|Number=Sing	30	nmod	_	_
 33	,	,	PUNCT	_	_	32	punct	_	_
 34	Amearika	Amerika	PROPN	_	Gender=Neut|Number=Sing	32	conj	_	_
-35	,	,	PUNCT	_	_	32	root	_	_
+35	,	,	PUNCT	_	_	32	punct	_	_
 36	Súd-Afrika	Zuid-Afrika	PROPN	_	_	32	conj	_	_
 37	of	of	CCONJ	_	_	38	cc	_	_
 38	Australië	Australië	PROPN	_	Gender=Neut|Number=Sing	32	conj	_	_
