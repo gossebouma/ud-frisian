@@ -340,11 +340,10 @@
 33	,	,	PUNCT	_	_	0	root	_	_
 34	Amearika	Amerika	PROPN	_	Gender=Neut|Number=Sing	32	conj	_	_
 35	,	,	PUNCT	_	_	0	root	_	_
-36	Súd-	Zuid-	PROPN	_	_	32	conj	_	_
-37	Afrika	Afrika	PROPN	_	_	36	flat	_	_
-38	of	of	CCONJ	_	_	39	cc	_	_
-39	Australië	Australië	PROPN	_	Gender=Neut|Number=Sing	32	conj	_	_
-40	.	.	PUNCT	_	_	0	root	_	_
+36	Súd-Afrika	Zuid-Afrika	PROPN	_	_	32	conj	_	_
+37	of	of	CCONJ	_	_	38	cc	_	_
+38	Australië	Australië	PROPN	_	Gender=Neut|Number=Sing	32	conj	_	_
+39	.	.	PUNCT	_	_	0	root	_	_
 
 # sent_id = 18-bis
 # text = Der binne boekeplanken fol skreaun oer Friezen dy't ‘ it Heitelân ’ ferlieten op sykje nei wurk , lok of wat oars yn de Rânestêd , Súd- Limburch of fierder fuort yn Kanada , Amearika , Súd- Afrika of Australië .
