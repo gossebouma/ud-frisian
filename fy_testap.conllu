@@ -766,7 +766,7 @@
 7	foar	voor	ADP	_	_	9	case	_	_
 8	in	een	DET	_	Definite=Ind	9	det	_	_
 9	grêf	graf	NOUN	_	Gender=Neut|Number=Sing	6	obl	_	_
-10	.	.	PUNCT	_	_	2	punct	_	_
+10	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 45
 # text = Lieuwe Westra is wer thús op 'e Tynje .
