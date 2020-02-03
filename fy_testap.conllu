@@ -15,7 +15,7 @@
 13	fan	van	ADP	_	_	15	case	_	_
 14	de	de	DET	_	Definite=Def	15	det	_	_
 15	dichtbondel	gedichtenbundel	NOUN	_	Gender=Com|Number=Sing	12	nmod	_	_
-16	“	"	PUNCT	_	_	7	punct	_	_
+16	“	"	PUNCT	_	_	17	punct	_	_
 17	Gjin	Geen	DET	_	PronType=Ind	15	appos	_	_
 18	grinzen	grenzen	NOUN	_	VerbForm=Inf	17	fixed	_	_
 19	,	,	PUNCT	_	_	17	fixed	_	_
