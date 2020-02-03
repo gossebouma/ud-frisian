@@ -635,7 +635,7 @@
 14	Snits	Sneek	PROPN	_	Gender=Neut|Number=Sing	12	conj	_	_
 15	en	en	CCONJ	_	_	16	cc	_	_
 16	Harns	Harlingen	PROPN	_	Gender=Neut|Number=Sing	12	conj	_	_
-17	.	.	PUNCT	_	_	9	punct	_	_
+17	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 36
 # text = De treinreizgers wurde op dy rûtes mei de bus ferfierd .
