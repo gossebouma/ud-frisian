@@ -674,7 +674,7 @@
 6	in	een	DET	_	Definite=Ind	7	det	_	_
 7	grêf	graf	NOUN	_	Gender=Neut|Number=Sing	5	nsubj	_	_
 8	it	het	DET	_	Definite=Def	9	det	_	_
-9	minste	minste	ADJ	_	Degree=Sup	5	obl	_	_
+9	minste	minste	ADJ	_	Degree=Sup	5	obj	_	_
 10	fan	van	ADP	_	_	11	case	_	_
 11	Nederlân	Nederland	PROPN	_	Gender=Neut|Number=Sing	9	nmod	_	_
 12	.	.	PUNCT	_	_	5	punct	_	_
