@@ -315,7 +315,7 @@
 8	dy't	die	PRON	_	PronType=Rel	13	nsubj	_	_
 9	‘	‘	PUNCT	_	_	0	root	_	_
 10	it	it	DET	_	_	11	det	_	_
-11	Heitelân	Heitelân	PROPN	_	_	0	root	_	_
+11	Heitelân	Heitelân	PROPN	_	_	13	root	_	_
 12	’	’	PUNCT	_	_	0	root	_	_
 13	ferlieten	verlieten	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
 14	op	op	ADP	_	_	0	root	_	_
