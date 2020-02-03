@@ -499,14 +499,13 @@
 7	in	een	DET	_	Definite=Ind	8	det	_	_
 8	systeem	systeem	NOUN	_	Gender=Neut|Number=Sing	9	obj	_	_
 9	ûntwikkele	ontwikkeld	VERB	_	VerbForm=Part	0	root	_	_
-10	wêrby	waarbij	ADV	_	_	13	advmod	_	_
-11	't	waarbij	ADV	_	_	13	advmod	_	_
-12	enerzjy	energie	NOUN	_	Gender=Com|Number=Sing	13	nsubj_pass	_	_
-13	wûn	gewonnen	VERB	_	VerbForm=Part	8	acl_relcl	_	_
-14	wurdt	wordt	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	13	aux_pass	_	_
-15	út	uit	ADP	_	_	16	case	_	_
-16	urine	urine	NOUN	_	Gender=Com|Number=Sing	13	obl	_	_
-17	.	.	PUNCT	_	_	9	punct	_	_
+10	wêrby't	waarbijwaarbij	ADV	_	_	12	advmod	_	_
+11	enerzjy	energie	NOUN	_	Gender=Com|Number=Sing	12	nsubj_pass	_	_
+12	wûn	gewonnen	VERB	_	VerbForm=Part	8	acl_relcl	_	_
+13	wurdt	wordt	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	12	aux_pass	_	_
+14	út	uit	ADP	_	_	15	case	_	_
+15	urine	urine	NOUN	_	Gender=Com|Number=Sing	12	obl	_	_
+16	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = 28
 # text = It systeem kin derfoar soargje dat in bedriuw yn 'e takomst gjin smoarch wetter mear hoecht te loazen op it rioel .
