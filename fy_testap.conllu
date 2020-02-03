@@ -776,7 +776,7 @@
 4	wer	weer	ADV	_	_	3	advmod	_	_
 5	thús	thuis	ADV	_	_	3	compound_prt	_	_
 6	op	in	ADP	_	_	8	case	_	_
-7	'e	in	DET	_	_	8	case	_	_
+7	'e	in	DET	_	_	8	det	_	_
 8	Tynje	Tijnje	PROPN	_	Gender=Neut|Number=Sing	3	obl	_	_
 9	.	.	PUNCT	_	_	3	punct	_	_
 
