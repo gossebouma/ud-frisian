@@ -133,7 +133,7 @@
 1	Op	Op	ADP	_	_	2	case	_	_
 2	21	21	NUM	_	_	0	root	_	_
 3	jannewaris	januari	PROPN	_	Gender=Com|Number=Sing	2	flat	_	_
-4	hat	heeft	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	18	root	_	_
+4	hat	heeft	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	18	aux	_	_
 5	Kommissaris	Commissaris	NOUN	_	Gender=Com|Number=Sing	4	obj	_	_
 6	fan	van	ADP	_	_	8	case	_	_
 7	de	de	DET	_	Definite=Def	8	det	_	_
