@@ -379,7 +379,7 @@
 16	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 20
-# text = Tongersdei pakte hy op fantastyske wize de oerwinning yn 'e swierste berchetappe fan Parys- Nice .
+# text = Tongersdei pakte hy op fantastyske wize de oerwinning yn 'e swierste berchetappe fan Parys-Nice .
 1	Tongersdei	Donderdag	PROPN	_	Gender=Com|Number=Sing	2	obl	_	_
 2	pakte	pakte	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
 3	hy	hij	PRON	_	Case=Nom|Person=3|PronType=Prs	2	nsubj	_	_
