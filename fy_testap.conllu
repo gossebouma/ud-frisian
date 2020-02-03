@@ -404,7 +404,7 @@
 4	pear	paar	NOUN	_	Gender=Com_Neut|Number=Sing	5	det	_	_
 5	jier	jaar	NOUN	_	Gender=Neut|Number=Sing	6	nmod	_	_
 6	lyn	geleden	ADV	_	_	8	advmod	_	_
-7	noch	nog	ADV	_	_	6	advmod	_	_
+7	noch	nog	ADV	_	_	8	advmod	_	_
 8	strjitmakker	stratenmaker	NOUN	_	Gender=Com|Number=Sing	0	root	_	_
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	mar	maar	CCONJ	_	_	11	cc	_	_
