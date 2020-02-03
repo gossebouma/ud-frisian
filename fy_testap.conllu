@@ -134,7 +134,7 @@
 2	21	21	NUM	_	_	18	obl	_	_
 3	jannewaris	januari	PROPN	_	Gender=Com|Number=Sing	2	flat	_	_
 4	hat	heeft	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	18	aux	_	_
-5	Kommissaris	Commissaris	NOUN	_	Gender=Com|Number=Sing	18	obj	_	_
+5	Kommissaris	Commissaris	NOUN	_	Gender=Com|Number=Sing	18	nsubj	_	_
 6	fan	van	ADP	_	_	8	case	_	_
 7	de	de	DET	_	Definite=Def	8	det	_	_
 8	Keninginne	Koningin	PROPN	_	_	5	nmod	_	_
