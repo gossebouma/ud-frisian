@@ -196,20 +196,19 @@
 4	de	de	DET	_	Definite=Def	5	det	_	_
 5	argiven	archieven	NOUN	_	Number=Plur	2	obl	_	_
 6	:	:	PUNCT	_	_	2	punct	_	_
-7	,	,	PUNCT	_	_	2	punct	_	_
-8	,	,	PUNCT	_	_	7	fixed	_	_
-9	De	De	DET	_	Definite=Def	10	det	_	_
-10	argiven	archieven	NOUN	_	Number=Plur	11	nsubj	_	_
-11	litte	laten	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
-12	sjen	zien	VERB	_	VerbForm=Inf	11	compound_prt	_	_
-13	dat	dat	SCONJ	_	_	18	mark	_	_
-14	de	de	DET	_	Definite=Def	15	det	_	_
-15	provinsje	provincie	NOUN	_	Gender=Com|Number=Sing	18	nsubj	_	_
-16	altyd	altijd	ADV	_	_	18	advmod	_	_
-17	yn	in	ADP	_	_	18	case	_	_
-18	beweging	beweging	NOUN	_	Gender=Com|Number=Sing	11	ccomp	_	_
-19	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	18	cop	_	_
-20	.	.	PUNCT	_	_	7	punct	_	_
+7	,,	,,	PUNCT	_	_	2	punct	_	_
+8	De	De	DET	_	Definite=Def	9	det	_	_
+9	argiven	archieven	NOUN	_	Number=Plur	10	nsubj	_	_
+10	litte	laten	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+11	sjen	zien	VERB	_	VerbForm=Inf	10	compound_prt	_	_
+12	dat	dat	SCONJ	_	_	17	mark	_	_
+13	de	de	DET	_	Definite=Def	14	det	_	_
+14	provinsje	provincie	NOUN	_	Gender=Com|Number=Sing	17	nsubj	_	_
+15	altyd	altijd	ADV	_	_	17	advmod	_	_
+16	yn	in	ADP	_	_	17	case	_	_
+17	beweging	beweging	NOUN	_	Gender=Com|Number=Sing	10	ccomp	_	_
+18	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	17	cop	_	_
+19	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 10
 # text = Doedestiids wiene dat wichtige provinsjale taken .
