@@ -392,10 +392,9 @@
 10	'e	de	DET	_	Definite=Def	12	det	_	_
 11	swierste	zwaarste	ADJ	_	Degree=Sup	12	amod	_	_
 12	berchetappe	bergetappe	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	_
-13	fan	van	ADP	_	_	15	case	_	_
-14	Parys-	Parijs-	PROPN	_	Number=Sing	15	nmod_poss	_	_
-15	Nice	Nice	PROPN	_	Gender=Neut|Number=Sing	12	nmod	_	_
-16	.	.	PUNCT	_	_	2	punct	_	_
+13	fan	van	ADP	_	_	14	case	_	_
+14	Parys-Nice	Parijs-Nice	PROPN	_	Gender=Neut|Number=Sing	12	nmod	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 21
 # text = Westra wie in pear jier lyn noch strjitmakker , mar heart no neffens kenners yn ien klap by de wrâldtop .
