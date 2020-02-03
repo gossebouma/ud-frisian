@@ -21,7 +21,7 @@
 19	,	,	PUNCT	_	_	17	fixed	_	_
 20	de	de	DET	_	Definite=Def	17	fixed	_	_
 21	reis	reis	NOUN	_	Gender=Com|Number=Sing	17	fixed	_	_
-22	”	"	PUNCT	_	_	7	punct	_	_
+22	”	"	PUNCT	_	_	17	punct	_	_
 23	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 2
