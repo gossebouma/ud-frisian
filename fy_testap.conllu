@@ -336,7 +336,7 @@
 29	fierder	verder	ADJ	_	Degree=Cmp	30	amod	_	_
 30	fuort	weg	NOUN	_	Gender=Com|Number=Sing	25	conj	_	_
 31	yn	in	ADP	_	_	32	case	_	_
-32	Kanada	Canada	PROPN	_	Gender=Neut|Number=Sing	19	nmod	_	_
+32	Kanada	Canada	PROPN	_	Gender=Neut|Number=Sing	30	nmod	_	_
 33	,	,	PUNCT	_	_	0	root	_	_
 34	Amearika	Amerika	PROPN	_	Gender=Neut|Number=Sing	32	conj	_	_
 35	,	,	PUNCT	_	_	0	root	_	_
