@@ -814,7 +814,7 @@
 3	fuotballen	voetbalden	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
 4	hiel	heel	ADJ	_	Degree=Pos	5	advmod	_	_
 5	goed	goed	ADJ	_	Degree=Pos	3	parataxis	_	_
-6	en	en	CCONJ	_	_	10	cc	_	_
+6	en	en	CCONJ	_	_	15	cc	_	_
 7	de	de	DET	_	Definite=Def	10	det	_	_
 8	1	1-	NUM	_	_	11	nummod	_	_
 9	-	1-	NUM	_	_	8	nummod	_	_
