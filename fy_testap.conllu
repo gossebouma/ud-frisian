@@ -274,7 +274,7 @@
 7	‘	‘	PUNCT	_	_	9	punct	_	_
 8	Fryske	Friese	ADJ	_	Degree=Pos	9	amod	_	_
 9	famylje	familie	NOUN	_	Gender=Com|Number=Sing	0	root	_	_
-10	.	.	PUNCT	_	_	6	punct	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = 15
 # text = De earste lêzing fynt plak op tongersdei 4 febrewaris 2010 .
