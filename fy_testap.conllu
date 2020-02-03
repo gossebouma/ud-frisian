@@ -323,7 +323,7 @@
 16	nei	naar	ADP	_	_	17	case	_	_
 17	wurk	werk	NOUN	_	Gender=Neut|Number=Sing	14	obl	_	_
 18	,	,	PUNCT	_	_	17	punct	_	_
-19	lok	geluk	NOUN	_	Gender=Neut|Number=Sing	17	root	_	_
+19	lok	geluk	NOUN	_	Gender=Neut|Number=Sing	17	conj	_	_
 20	of	of	CCONJ	_	_	21	cc	_	_
 21	wat	iets	PRON	_	Person=3|PronType=Ind	19	conj	_	_
 22	oars	anders	ADJ	_	Degree=Pos	21	amod	_	_
