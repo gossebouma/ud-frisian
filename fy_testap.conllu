@@ -195,7 +195,7 @@
 3	oer	over	ADP	_	_	5	case	_	_
 4	de	de	DET	_	Definite=Def	5	det	_	_
 5	argiven	archieven	NOUN	_	Number=Plur	2	obl	_	_
-6	:	:	PUNCT	_	_	7	punct	_	_
+6	:	:	PUNCT	_	_	2	punct	_	_
 7	,	,	PUNCT	_	_	2	punct	_	_
 8	,	,	PUNCT	_	_	7	fixed	_	_
 9	De	De	DET	_	Definite=Def	10	det	_	_
