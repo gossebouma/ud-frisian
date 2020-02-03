@@ -306,32 +306,32 @@
 # sent_id = 18
 # text = Der binne boekeplanken fol skreaun oer Friezen dy't ‘ it Heitelân ’ ferlieten op sykje nei wurk , lok of wat oars yn de Rânestêd , Súd- Limburch of fierder fuort yn Kanada , Amearika , Súd- Afrika of Australië .
 # text = As dy net gau komt , wurde de aksjes útwreide .
-1	Der	Er	ADV	_	_	46	advmod	_	_
-2	binne	zijn	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	46	aux_pass	_	_
-3	boekeplanken	boekenplanken	NOUN	_	Number=Plur	46	nsubj_pass	_	_
-4	fol	vol	ADJ	_	Degree=Pos	44	amod	_	_
+1	Der	Er	ADV	_	_	0	root	_	_
+2	binne	zijn	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	boekeplanken	boekenplanken	NOUN	_	Number=Plur	0	root	_	_
+4	fol	vol	ADJ	_	Degree=Pos	0	root	_	_
 5	skreaun	geschreven	VERB	_	VerbForm=Part	0	root	_	_
-6	oer	over	ADP	_	_	48	case	_	_
-7	Friezen	Friezen	PROPN	_	Number=Plur	44	nmod	_	_
+6	oer	over	ADP	_	_	0	root	_	_
+7	Friezen	Friezen	PROPN	_	Number=Plur	0	root	_	_
 8	dy't	die	PRON	_	PronType=Rel	13	nsubj	_	_
-9	‘	‘	PUNCT	_	_	46	punct	_	_
+9	‘	‘	PUNCT	_	_	0	root	_	_
 10	it	it	DET	_	_	13	obj	_	_
-11	Heitelân	Heitelân	PROPN	_	_	51	flat	_	_
-12	’	’	PUNCT	_	_	46	punct	_	_
-13	ferlieten	verlieten	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	48	acl_relcl	_	_
-14	op	op	ADP	_	_	46	advcl	_	_
+11	Heitelân	Heitelân	PROPN	_	_	0	root	_	_
+12	’	’	PUNCT	_	_	0	root	_	_
+13	ferlieten	verlieten	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+14	op	op	ADP	_	_	0	root	_	_
 15	sykje	zoek	NOUN	_	Gender=Neut|Number=Sing	14	fixed	_	_
 16	nei	naar	ADP	_	_	17	case	_	_
-17	wurk	werk	NOUN	_	Gender=Neut|Number=Sing	46	obl	_	_
-18	,	,	PUNCT	_	_	46	punct	_	_
-19	lok	geluk	NOUN	_	Gender=Neut|Number=Sing	46	parataxis	_	_
+17	wurk	werk	NOUN	_	Gender=Neut|Number=Sing	0	root	_	_
+18	,	,	PUNCT	_	_	0	root	_	_
+19	lok	geluk	NOUN	_	Gender=Neut|Number=Sing	0	root	_	_
 20	of	of	CCONJ	_	_	21	cc	_	_
 21	wat	iets	PRON	_	Person=3|PronType=Ind	19	conj	_	_
 22	oars	anders	ADJ	_	Degree=Pos	21	amod	_	_
 23	yn	in	ADP	_	_	25	case	_	_
 24	de	de	DET	_	Definite=Def	25	det	_	_
 25	Rânestêd	Randstad	PROPN	_	Gender=Com|Number=Sing	19	nmod	_	_
-26	,	,	PUNCT	_	_	46	punct	_	_
+26	,	,	PUNCT	_	_	0	root	_	_
 27	Súd-	Zuid-	PROPN	_	_	25	conj	_	_
 28	Limburch	Limburg	PROPN	_	_	27	flat	_	_
 29	of	of	CCONJ	_	_	31	cc	_	_
@@ -339,25 +339,29 @@
 31	fuort	weg	NOUN	_	Gender=Com|Number=Sing	25	conj	_	_
 32	yn	in	ADP	_	_	33	case	_	_
 33	Kanada	Canada	PROPN	_	Gender=Neut|Number=Sing	19	nmod	_	_
-34	,	,	PUNCT	_	_	46	punct	_	_
+34	,	,	PUNCT	_	_	0	root	_	_
 35	Amearika	Amerika	PROPN	_	Gender=Neut|Number=Sing	33	conj	_	_
-36	,	,	PUNCT	_	_	46	punct	_	_
+36	,	,	PUNCT	_	_	0	root	_	_
 37	Súd-	Zuid-	PROPN	_	_	33	conj	_	_
 38	Afrika	Afrika	PROPN	_	_	37	flat	_	_
 39	of	of	CCONJ	_	_	40	cc	_	_
 40	Australië	Australië	PROPN	_	Gender=Neut|Number=Sing	33	conj	_	_
-41	.	.	PUNCT	_	_	46	punct	_	_
-42	As	Als	SCONJ	_	_	46	mark	_	_
-43	dy	die	PRON	_	Person=3|PronType=Dem	46	nsubj	_	_
-44	net	niet	ADV	_	_	46	advmod	_	_
-45	gau	snel	ADJ	_	Degree=Pos	46	advmod	_	_
-46	komt	komt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	51	advcl	_	_
-47	,	,	PUNCT	_	_	51	punct	_	_
-48	wurde	worde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	51	aux_pass	_	_
-49	de	de	DET	_	Definite=Def	50	det	_	_
-50	aksjes	acties	NOUN	_	Number=Plur	51	nsubj_pass	_	_
-51	útwreide	uitgebreid	VERB	_	VerbForm=Part	0	root	_	_
-52	.	.	PUNCT	_	_	51	punct	_	_
+41	.	.	PUNCT	_	_	0	root	_	_
+
+# sent_id = 18-bis
+# text = Der binne boekeplanken fol skreaun oer Friezen dy't ‘ it Heitelân ’ ferlieten op sykje nei wurk , lok of wat oars yn de Rânestêd , Súd- Limburch of fierder fuort yn Kanada , Amearika , Súd- Afrika of Australië .
+# text = As dy net gau komt , wurde de aksjes útwreide .
+1	As	Als	SCONJ	_	_	5	mark	_	_
+2	dy	die	PRON	_	Person=3|PronType=Dem	5	nsubj	_	_
+3	net	niet	ADV	_	_	5	advmod	_	_
+4	gau	snel	ADJ	_	Degree=Pos	5	advmod	_	_
+5	komt	komt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	wurde	worde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	10	aux_pass	_	_
+8	de	de	DET	_	Definite=Def	9	det	_	_
+9	aksjes	acties	NOUN	_	Number=Plur	10	nsubj_pass	_	_
+10	útwreide	uitgebreid	VERB	_	VerbForm=Part	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 19
 # text = Hurdfytser Lieuwe Westra ( 29 ) fan 'e Tynje liket op wei nei in sensaasje .
