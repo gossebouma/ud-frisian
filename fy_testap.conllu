@@ -823,7 +823,7 @@
 12	wie	was	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	15	cop	_	_
 13	in	een	DET	_	Definite=Ind	15	det	_	_
 14	meagere	magere	ADJ	_	Degree=Pos	15	amod	_	_
-15	ôfspegeling	afspiegeling	NOUN	_	Gender=Com|Number=Sing	3	conj	_	_
+15	ôfspegeling	afspiegeling	NOUN	_	Gender=Com|Number=Sing	22	conj	_	_
 16	fan	van	ADP	_	_	18	case	_	_
 17	'e	de	DET	_	Definite=Def	18	det	_	_
 18	ferhâldingen	verhoudingen	NOUN	_	Number=Plur	15	nmod	_	_
