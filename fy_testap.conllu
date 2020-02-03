@@ -453,7 +453,7 @@
 13	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 24
-# text = Snein is de finale fan Parys- Nice mei in tiidrit berchop .
+# text = Snein is de finale fan Parys-Nice mei in tiidrit berchop .
 1	Snein	Zondag	PROPN	_	Gender=Com|Number=Sing	10	nsubj	_	_
 2	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	10	cop	_	_
 3	de	de	DET	_	Definite=Def	4	det	_	_
