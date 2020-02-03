@@ -431,7 +431,7 @@
 7	oan	aan	ADP	_	_	12	case	_	_
 8	syn	zijn	PRON	_	Person=3|PronType=Prs	12	nmod_poss	_	_
 9	oanfallende	aanvallende	VERB	_	VerbForm=Part	12	amod	_	_
-10	styl	aanvallende	NOUN	_	VerbForm=Part	12	amod	_	_
+10	styl	aanvallende	NOUN	_	VerbForm=Part	12	xcomp	_	_
 11	fan	aanvallende	ADP	_	VerbForm=Part	12	case	_	_
 12	riden	rijstijl	VERB	_	Gender=Com|Number=Sing	6	obl	_	_
 13	.	.	PUNCT	_	_	6	punct	_	_
