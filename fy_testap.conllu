@@ -321,7 +321,7 @@
 14	op	op	ADP	_	_	0	root	_	_
 15	sykje	zoek	NOUN	_	Gender=Neut|Number=Sing	14	fixed	_	_
 16	nei	naar	ADP	_	_	17	case	_	_
-17	wurk	werk	NOUN	_	Gender=Neut|Number=Sing	0	root	_	_
+17	wurk	werk	NOUN	_	Gender=Neut|Number=Sing	14	root	_	_
 18	,	,	PUNCT	_	_	0	root	_	_
 19	lok	geluk	NOUN	_	Gender=Neut|Number=Sing	0	root	_	_
 20	of	of	CCONJ	_	_	21	cc	_	_
