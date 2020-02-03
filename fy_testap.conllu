@@ -305,7 +305,6 @@
 
 # sent_id = 18
 # text = Der binne boekeplanken fol skreaun oer Friezen dy't ‘ it Heitelân ’ ferlieten op sykje nei wurk , lok of wat oars yn de Rânestêd , Súd- Limburch of fierder fuort yn Kanada , Amearika , Súd- Afrika of Australië .
-# text = As dy net gau komt , wurde de aksjes útwreide .
 1	Der	Er	ADV	_	_	0	root	_	_
 2	binne	zijn	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	boekeplanken	boekenplanken	NOUN	_	Number=Plur	5	nsubj	_	_
