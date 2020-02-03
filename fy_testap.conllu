@@ -129,7 +129,7 @@
 11	)	)	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 6-bis
-# text = Tresoar krijt 290 meter provinsjaal argyf ( 1962 - 1986 ) Op 21 jannewaris hat Kommissaris fan de Keninginne J. A .
+# text = Op 21 jannewaris hat Kommissaris fan de Keninginne J. A . Jorritsma symboalysk 290 meter argiven oan Tresoar oerhandige .
 1	Op	Op	ADP	_	_	2	case	_	_
 2	21	21	NUM	_	_	0	root	_	_
 3	jannewaris	januari	PROPN	_	Gender=Com|Number=Sing	2	flat	_	_
