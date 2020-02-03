@@ -169,7 +169,7 @@
 14	(	(	PUNCT	_	_	3	punct	_	_
 15	Provinsjale	Provinciale	PROPN	_	_	13	nmod	_	_
 16	Steaten	Staten	PROPN	_	_	15	flat	_	_
-17	,	,	PUNCT	_	_	3	punct	_	_
+17	,	,	PUNCT	_	_	16	punct	_	_
 18	Deputearre	Gedeputeerde	PROPN	_	_	15	conj	_	_
 19	Steaten	Staten	PROPN	_	_	18	flat	_	_
 20	en	en	CCONJ	_	_	21	cc	_	_
