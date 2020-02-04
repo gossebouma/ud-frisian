@@ -971,7 +971,7 @@
 15	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 55
-# text = Se waard ûntfongen troch kommissaris fan 'e Keninginne John Jorritsma , KNSB- foarsitter Doekle Terpstra en boargemaster Van der Zwan fan Hearrenfean .
+# text = Se waard ûntfongen troch kommissaris fan 'e Keninginne John Jorritsma , KNSB-foarsitter Doekle Terpstra en boargemaster Van der Zwan fan Hearrenfean .
 1	Se	Ze	PRON	_	Person=3|PronType=Prs	3	nsubj_pass	_	_
 2	waard	werd	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	3	aux_pass	_	_
 3	ûntfongen	ontvangen	VERB	_	VerbForm=Part	0	root	_	_
