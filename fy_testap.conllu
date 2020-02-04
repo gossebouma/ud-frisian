@@ -1294,7 +1294,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 72
-# text = De samlers moatte der gau by wêze , it blêd ferskynt yn in oplage fan 30. 000 stiks .
+# text = De samlers moatte der gau by wêze , it blêd ferskynt yn in oplage fan 30.000 stiks .
 1	De	De	DET	_	Definite=Def	2	det	_	_
 2	samlers	verzamelaars	NOUN	_	Number=Plur	7	nsubj	_	_
 3	moatte	moeten	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	7	aux	_	_
