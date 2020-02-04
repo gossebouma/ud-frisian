@@ -1155,7 +1155,7 @@
 13	in	een	DET	_	Definite=Ind	14	det	_	_
 14	begryp	begrip	NOUN	_	Gender=Neut|Number=Sing	11	xcomp	_	_
 15	te	te	ADP	_	_	14	mark	_	_
-16	wurden	worden	AUX	_	VerbForm=Inf	14	cop	_	_
+16	wurden	worden	AUX	_	VerbForm=Inf	11	cop	_	_
 17	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 65
