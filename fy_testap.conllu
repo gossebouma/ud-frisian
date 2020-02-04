@@ -1169,7 +1169,7 @@
 7	Heerenveen	Heerenveen	PROPN	_	_	13	nsubj_pass	_	_
 8	Holland	Holland	PROPN	_	_	7	flat	_	_
 9	House	House	PROPN	_	_	7	flat	_	_
-10	takommend	House	VERB	_	_	7	flat	_	_
+10	takommend	House	VERB	_	_	13	flat	_	_
 11	jier	jaar	NOUN	_	Gender=Neut|Number=Sing	13	obl	_	_
 12	wer	weer	ADV	_	_	13	advmod	_	_
 13	delset	geplaatst	VERB	_	VerbForm=Part	4	csubj	_	_
