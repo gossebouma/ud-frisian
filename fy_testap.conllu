@@ -1370,12 +1370,11 @@
 3	oarloch	oorlog	NOUN	_	Gender=Com|Number=Sing	4	obl	_	_
 4	sieten	zaten	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
 5	der	er	ADV	_	_	4	obl	_	_
-6	NSB'	NSB'	PROPN	_	Gender=Com|Number=Sing	4	iobj	_	_
-7	ers	ers	NOUN	_	Gender=Com|Number=Sing	4	nsubj	_	_
-8	en	en	CCONJ	_	_	9	cc	_	_
-9	Molukkers	Molukkers	PROPN	_	Number=Plur	7	conj	_	_
-10	yn	in	ADP	_	_	5	case	_	_
-11	.	.	PUNCT	_	_	4	punct	_	_
+6	NSB'ers	NSB'ers	PROPN	_	Gender=Com|Number=Sing	4	iobj	_	_
+7	en	en	CCONJ	_	_	8	cc	_	_
+8	Molukkers	Molukkers	PROPN	_	Number=Plur	6	conj	_	_
+9	yn	in	ADP	_	_	5	case	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 78
 # text = De barak is boud yn 'e jierren ' 30 foar de wurkferskaffing .
