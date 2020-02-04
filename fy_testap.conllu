@@ -932,7 +932,7 @@
 28	de	de	DET	_	Definite=Def	29	det	_	_
 29	Thijs	Thijs	PROPN	_	_	25	conj	_	_
 30	Veenstrawei	Veenstraweg	PROPN	_	_	29	flat	_	_
-31	.	.	PUNCT	_	_	9	punct	_	_
+31	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 53
 # text = Keninginne Beatrix hat sneon mei ferskillende reedriders praat by de WK ôfstannen yn Thialf .
