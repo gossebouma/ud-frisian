@@ -1080,7 +1080,7 @@
 10	sintrum	centrum	NOUN	_	Gender=Neut|Number=Sing	7	nmod	_	_
 11	fan	van	ADP	_	_	12	case	_	_
 12	It	Heerenveen	PROPN	_	Gender=Neut|Number=Sing	10	nmod	_	_
-13	Hearrenfean	Heerenveen	PROPN	_	Gender=Neut|Number=Sing	10	nmod	_	_
+13	Hearrenfean	Heerenveen	PROPN	_	Gender=Neut|Number=Sing	12	nmod	_	_
 14	mei	met	ADP	_	_	15	case	_	_
 15	festiviteiten	festiviteiten	NOUN	_	Number=Plur	7	nmod	_	_
 16	dy't	die	PRON	_	PronType=Rel	19	nsubj	_	_
