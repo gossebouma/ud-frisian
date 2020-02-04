@@ -1364,7 +1364,7 @@
 6	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 77
-# text = Nei de oarloch sieten der NSB ' ers en Molukkers yn .
+# text = Nei de oarloch sieten der NSB'ers en Molukkers yn .
 1	Nei	Na	ADP	_	_	3	case	_	_
 2	de	de	DET	_	Definite=Def	3	det	_	_
 3	oarloch	oorlog	NOUN	_	Gender=Com|Number=Sing	4	obl	_	_
