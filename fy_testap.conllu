@@ -917,7 +917,7 @@
 13	mar	maar	CCONJ	_	_	16	cc	_	_
 14	de	de	DET	_	Definite=Def	15	det	_	_
 15	hûn	hond	NOUN	_	Gender=Com|Number=Sing	16	nsubj	_	_
-16	rekke	raakte	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	9	conj	_	_
+16	rekke	raakte	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	8	conj	_	_
 17	it	het	DET	_	Definite=Def	18	det	_	_
 18	spoar	spoor	NOUN	_	Gender=Neut|Number=Sing	16	obj	_	_
 19	kwyt	kwijt	ADJ	_	Degree=Pos	16	compound_prt	_	_
