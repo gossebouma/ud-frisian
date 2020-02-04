@@ -912,7 +912,7 @@
 8	socht	naar	ADP	_	_	0	root	_	_
 9	om	zocht	ADP	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
 10	de	de	DET	_	Definite=Def	11	det	_	_
-11	oerfallers	overvallers	NOUN	_	Number=Plur	9	obl	_	_
+11	oerfallers	overvallers	NOUN	_	Number=Plur	8	obl	_	_
 12	,	,	PUNCT	_	_	9	punct	_	_
 13	mar	maar	CCONJ	_	_	16	cc	_	_
 14	de	de	DET	_	Definite=Def	15	det	_	_
