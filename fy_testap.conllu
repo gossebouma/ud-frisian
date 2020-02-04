@@ -908,7 +908,7 @@
 4	hat	politie	AUX	_	Gender=Com|Number=Sing	8	aux	_	_
 5	mei	met	ADP	_	_	7	case	_	_
 6	in	een	DET	_	Definite=Ind	7	det	_	_
-7	plysjehûn	politiehond	NOUN	_	Gender=Com|Number=Sing	9	obl	_	_
+7	plysjehûn	politiehond	NOUN	_	Gender=Com|Number=Sing	8	obl	_	_
 8	socht	naar	ADP	_	_	0	root	_	_
 9	om	zocht	ADP	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
 10	de	de	DET	_	Definite=Def	11	det	_	_
