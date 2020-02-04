@@ -909,7 +909,7 @@
 5	mei	met	ADP	_	_	7	case	_	_
 6	in	een	DET	_	Definite=Ind	7	det	_	_
 7	plysjehûn	politiehond	NOUN	_	Gender=Com|Number=Sing	9	obl	_	_
-8	socht	naar	ADP	_	_	11	case	_	_
+8	socht	naar	ADP	_	_	0	root	_	_
 9	om	zocht	ADP	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
 10	de	de	DET	_	Definite=Def	11	det	_	_
 11	oerfallers	overvallers	NOUN	_	Number=Plur	9	obl	_	_
