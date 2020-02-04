@@ -947,7 +947,7 @@
 9	by	op	ADP	_	_	11	case	_	_
 10	de	de	DET	_	Definite=Def	11	det	_	_
 11	WK	WK	PROPN	_	Gender=Com_Neut|Number=Sing	8	obl	_	_
-12	ôfstannen	afstanden	NOUN	_	_	11	amod	_	_
+12	ôfstannen	afstanden	NOUN	_	_	11	appos	_	_
 13	yn	in	ADP	_	_	14	case	_	_
 14	Thialf	Thialf	PROPN	_	Gender=Com|Number=Sing	11	nmod	_	_
 15	.	.	PUNCT	_	_	8	punct	_	_
