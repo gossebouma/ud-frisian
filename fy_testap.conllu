@@ -942,7 +942,7 @@
 4	sneon	zaterdag	PROPN	_	Gender=Com|Number=Sing	8	obl	_	_
 5	mei	met	ADP	_	_	7	case	_	_
 6	ferskillende	aantal	ADJ	_	Gender=Neut|Number=Sing	7	amod	_	_
-7	reedriders	schaatsers	NOUN	_	Number=Plur	8	nmod	_	_
+7	reedriders	schaatsers	NOUN	_	Number=Plur	8	obl	_	_
 8	praat	gepraat	VERB	_	VerbForm=Part	0	root	_	_
 9	by	op	ADP	_	_	11	case	_	_
 10	de	de	DET	_	Definite=Def	11	det	_	_
