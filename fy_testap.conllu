@@ -1217,7 +1217,7 @@
 12	âlden	ouders	NOUN	_	Number=Plur	9	obl	_	_
 13	it	het	DET	_	Definite=Def	14	det	_	_
 14	lân	land	NOUN	_	Gender=Neut|Number=Sing	15	obl	_	_
-15	útset	uitgezet	VERB	_	VerbForm=Part	1	conj	_	_
+15	útset	uitgezet	VERB	_	VerbForm=Part	2	conj	_	_
 16	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 68
