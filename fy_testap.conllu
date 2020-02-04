@@ -1151,7 +1151,7 @@
 9	de	de	DET	_	Definite=Def	11	compound_prt	_	_
 10	tiid	tijd	NOUN	_	Gender=Com|Number=Sing	9	fixed	_	_
 11	krijt	krijgt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-12	om	om	ADP	_	_	14	mark	_	_
+12	om	om	ADP	_	_	16	mark	_	_
 13	in	een	DET	_	Definite=Ind	14	det	_	_
 14	begryp	begrip	NOUN	_	Gender=Neut|Number=Sing	16	xcomp	_	_
 15	te	te	ADP	_	_	16	mark	_	_
