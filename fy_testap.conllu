@@ -1265,7 +1265,7 @@
 21	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 70
-# text = De edysje is benammen in promoasjestunt by it 60 - jierrich bestean fan 'e Donald Duck .
+# text = De edysje is benammen in promoasjestunt by it 60-jierrich bestean fan 'e Donald Duck .
 1	De	De	DET	_	Definite=Def	2	det	_	_
 2	edysje	editie	NOUN	_	Gender=Com|Number=Sing	6	nsubj	_	_
 3	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	cop	_	_
