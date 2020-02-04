@@ -1078,7 +1078,7 @@
 8	yn	in	ADP	_	_	10	case	_	_
 9	it	het	DET	_	Definite=Def	10	det	_	_
 10	sintrum	centrum	NOUN	_	Gender=Neut|Number=Sing	7	nmod	_	_
-11	fan	van	ADP	_	_	13	case	_	_
+11	fan	van	ADP	_	_	12	case	_	_
 12	It	Heerenveen	PROPN	_	Gender=Neut|Number=Sing	10	nmod	_	_
 13	Hearrenfean	Heerenveen	PROPN	_	Gender=Neut|Number=Sing	10	nmod	_	_
 14	mei	met	ADP	_	_	15	case	_	_
