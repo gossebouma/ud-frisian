@@ -1257,7 +1257,7 @@
 13	Fryske	Friese	ADJ	_	Degree=Pos	14	amod	_	_
 14	ûnderwerpen	onderwerpen	NOUN	_	Number=Plur	10	obl	_	_
 15	lykas	zoals	SCONJ	_	_	17	mark	_	_
-16	it	skûtsjesilen	DET	_	Gender=Com|Number=Sing	14	nmod	_	_
+16	it	skûtsjesilen	DET	_	Gender=Com|Number=Sing	17	nmod	_	_
 17	skûtsjesilen	skûtsjesilen	NOUN	_	Gender=Com|Number=Sing	14	nmod	_	_
 18	en	en	CCONJ	_	_	20	cc	_	_
 19	de	de	DET	_	Definite=Def	20	det	_	_
