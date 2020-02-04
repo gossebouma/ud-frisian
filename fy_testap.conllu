@@ -1310,7 +1310,7 @@
 13	in	een	DET	_	Definite=Ind	14	det	_	_
 14	oplage	oplage	NOUN	_	Gender=Com|Number=Sing	11	obl	_	_
 15	fan	van	ADP	_	_	17	case	_	_
-16	30.000	30.000	NUM	_	_	17	det	_	_
+16	30.000	30.000	NUM	_	_	17	nummod	_	_
 17	stiks	stuks	NOUN	_	Number=Plur	14	nmod	_	_
 18	.	.	PUNCT	_	_	7	punct	_	_
 
