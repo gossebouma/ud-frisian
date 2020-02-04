@@ -998,7 +998,7 @@
 # sent_id = 56
 # text = Foar de besite waard it hiele stadion troch feilichheidsmeiwurkers trochsocht op fertochte pakketsjes .
 1	Foar	Voor	ADP	_	_	2	case	_	_
-2	de	bezoek	DET	_	Gender=Neut|Number=Sing	10	obl	_	_
+2	de	bezoek	DET	_	Gender=Neut|Number=Sing	3	obl	_	_
 3	besite	bezoek	NOUN	_	Gender=Neut|Number=Sing	10	obl	_	_
 4	waard	werd	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	10	aux_pass	_	_
 5	it	het	DET	_	Definite=Def	7	det	_	_
