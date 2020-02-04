@@ -1272,14 +1272,15 @@
 4	benammen	voornamelijk	ADV	_	_	6	advmod	_	_
 5	in	een	DET	_	Definite=Ind	6	det	_	_
 6	promoasjestunt	promotiestunt	NOUN	_	Gender=Com|Number=Sing	0	root	_	_
-7	by	voor	ADP	_	_	9	case	_	_
-8	it	het	DET	_	Definite=Def	9	det	_	_
-9	60-jierrichbestean	60-60-jarigbestaan	NOUN	_	Gender=Neut|Number=Sing	6	nmod	_	_
-10	fan	van	ADP	_	_	12	case	_	_
-11	'e	de	DET	_	Definite=Def	12	det	_	_
-12	Donald	Donald	PROPN	_	_	9	nmod	_	_
-13	Duck	Duck	PROPN	_	_	12	flat	_	_
-14	.	.	PUNCT	_	_	6	punct	_	_
+7	by	voor	ADP	_	_	10	case	_	_
+8	it	het	DET	_	Definite=Def	10	det	_	_
+9	60-jierrich	60-60-jarig	NUM	_	Degree=Pos	10	nmod	_	_
+10	bestean	bestaan	NOUN	_	Gender=Neut|Number=Sing	6	nmod	_	_
+11	fan	van	ADP	_	_	13	case	_	_
+12	'e	de	DET	_	Definite=Def	13	det	_	_
+13	Donald	Donald	PROPN	_	_	10	nmod	_	_
+14	Duck	Duck	PROPN	_	_	13	flat	_	_
+15	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 71
 # text = By de Afûk binne njoggen stripferhalen oerset .
