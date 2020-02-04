@@ -992,7 +992,7 @@
 18	der	der	PROPN	_	_	17	flat	_	_
 19	Zwan	Zwan	PROPN	_	_	17	flat	_	_
 20	fan	van	ADP	_	_	21	case	_	_
-21	Hearrenfean	Heerenveen	PROPN	_	Gender=Neut|Number=Sing	12	nmod	_	_
+21	Hearrenfean	Heerenveen	PROPN	_	Gender=Neut|Number=Sing	16	nmod	_	_
 22	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 56
