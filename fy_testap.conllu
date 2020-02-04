@@ -1309,11 +1309,10 @@
 12	yn	in	ADP	_	_	14	case	_	_
 13	in	een	DET	_	Definite=Ind	14	det	_	_
 14	oplage	oplage	NOUN	_	Gender=Com|Number=Sing	11	obl	_	_
-15	fan	van	ADP	_	_	18	case	_	_
-16	30.	30.	NUM	_	_	18	det	_	_
-17	000	000	NUM	_	_	16	fixed	_	_
-18	stiks	stuks	NOUN	_	Number=Plur	14	nmod	_	_
-19	.	.	PUNCT	_	_	7	punct	_	_
+15	fan	van	ADP	_	_	17	case	_	_
+16	30.000	30.000	NUM	_	_	17	det	_	_
+17	stiks	stuks	NOUN	_	Number=Plur	14	nmod	_	_
+18	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 73
 # text = Yn Oerterp wurdt sneon in âlde Joadske wurkbarak ôfbrutsen .
