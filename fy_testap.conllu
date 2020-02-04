@@ -981,7 +981,7 @@
 7	'e	de	DET	_	Definite=Def	8	det	_	_
 8	Keninginne	Koningin	NOUN	_	Gender=Com|Number=Sing	5	nmod	_	_
 9	John	John	PROPN	_	Gender=Com|Number=Sing	8	appos	_	_
-10	Jorritsma	Jorritsma	PROPN	_	Gender=Com|Number=Sing	9	appos	_	_
+10	Jorritsma	Jorritsma	PROPN	_	Gender=Com|Number=Sing	9	flat	_	_
 11	,	,	PUNCT	_	_	3	punct	_	_
 12	KNSB-	KNSB-	PROPN	_	_	3	appos	_	_
 13	foarsitter	voorzitter	NOUN	_	Gender=Com|Number=Sing	3	parataxis	_	_
