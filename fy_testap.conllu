@@ -1351,7 +1351,7 @@
 4	museum	museum	NOUN	_	Gender=Neut|Number=Sing	2	nsubj	_	_
 5	mei	met	ADP	_	_	7	case	_	_
 6	Joadske	Joodse	ADJ	_	_	2	obl	_	_
-7	wurkbarakken	werkbarakken	PROPN	_	_	4	flat	_	_
+7	wurkbarakken	werkbarakken	PROPN	_	_	4	nmod	_	_
 8	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 76
