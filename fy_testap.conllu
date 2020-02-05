@@ -1385,12 +1385,11 @@
 5	yn	in	ADP	_	_	7	case	_	_
 6	'e	de	DET	_	Definite=Def	7	det	_	_
 7	jierren	jaren	NOUN	_	Number=Plur	4	obl	_	_
-8	'	'	PUNCT	_	_	4	punct	_	_
-9	30	30	NUM	_	_	7	appos	_	_
-10	foar	voor	ADP	_	_	12	case	_	_
-11	de	de	DET	_	Definite=Def	12	det	_	_
-12	wurkferskaffing	werkverschaffing	NOUN	_	Gender=Com|Number=Sing	7	nmod	_	_
-13	.	.	PUNCT	_	_	4	punct	_	_
+8	'30	'30	PUNCT	_	_	4	punct	_	_
+9	foar	voor	ADP	_	_	11	case	_	_
+10	de	de	DET	_	Definite=Def	11	det	_	_
+11	wurkferskaffing	werkverschaffing	NOUN	_	Gender=Com|Number=Sing	7	nmod	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 79
 # text = Goed 600 Friezen sjonge sneon yn it provinsjehûs .
