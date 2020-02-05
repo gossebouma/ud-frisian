@@ -1814,7 +1814,7 @@
 # text = Troch dy baktearje kin minsken de feteranesykte krije .
 1	Troch	Door	ADP	_	_	3	case	_	_
 2	dy	die	DET	_	_	3	det	_	_
-3	baktearje	bacterie	NOUN	_	Gender=Com|Number=Sing	8	root	_	_
+3	baktearje	bacterie	NOUN	_	Gender=Com|Number=Sing	8	obl	_	_
 4	kin	kan	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	8	aux	_	_
 5	minsken	mensen	NOUN	_	Number=Plur	8	nsubj	_	_
 6	de	de	DET	_	Definite=Def	7	det	_	_
