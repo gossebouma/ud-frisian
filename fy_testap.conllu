@@ -1516,7 +1516,7 @@
 16	te	te	ADP	_	_	17	mark	_	_
 17	hâlden	houden	VERB	_	VerbForm=Inf	9	xcomp	_	_
 18	en	en	CCONJ	_	_	25	cc	_	_
-19	dêr	daar	ADV	_	_	25	advmod	_	_
+19	dêr	daar	ADV	_	_	25	obl	_	_
 20	ek	ook	ADV	_	_	25	advmod	_	_
 21	gau	snel	ADJ	_	Degree=Pos	25	advmod	_	_
 22	mear	meer	DET	_	_	23	det	_	_
