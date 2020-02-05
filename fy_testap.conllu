@@ -1685,7 +1685,7 @@
 17	no	nu	ADV	_	_	20	advmod	_	_
 18	in	een	DET	_	Definite=Ind	19	det	_	_
 19	soarchsintrum	zorgcentrum	NOUN	_	Gender=Neut|Number=Sing	20	nsubj	_	_
-20	stiet	staat	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	14	acl_relcl	_	_
+20	stiet	staat	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	15	acl_relcl	_	_
 21	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 98
