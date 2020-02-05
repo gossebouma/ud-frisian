@@ -1819,7 +1819,7 @@
 5	minsken	mensen	NOUN	_	Number=Plur	8	nsubj	_	_
 6	de	de	DET	_	Definite=Def	7	det	_	_
 7	feteranesykte	veteranenziekte	NOUN	_	Gender=Com|Number=Sing	8	obj	_	_
-8	krije	krijgen	VERB	_	VerbForm=Inf	3	parataxis	_	_
+8	krije	krijgen	VERB	_	VerbForm=Inf	0	root	_	_
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 105
