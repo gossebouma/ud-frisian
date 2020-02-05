@@ -1748,7 +1748,7 @@
 18	fan	van	ADP	_	_	19	case	_	_
 19	Súdwest-Fryslân	Súdwest-Fryslân	PROPN	_	_	15	nmod	_	_
 20	en	en	CCONJ	_	_	21	cc	_	_
-21	Willem	Willem	PROPN	_	_	19	conj	_	_
+21	Willem	Willem	PROPN	_	_	16	conj	_	_
 22	Hoornstra	Hoornstra	PROPN	_	_	21	flat	_	_
 23	fan	van	ADP	_	_	21	flat	_	_
 24	Gaasterlân-Sleat	Gaasterlân-Sleat	PROPN	_	_	21	flat	_	_
