@@ -1679,7 +1679,7 @@
 11	kamen	kwamen	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
 12	om	om	ADP	_	_	11	compound_prt	_	_
 13	op	op	ADP	_	_	15	case	_	_
-14	it	plek	DET	_	Gender=Com|Number=Sing	15	obl	_	_
+14	it	plek	DET	_	Gender=Com|Number=Sing	15	det	_	_
 15	plak	plek	NOUN	_	Gender=Com|Number=Sing	11	obl	_	_
 16	dêr't	waar	ADV	_	_	20	advmod	_	_
 17	no	nu	ADV	_	_	20	advmod	_	_
