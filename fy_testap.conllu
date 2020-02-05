@@ -1451,7 +1451,7 @@
 2	seit	zegt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	ynterim-bestjoerder	interim-bestuurder	ADJ	_	Gender=Com|Number=Sing	2	nsubj	_	_
 4	Wagenaar	Wagenaar	PROPN	_	_	3	appos	_	_
-5	fan	van	ADP	_	_	4	flat	_	_
+5	fan	van	ADP	_	_	7	flat	_	_
 6	'e	de	DET	_	_	7	det	_	_
 7	Sionsberg	Sionsberg	PROPN	_	_	4	flat	_	_
 8	.	.	PUNCT	_	_	2	punct	_	_
