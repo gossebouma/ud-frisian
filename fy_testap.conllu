@@ -1468,9 +1468,8 @@
 8	gefolgen	gevolgen	NOUN	_	Number=Plur	2	obj	_	_
 9	foar	voor	ADP	_	_	11	case	_	_
 10	de	de	DET	_	Definite=Def	11	det	_	_
-11	berne-	kinderafdeling	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	_
-12	ôfdieling	kinderafdeling	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	_
-13	.	.	PUNCT	_	_	2	punct	_	_
+11	berne-ôfdieling	kinderafdelingkinderafdeling	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 85
 # text = De ôfdielingen kardiology en ortopedy binne ek ticht .
