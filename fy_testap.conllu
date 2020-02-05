@@ -1746,15 +1746,14 @@
 16	Hayo	Hayo	PROPN	_	_	15	appos	_	_
 17	Apotheker	Apotheker	PROPN	_	_	16	flat	_	_
 18	fan	van	ADP	_	_	19	case	_	_
-19	Súdwest-	Súdwest-	PROPN	_	_	15	nmod	_	_
-20	Fryslân	Fryslân	PROPN	_	_	19	flat	_	_
-21	en	en	CCONJ	_	_	22	cc	_	_
-22	Willem	Willem	PROPN	_	_	19	conj	_	_
-23	Hoornstra	Hoornstra	PROPN	_	_	22	flat	_	_
-24	fan	van	ADP	_	_	22	flat	_	_
-25	Gaasterlân-	Gaasterlân-	PROPN	_	_	22	flat	_	_
-26	Sleat	Sleat	PROPN	_	_	22	flat	_	_
-27	.	.	PUNCT	_	_	4	punct	_	_
+19	Súdwest-Fryslân	Súdwest-Fryslân	PROPN	_	_	15	nmod	_	_
+20	en	en	CCONJ	_	_	21	cc	_	_
+21	Willem	Willem	PROPN	_	_	19	conj	_	_
+22	Hoornstra	Hoornstra	PROPN	_	_	21	flat	_	_
+23	fan	van	ADP	_	_	21	flat	_	_
+24	Gaasterlân-	Gaasterlân-	PROPN	_	_	21	flat	_	_
+25	Sleat	Sleat	PROPN	_	_	21	flat	_	_
+26	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 101
 # text = It giet om in wurkbesite .
