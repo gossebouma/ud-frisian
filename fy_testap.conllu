@@ -1420,7 +1420,7 @@
 # text = Yn ferskillende groepen studearje de koarleden it liet yn .
 1	Yn	In	ADP	_	_	3	case	_	_
 2	ferskillende	aantal	ADJ	_	Gender=Neut|Number=Sing	4	obl	_	_
-3	groepen	groepen	NOUN	_	Number=Plur	4	nmod	_	_
+3	groepen	groepen	NOUN	_	Number=Plur	4	obl	_	_
 4	studearje	studeren	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	DET	_	Definite=Def	6	det	_	_
 6	koarleden	koorleden	NOUN	_	Number=Plur	4	nsubj	_	_
