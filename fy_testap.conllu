@@ -1750,7 +1750,7 @@
 20	en	en	CCONJ	_	_	21	cc	_	_
 21	Willem	Willem	PROPN	_	_	16	conj	_	_
 22	Hoornstra	Hoornstra	PROPN	_	_	21	flat	_	_
-23	fan	van	ADP	_	_	24	flat	_	_
+23	fan	van	ADP	_	_	24	case	_	_
 24	Gaasterlân-Sleat	Gaasterlân-Sleat	PROPN	_	_	21	flat	_	_
 25	.	.	PUNCT	_	_	4	punct	_	_
 
