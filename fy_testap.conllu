@@ -1836,7 +1836,7 @@
 10	oeren	uur	NOUN	_	Gender=Neut|Number=Sing	14	obl	_	_
 11	deis	dag	NOUN	_	Gender=Com|Number=Sing	10	nmod	_	_
 12	mei	met	ADP	_	_	13	case	_	_
-13	sensoaren	sensoren	NOUN	_	Number=Plur	14	nmod	_	_
+13	sensoaren	sensoren	NOUN	_	Number=Plur	14	obl	_	_
 14	sjoen	bekeken	VERB	_	VerbForm=Part	7	acl_relcl	_	_
 15	wurdt	wordt	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	14	aux_pass	_	_
 16	oft	of	SCONJ	_	_	22	mark	_	_
