@@ -1453,7 +1453,7 @@
 4	Wagenaar	Wagenaar	PROPN	_	_	3	appos	_	_
 5	fan	van	ADP	_	_	7	case	_	_
 6	'e	de	DET	_	_	7	det	_	_
-7	Sionsberg	Sionsberg	PROPN	_	_	3	flat	_	_
+7	Sionsberg	Sionsberg	PROPN	_	_	3	nmod	_	_
 8	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 84
