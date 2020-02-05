@@ -1807,7 +1807,7 @@
 15	legionella	legionella	NOUN	_	Gender=Com|Number=Sing	18	obj	_	_
 16	op	op	ADP	_	_	18	compound_prt	_	_
 17	te	te	ADP	_	_	18	mark	_	_
-18	spoaren	sporen	VERB	_	VerbForm=Inf	6	advcl	_	_
+18	spoaren	sporen	VERB	_	VerbForm=Inf	13	advcl	_	_
 19	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 104
