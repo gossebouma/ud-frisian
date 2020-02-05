@@ -1856,7 +1856,7 @@
 4	in	een	DET	_	Definite=Ind	5	det	_	_
 5	subsydzje	subsidie	NOUN	_	Gender=Com|Number=Sing	3	obj	_	_
 6	fan	van	ADP	_	_	8	case	_	_
-7	180.000	180.000	NUM	_	_	8	det	_	_
+7	180.000	180.000	NUM	_	_	8	nummod	_	_
 8	euro	euro	NOUN	_	Gender=Com|Number=Sing	5	nmod	_	_
 9	om	om	ADP	_	_	15	mark	_	_
 10	sensoaren	sensoren	NOUN	_	Number=Plur	15	obj	_	_
