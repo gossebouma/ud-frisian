@@ -1657,7 +1657,7 @@
 4	piloat	piloot	NOUN	_	Gender=Com|Number=Sing	11	nsubj	_	_
 5	koe	kon	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	11	aux	_	_
 6	op	tijdig	ADP	_	Degree=Pos	7	case	_	_
-7	tiid	tijdig	NOUN	_	Degree=Pos	11	advmod	_	_
+7	tiid	tijdig	NOUN	_	Degree=Pos	11	obl	_	_
 8	út	uit	ADP	_	_	10	case	_	_
 9	it	het	DET	_	Definite=Def	10	det	_	_
 10	fleantúch	vliegtuig	NOUN	_	Gender=Neut|Number=Sing	11	obl	_	_
