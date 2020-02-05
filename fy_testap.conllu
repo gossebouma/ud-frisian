@@ -1446,7 +1446,7 @@
 13	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 83
-# text = Dat seit ynterim- bestjoerder Wagenaar fan 'e Sionsberg .
+# text = Dat seit ynterim-bestjoerder Wagenaar fan 'e Sionsberg .
 1	Dat	Dat	PRON	_	Person=3|PronType=Dem	2	obj	_	_
 2	seit	zegt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	ynterim-bestjoerder	interim-bestuurder	ADJ	_	Gender=Com|Number=Sing	2	nsubj	_	_
