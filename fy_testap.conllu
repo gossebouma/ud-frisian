@@ -1521,7 +1521,7 @@
 21	gau	snel	ADJ	_	Degree=Pos	25	advmod	_	_
 22	mear	meer	DET	_	_	23	det	_	_
 23	dúdlikheid	duidelijkheid	NOUN	_	Gender=Com|Number=Sing	25	obj	_	_
-24	oer	over	ADP	_	_	19	compound_prt	_	_
+24	oer	over	ADP	_	_	19	case	_	_
 25	jouwe	geven	VERB	_	VerbForm=Inf	4	conj	_	_
 26	.	.	PUNCT	_	_	4	punct	_	_
 
