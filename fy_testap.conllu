@@ -1780,7 +1780,7 @@
 13	mei	met	ADP	_	_	15	case	_	_
 14	de	de	DET	_	Definite=Def	15	det	_	_
 15	bus	bus	NOUN	_	Gender=Com|Number=Sing	10	obl	_	_
-16	,	,	PUNCT	_	_	2	punct	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
 17	in	een	DET	_	Definite=Ind	18	det	_	_
 18	boat	boot	NOUN	_	Gender=Com|Number=Sing	15	appos	_	_
 19	of	of	CCONJ	_	_	20	cc	_	_
