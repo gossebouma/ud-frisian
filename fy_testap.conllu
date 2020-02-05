@@ -1820,7 +1820,7 @@
 6	de	de	DET	_	Definite=Def	7	det	_	_
 7	feteranesykte	veteranenziekte	NOUN	_	Gender=Com|Number=Sing	8	obj	_	_
 8	krije	krijgen	VERB	_	VerbForm=Inf	3	parataxis	_	_
-9	.	.	PUNCT	_	_	4	punct	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 105
 # text = It sikehûs wurdt oansletten op in meldkeamer dêr't 24 oeren deis mei sensoaren sjoen wurdt oft de baktearje yn de liedingen sit .
