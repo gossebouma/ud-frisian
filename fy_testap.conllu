@@ -1457,7 +1457,7 @@
 8	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 84
-# text = Ek hat it ferdwinen fan 'e kreamôfdieling gefolgen foar de berne- ôfdieling .
+# text = Ek hat it ferdwinen fan 'e kreamôfdieling gefolgen foar de berne-ôfdieling .
 1	Ek	Ook	ADV	_	_	2	advmod	_	_
 2	hat	heeft	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	it	het	DET	_	Definite=Def	4	det	_	_
