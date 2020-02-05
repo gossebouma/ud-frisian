@@ -1783,7 +1783,7 @@
 16	,	,	PUNCT	_	_	15	punct	_	_
 17	in	een	DET	_	Definite=Ind	18	det	_	_
 18	boat	boot	NOUN	_	Gender=Com|Number=Sing	15	appos	_	_
-19	of	of	CCONJ	_	_	20	cc	_	_
+19	of	of	CCONJ	_	_	21	cc	_	_
 20	te	lopend	ADP	_	VerbForm=Part	21	conj	_	_
 21	gean	lopend	VERB	_	VerbForm=Part	15	conj	_	_
 22	.	.	PUNCT	_	_	2	punct	_	_
