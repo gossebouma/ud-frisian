@@ -1855,18 +1855,17 @@
 3	jout	geeft	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	in	een	DET	_	Definite=Ind	5	det	_	_
 5	subsydzje	subsidie	NOUN	_	Gender=Com|Number=Sing	3	obj	_	_
-6	fan	van	ADP	_	_	9	case	_	_
-7	180.	180.	NUM	_	_	9	det	_	_
-8	000	000	NUM	_	_	7	fixed	_	_
-9	euro	euro	NOUN	_	Gender=Com|Number=Sing	5	nmod	_	_
-10	om	om	ADP	_	_	16	mark	_	_
-11	sensoaren	sensoren	NOUN	_	Number=Plur	16	obj	_	_
-12	yn	in	ADP	_	_	14	case	_	_
-13	de	de	DET	_	Definite=Def	14	det	_	_
-14	liedingen	leidingen	NOUN	_	Number=Plur	16	obl	_	_
-15	te	te	ADP	_	_	16	mark	_	_
-16	bouwen	bouwen	VERB	_	VerbForm=Inf	3	advcl	_	_
-17	.	.	PUNCT	_	_	3	punct	_	_
+6	fan	van	ADP	_	_	8	case	_	_
+7	180.000	180.000	NUM	_	_	8	det	_	_
+8	euro	euro	NOUN	_	Gender=Com|Number=Sing	5	nmod	_	_
+9	om	om	ADP	_	_	15	mark	_	_
+10	sensoaren	sensoren	NOUN	_	Number=Plur	15	obj	_	_
+11	yn	in	ADP	_	_	13	case	_	_
+12	de	de	DET	_	Definite=Def	13	det	_	_
+13	liedingen	leidingen	NOUN	_	Number=Plur	15	obl	_	_
+14	te	te	ADP	_	_	15	mark	_	_
+15	bouwen	bouwen	VERB	_	VerbForm=Inf	3	advcl	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 107
 # text = De technyk is ûntwikkele troch Holland Watertechnology .
