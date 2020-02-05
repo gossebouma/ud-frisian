@@ -1723,7 +1723,7 @@
 8	fan	van	ADP	_	_	9	case	_	_
 9	keninginne	koningin	NOUN	_	Gender=Com|Number=Sing	7	nmod	_	_
 10	Beatrix	Beatrix	PROPN	_	Gender=Com|Number=Sing	9	appos	_	_
-11	freed	vrijdag	PROPN	_	Gender=Com|Number=Sing	0	root	_	_
+11	freed	vrijdag	NOUN	_	Gender=Com|Number=Sing	0	root	_	_
 12	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 100
