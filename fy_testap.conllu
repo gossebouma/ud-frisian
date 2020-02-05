@@ -1449,13 +1449,12 @@
 # text = Dat seit ynterim- bestjoerder Wagenaar fan 'e Sionsberg .
 1	Dat	Dat	PRON	_	Person=3|PronType=Dem	2	obj	_	_
 2	seit	zegt	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	ynterim-	interim-	ADJ	_	Gender=Com|Number=Sing	2	nsubj	_	_
-4	bestjoerder	bestuurder	NOUN	_	Gender=Com|Number=Sing	3	appos	_	_
-5	Wagenaar	Wagenaar	PROPN	_	_	4	appos	_	_
-6	fan	van	ADP	_	_	5	flat	_	_
-7	'e	de	DET	_	_	5	flat	_	_
-8	Sionsberg	Sionsberg	PROPN	_	_	5	flat	_	_
-9	.	.	PUNCT	_	_	2	punct	_	_
+3	ynterim-bestjoerder	interim-bestuurder	ADJ	_	Gender=Com|Number=Sing	2	nsubj	_	_
+4	Wagenaar	Wagenaar	PROPN	_	_	3	appos	_	_
+5	fan	van	ADP	_	_	4	flat	_	_
+6	'e	de	DET	_	_	4	flat	_	_
+7	Sionsberg	Sionsberg	PROPN	_	_	4	flat	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 84
 # text = Ek hat it ferdwinen fan 'e kreamôfdieling gefolgen foar de berne- ôfdieling .
