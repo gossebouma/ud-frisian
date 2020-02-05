@@ -1442,7 +1442,7 @@
 9	'e	de	DET	_	Definite=Def	10	det	_	_
 10	Keninginne	Koningin	NOUN	_	Gender=Com|Number=Sing	7	nmod	_	_
 11	John	John	PROPN	_	Gender=Com|Number=Sing	10	appos	_	_
-12	Jorritsma	Jorritsma	PROPN	_	Gender=Com|Number=Sing	11	appos	_	_
+12	Jorritsma	Jorritsma	PROPN	_	Gender=Com|Number=Sing	11	flat	_	_
 13	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 83
