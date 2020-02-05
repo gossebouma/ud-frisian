@@ -1508,7 +1508,7 @@
 8	har	zich	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	9	expl_pv	_	_
 9	ynspanne	inspannen	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
 10	om	om	ADP	_	_	17	mark	_	_
-11	de	de	DET	_	Definite=Def	12	det	_	_
+11	de	de	DET	_	Definite=Def	24	det	_	_
 12	bertesoarch	geboortezorg	NOUN	_	Gender=Com|Number=Sing	17	obj	_	_
 13	yn	in	ADP	_	_	14	case	_	_
 14	Dokkum	Dokkum	PROPN	_	Gender=Neut|Number=Sing	12	nmod	_	_
