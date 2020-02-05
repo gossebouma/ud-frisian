@@ -1377,7 +1377,7 @@
 10	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 78
-# text = De barak is boud yn 'e jierren ' 30 foar de wurkferskaffing .
+# text = De barak is boud yn 'e jierren '30 foar de wurkferskaffing .
 1	De	De	DET	_	Definite=Def	2	det	_	_
 2	barak	barak	NOUN	_	Gender=Com|Number=Sing	4	nsubj_pass	_	_
 3	is	is	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	aux_pass	_	_
