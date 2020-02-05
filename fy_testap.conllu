@@ -1732,7 +1732,7 @@
 2	lêste	laatste	ADJ	_	_	3	amod	_	_
 3	saken	zaken	NOUN	_	Number=Plur	4	nsubj	_	_
 4	binne	zijn	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	6	aux	_	_
-5	woansdei	woensdag	PROPN	_	Gender=Com|Number=Sing	6	advmod	_	_
+5	woansdei	woensdag	NOUN	_	Gender=Com|Number=Sing	6	advmod	_	_
 6	regele	geregeld	VERB	_	VerbForm=Part	0	root	_	_
 7	troch	door	ADP	_	_	9	case	_	_
 8	de	de	DET	_	Definite=Def	9	det	_	_
