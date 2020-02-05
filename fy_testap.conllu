@@ -1730,7 +1730,7 @@
 # text = De lêste saken binne woansdei regele troch de kommissaris fan de Keninginne en de boargemasters Hayo Apotheker fan Súdwest- Fryslân en Willem Hoornstra fan Gaasterlân- Sleat .
 1	De	De	DET	_	Definite=Def	3	det	_	_
 2	lêste	laatste	ADJ	_	_	3	amod	_	_
-3	saken	zaken	NOUN	_	Number=Plur	4	nsubj	_	_
+3	saken	zaken	NOUN	_	Number=Plur	6	nsubj	_	_
 4	binne	zijn	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	6	aux	_	_
 5	woansdei	woensdag	NOUN	_	Gender=Com|Number=Sing	6	advmod	_	_
 6	regele	geregeld	VERB	_	VerbForm=Part	0	root	_	_
