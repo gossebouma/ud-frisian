@@ -304,7 +304,7 @@
 28	foto	foto	NOUN	_	VerbForm=Part	29	obl	_	dutch=gefotografeerd
 29	set	set	VERB	_	VerbForm=Part	10	nmod	_	dutch=gefotografeerd
 30	en	en	CCONJ	_	_	31	cc	_	dutch=en
-31	beskreaun	beskriuwe	VERB	_	VerbForm=Part	28	conj	_	dutch=beschreven
+31	beskreaun	beskriuwe	VERB	_	VerbForm=Part	29	conj	_	dutch=beschreven
 32	binne	wêze	AUX	_	VerbForm=Inf	10	cop	_	dutch=zijn
 33	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
