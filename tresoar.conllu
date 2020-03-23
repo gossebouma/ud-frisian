@@ -278,7 +278,7 @@
 2	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	1	cop	_	dutch=is
 3	yn	yn	ADP	_	_	5	case	_	dutch=in
 4	alle	al	DET	_	_	5	det	_	dutch=ieder
-5	gefallen	gefal	NOUN	_	Gender=Neut|Number=Sing	2	obl	_	dutch=geval
+5	gefallen	gefal	NOUN	_	Gender=Neut|Number=Sing	1	obl	_	dutch=geval
 6	dat	dat	SCONJ	_	_	29	mark	_	dutch=dat
 7	yn	yn	ADP	_	_	9	case	_	dutch=in
 8	dit	dit	DET	_	_	9	det	_	dutch=dit
