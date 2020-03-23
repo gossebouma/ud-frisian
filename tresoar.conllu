@@ -331,7 +331,7 @@
 16	oan	oan	ADP	_	_	18	case	_	dutch=aan
 17	de	de	DET	_	Definite=Def	18	det	_	dutch=de
 18	gebouwen	gebouw	NOUN	_	Number=Plur	15	nmod	_	dutch=gebouwen
-19	dien	dwaan	VERB	_	VerbForm=Part	1	parataxis	_	dutch=gedaan
+19	dien	dwaan	VERB	_	VerbForm=Part	0	root	_	dutch=gedaan
 20	en	en	CCONJ	_	_	21	cc	_	dutch=en
 21	sit	sit	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	19	conj	_	dutch=zit
 22	eltsenien	eltsenien	PRON	_	Degree=Pos	23	amod	_	dutch=juiste
