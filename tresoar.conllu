@@ -214,7 +214,7 @@
 5	bewarplak	bewarplak	NOUN	_	_	7	nmod	_	dutch=voor
 6	fan	fan	ADP	_	_	7	case	_	dutch=KEY-MISSING
 7	skatten	skat	VERB	_	Number=Plur	0	root	_	dutch=schatten
-8	.	.	PUNCT	_	_	0	root	_	dutch=.
+8	.	.	PUNCT	_	_	5	root	_	dutch=.
 
 # sent_id = 14
 # text = De depots oan de Bûterhoeke sitte dêr fol mei .
