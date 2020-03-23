@@ -302,7 +302,7 @@
 26	op	op	ADP	_	Degree=Pos	28	case	_	dutch=schriftelijk
 27	’e	’e	DET	_	_	28	det	_	dutch=KEY-MISSING
 28	foto	foto	NOUN	_	VerbForm=Part	29	obl	_	dutch=gefotografeerd
-29	set	set	VERB	_	VerbForm=Part	1	nmod	_	dutch=gefotografeerd
+29	set	set	VERB	_	VerbForm=Part	1	csubj	_	dutch=gefotografeerd
 30	en	en	CCONJ	_	_	31	cc	_	dutch=en
 31	beskreaun	beskriuwe	VERB	_	VerbForm=Part	29	conj	_	dutch=beschreven
 32	binne	wêze	AUX	_	VerbForm=Inf	29	cop	_	dutch=zijn
