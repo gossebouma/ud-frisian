@@ -334,7 +334,7 @@
 19	dien	dwaan	VERB	_	VerbForm=Part	0	root	_	dutch=gedaan
 20	en	en	CCONJ	_	_	21	cc	_	dutch=en
 21	sit	sit	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	19	conj	_	dutch=zit
-22	eltsenien	eltsenien	PRON	_	Degree=Pos	23	amod	_	dutch=juiste
+22	eltsenien	eltsenien	PRON	_	Degree=Pos	21	amod	_	dutch=juiste
 23	teplak	teplak	ADV	_	Gender=Com|Number=Sing	21	obl	_	dutch=plaats
 24	.	.	PUNCT	_	_	1	punct	_	dutch=.
 
