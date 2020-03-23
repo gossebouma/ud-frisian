@@ -301,7 +301,7 @@
 25	erfgoed	erfgoed	NOUN	_	Gender=Neut|Number=Sing	20	nmod	_	dutch=erfgoed
 26	op	op	ADP	_	Degree=Pos	28	case	_	dutch=schriftelijk
 27	’e	’e	DET	_	_	28	det	_	dutch=KEY-MISSING
-28	foto	foto	NOUN	_	VerbForm=Part	10	nmod	_	dutch=gefotografeerd
+28	foto	foto	NOUN	_	VerbForm=Part	29	nmod	_	dutch=gefotografeerd
 29	set	set	VERB	_	VerbForm=Part	10	nmod	_	dutch=gefotografeerd
 30	en	en	CCONJ	_	_	31	cc	_	dutch=en
 31	beskreaun	beskriuwe	VERB	_	VerbForm=Part	28	conj	_	dutch=beschreven
