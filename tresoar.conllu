@@ -94,7 +94,7 @@
 12	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	3	conj	_	dutch=Fries
 13	Letterkundich	Letterkundich	PROPN	_	_	12	flat	_	dutch=Letterkundig
 14	Museum	Museum	PROPN	_	_	12	flat	_	dutch=VAL-MISSING
-15	en	en	PROPN	_	_	12	cc	_	dutch=en
+15	en	en	PROPN	_	_	12	flat	_	dutch=en
 16	Dokumintaasjesintrum	Dokumintaasjesintrum	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=VAL-MISSING
 17	al	al	ADV	_	_	21	advmod	_	dutch=al
 18	yn	yn	ADP	_	_	21	case	_	dutch=in
