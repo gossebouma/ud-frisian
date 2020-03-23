@@ -213,7 +213,7 @@
 4	in	in	DET	_	Definite=Ind	5	det	_	dutch=een
 5	bewarplak	bewarplak	NOUN	_	_	0	root	_	dutch=voor
 6	fan	fan	ADP	_	_	7	case	_	dutch=KEY-MISSING
-7	skatten	skat	VERB	_	Number=Plur	5	root	_	dutch=schatten
+7	skatten	skat	VERB	_	Number=Plur	5	nmod	_	dutch=schatten
 8	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
 # sent_id = 14
