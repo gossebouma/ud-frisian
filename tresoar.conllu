@@ -181,7 +181,7 @@
 12	namme	namme	NOUN	_	Gender=Com|Number=Sing	20	obl	_	dutch=naam
 13	,	,	PUNCT	_	_	14	punct	_	dutch=,
 14	ûnbewust	ûnbewust	ADJ	_	Degree=Pos	12	amod	_	dutch=onbewust
-15	,	,	PUNCT	_	_	12	punct	_	dutch=,
+15	,	,	PUNCT	_	_	6	punct	_	dutch=,
 16	ek	ek	ADV	_	_	20	advmod	_	dutch=ook
 17	tagelyk	tagelyk	ADV	_	_	20	advmod	_	dutch=meteen
 18	de	de	DET	_	Definite=Def	19	det	_	dutch=de
