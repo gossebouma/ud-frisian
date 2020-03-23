@@ -52,7 +52,7 @@
 1	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Tresoarin
 2	yn	yn	ADP	_	Gender=Com|Number=Sing	4	case	_	dutch=Tresoarin
 3	’e	’e	DET	_	Gender=Com|Number=Sing	4	nmod	_	dutch=Tresoarin
-4	mande	mande	NOUN	_	_	6	case	_	dutch=met
+4	mande	mande	NOUN	_	_	1	case	_	dutch=met
 5	mei	mei	ADP	_	_	6	case	_	dutch=met
 6	Utjouwerij	Utjouwerij	PROPN	_	_	0	root	_	dutch=Utjouwerij
 7	Fryslân	Fryslân	PROPN	_	_	6	flat	_	dutch=Fryslân
