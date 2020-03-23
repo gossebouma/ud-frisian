@@ -212,7 +212,7 @@
 3	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	_	dutch=is
 4	in	in	DET	_	Definite=Ind	5	det	_	dutch=een
 5	bewarplak	bewarplak	NOUN	_	_	7	case	_	dutch=voor
-6	fan	fan	ADP	_	_	7	root	_	dutch=KEY-MISSING
+6	fan	fan	ADP	_	_	7	case	_	dutch=KEY-MISSING
 7	skatten	skat	VERB	_	Number=Plur	0	root	_	dutch=schatten
 8	.	.	PUNCT	_	_	0	root	_	dutch=.
 
