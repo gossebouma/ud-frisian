@@ -109,7 +109,7 @@
 27	om	om	ADP	_	_	30	mark	_	dutch=om
 28	nei	nei	ADP	_	_	30	compound_prt	_	dutch=na
 29	te	te	ADP	_	_	30	mark	_	dutch=te
-30	tinken	tinke	VERB	_	VerbForm=Inf	26	csubj	_	dutch=denken
+30	tinken	tinke	VERB	_	VerbForm=Inf	26	acl	_	dutch=denken
 31	oer	oer	ADP	_	_	33	case	_	dutch=over
 32	in	in	DET	_	Definite=Ind	33	det	_	dutch=een
 33	namme	namme	NOUN	_	Gender=Com|Number=Sing	30	obl	_	dutch=naam
