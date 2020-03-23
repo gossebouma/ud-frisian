@@ -50,7 +50,7 @@
 # alignment =  0-0 1-0 2-0 3-2 4-2 5-3 6-4 7-5 8-6
 # NOT ALIGNED
 1	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Tresoarin
-2	yn	yn	ADP	_	Gender=Com|Number=Sing	4	root	_	dutch=Tresoarin
+2	yn	yn	ADP	_	Gender=Com|Number=Sing	4	case	_	dutch=Tresoarin
 3	’e	’e	DET	_	Gender=Com|Number=Sing	4	nmod	_	dutch=Tresoarin
 4	mande	mande	NOUN	_	_	6	case	_	dutch=met
 5	mei	mei	ADP	_	_	6	case	_	dutch=met
