@@ -172,7 +172,7 @@
 3	Baukje	Baukje	PROPN	_	_	2	appos	_	dutch=Baukje
 4	Wytsma	Wytsma	PROPN	_	_	3	flat	_	dutch=Wytsma
 5	hie	hawwe	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	8	aux	_	dutch=had
-6	dy	dy	DET	_	_	0	root	_	dutch=KEY-MISSING
+6	dy	dy	DET	_	_	7	root	_	dutch=KEY-MISSING
 7	namme	namme	NOUN	_	Gender=Com|Number=Sing	8	obj	_	dutch=naam
 8	ynstjoerd	ynstjoere	VERB	_	VerbForm=Part	0	root	_	dutch=ingezonden
 9	en	en	CCONJ	_	_	20	cc	_	dutch=en
