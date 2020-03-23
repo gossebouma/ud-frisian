@@ -89,7 +89,7 @@
 7	Buma	Buma	PROPN	_	_	5	conj	_	dutch=Buma
 8	Biblioteek	Biblioteek	PROPN	_	_	7	flat	_	dutch=Bibliotheek
 9	,	,	PUNCT	_	_	10	punct	_	dutch=,
-10	Ryksargyf	Ryksargyf	PROPN	_	Gender=Com|Number=Sing	3	conj	_	dutch=Rijksarchief
+10	Ryksargyf	Ryksargyf	PROPN	_	Gender=Com|Number=Sing	5	conj	_	dutch=Rijksarchief
 11	en	en	CCONJ	_	_	12	cc	_	dutch=en
 12	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	3	conj	_	dutch=Fries
 13	Letterkundich	Letterkundich	PROPN	_	_	12	appos	_	dutch=Letterkundig
