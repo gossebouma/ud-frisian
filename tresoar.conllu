@@ -137,7 +137,7 @@
 11	organisaasjes	organisaasje	NOUN	_	Number=Plur	5	nmod	_	dutch=organisaties
 12	kamen	komme	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	dutch=kwamen
 13	der	der	ADV	_	_	12	advmod	_	dutch=er
-14	hûnderten	hûndert	NUM	_	_	12	nsubj	_	dutch=honderden
+14	hûnderten	hûndert	NUM	_	_	15	nsubj	_	dutch=honderden
 15	suggestjes	suggestje	NOUN	_	_	12	compound_prt	_	dutch=binnen
 16	yn	yn	ADP	_	_	12	compound_prt	_	dutch=binnen
 17	.	.	PUNCT	_	_	12	punct	_	dutch=.
