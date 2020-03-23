@@ -299,7 +299,7 @@
 23	Frysk	Frysk	NOUN	_	Degree=Pos	25	amod	_	dutch=Fries
 24	skriftlik	skriftlik	ADJ	_	Degree=Pos	25	amod	_	dutch=schriftelijk
 25	erfgoed	erfgoed	NOUN	_	Gender=Neut|Number=Sing	20	nmod	_	dutch=erfgoed
-26	op	op	ADP	_	Degree=Pos	25	amod	_	dutch=schriftelijk
+26	op	op	ADP	_	Degree=Pos	28	amod	_	dutch=schriftelijk
 27	’e	’e	DET	_	_	28	det	_	dutch=KEY-MISSING
 28	foto	foto	NOUN	_	VerbForm=Part	10	nmod	_	dutch=gefotografeerd
 29	set	set	VERB	_	VerbForm=Part	10	nmod	_	dutch=gefotografeerd
