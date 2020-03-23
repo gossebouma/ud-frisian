@@ -209,7 +209,7 @@
 # NOT ALIGNED
 1	In	In	DET	_	Definite=Ind	2	det	_	dutch=Een
 2	tresoar	tresoar	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=tresoor
-3	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	2	root	_	dutch=is
+3	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	2	cop	_	dutch=is
 4	in	in	DET	_	Definite=Ind	0	root	_	dutch=een
 5	bewarplak	bewarplak	NOUN	_	_	7	case	_	dutch=voor
 6	fan	fan	ADP	_	_	0	root	_	dutch=KEY-MISSING
