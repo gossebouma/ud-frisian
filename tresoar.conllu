@@ -72,7 +72,7 @@
 # alignment =  0-0 1-1 2-2
 # ALIGNED
 1	Skatkeamer	skatkeamer	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=Schatkamer
-2	fan	fan	ADP	_	_	1	appos	_	dutch=van
+2	fan	fan	ADP	_	_	3	appos	_	dutch=van
 3	Fryslân	Fryslân	PROPN	_	_	1	nmod	_	dutch=Friesland
 
 # sent_id = 8
