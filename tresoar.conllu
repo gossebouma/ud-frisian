@@ -284,7 +284,7 @@
 8	dit	dit	DET	_	_	9	det	_	dutch=dit
 9	boekje	boek	NOUN	_	Gender=Neut|Number=Sing	10	nmod	_	dutch=boekje
 10	45	45	NUM	_	_	2	nsubj	_	dutch=45
-11	mei	mei	ADP	_	_	20	root	_	dutch=KEY-MISSING
+11	mei	mei	ADP	_	_	20	case	_	dutch=KEY-MISSING
 12	fan	fan	ADP	_	_	20	case	_	dutch=van
 13	de	de	DET	_	Definite=Def	20	det	_	dutch=de
 14	moaiste	moai	ADJ	_	Degree=Sup	20	nmod	_	dutch=mooiste
