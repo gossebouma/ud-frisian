@@ -314,7 +314,7 @@
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-24 22-25 23-26
 # ALIGNED
 1	Twa	twa	NUM	_	_	0	root	_	dutch=Twee
-2	jier	jier	NOUN	_	Gender=Neut|Number=Sing	19	nmod	_	dutch=jaar
+2	jier	jier	NOUN	_	Gender=Neut|Number=Sing	19	obl	_	dutch=jaar
 3	nei	nei	ADP	_	_	4	case	_	dutch=na
 4	1	1	NUM	_	Gender=Com|Number=Sing	1	nmod	_	dutch=1
 5	septimber	septimber	PROPN	_	Gender=Com|Number=Sing	4	flat	_	dutch=september
