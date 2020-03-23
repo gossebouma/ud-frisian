@@ -73,7 +73,7 @@
 # ALIGNED
 1	Skatkeamer	skatkeamer	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=Schatkamer
 2	fan	fan	ADP	_	_	1	appos	_	dutch=van
-3	Fryslân	Fryslân	PROPN	_	_	2	flat	_	dutch=Friesland
+3	Fryslân	Fryslân	PROPN	_	_	1	flat	_	dutch=Friesland
 
 # sent_id = 8
 # text = Doe’t it fúzje-oerlis tusken Provinsjale en Buma Biblioteek , Ryksargyf en Frysk Letterkundich Museum en Dokumintaasjesintrum al yn in fier stadium wie , waard it tiid om nei te tinken oer in namme foar it nije ynstitút .
