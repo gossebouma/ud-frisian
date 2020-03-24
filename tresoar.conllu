@@ -1368,7 +1368,7 @@
 7	as	as	SCONJ	_	_	6	fixed	_	dutch=dan
 8	hûndert	hûndert	NUM	_	_	9	nummod	_	dutch=honderd
 9	besikers	besiker	NOUN	_	Number=Plur	3	nmod	_	dutch=bezoekers
-10	sil	sille	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=is
+10	sil	sille	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	17	root	_	dutch=is
 11	der	der	ADV	_	_	10	advmod	_	dutch=er
 12	altyd	altyd	ADV	_	_	10	advmod	_	dutch=altijd
 13	wol	wol	ADV	_	_	10	advmod	_	dutch=wel
