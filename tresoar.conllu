@@ -552,7 +552,7 @@
 9	bedriuwen	bedriuw	NOUN	_	Number=Plur	7	conj	_	dutch=bedrijven
 10	,	,	PUNCT	_	_	11	punct	_	dutch=,
 11	tsjerken	tsjerke	NOUN	_	Number=Plur	7	conj	_	dutch=kerken
-12	,	,	PUNCT	_	_	11	punct	_	dutch=,
+12	,	,	PUNCT	_	_	13	punct	_	dutch=,
 13	kleasters	kleaster	NOUN	_	Number=Plur	7	conj	_	dutch=kloosters
 14	,	,	PUNCT	_	_	13	punct	_	dutch=,
 15	ferieningen	feriening	NOUN	_	Number=Plur	7	conj	_	dutch=verenigingen
