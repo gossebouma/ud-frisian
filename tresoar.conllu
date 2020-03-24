@@ -871,7 +871,7 @@
 14	fan	fan	ADP	_	_	16	case	_	dutch=VAL-MISSING
 15	it	it	DET	_	Definite=Def	16	det	_	dutch=VAL-MISSING
 16	Letterkundig	Letterkundig	PROPN	_	_	13	nmod	_	dutch=Letterkundig
-17	Museum	Museum	PROPN	_	_	16	root	_	dutch=VAL-MISSING
+17	Museum	Museum	PROPN	_	_	16	flat	_	dutch=VAL-MISSING
 18	yn	yn	ADP	_	_	0	root	_	dutch=VAL-MISSING
 19	Den	Den	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 20	Haach	Haach	PROPN	_	_	0	root	_	dutch=VAL-MISSING
