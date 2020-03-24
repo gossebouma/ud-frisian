@@ -1264,7 +1264,7 @@
 11	op	op	ADP	_	Number=Plur	13	case	_	dutch=terreinen
 12	de	de	DET	_	Definite=Def	13	det	_	dutch=de
 13	mêden	mêd	NOUN	_	Number=Plur	10	nmod	_	dutch=terreinen
-14	dêr’t	dêr’t	ADV	_	_	17	advmod	_	dutch=waarin
+14	dêr’t	dêr’t	ADV	_	_	17	obl	_	dutch=waarin
 15	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	17	nsubj_pass	_	dutch=Tresoar
 16	yn	yn	ADP	_	_	14	case	_	dutch=waarin
 17	spesjalisearre	spesjalisearje	VERB	_	VerbForm=Part	13	acl_relcl	_	dutch=gespecialiseerd
