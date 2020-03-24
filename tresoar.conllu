@@ -872,7 +872,7 @@
 15	it	it	DET	_	Definite=Def	16	det	_	dutch=VAL-MISSING
 16	Letterkundig	Letterkundig	PROPN	_	_	13	nmod	_	dutch=Letterkundig
 17	Museum	Museum	PROPN	_	_	16	flat	_	dutch=VAL-MISSING
-18	yn	yn	ADP	_	_	0	root	_	dutch=VAL-MISSING
+18	yn	yn	ADP	_	_	19	root	_	dutch=VAL-MISSING
 19	Den	Den	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 20	Haach	Haach	PROPN	_	_	19	flat	_	dutch=VAL-MISSING
 21	foar	foar	ADP	_	_	23	case	_	dutch=voor
