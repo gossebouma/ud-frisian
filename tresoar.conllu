@@ -659,7 +659,7 @@
 10	en	en	CCONJ	_	_	11	cc	_	dutch=KEY-MISSING
 11	bewarfunksje	bewarfunksje	NOUN	_	_	9	conj	_	dutch=bewaarfunctie
 12	foar	foar	ADP	_	_	13	case	_	dutch=voor
-13	Frisiaca	Frisiaca	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Frisiaca
+13	Frisiaca	Frisiaca	PROPN	_	Gender=Com|Number=Sing	11	root	_	dutch=Frisiaca
 14	:	:	PUNCT	_	_	13	punct	_	dutch=:
 15	boeken	boek	NOUN	_	VerbForm=Inf	13	appos	_	dutch=boeken
 16	en	en	CCONJ	_	_	18	cc	_	dutch=en
