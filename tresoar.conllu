@@ -1350,7 +1350,7 @@
 19	mikrofilms	mikrofilm	NOUN	_	Number=Plur	17	nmod	_	dutch=microfilms
 20	yn	yn	ADP	_	_	21	case	_	dutch=in
 21	selsbetsjinning	selsbetsjinning	NOUN	_	Gender=Com|Number=Sing	22	obl	_	dutch=zelfbediening
-22	besjoen	besjen	VERB	_	VerbForm=Part	6	parataxis	_	dutch=geraadpleegd
+22	besjoen	besjen	VERB	_	VerbForm=Part	0	root	_	dutch=geraadpleegd
 23	wurde	wurde	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	22	aux_pass	_	dutch=worden
 24	.	.	PUNCT	_	_	6	punct	_	dutch=.
 
