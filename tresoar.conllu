@@ -1185,7 +1185,7 @@
 18	de	de	DET	_	Definite=Def	19	det	_	dutch=de
 19	kolleksjes	kolleksje	NOUN	_	_	21	cc	_	dutch=en
 20	fan	fan	ADP	_	_	22	root	_	dutch=KEY-MISSING
-21	oare	oar	ADJ	_	Gender=Com|Number=Sing	11	conj	_	dutch=Krantenbank
+21	oare	oar	ADJ	_	Gender=Com|Number=Sing	22	conj	_	dutch=Krantenbank
 22	ynstituten	ynstitút	NOUN	_	Gender=Com|Number=Sing	11	conj	_	dutch=Krantenbank
 23	.	.	PUNCT	_	_	10	punct	_	dutch=.
 
