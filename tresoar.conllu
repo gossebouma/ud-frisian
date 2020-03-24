@@ -602,7 +602,7 @@
 2	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	cop	_	dutch=is
 3	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	6	nsubj	_	dutch=Tresoar
 4	ek	ek	ADV	_	_	6	advmod	_	dutch=ook
-5	it	it	DET	_	_	6	root	_	dutch=KEY-MISSING
+5	it	it	DET	_	_	6	det	_	dutch=KEY-MISSING
 6	ryksargyfbewarplak	ryksargyfbewarplak	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=rijksarchiefbewaarplaats
 7	yn	yn	ADP	_	_	8	case	_	dutch=in
 8	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	6	nmod	_	dutch=Fryslân
