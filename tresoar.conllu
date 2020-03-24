@@ -1030,7 +1030,7 @@
 22	kantine	kantine	NOUN	_	Gender=Com|Number=Sing	17	nsubj	_	dutch=kantine
 23	dêr’t	dêr’t	ADV	_	VerbForm=Part	22	acl_relcl	_	dutch=gepauzeerd
 24	men	men	PRON	_	VerbForm=Part	26	nsubj	_	dutch=gepauzeerd
-25	skoftsje	skoftsje	NOUN	_	VerbForm=Part	26	acl_relcl	_	dutch=gepauzeerd
+25	skoftsje	skoftsje	NOUN	_	VerbForm=Part	26	obj	_	dutch=gepauzeerd
 26	kin	kinne	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	dutch=kan
 27	.	.	PUNCT	_	_	4	punct	_	dutch=.
 
