@@ -558,7 +558,7 @@
 15	ferieningen	feriening	NOUN	_	Number=Plur	7	conj	_	dutch=verenigingen
 16	,	,	PUNCT	_	_	20	punct	_	dutch=,
 17	ensfh.	ensfh.	X	_	Abbr=Yes	7	cc	_	dutch=etc
-18	ta	ta	ADP	_	_	20	root	_	dutch=KEY-MISSING
+18	ta	ta	ADP	_	_	20	case	_	dutch=KEY-MISSING
 19	syn	syn	PRON	_	_	0	root	_	dutch=KEY-MISSING
 20	foldwaan	foldwaning	NOUN	_	Abbr=Yes	7	cc	_	dutch=etc
 21	.	.	PUNCT	_	_	1	punct	_	dutch=.
