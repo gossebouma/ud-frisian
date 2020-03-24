@@ -608,7 +608,7 @@
 8	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	6	nmod	_	dutch=Fryslân
 9	en	en	CCONJ	_	_	10	cc	_	dutch=en
 10	behearsket	behearskje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	conj	_	dutch=beheert
-11	yn	yn	ADP	_	_	13	root	_	dutch=KEY-MISSING
+11	yn	yn	ADP	_	_	13	case	_	dutch=KEY-MISSING
 12	dy	dy	PRON	_	Degree=Pos	19	advmod	_	dutch=zodanig
 13	hoedanichheid	hoedanichheid	NOUN	_	Definite=Def	15	det	_	dutch=de
 14	de	de	DET	_	Definite=Def	15	det	_	dutch=de
