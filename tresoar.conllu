@@ -868,7 +868,7 @@
 11	ferlykber	ferlykber	ADJ	_	Degree=Pos	10	amod	_	dutch=vergelijkbaar
 12	mei	mei	ADP	_	_	13	case	_	dutch=met
 13	dy	dy	PRON	_	Person=3|PronType=Dem	11	obl	_	dutch=die
-14	fan	fan	ADP	_	_	0	root	_	dutch=VAL-MISSING
+14	fan	fan	ADP	_	_	16	root	_	dutch=VAL-MISSING
 15	it	it	DET	_	Definite=Def	16	det	_	dutch=VAL-MISSING
 16	Letterkundig	Letterkundig	PROPN	_	_	13	nmod	_	dutch=Letterkundig
 17	Museum	Museum	PROPN	_	_	0	root	_	dutch=VAL-MISSING
