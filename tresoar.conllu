@@ -1412,7 +1412,7 @@
 4	ferdjipping	ferdjipping	NOUN	_	Gender=Com|Number=Sing	5	obl	_	dutch=verdieping
 5	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	11	aux	_	dutch=is
 6	de	de	DET	_	Definite=Def	7	det	_	dutch=de
-7	stúdzjeseal	stúdzjeseal	NOUN	_	Gender=Com|Number=Sing	5	nsubj	_	dutch=studiezaal
+7	stúdzjeseal	stúdzjeseal	NOUN	_	Gender=Com|Number=Sing	11	nsubj	_	dutch=studiezaal
 8	Buma	Buma	PROPN	_	Gender=Com|Number=Sing	7	appos	_	dutch=Buma
 9	/	/	PUNCT	_	_	10	punct	_	dutch=/
 10	Fuks	Fuks	PROPN	_	Degree=Pos	8	conj	_	dutch=Fuks
