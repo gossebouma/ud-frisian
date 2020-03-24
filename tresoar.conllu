@@ -1052,7 +1052,7 @@
 11	dreech	dreech	ADJ	_	Degree=Pos	8	acl_relcl	_	dutch=moeilijk
 12	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	11	cop	_	dutch=is
 13	om	om	ADP	_	_	16	mark	_	dutch=om
-14	paadwiis	paadwiis	NOUN	_	_	16	root	_	dutch=KEY-MISSING
+14	paadwiis	paadwiis	NOUN	_	_	16	xcomp	_	dutch=KEY-MISSING
 15	te	te	ADP	_	_	16	mark	_	dutch=te
 16	wurden	wurde	AUX	_	VerbForm=Inf	11	ccomp	_	dutch=vinden
 17	yn	yn	ADP	_	_	19	case	_	dutch=in
