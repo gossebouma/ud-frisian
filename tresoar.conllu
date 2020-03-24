@@ -667,7 +667,7 @@
 18	media	media	NOUN	_	Number=Plur	15	conj	_	dutch=media
 19	oangeande	oangeande	ADP	_	_	21	case	_	dutch=tot
 20	de	de	DET	_	Definite=Def	21	det	_	dutch=de
-21	skiednis	skiednis	NOUN	_	Gender=Com|Number=Sing	15	root	_	dutch=geschiedenis
+21	skiednis	skiednis	NOUN	_	Gender=Com|Number=Sing	15	nmod	_	dutch=geschiedenis
 22	,	,	PUNCT	_	_	23	punct	_	dutch=,
 23	taal	taal	NOUN	_	Gender=Com|Number=Sing	21	conj	_	dutch=taal
 24	en	en	CCONJ	_	_	25	cc	_	dutch=en
