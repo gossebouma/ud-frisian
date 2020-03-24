@@ -1305,7 +1305,7 @@
 # source_text = Vooral van de Friese literatuur en Friese geschiedenis staan veel boeken in de open opstelling .
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 7-6 8-7 9-8 10-9 11-9 12-10 13-11 14-12 15-13 16-14 17-15
 # NOT ALIGNED
-1	Benammen	benammen	ADV	_	_	5	amod	_	dutch=Vooral
+1	Benammen	benammen	ADV	_	_	5	advmod	_	dutch=Vooral
 2	fan	fan	ADP	_	_	5	case	_	dutch=van
 3	de	de	DET	_	Definite=Def	5	det	_	dutch=de
 4	Fryske	Frysk	ADJ	_	Degree=Pos	5	amod	_	dutch=Friese
