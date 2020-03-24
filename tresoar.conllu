@@ -1506,7 +1506,7 @@
 7	brûken	brûke	VERB	_	Gender=Neut|Number=Sing	3	obl	_	dutch=gebruik
 8	fan	fan	ADP	_	_	9	case	_	dutch=van
 9	ynformaasje-	ynformaasje-	NOUN	_	_	0	root	_	dutch=Communicatie
-10	en	en	CCONJ	_	_	11	root	_	dutch=KEY-MISSING
+10	en	en	CCONJ	_	_	11	cc	_	dutch=KEY-MISSING
 11	kommunikaasjetechnology	kommunikaasjetechnology	NOUN	_	_	0	root	_	dutch=Technologie
 12	(	(	PUNCT	_	_	1	punct	_	dutch=(
 13	ICT	ICT	NOUN	_	Gender=Com_Neut|Number=Sing	7	nmod	_	dutch=ICT
