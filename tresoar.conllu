@@ -1334,7 +1334,7 @@
 3	dy’t	dy’t	PRON	_	VerbForm=Part	5	nsubj_pass	_	dutch=geraadpleegde
 4	gauris	gauris	ADJ	_	VerbForm=Part	5	advmod	_	dutch=geraadpleegde
 5	rieplachte	rieplachtsje	VERB	_	VerbForm=Part	2	acl_relcl	_	dutch=geraadpleegde
-6	wurde	wurde	AUX	_	Number=Plur	0	root	_	dutch=archieven
+6	wurde	wurde	AUX	_	Number=Plur	5	root	_	dutch=archieven
 7	lykas	lykas	SCONJ	_	_	22	mark	_	dutch=zoals
 8	de	de	DET	_	Definite=Def	9	det	_	dutch=de
 9	registers	register	NOUN	_	Number=Plur	22	nsubj_pass	_	dutch=registers
