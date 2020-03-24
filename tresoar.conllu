@@ -661,7 +661,7 @@
 12	foar	foar	ADP	_	_	13	case	_	dutch=voor
 13	Frisiaca	Frisiaca	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Frisiaca
 14	:	:	PUNCT	_	_	13	punct	_	dutch=:
-15	boeken	boek	NOUN	_	VerbForm=Inf	13	root	_	dutch=boeken
+15	boeken	boek	NOUN	_	VerbForm=Inf	13	appos	_	dutch=boeken
 16	en	en	CCONJ	_	_	18	cc	_	dutch=en
 17	oare	oar	ADJ	_	Degree=Pos	18	amod	_	dutch=andere
 18	media	media	NOUN	_	Number=Plur	15	conj	_	dutch=media
