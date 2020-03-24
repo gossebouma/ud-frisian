@@ -575,7 +575,7 @@
 5	byldmateriaal	byldmateriaal	NOUN	_	Gender=Neut|Number=Sing	2	obj	_	dutch=beeldmateriaal
 6	lykas	lykas	SCONJ	_	_	7	mark	_	dutch=zoals
 7	foto’s	foto	NOUN	_	Number=Plur	2	xcomp	_	dutch=foto’s
-8	,	,	PUNCT	_	_	9	punct	_	dutch=,
+8	,	,	PUNCT	_	_	7	punct	_	dutch=,
 9	kaarten	kaart	NOUN	_	Number=Plur	7	conj	_	dutch=kaarten
 10	en	en	CCONJ	_	_	11	cc	_	dutch=en
 11	printen	print	NOUN	_	Number=Plur	7	conj	_	dutch=prenten
