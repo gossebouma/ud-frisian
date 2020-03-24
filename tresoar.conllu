@@ -1170,7 +1170,7 @@
 3	jo	jo	PRON	_	_	7	nsubj	_	dutch=KEY-MISSING
 4	net	net	ADV	_	_	10	advmod	_	dutch=ook
 5	allinnich	allinnich	ADV	_	Number=Plur	10	nsubj_pass	_	dutch=databanken
-6	tagong	tagong	NOUN	_	Number=Plur	10	nsubj_pass	_	dutch=databanken
+6	tagong	tagong	NOUN	_	Number=Plur	7	nsubj_pass	_	dutch=databanken
 7	krije	krije	VERB	_	VerbForm=Inf	0	root	_	dutch=worden
 8	ta	ta	ADP	_	Number=Plur	10	nsubj_pass	_	dutch=databanken
 9	de	de	DET	_	Definite=Def	11	det	_	dutch=de
