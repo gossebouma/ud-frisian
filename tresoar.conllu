@@ -1466,7 +1466,7 @@
 5	fan	fan	ADP	_	_	7	case	_	dutch=van
 6	de	de	DET	_	Definite=Def	7	det	_	dutch=de
 7	samling	samling	NOUN	_	Gender=Com|Number=Sing	2	nmod	_	dutch=verzameling
-8	–	–	PUNCT	_	_	30	punct	_	dutch=–
+8	–	–	PUNCT	_	_	12	punct	_	dutch=–
 9	sawol	sawol	ADV	_	_	12	cc	_	dutch=zowel
 10	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 11	taastbere	taastber	ADJ	_	Degree=Pos	12	amod	_	dutch=tastbare
