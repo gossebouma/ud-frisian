@@ -1377,7 +1377,7 @@
 16	te	te	ADP	_	_	17	mark	_	dutch=KEY-MISSING
 17	hearren	hearre	VERB	_	Gender=Neut|Number=Sing	0	root	_	dutch=geroezemoes
 18	wêze	wêze	AUX	_	Degree=Pos	17	aux	_	dutch=zeker
-19	.	.	PUNCT	_	_	10	punct	_	dutch=.
+19	.	.	PUNCT	_	_	17	punct	_	dutch=.
 
 # sent_id = 65
 # text = Foar wa’t dat steurend fynt , is der de stille stúdzjeseal dêr’t stilte hanthavene wurdt .
