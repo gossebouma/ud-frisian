@@ -704,7 +704,7 @@
 # NOT ALIGNED
 1	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	2	nsubj	_	dutch=Tresoar
 2	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=heeft
-3	ek	ek	ADV	_	_	2	obl	_	dutch=KEY-MISSING
+3	ek	ek	ADV	_	_	2	advmod	_	dutch=KEY-MISSING
 4	in	in	DET	_	Definite=Ind	5	det	_	dutch=een
 5	spearpuntfunksje	spearpuntfunksje	NOUN	_	Gender=Com|Number=Sing	2	obj	_	dutch=speerpuntfunctie
 6	op	op	ADP	_	_	8	case	_	dutch=op
