@@ -716,7 +716,7 @@
 12	humanoria	humanoria	SCONJ	_	Degree=Pos	10	conj	_	dutch=ruime
 13	yn	yn	ADP	_	_	15	case	_	dutch=in
 14	brede	breed	ADJ	_	Degree=Pos	15	amod	_	dutch=ruime
-15	sin	sin	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=zin
+15	sin	sin	NOUN	_	Gender=Com|Number=Sing	12	root	_	dutch=zin
 16	,	,	PUNCT	_	_	17	punct	_	dutch=,
 17	teology	teology	NOUN	_	Gender=Com|Number=Sing	10	conj	_	dutch=theologie
 18	/	/	SYM	_	Gender=Com|Number=Sing	0	root	_	dutch=VAL-MISSING
