@@ -573,7 +573,7 @@
 3	it	it	DET	_	Person=3|PronType=Prs	2	nsubj	_	dutch=Het
 4	gâns	gâns	NOUN	_	_	5	det	_	dutch=veel
 5	byldmateriaal	byldmateriaal	NOUN	_	Gender=Neut|Number=Sing	2	obj	_	dutch=beeldmateriaal
-6	lykas	lykas	SCONJ	_	_	7	case	_	dutch=zoals
+6	lykas	lykas	SCONJ	_	_	7	mark	_	dutch=zoals
 7	foto’s	foto	NOUN	_	Number=Plur	2	xcomp	_	dutch=foto’s
 8	,	,	PUNCT	_	_	9	punct	_	dutch=,
 9	kaarten	kaart	NOUN	_	Number=Plur	7	conj	_	dutch=kaarten
