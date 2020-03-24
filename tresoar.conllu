@@ -1415,7 +1415,7 @@
 7	stúdzjeseal	stúdzjeseal	NOUN	_	Gender=Com|Number=Sing	5	nsubj	_	dutch=studiezaal
 8	Buma	Buma	PROPN	_	Gender=Com|Number=Sing	7	appos	_	dutch=Buma
 9	/	/	PUNCT	_	_	10	punct	_	dutch=/
-10	Fuks	Fuks	PROPN	_	Degree=Pos	8	parataxis	_	dutch=Fuks
+10	Fuks	Fuks	PROPN	_	Degree=Pos	8	conj	_	dutch=Fuks
 11	ûnderbrocht	ûnderbringe	VERB	_	VerbForm=Part	10	parataxis	_	dutch=ondergebracht
 12	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
