@@ -1266,7 +1266,7 @@
 13	mêden	mêd	NOUN	_	Number=Plur	10	nmod	_	dutch=terreinen
 14	dêr’t	dêr’t	ADV	_	_	17	advmod	_	dutch=waarin
 15	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	17	nsubj_pass	_	dutch=Tresoar
-16	yn	yn	ADP	_	_	17	advmod	_	dutch=waarin
+16	yn	yn	ADP	_	_	14	advmod	_	dutch=waarin
 17	spesjalisearre	spesjalisearje	VERB	_	VerbForm=Part	13	acl_relcl	_	dutch=gespecialiseerd
 18	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	17	aux_pass	_	dutch=is
 19	.	.	PUNCT	_	_	4	punct	_	dutch=.
