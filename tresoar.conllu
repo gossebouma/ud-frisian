@@ -1519,7 +1519,7 @@
 20	yndirekt	yndirekt	ADJ	_	Degree=Pos	0	root	_	dutch=indirect
 21	it	it	DET	_	_	0	root	_	dutch=KEY-MISSING
 22	konservearjen	konservearje	VERB	_	_	0	root	_	dutch=!
-23	)	)	PUNCT	_	_	22	root	_	dutch=)
+23	)	)	PUNCT	_	_	22	punct	_	dutch=)
 24	fan	fan	ADP	_	_	26	case	_	dutch=van
 25	de	de	DET	_	Definite=Def	26	det	_	dutch=de
 26	kolleksje	kolleksje	NOUN	_	Gender=Com|Number=Sing	17	nmod	_	dutch=collectie
