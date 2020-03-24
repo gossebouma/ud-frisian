@@ -629,7 +629,7 @@
 29	rin	rin	NOUN	_	Definite=Def	36	obl	_	dutch=der
 30	fan	fan	ADP	_	Definite=Def	32	case	_	dutch=der
 31	de	de	DET	_	_	32	det	_	dutch=KEY-MISSING
-32	iuwen	iuw	NOUN	_	Number=Plur	0	root	_	dutch=eeuwen
+32	iuwen	iuw	NOUN	_	Number=Plur	29	root	_	dutch=eeuwen
 33	yn	yn	ADP	_	_	35	case	_	dutch=in
 34	’e	’e	DET	_	Definite=Def	35	det	_	dutch=de
 35	provinsje	provinsje	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=provincie
