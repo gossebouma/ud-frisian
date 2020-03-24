@@ -874,7 +874,7 @@
 17	Museum	Museum	PROPN	_	_	16	flat	_	dutch=VAL-MISSING
 18	yn	yn	ADP	_	_	0	root	_	dutch=VAL-MISSING
 19	Den	Den	PROPN	_	_	0	root	_	dutch=VAL-MISSING
-20	Haach	Haach	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+20	Haach	Haach	PROPN	_	_	19	root	_	dutch=VAL-MISSING
 21	foar	foar	ADP	_	_	23	case	_	dutch=voor
 22	it	it	DET	_	Definite=Def	23	det	_	dutch=het
 23	Nederlânsk	Nederlânsk	PROPN	_	Gender=Neut|Number=Sing	4	obl	_	dutch=Nederlands
