@@ -841,7 +841,7 @@
 16	foarsjenning	foarsjenning	NOUN	_	Gender=Com|Number=Sing	2	parataxis	_	dutch=voorziening
 17	te’n	te’n	ADP	_	_	22	case	_	dutch=ten
 18	geunste	geunst	NOUN	_	Number=Sing	17	fixed	_	dutch=VAL-MISSING
-19	fan	fan	ADP	_	_	17	root	_	dutch=VAL-MISSING
+19	fan	fan	ADP	_	_	17	fixed	_	dutch=VAL-MISSING
 20	de	de	DET	_	Definite=Def	22	det	_	dutch=de
 21	iepenbiere	iepenbier	ADJ	_	Degree=Pos	22	amod	_	dutch=openbare
 22	biblioteken	biblioteek	NOUN	_	Number=Plur	16	nmod	_	dutch=bibliotheken
