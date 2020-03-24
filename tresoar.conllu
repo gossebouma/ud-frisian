@@ -610,7 +610,7 @@
 10	behearsket	behearskje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	conj	_	dutch=beheert
 11	yn	yn	ADP	_	_	13	case	_	dutch=KEY-MISSING
 12	dy	dy	PRON	_	Degree=Pos	13	det	_	dutch=zodanig
-13	hoedanichheid	hoedanichheid	NOUN	_	Definite=Def	10	det	_	dutch=de
+13	hoedanichheid	hoedanichheid	NOUN	_	Definite=Def	10	obl	_	dutch=de
 14	de	de	DET	_	Definite=Def	15	det	_	dutch=de
 15	argiven	argyf	NOUN	_	Number=Plur	10	obj	_	dutch=archieven
 16	fan	fan	ADP	_	_	18	case	_	dutch=van
