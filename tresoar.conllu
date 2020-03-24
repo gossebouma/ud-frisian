@@ -369,7 +369,7 @@
 7	wurdt	wurde	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=groeit
 8	noch	noch	ADV	_	_	10	amod	_	dutch=nog
 9	alle	al	DET	_	_	10	det	_	dutch=elke
-10	dagen	dei	NOUN	_	Gender=Com|Number=Sing	6	obl	_	dutch=dag
+10	dagen	dei	NOUN	_	Gender=Com|Number=Sing	7	obl	_	dutch=dag
 11	grutter	grut	ADJ	_	Gender=Com|Number=Sing	7	obl	_	dutch=dag
 12	.	.	PUNCT	_	_	7	punct	_	dutch=.
 
