@@ -968,7 +968,7 @@
 1	En	en	CCONJ	_	_	10	mark	_	dutch=En
 2	dat	dat	PRON	_	Person=3|PronType=Dem	10	nsubj_pass	_	dutch=dat
 3	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	10	aux_pass	_	dutch=wordt
-4	alle	al	DET	_	Degree=Pos	5	advmod	_	dutch=dagelijks
+4	alle	al	DET	_	Degree=Pos	5	det	_	dutch=dagelijks
 5	dagen	dei	NOUN	_	Degree=Pos	10	advmod	_	dutch=dagelijks
 6	troch	troch	ADP	_	_	9	case	_	dutch=door
 7	in	in	DET	_	_	9	det	_	dutch=veel
