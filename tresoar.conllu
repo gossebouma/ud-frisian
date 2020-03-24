@@ -1345,7 +1345,7 @@
 14	kinne	kinne	AUX	_	VerbForm=Inf	22	aux	_	dutch=kunnen
 15	yn	yn	ADP	_	_	17	case	_	dutch=in
 16	de	de	DET	_	Definite=Def	17	det	_	dutch=de
-17	foarm	foarm	NOUN	_	Gender=Com|Number=Sing	14	nmod	_	dutch=vorm
+17	foarm	foarm	NOUN	_	Gender=Com|Number=Sing	22	nmod	_	dutch=vorm
 18	fan	fan	ADP	_	_	19	case	_	dutch=van
 19	mikrofilms	mikrofilm	NOUN	_	Number=Plur	17	nmod	_	dutch=microfilms
 20	yn	yn	ADP	_	_	21	case	_	dutch=in
