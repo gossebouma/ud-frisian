@@ -1488,7 +1488,7 @@
 27	ynienen	ynienen	ADV	_	_	29	advmod	_	dutch=opeens
 28	folle	folle	ADV	_	_	29	advmod	_	dutch=veel
 29	grutter	grut	ADJ	_	Degree=Cmp	30	xcomp	_	dutch=groter
-30	makke	meitsje	VERB	_	VerbForm=Part	2	parataxis	_	dutch=gemaakt
+30	makke	meitsje	VERB	_	VerbForm=Part	0	root	_	dutch=gemaakt
 31	wurde	wurde	AUX	_	VerbForm=Inf	30	aux_pass	_	dutch=worden
 32	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
