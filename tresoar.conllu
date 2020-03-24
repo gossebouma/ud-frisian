@@ -363,7 +363,7 @@
 1	It	it	DET	_	Definite=Def	2	det	_	dutch=Het
 2	tal	tal	NOUN	_	Gender=Neut|Number=Sing	6	nsubj	_	dutch=aantal
 3	besikers	besiker	NOUN	_	Number=Plur	2	nmod	_	dutch=bezoekers
-4	fia	fia	ADP	_	_	6	root	_	dutch=via
+4	fia	fia	ADP	_	_	6	case	_	dutch=via
 5	de	de	DET	_	Definite=Def	6	det	_	dutch=de
 6	webside	webside	NOUN	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=groeit
 7	wurdt	wurde	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=groeit
