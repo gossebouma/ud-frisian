@@ -914,7 +914,7 @@
 5	stipefunksje	stipefunksje	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=betrekking
 6	wat	wat	PRON	_	Gender=Com|Number=Sing	0	root	_	dutch=betrekking
 7	it	it	DET	_	Definite=Def	8	det	_	dutch=het
-8	befoarderjen	befoarderje	VERB	_	VerbForm=Inf	0	root	_	dutch=bevorderen
+8	befoarderjen	befoarderje	VERB	_	VerbForm=Inf	13	root	_	dutch=bevorderen
 9	fan	fan	ADP	_	_	12	case	_	dutch=van
 10	it	it	DET	_	Definite=Def	12	det	_	dutch=het
 11	Frysk-literêre	Frysk-literêr	ADJ	_	Degree=Pos	12	amod	_	dutch=Fries-literaire
