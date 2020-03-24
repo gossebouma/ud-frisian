@@ -371,7 +371,7 @@
 9	alle	al	DET	_	_	10	det	_	dutch=elke
 10	dagen	dei	NOUN	_	Gender=Com|Number=Sing	6	obl	_	dutch=dag
 11	grutter	grut	ADJ	_	Gender=Com|Number=Sing	7	obl	_	dutch=dag
-12	.	.	PUNCT	_	_	6	punct	_	dutch=.
+12	.	.	PUNCT	_	_	7	punct	_	dutch=.
 
 # sent_id = 21
 # text = No’t de eksposysjeromten klear binne , wurdt ek mear wurk makke fan útstallingen , ommers Tresoar is njonken argyf en biblioteek ek in museum .
