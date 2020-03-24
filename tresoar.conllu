@@ -1504,7 +1504,7 @@
 5	yn	yn	ADP	_	_	7	case	_	dutch=in
 6	it	it	DET	_	Definite=Def	7	det	_	dutch=het
 7	brûken	brûke	VERB	_	Gender=Neut|Number=Sing	3	obl	_	dutch=gebruik
-8	fan	fan	ADP	_	_	0	root	_	dutch=van
+8	fan	fan	ADP	_	_	9	root	_	dutch=van
 9	ynformaasje-	ynformaasje-	NOUN	_	_	0	root	_	dutch=Communicatie
 10	en	en	CCONJ	_	_	0	root	_	dutch=KEY-MISSING
 11	kommunikaasjetechnology	kommunikaasjetechnology	NOUN	_	_	0	root	_	dutch=Technologie
