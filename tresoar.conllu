@@ -919,7 +919,7 @@
 10	it	it	DET	_	Definite=Def	12	det	_	dutch=het
 11	Frysk-literêre	Frysk-literêr	ADJ	_	Degree=Pos	12	amod	_	dutch=Fries-literaire
 12	klimaat	klimaat	NOUN	_	Gender=Neut|Number=Sing	8	nmod	_	dutch=klimaat
-13	oangiet	oangean	VERB	_	Degree=Pos	5	acl	_	dutch=Fries-literaire
+13	oangiet	oangean	VERB	_	Degree=Pos	8	acl	_	dutch=Fries-literaire
 14	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
 # sent_id = 43
