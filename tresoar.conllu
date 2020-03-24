@@ -1337,7 +1337,7 @@
 6	wurde	wurde	AUX	_	Number=Plur	5	aux	_	dutch=archieven
 7	lykas	lykas	SCONJ	_	_	9	mark	_	dutch=zoals
 8	de	de	DET	_	Definite=Def	9	det	_	dutch=de
-9	registers	register	NOUN	_	Number=Plur	1	advcl	_	dutch=registers
+9	registers	register	NOUN	_	Number=Plur	2	advcl	_	dutch=registers
 10	fan	fan	ADP	_	_	12	case	_	dutch=van
 11	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 12	Boargerlike	Boargerlike	PROPN	_	_	9	obj	_	dutch=Burgerlijke
