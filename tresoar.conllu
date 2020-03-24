@@ -719,7 +719,7 @@
 15	sin	sin	NOUN	_	Gender=Com|Number=Sing	12	nmod	_	dutch=zin
 16	,	,	PUNCT	_	_	17	punct	_	dutch=,
 17	teology	teology	NOUN	_	Gender=Com|Number=Sing	10	conj	_	dutch=theologie
-18	/	/	SYM	_	Gender=Com|Number=Sing	19	root	_	dutch=VAL-MISSING
+18	/	/	SYM	_	Gender=Com|Number=Sing	19	cc	_	dutch=VAL-MISSING
 19	filosofy	filosofy	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=VAL-MISSING
 20	,	,	PUNCT	_	_	19	punct	_	dutch=,
 21	skiednis	skiednis	NOUN	_	Gender=Com|Number=Sing	10	conj	_	dutch=geschiedenis
