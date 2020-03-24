@@ -1256,7 +1256,7 @@
 3	stúdzjeseal	stúdzjeseal	NOUN	_	Gender=Com|Number=Sing	4	obl	_	dutch=studiezaal
 4	steane	steane	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=staan
 5	de	de	DET	_	Definite=Def	10	det	_	dutch=de
-6	belangrykste	belangryk	ADJ	_	Degree=Sup	10	nmod	_	dutch=belangrijkste
+6	belangrykste	belangryk	ADJ	_	Degree=Sup	10	amod	_	dutch=belangrijkste
 7	en	en	CCONJ	_	_	9	cc	_	dutch=en
 8	meast	folle	ADV	_	_	9	advmod	_	dutch=meest
 9	aktuele	aktueel	ADJ	_	Degree=Pos	6	conj	_	dutch=actuele
