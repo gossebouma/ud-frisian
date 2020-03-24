@@ -987,7 +987,7 @@
 3	mear	folle	PRON	_	Degree=Pos	5	amod	_	dutch=ruim
 4	as	as	SCONJ	_	Degree=Pos	5	amod	_	dutch=ruim
 5	hûndert	hûndert	NUM	_	_	0	root	_	dutch=honderd
-6	wurkplakken	wurkplak	NOUN	_	_	2	det	_	dutch=allerlei
+6	wurkplakken	wurkplak	NOUN	_	_	2	nsubj	_	dutch=allerlei
 7	en	en	CCONJ	_	_	8	cc	_	dutch=en
 8	ferskate	ferskate	ADJ	_	Number=Plur	0	root	_	dutch=faciliteiten
 9	fasiliteiten	fasiliteit	NOUN	_	Number=Plur	0	root	_	dutch=faciliteiten
