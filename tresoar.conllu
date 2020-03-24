@@ -721,7 +721,7 @@
 17	teology	teology	NOUN	_	Gender=Com|Number=Sing	10	conj	_	dutch=theologie
 18	/	/	SYM	_	Gender=Com|Number=Sing	19	cc	_	dutch=VAL-MISSING
 19	filosofy	filosofy	NOUN	_	Gender=Com|Number=Sing	17	conj	_	dutch=VAL-MISSING
-20	,	,	PUNCT	_	_	19	punct	_	dutch=,
+20	,	,	PUNCT	_	_	21	punct	_	dutch=,
 21	skiednis	skiednis	NOUN	_	Gender=Com|Number=Sing	10	conj	_	dutch=geschiedenis
 22	en	en	CCONJ	_	_	23	cc	_	dutch=en
 23	rjochten	rjocht	NOUN	_	VerbForm=Inf	10	conj	_	dutch=rechten
