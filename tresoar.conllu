@@ -545,7 +545,7 @@
 2	hat	hawwe	AUX	_	VerbForm=Part	1	amod	_	dutch=beschikt
 3	grutte	grut	ADJ	_	Degree=Pos	4	amod	_	dutch=grote
 4	oantallen	oantal	NOUN	_	Number=Plur	1	nmod	_	dutch=aantallen
-5	net-oerheidsargiven	net-oerheidsargyf	NOUN	_	Number=Plur	1	parataxis	_	dutch=niet-overheidsarchieven
+5	net-oerheidsargiven	net-oerheidsargyf	NOUN	_	Number=Plur	4	parataxis	_	dutch=niet-overheidsarchieven
 6	fan	fan	ADP	_	_	7	case	_	dutch=van
 7	famyljes	famylje	NOUN	_	Number=Plur	5	nmod	_	dutch=families
 8	,	,	PUNCT	_	_	9	punct	_	dutch=,
