@@ -678,7 +678,7 @@
 29	’e	’e	DET	_	Definite=Def	32	det	_	dutch=de
 30	breedst	breed	ADJ	_	Gender=Com|Number=Sing	18	parataxis	_	dutch=zin
 31	mooglike	mooglik	ADJ	_	Degree=Sup	30	amod	_	dutch=ruimste
-32	betsjutting	betsjutting	NOUN	_	Degree=Sup	15	amod	_	dutch=ruimste
+32	betsjutting	betsjutting	NOUN	_	Degree=Sup	15	nmod	_	dutch=ruimste
 33	.	.	PUNCT	_	_	15	punct	_	dutch=.
 
 # sent_id = 33
