@@ -1172,7 +1172,7 @@
 5	allinnich	allinnich	ADV	_	Number=Plur	7	advmod	_	dutch=databanken
 6	tagong	tagong	NOUN	_	Number=Plur	7	obj	_	dutch=databanken
 7	krije	krije	VERB	_	VerbForm=Inf	0	root	_	dutch=worden
-8	ta	ta	ADP	_	Number=Plur	10	nsubj_pass	_	dutch=databanken
+8	ta	ta	ADP	_	Number=Plur	10	case	_	dutch=databanken
 9	de	de	DET	_	Definite=Def	11	det	_	dutch=de
 10	kolleksjes	kolleksje	NOUN	_	VerbForm=Part	0	root	_	dutch=geraadpleegd
 11	fan	fan	ADP	_	_	10	advcl	_	dutch=Nederlandse
