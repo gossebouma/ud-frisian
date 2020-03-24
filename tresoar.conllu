@@ -674,7 +674,7 @@
 25	kultuer	kultuer	NOUN	_	Gender=Com|Number=Sing	21	conj	_	dutch=cultuur
 26	fan	fan	ADP	_	_	27	case	_	dutch=van
 27	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	25	nmod	_	dutch=Fryslân
-28	yn	yn	ADP	_	Degree=Pos	18	acl	_	dutch=in
+28	yn	yn	ADP	_	Degree=Pos	32	acl	_	dutch=in
 29	’e	’e	DET	_	Definite=Def	30	det	_	dutch=de
 30	breedst	breed	ADJ	_	Gender=Com|Number=Sing	18	parataxis	_	dutch=zin
 31	mooglike	mooglik	ADJ	_	Degree=Sup	30	amod	_	dutch=ruimste
