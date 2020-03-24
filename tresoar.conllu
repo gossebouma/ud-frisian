@@ -1062,7 +1062,7 @@
 21	syksystemen	syksysteem	NOUN	_	Number=Plur	19	conj	_	dutch=zoeksystemen
 22	,	,	PUNCT	_	_	7	punct	_	dutch=,
 23	mar	mar	CCONJ	_	_	0	root	_	dutch=maar
-24	dat	dat	PRON	_	Person=3|PronType=Dem	25	root	_	dutch=dat
+24	dat	dat	PRON	_	Person=3|PronType=Dem	25	nsubj	_	dutch=dat
 25	falt	falle	VERB	_	_	0	root	_	dutch=mee
 26	ta	ta	ADP	_	_	25	compound_prt	_	dutch=mee
 27	.	.	PUNCT	_	_	7	punct	_	dutch=.
