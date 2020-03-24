@@ -712,7 +712,7 @@
 8	mêden	mêd	NOUN	_	Number=Plur	5	nmod	_	dutch=gebieden
 9	fan	fan	ADP	_	_	10	case	_	dutch=KEY-MISSING
 10	boekskiednis	boekskiednis	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	dutch=boekgeschiedenis
-11	,	,	PUNCT	_	_	0	root	_	dutch=,
+11	,	,	PUNCT	_	_	12	root	_	dutch=,
 12	humanoria	humanoria	SCONJ	_	Degree=Pos	15	amod	_	dutch=ruime
 13	yn	yn	ADP	_	_	15	case	_	dutch=in
 14	brede	breed	ADJ	_	Degree=Pos	15	amod	_	dutch=ruime
