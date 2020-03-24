@@ -1138,7 +1138,7 @@
 2	sille	sille	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	8	aux	_	dutch=zullen
 3	de	de	DET	_	Definite=Def	5	det	_	dutch=de
 4	opstelde	opstelle	VERB	_	VerbForm=Part	5	amod	_	dutch=opgestelde
-5	neislachwurken	neislachwurk	NOUN	_	Number=Plur	0	root	_	dutch=naslagwerken
+5	neislachwurken	neislachwurk	NOUN	_	Number=Plur	8	root	_	dutch=naslagwerken
 6	en	en	CCONJ	_	_	7	cc	_	dutch=en
 7	syksystemen	syksysteem	NOUN	_	Number=Plur	5	conj	_	dutch=zoeksystemen
 8	brûke	brûke	VERB	_	Number=Plur	0	root	_	dutch=zoeksystemen
