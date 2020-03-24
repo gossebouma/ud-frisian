@@ -1375,7 +1375,7 @@
 14	wat	wat	DET	_	Definite=Ind	15	det	_	dutch=een
 15	lûd	lûd	VERB	_	_	17	obj	_	dutch=KEY-MISSING
 16	te	te	ADP	_	_	17	mark	_	dutch=KEY-MISSING
-17	hearren	hearre	VERB	_	Gender=Neut|Number=Sing	10	nsubj	_	dutch=geroezemoes
+17	hearren	hearre	VERB	_	Gender=Neut|Number=Sing	0	root	_	dutch=geroezemoes
 18	wêze	wêze	AUX	_	Degree=Pos	17	aux	_	dutch=zeker
 19	.	.	PUNCT	_	_	10	punct	_	dutch=.
 
