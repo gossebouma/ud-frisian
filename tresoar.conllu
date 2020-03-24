@@ -1028,7 +1028,7 @@
 20	in	in	DET	_	Definite=Ind	22	det	_	dutch=een
 21	grutte	grut	ADJ	_	Degree=Pos	22	amod	_	dutch=ruime
 22	kantine	kantine	NOUN	_	Gender=Com|Number=Sing	17	nsubj	_	dutch=kantine
-23	dêr’t	dêr’t	ADV	_	VerbForm=Part	22	acl_relcl	_	dutch=gepauzeerd
+23	dêr’t	dêr’t	ADV	_	VerbForm=Part	25	acl_relcl	_	dutch=gepauzeerd
 24	men	men	PRON	_	VerbForm=Part	25	nsubj	_	dutch=gepauzeerd
 25	skoftsje	skoftsje	VERB	_	VerbForm=Part	0	root	_	dutch=gepauzeerd
 26	kin	kinne	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	25	aux	_	dutch=kan
