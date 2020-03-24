@@ -1175,7 +1175,7 @@
 8	ta	ta	ADP	_	Number=Plur	10	case	_	dutch=databanken
 9	de	de	DET	_	Definite=Def	10	det	_	dutch=de
 10	kolleksjes	kolleksje	NOUN	_	VerbForm=Part	0	root	_	dutch=geraadpleegd
-11	fan	fan	ADP	_	_	10	advcl	_	dutch=Nederlandse
+11	fan	fan	ADP	_	_	12	advcl	_	dutch=Nederlandse
 12	Tresoar	Tresoar	PROPN	_	_	0	root	_	dutch=KEY-MISSING
 13	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
 14	mar	mar	CCONJ	_	_	0	root	_	dutch=KEY-MISSING
