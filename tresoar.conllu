@@ -1505,7 +1505,7 @@
 6	it	it	DET	_	Definite=Def	7	det	_	dutch=het
 7	brûken	brûke	VERB	_	Gender=Neut|Number=Sing	3	obl	_	dutch=gebruik
 8	fan	fan	ADP	_	_	9	case	_	dutch=van
-9	ynformaasje-	ynformaasje-	NOUN	_	_	7	nmod	_	dutch=Communicatie
+9	ynformaasje-	ynformaasje-	NOUN	_	_	7	obl	_	dutch=Communicatie
 10	en	en	CCONJ	_	_	11	cc	_	dutch=KEY-MISSING
 11	kommunikaasjetechnology	kommunikaasjetechnology	NOUN	_	_	9	conj	_	dutch=Technologie
 12	(	(	PUNCT	_	_	13	punct	_	dutch=(
