@@ -1298,7 +1298,7 @@
 11	ekonomy	ekonomy	NOUN	_	Gender=Com|Number=Sing	2	conj	_	dutch=economie
 12	en	en	CCONJ	_	_	13	cc	_	dutch=en
 13	filosofy	filosofy	NOUN	_	Gender=Com|Number=Sing	2	conj	_	dutch=filosofie
-14	.	.	PUNCT	_	Gender=Com|Number=Sing	2	conj	_	dutch=filosofie
+14	.	.	PUNCT	_	Gender=Com|Number=Sing	2	punct	_	dutch=filosofie
 
 # sent_id = 62
 # text = Benammen fan de Fryske literatuer en de Fryske skiednis steane in soad boeken yn de iepen opstelling .
