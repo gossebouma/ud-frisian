@@ -638,7 +638,7 @@
 38	,	,	PUNCT	_	_	41	punct	_	dutch=,
 39	of	of	CCONJ	_	_	41	mark	_	dutch=of
 40	noch	noch	ADV	_	_	41	advmod	_	dutch=nog
-41	altyd	altyd	ADV	_	_	25	conj	_	dutch=steeds
+41	altyd	altyd	ADV	_	_	42	conj	_	dutch=steeds
 42	funksjonearje	funksjonearje	VERB	_	VerbForm=Inf	21	conj	_	dutch=functioneren
 43	.	.	PUNCT	_	_	6	punct	_	dutch=.
 
