@@ -1340,7 +1340,7 @@
 9	registers	register	NOUN	_	Number=Plur	22	nsubj_pass	_	dutch=registers
 10	fan	fan	ADP	_	_	12	case	_	dutch=van
 11	de	de	DET	_	Definite=Def	12	det	_	dutch=de
-12	Boargerlike	Boargerlike	PROPN	_	_	14	obj	_	dutch=Burgerlijke
+12	Boargerlike	Boargerlike	PROPN	_	_	9	obj	_	dutch=Burgerlijke
 13	Stân	Stân	PROPN	_	_	12	flat	_	dutch=Stand
 14	kinne	kinne	AUX	_	VerbForm=Inf	22	aux	_	dutch=kunnen
 15	yn	yn	ADP	_	_	17	case	_	dutch=in
