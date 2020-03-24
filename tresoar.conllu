@@ -550,7 +550,7 @@
 7	famyljes	famylje	NOUN	_	Number=Plur	5	nmod	_	dutch=families
 8	,	,	PUNCT	_	_	9	punct	_	dutch=,
 9	bedriuwen	bedriuw	NOUN	_	Number=Plur	7	conj	_	dutch=bedrijven
-10	,	,	PUNCT	_	_	9	punct	_	dutch=,
+10	,	,	PUNCT	_	_	11	punct	_	dutch=,
 11	tsjerken	tsjerke	NOUN	_	Number=Plur	7	conj	_	dutch=kerken
 12	,	,	PUNCT	_	_	11	punct	_	dutch=,
 13	kleasters	kleaster	NOUN	_	Number=Plur	7	conj	_	dutch=kloosters
