@@ -1042,7 +1042,7 @@
 1	Minsken	minske	NOUN	_	Number=Plur	7	nsubj	_	dutch=Mensen
 2	dy’t	dy’t	PRON	_	PronType=Rel	6	nsubj	_	dutch=die
 3	foar	foar	ADP	_	_	5	case	_	dutch=voor
-4	it	it	DET	_	_	0	root	_	dutch=KEY-MISSING
+4	it	it	DET	_	_	5	root	_	dutch=KEY-MISSING
 5	earst	earst	ADJ	_	Gender=Com_Neut|Number=Sing	6	obl	_	dutch=keer
 6	komme	komme	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	1	acl_relcl	_	dutch=komen
 7	tinke	tinke	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=denken
