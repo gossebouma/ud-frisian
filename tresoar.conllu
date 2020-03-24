@@ -1230,7 +1230,7 @@
 5	it	it	DET	_	_	6	det	_	dutch=KEY-MISSING
 6	rieplachtsjen	rieplachtsje	VERB	_	Gender=Com|Number=Sing	3	obl	_	dutch=raadpleging
 7	fan	fan	ADP	_	Gender=Com|Number=Sing	8	case	_	dutch=raadpleging
-8	wurk	wurk	NOUN	_	_	6	nmod	_	dutch=KEY-MISSING
+8	wurk	wurk	NOUN	_	_	6	obj	_	dutch=KEY-MISSING
 9	yn	yn	ADP	_	_	10	case	_	dutch=in
 10	Tresoar	Tresoar	PROPN	_	Gender=Neut|Number=Sing	8	nmod	_	dutch=Tresoar
 11	,	,	PUNCT	_	_	19	punct	_	dutch=,
