@@ -1470,7 +1470,7 @@
 9	sawol	sawol	ADV	_	_	12	cc	_	dutch=zowel
 10	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 11	taastbere	taastber	ADJ	_	Degree=Pos	12	amod	_	dutch=tastbare
-12	boeken	boek	NOUN	_	Number=Plur	30	nsubj_pass	_	dutch=boeken
+12	boeken	boek	NOUN	_	Number=Plur	7	nsubj_pass	_	dutch=boeken
 13	,	,	PUNCT	_	_	14	punct	_	dutch=,
 14	foarwerpen	foarwerp	NOUN	_	Number=Plur	12	conj	_	dutch=voorwerpen
 15	en	en	CCONJ	_	_	16	cc	_	dutch=en
