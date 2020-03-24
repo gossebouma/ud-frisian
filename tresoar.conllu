@@ -676,7 +676,7 @@
 27	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	25	nmod	_	dutch=Fryslân
 28	yn	yn	ADP	_	Degree=Pos	32	case	_	dutch=in
 29	’e	’e	DET	_	Definite=Def	32	det	_	dutch=de
-30	breedst	breed	ADJ	_	Gender=Com|Number=Sing	32	parataxis	_	dutch=zin
+30	breedst	breed	ADJ	_	Gender=Com|Number=Sing	32	amod	_	dutch=zin
 31	mooglike	mooglik	ADJ	_	Degree=Sup	30	amod	_	dutch=ruimste
 32	betsjutting	betsjutting	NOUN	_	Degree=Sup	15	nmod	_	dutch=ruimste
 33	.	.	PUNCT	_	_	15	punct	_	dutch=.
