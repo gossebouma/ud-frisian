@@ -636,7 +636,7 @@
 36	funksjonearre	funksjonearje	VERB	_	VerbForm=Part	25	acl_relcl	_	dutch=gefunctioneerd
 37	ha	hawwe	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	36	aux	_	dutch=hebben
 38	,	,	PUNCT	_	_	41	punct	_	dutch=,
-39	of	of	CCONJ	_	_	42	nmod	_	dutch=of
+39	of	of	CCONJ	_	_	42	mark	_	dutch=of
 40	noch	noch	ADV	_	_	41	advmod	_	dutch=nog
 41	altyd	altyd	ADV	_	_	25	conj	_	dutch=steeds
 42	funksjonearje	funksjonearje	VERB	_	VerbForm=Inf	21	conj	_	dutch=functioneren
