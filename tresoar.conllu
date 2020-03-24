@@ -632,7 +632,7 @@
 32	iuwen	iuw	NOUN	_	Number=Plur	29	obl	_	dutch=eeuwen
 33	yn	yn	ADP	_	_	35	case	_	dutch=in
 34	’e	’e	DET	_	Definite=Def	35	det	_	dutch=de
-35	provinsje	provinsje	NOUN	_	Gender=Com|Number=Sing	36	root	_	dutch=provincie
+35	provinsje	provinsje	NOUN	_	Gender=Com|Number=Sing	36	obl	_	dutch=provincie
 36	funksjonearre	funksjonearje	VERB	_	VerbForm=Part	25	acl_relcl	_	dutch=gefunctioneerd
 37	ha	hawwe	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	36	aux	_	dutch=hebben
 38	,	,	PUNCT	_	_	41	punct	_	dutch=,
