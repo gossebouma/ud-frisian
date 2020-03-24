@@ -609,7 +609,7 @@
 9	en	en	CCONJ	_	_	10	cc	_	dutch=en
 10	behearsket	behearskje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	conj	_	dutch=beheert
 11	yn	yn	ADP	_	_	13	case	_	dutch=KEY-MISSING
-12	dy	dy	PRON	_	Degree=Pos	13	advmod	_	dutch=zodanig
+12	dy	dy	PRON	_	Degree=Pos	13	det	_	dutch=zodanig
 13	hoedanichheid	hoedanichheid	NOUN	_	Definite=Def	15	det	_	dutch=de
 14	de	de	DET	_	Definite=Def	15	det	_	dutch=de
 15	argiven	argyf	NOUN	_	Number=Plur	19	nsubj	_	dutch=archieven
