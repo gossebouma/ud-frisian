@@ -1142,7 +1142,7 @@
 6	en	en	CCONJ	_	_	7	cc	_	dutch=en
 7	syksystemen	syksysteem	NOUN	_	Number=Plur	5	conj	_	dutch=zoeksystemen
 8	brûke	brûke	VERB	_	Number=Plur	5	conj	_	dutch=zoeksystemen
-9	.	.	PUNCT	_	_	0	root	_	dutch=.
+9	.	.	PUNCT	_	_	8	root	_	dutch=.
 
 # sent_id = 54
 # text = It measte sykjen giet mei help fan de kompjûter .
