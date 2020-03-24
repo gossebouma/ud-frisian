@@ -1229,7 +1229,7 @@
 4	foar	foar	ADP	_	_	6	case	_	dutch=voor
 5	it	it	DET	_	_	6	det	_	dutch=KEY-MISSING
 6	rieplachtsjen	rieplachtsje	NOUN	_	Gender=Com|Number=Sing	3	obl	_	dutch=raadpleging
-7	fan	fan	ADP	_	Gender=Com|Number=Sing	3	obl	_	dutch=raadpleging
+7	fan	fan	ADP	_	Gender=Com|Number=Sing	8	obl	_	dutch=raadpleging
 8	wurk	wurk	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 9	yn	yn	ADP	_	_	10	case	_	dutch=in
 10	Tresoar	Tresoar	PROPN	_	Gender=Neut|Number=Sing	6	nmod	_	dutch=Tresoar
