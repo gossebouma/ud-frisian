@@ -1361,7 +1361,7 @@
 # NOT ALIGNED
 1	Op	op	ADP	_	_	3	case	_	dutch=Op
 2	in	in	DET	_	Definite=Ind	3	det	_	dutch=een
-3	stúdzjeseal	stúdzjeseal	NOUN	_	Gender=Com|Number=Sing	10	obl	_	dutch=studiezaal
+3	stúdzjeseal	stúdzjeseal	NOUN	_	Gender=Com|Number=Sing	17	obl	_	dutch=studiezaal
 4	mei	mei	ADP	_	_	9	case	_	dutch=met
 5	bytiden	bytiden	ADV	_	_	9	amod	_	dutch=soms
 6	mear	folle	PRON	_	PronType=Ind	8	amod	_	dutch=meer
