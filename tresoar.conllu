@@ -1311,7 +1311,7 @@
 4	Fryske	Frysk	ADJ	_	Degree=Pos	5	amod	_	dutch=Friese
 5	literatuer	literatuer	NOUN	_	Gender=Com|Number=Sing	10	obl	_	dutch=literatuur
 6	en	en	CCONJ	_	_	9	cc	_	dutch=en
-7	de	de	DET	_	_	0	root	_	dutch=KEY-MISSING
+7	de	de	DET	_	_	9	root	_	dutch=KEY-MISSING
 8	Fryske	Frysk	ADJ	_	Degree=Pos	9	amod	_	dutch=Friese
 9	skiednis	skiednis	NOUN	_	Gender=Com|Number=Sing	5	conj	_	dutch=geschiedenis
 10	steane	stean	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=staan
