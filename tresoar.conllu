@@ -554,7 +554,7 @@
 11	tsjerken	tsjerke	NOUN	_	Number=Plur	7	conj	_	dutch=kerken
 12	,	,	PUNCT	_	_	13	punct	_	dutch=,
 13	kleasters	kleaster	NOUN	_	Number=Plur	7	conj	_	dutch=kloosters
-14	,	,	PUNCT	_	_	13	punct	_	dutch=,
+14	,	,	PUNCT	_	_	15	punct	_	dutch=,
 15	ferieningen	feriening	NOUN	_	Number=Plur	7	conj	_	dutch=verenigingen
 16	,	,	PUNCT	_	_	15	punct	_	dutch=,
 17	ensfh.	ensfh.	X	_	Abbr=Yes	7	cc	_	dutch=etc
