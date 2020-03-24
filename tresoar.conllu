@@ -568,7 +568,7 @@
 # source_text = Het heeft ook veel beeldmateriaal zoals foto’s , kaarten en prenten , maar ook audiovisueel materiaal , zoals films , video’s en dvd’s .
 # alignment =  1-1 2-0 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22 23-23
 # NOT ALIGNED
-1	Ek	ek	ADV	_	_	2	root	_	dutch=KEY-MISSING
+1	Ek	ek	ADV	_	_	2	amod	_	dutch=KEY-MISSING
 2	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=heeft
 3	it	it	DET	_	Person=3|PronType=Prs	2	nsubj	_	dutch=Het
 4	gâns	gâns	NOUN	_	_	5	det	_	dutch=veel
