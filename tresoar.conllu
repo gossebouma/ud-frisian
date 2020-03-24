@@ -1166,7 +1166,7 @@
 # alignment =  0-0 1-1 3-2 4-4 5-4 6-5 7-4 8-8 9-6 10-9 17-16 18-15 20-17 21-17 22-18
 # NOT ALIGNED
 1	Dêrmei	dêrmei	ADV	_	_	10	advmod	_	dutch=Daarmee
-2	kinne	kinne	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	10	aux	_	dutch=kunnen
+2	kinne	kinne	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	7	aux	_	dutch=kunnen
 3	jo	jo	PRON	_	_	7	root	_	dutch=KEY-MISSING
 4	net	net	ADV	_	_	10	advmod	_	dutch=ook
 5	allinnich	allinnich	ADV	_	Number=Plur	10	nsubj_pass	_	dutch=databanken
