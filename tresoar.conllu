@@ -1086,7 +1086,7 @@
 12	rie	rie	NOUN	_	Gender=Com|Number=Sing	15	obl	_	dutch=raad
 13	en	en	CCONJ	_	_	14	cc	_	dutch=en
 14	die	die	NOUN	_	Gender=Com|Number=Sing	12	conj	_	dutch=daad
-15	bysteane	bystean	NOUN	_	Number=Plur|Tense=Pres|VerbForm=Fin	7	acl_relcl	_	dutch=staan
+15	bysteane	bystean	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	7	acl_relcl	_	dutch=staan
 16	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
 # sent_id = 51
