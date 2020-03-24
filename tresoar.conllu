@@ -767,7 +767,7 @@
 7	de	de	DET	_	Definite=Def	8	det	_	dutch=de
 8	Buma	Buma	PROPN	_	_	0	root	_	dutch=Buma
 9	en	en	CCONJ	_	_	11	flat	_	dutch=en
-10	de	de	DET	_	_	11	root	_	dutch=KEY-MISSING
+10	de	de	DET	_	_	11	det	_	dutch=KEY-MISSING
 11	Fuks	Fuks	PROPN	_	_	8	flat	_	dutch=Fuks
 12	Biblioteek	Biblioteek	PROPN	_	_	11	flat	_	dutch=Bibliotheek
 13	.	.	PUNCT	_	_	8	punct	_	dutch=.
