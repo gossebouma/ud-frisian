@@ -990,7 +990,7 @@
 6	wurkplakken	wurkplak	NOUN	_	_	2	nsubj	_	dutch=allerlei
 7	en	en	CCONJ	_	_	8	cc	_	dutch=en
 8	ferskate	ferskate	ADJ	_	Number=Plur	9	amod	_	dutch=faciliteiten
-9	fasiliteiten	fasiliteit	NOUN	_	Number=Plur	6	root	_	dutch=faciliteiten
+9	fasiliteiten	fasiliteit	NOUN	_	Number=Plur	6	conj	_	dutch=faciliteiten
 10	dy’t	dy’t	PRON	_	PronType=Rel	16	nsubj	_	dutch=die
 11	it	it	DET	_	Definite=Def	12	det	_	dutch=het
 12	ferbliuw	ferbliuw	NOUN	_	Gender=Neut|Number=Sing	16	obj	_	dutch=verblijf
