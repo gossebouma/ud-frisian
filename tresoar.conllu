@@ -912,7 +912,7 @@
 3	it	it	PRON	_	Person=3|PronType=Prs	2	nsubj	_	dutch=het
 4	de	de	DET	_	Definite=Def	5	det	_	dutch=de
 5	stipefunksje	stipefunksje	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=betrekking
-6	wat	wat	PRON	_	Gender=Com|Number=Sing	13	root	_	dutch=betrekking
+6	wat	wat	PRON	_	Gender=Com|Number=Sing	13	nmod	_	dutch=betrekking
 7	it	it	DET	_	Definite=Def	8	det	_	dutch=het
 8	befoarderjen	befoarderje	VERB	_	VerbForm=Inf	13	obj	_	dutch=bevorderen
 9	fan	fan	ADP	_	_	12	case	_	dutch=van
