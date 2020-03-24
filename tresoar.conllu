@@ -639,7 +639,7 @@
 39	of	of	CCONJ	_	_	41	mark	_	dutch=of
 40	noch	noch	ADV	_	_	41	advmod	_	dutch=nog
 41	altyd	altyd	ADV	_	_	42	advmod	_	dutch=steeds
-42	funksjonearje	funksjonearje	VERB	_	VerbForm=Inf	21	conj	_	dutch=functioneren
+42	funksjonearje	funksjonearje	VERB	_	VerbForm=Inf	36	conj	_	dutch=functioneren
 43	.	.	PUNCT	_	_	6	punct	_	dutch=.
 
 # sent_id = 32
