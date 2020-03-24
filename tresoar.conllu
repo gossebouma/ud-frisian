@@ -612,7 +612,7 @@
 12	dy	dy	PRON	_	Degree=Pos	13	det	_	dutch=zodanig
 13	hoedanichheid	hoedanichheid	NOUN	_	Definite=Def	15	det	_	dutch=de
 14	de	de	DET	_	Definite=Def	15	det	_	dutch=de
-15	argiven	argyf	NOUN	_	Number=Plur	19	nsubj	_	dutch=archieven
+15	argiven	argyf	NOUN	_	Number=Plur	10	nsubj	_	dutch=archieven
 16	fan	fan	ADP	_	_	18	case	_	dutch=van
 17	de	de	DET	_	Definite=Def	18	det	_	dutch=de
 18	provinsjale	provinsjaal	ADJ	_	Degree=Pos	15	nmod	_	dutch=provinciale
