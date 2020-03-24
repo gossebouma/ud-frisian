@@ -997,7 +997,7 @@
 13	en	en	CCONJ	_	_	15	cc	_	dutch=en
 14	it	it	DET	_	Definite=Def	15	det	_	dutch=het
 15	studearjen	studearje	ADJ	_	VerbForm=Inf	12	conj	_	dutch=studeren
-16	ienfâldiger	ienfâldich	NOUN	_	Number=Plur|Tense=Pres|VerbForm=Fin	8	acl_relcl	_	dutch=vergemakkelijken
+16	ienfâldiger	ienfâldich	NOUN	_	Number=Plur|Tense=Pres|VerbForm=Fin	17	acl_relcl	_	dutch=vergemakkelijken
 17	meitsje	meitsje	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	9	acl_relcl	_	dutch=vergemakkelijken
 18	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
