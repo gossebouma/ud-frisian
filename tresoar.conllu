@@ -1187,7 +1187,7 @@
 20	fan	fan	ADP	_	_	22	case	_	dutch=KEY-MISSING
 21	oare	oar	ADJ	_	Gender=Com|Number=Sing	22	amod	_	dutch=Krantenbank
 22	ynstituten	ynstitút	NOUN	_	Gender=Com|Number=Sing	19	nmod	_	dutch=Krantenbank
-23	.	.	PUNCT	_	_	10	punct	_	dutch=.
+23	.	.	PUNCT	_	_	7	punct	_	dutch=.
 
 # sent_id = 56
 # text = Dat kin dan yn de stúdzjeseal besjoen wurde .
