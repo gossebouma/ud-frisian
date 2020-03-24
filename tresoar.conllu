@@ -802,7 +802,7 @@
 # NOT ALIGNED
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
 2	Fuks	Fuks	PROPN	_	Number=Sing|Tense=Pres|VerbForm=Fin	3	flat	_	dutch=behelst
-3	Biblioteek	Biblioteek	PROPN	_	_	4	root	_	dutch=Bibliotheek
+3	Biblioteek	Biblioteek	PROPN	_	_	4	nsubj	_	dutch=Bibliotheek
 4	befettet	befetsje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=behelst
 5	in	in	DET	_	Definite=Ind	6	det	_	dutch=een
 6	samling	samling	NOUN	_	Gender=Com|Number=Sing	4	obj	_	dutch=verzameling
