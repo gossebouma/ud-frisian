@@ -1049,7 +1049,7 @@
 8	gauris	gauris	ADJ	_	Degree=Pos	7	advmod	_	dutch=vaak
 9	dat	dat	SCONJ	_	_	11	mark	_	dutch=dat
 10	it	it	PRON	_	Person=3|PronType=Prs	11	nsubj	_	dutch=het
-11	dreech	dreech	ADJ	_	Degree=Pos	8	cop	_	dutch=moeilijk
+11	dreech	dreech	ADJ	_	Degree=Pos	8	acl_relcl	_	dutch=moeilijk
 12	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	11	cop	_	dutch=is
 13	om	om	ADP	_	_	16	mark	_	dutch=om
 14	paadwiis	paadwiis	NOUN	_	_	0	root	_	dutch=KEY-MISSING
