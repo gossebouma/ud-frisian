@@ -669,7 +669,7 @@
 20	de	de	DET	_	Definite=Def	21	det	_	dutch=de
 21	skiednis	skiednis	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=geschiedenis
 22	,	,	PUNCT	_	_	23	punct	_	dutch=,
-23	taal	taal	NOUN	_	Gender=Com|Number=Sing	21	root	_	dutch=taal
+23	taal	taal	NOUN	_	Gender=Com|Number=Sing	21	conj	_	dutch=taal
 24	en	en	CCONJ	_	_	25	cc	_	dutch=en
 25	kultuer	kultuer	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=cultuur
 26	fan	fan	ADP	_	_	27	case	_	dutch=van
