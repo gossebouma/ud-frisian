@@ -1388,7 +1388,7 @@
 2	wa’t	wa’t	PRON	_	Person=3|PronType=Int	5	nsubj	_	dutch=wie
 3	dat	dat	SCONJ	_	Person=3|PronType=Dem	5	obj	_	dutch=dat
 4	steurend	steure	VERB	_	Degree=Pos	5	xcomp	_	dutch=storend
-5	fynt	fine	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	obl	_	dutch=vindt
+5	fynt	fine	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	advcl	_	dutch=vindt
 6	,	,	PUNCT	_	_	5	punct	_	dutch=,
 7	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=is
 8	der	der	ADV	_	_	7	advmod	_	dutch=er
