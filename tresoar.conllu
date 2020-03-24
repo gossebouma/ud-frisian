@@ -365,7 +365,7 @@
 3	besikers	besiker	NOUN	_	Number=Plur	2	nmod	_	dutch=bezoekers
 4	fia	fia	ADP	_	_	6	case	_	dutch=via
 5	de	de	DET	_	Definite=Def	6	det	_	dutch=de
-6	webside	webside	NOUN	_	Number=Sing|Tense=Pres|VerbForm=Fin	3	root	_	dutch=groeit
+6	webside	webside	NOUN	_	Number=Sing|Tense=Pres|VerbForm=Fin	3	nmod	_	dutch=groeit
 7	wurdt	wurde	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=groeit
 8	noch	noch	ADV	_	_	10	amod	_	dutch=nog
 9	alle	al	DET	_	_	10	det	_	dutch=elke
