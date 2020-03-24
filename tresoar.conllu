@@ -1316,7 +1316,7 @@
 9	skiednis	skiednis	NOUN	_	Gender=Com|Number=Sing	5	conj	_	dutch=geschiedenis
 10	steane	stean	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=staan
 11	in	in	DET	_	_	13	det	_	dutch=veel
-12	soad	soad	NOUN	_	_	11	det	_	dutch=veel
+12	soad	soad	NOUN	_	_	11	fixed	_	dutch=veel
 13	boeken	boek	NOUN	_	Number=Plur	10	nsubj	_	dutch=boeken
 14	yn	yn	ADP	_	_	17	case	_	dutch=in
 15	de	de	DET	_	Definite=Def	17	det	_	dutch=de
