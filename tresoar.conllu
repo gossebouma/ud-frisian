@@ -1508,7 +1508,7 @@
 9	ynformaasje-	ynformaasje-	NOUN	_	_	0	root	_	dutch=Communicatie
 10	en	en	CCONJ	_	_	11	cc	_	dutch=KEY-MISSING
 11	kommunikaasjetechnology	kommunikaasjetechnology	NOUN	_	_	9	conj	_	dutch=Technologie
-12	(	(	PUNCT	_	_	1	punct	_	dutch=(
+12	(	(	PUNCT	_	_	13	punct	_	dutch=(
 13	ICT	ICT	NOUN	_	Gender=Com_Neut|Number=Sing	7	nmod	_	dutch=ICT
 14	)	)	PUNCT	_	_	13	punct	_	dutch=)
 15	foar	foar	ADP	_	Number=Sing	0	root	_	dutch=VAL-MISSING
