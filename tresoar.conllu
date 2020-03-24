@@ -1179,7 +1179,7 @@
 12	Tresoar	Tresoar	PROPN	_	_	10	nmod	_	dutch=KEY-MISSING
 13	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
 14	mar	mar	CCONJ	_	_	16	mark	_	dutch=KEY-MISSING
-15	ek	ek	ADV	_	_	16	root	_	dutch=KEY-MISSING
+15	ek	ek	ADV	_	_	16	advmod	_	dutch=KEY-MISSING
 16	sykje	sykje	VERB	_	_	0	root	_	dutch=KEY-MISSING
 17	yn	yn	ADP	_	_	0	root	_	dutch=KEY-MISSING
 18	de	de	DET	_	Definite=Def	21	det	_	dutch=de
