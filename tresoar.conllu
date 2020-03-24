@@ -1261,7 +1261,7 @@
 8	meast	folle	ADV	_	_	9	advmod	_	dutch=meest
 9	aktuele	aktueel	ADJ	_	Degree=Pos	6	conj	_	dutch=actuele
 10	boeken	boek	NOUN	_	Number=Plur	4	nsubj	_	dutch=boeken
-11	op	op	ADP	_	Number=Plur	10	nmod	_	dutch=terreinen
+11	op	op	ADP	_	Number=Plur	13	nmod	_	dutch=terreinen
 12	de	de	DET	_	Definite=Def	13	det	_	dutch=de
 13	mêden	mêd	NOUN	_	Number=Plur	10	nmod	_	dutch=terreinen
 14	dêr’t	dêr’t	ADV	_	_	17	advmod	_	dutch=waarin
