@@ -1180,7 +1180,7 @@
 13	,	,	PUNCT	_	_	7	punct	_	dutch=KEY-MISSING
 14	mar	mar	CCONJ	_	_	16	mark	_	dutch=KEY-MISSING
 15	ek	ek	ADV	_	_	16	advmod	_	dutch=KEY-MISSING
-16	sykje	sykje	VERB	_	_	7	root	_	dutch=KEY-MISSING
+16	sykje	sykje	VERB	_	_	7	conj	_	dutch=KEY-MISSING
 17	yn	yn	ADP	_	_	19	case	_	dutch=KEY-MISSING
 18	de	de	DET	_	Definite=Def	19	det	_	dutch=de
 19	kolleksjes	kolleksje	NOUN	_	_	16	obl	_	dutch=en
