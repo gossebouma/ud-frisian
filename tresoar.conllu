@@ -985,7 +985,7 @@
 1	Der	der	ADV	_	_	2	advmod	_	dutch=Er
 2	binne	wêze	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=zijn
 3	mear	folle	PRON	_	Degree=Pos	5	amod	_	dutch=ruim
-4	as	as	SCONJ	_	Degree=Pos	3	amod	_	dutch=ruim
+4	as	as	SCONJ	_	Degree=Pos	3	fixed	_	dutch=ruim
 5	hûndert	hûndert	NUM	_	_	0	root	_	dutch=honderd
 6	wurkplakken	wurkplak	NOUN	_	_	2	nsubj	_	dutch=allerlei
 7	en	en	CCONJ	_	_	8	cc	_	dutch=en
