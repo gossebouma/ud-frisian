@@ -1490,7 +1490,7 @@
 29	grutter	grut	ADJ	_	Degree=Cmp	30	xcomp	_	dutch=groter
 30	makke	meitsje	VERB	_	VerbForm=Part	0	root	_	dutch=gemaakt
 31	wurde	wurde	AUX	_	VerbForm=Inf	30	aux_pass	_	dutch=worden
-32	.	.	PUNCT	_	_	2	punct	_	dutch=.
+32	.	.	PUNCT	_	_	30	punct	_	dutch=.
 
 # sent_id = 70
 # text = Ek Tresoar ynvestearret fiks yn it brûken fan ynformaasje- en kommunikaasjetechnology ( ICT ) foar de ûntsluting ( en yndirekt it konservearjen ) fan de kolleksje .
