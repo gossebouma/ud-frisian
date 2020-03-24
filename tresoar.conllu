@@ -656,7 +656,7 @@
 7	Nederlân	Nederlân	PROPN	_	_	5	obl	_	dutch=Nederland
 8	de	de	DET	_	Definite=Def	9	det	_	dutch=de
 9	depot-	depot-	NOUN	_	_	15	obj	_	dutch=depot-en
-10	en	en	CCONJ	_	_	0	root	_	dutch=KEY-MISSING
+10	en	en	CCONJ	_	_	11	root	_	dutch=KEY-MISSING
 11	bewarfunksje	bewarfunksje	NOUN	_	_	9	flat	_	dutch=bewaarfunctie
 12	foar	foar	ADP	_	_	13	case	_	dutch=voor
 13	Frisiaca	Frisiaca	PROPN	_	Gender=Com|Number=Sing	15	obl	_	dutch=Frisiaca
