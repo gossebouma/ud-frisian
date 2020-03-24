@@ -1338,7 +1338,7 @@
 7	lykas	lykas	SCONJ	_	_	12	mark	_	dutch=zoals
 8	de	de	DET	_	Definite=Def	9	det	_	dutch=de
 9	registers	register	NOUN	_	Number=Plur	22	nsubj_pass	_	dutch=registers
-10	fan	fan	ADP	_	_	14	case	_	dutch=van
+10	fan	fan	ADP	_	_	12	case	_	dutch=van
 11	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 12	Boargerlike	Boargerlike	PROPN	_	_	14	obj	_	dutch=Burgerlijke
 13	Stân	Stân	PROPN	_	_	12	flat	_	dutch=Stand
