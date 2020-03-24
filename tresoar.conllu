@@ -556,7 +556,7 @@
 13	kleasters	kleaster	NOUN	_	Number=Plur	7	conj	_	dutch=kloosters
 14	,	,	PUNCT	_	_	13	punct	_	dutch=,
 15	ferieningen	feriening	NOUN	_	Number=Plur	7	conj	_	dutch=verenigingen
-16	,	,	PUNCT	_	_	20	punct	_	dutch=,
+16	,	,	PUNCT	_	_	17	punct	_	dutch=,
 17	ensfh.	ensfh.	X	_	Abbr=Yes	7	cc	_	dutch=etc
 18	ta	ta	ADP	_	_	20	case	_	dutch=KEY-MISSING
 19	syn	syn	PRON	_	_	20	det	_	dutch=KEY-MISSING
