@@ -808,7 +808,7 @@
 6	samling	samling	NOUN	_	Gender=Com|Number=Sing	4	obj	_	dutch=verzameling
 7	op	op	ADP	_	_	12	case	_	dutch=op
 8	it	it	DET	_	Definite=Def	7	fixed	_	dutch=het
-9	mêd	mêd	NOUN	_	Gender=Neut|Number=Sing	3	fixed	_	dutch=gebied
+9	mêd	mêd	NOUN	_	Gender=Neut|Number=Sing	7	fixed	_	dutch=gebied
 10	fan	fan	ADP	_	_	7	fixed	_	dutch=van
 11	it	it	DET	_	Definite=Def	12	det	_	dutch=het
 12	Hebriuwske	Hebriuwsk	ADJ	_	Degree=Pos	6	nmod	_	dutch=Hebreeuwse
