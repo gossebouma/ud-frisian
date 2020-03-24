@@ -742,7 +742,7 @@
 8	de	de	DET	_	Definite=Def	0	root	_	dutch=VAL-MISSING
 9	eardere	earder	ADJ	_	Degree=Pos	0	root	_	dutch=VAL-MISSING
 10	Provinsjale	Provinsjale	PROPN	_	_	6	nmod	_	dutch=Provinciale
-11	Biblioteek	Biblioteek	PROPN	_	_	10	root	_	dutch=VAL-MISSING
+11	Biblioteek	Biblioteek	PROPN	_	_	10	flat	_	dutch=VAL-MISSING
 12	útwreide	útwreidzje	VERB	_	VerbForm=Part	0	root	_	dutch=uitgebreid
 13	mei	mei	ADP	_	_	15	case	_	dutch=met
 14	in	in	DET	_	Definite=Ind	15	det	_	dutch=een
