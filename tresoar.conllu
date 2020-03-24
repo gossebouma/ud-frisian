@@ -713,7 +713,7 @@
 9	fan	fan	ADP	_	_	10	case	_	dutch=KEY-MISSING
 10	boekskiednis	boekskiednis	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	dutch=boekgeschiedenis
 11	,	,	PUNCT	_	_	12	punct	_	dutch=,
-12	humanoria	humanoria	SCONJ	_	Degree=Pos	10	amod	_	dutch=ruime
+12	humanoria	humanoria	SCONJ	_	Degree=Pos	10	case	_	dutch=ruime
 13	yn	yn	ADP	_	_	15	case	_	dutch=in
 14	brede	breed	ADJ	_	Degree=Pos	15	amod	_	dutch=ruime
 15	sin	sin	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=zin
