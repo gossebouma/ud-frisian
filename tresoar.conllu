@@ -1514,7 +1514,7 @@
 15	foar	foar	ADP	_	Number=Sing	17	case	_	dutch=VAL-MISSING
 16	de	de	DET	_	_	17	det	_	dutch=ten
 17	ûntsluting	ûntsluting	NOUN	_	Gender=Com|Number=Sing	7	obl	_	dutch=ontsluiting
-18	(	(	PUNCT	_	_	22	root	_	dutch=(
+18	(	(	PUNCT	_	_	22	punct	_	dutch=(
 19	en	en	CCONJ	_	_	0	root	_	dutch=en
 20	yndirekt	yndirekt	ADJ	_	Degree=Pos	0	root	_	dutch=indirect
 21	it	it	DET	_	_	0	root	_	dutch=KEY-MISSING
