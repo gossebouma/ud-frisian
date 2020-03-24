@@ -1342,7 +1342,7 @@
 11	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 12	Boargerlike	Boargerlike	PROPN	_	_	14	obj	_	dutch=Burgerlijke
 13	Stân	Stân	PROPN	_	_	12	flat	_	dutch=Stand
-14	kinne	kinne	AUX	_	VerbForm=Inf	9	nmod	_	dutch=kunnen
+14	kinne	kinne	AUX	_	VerbForm=Inf	22	nmod	_	dutch=kunnen
 15	yn	yn	ADP	_	_	17	case	_	dutch=in
 16	de	de	DET	_	Definite=Def	17	det	_	dutch=de
 17	foarm	foarm	NOUN	_	Gender=Com|Number=Sing	14	nmod	_	dutch=vorm
