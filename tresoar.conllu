@@ -1012,7 +1012,7 @@
 4	bliuwe	bliuwe	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=blijven
 5	in	in	DET	_	_	7	det	_	dutch=enkele
 6	pear	pear	NOUN	_	_	7	det	_	dutch=enkele
-7	oeren	oer	NOUN	_	Number=Plur	4	xcomp	_	dutch=uren
+7	oeren	oer	NOUN	_	Number=Plur	4	obl	_	dutch=uren
 8	of	of	CCONJ	_	_	12	cc	_	dutch=of
 9	sels	sels	ADV	_	_	12	amod	_	dutch=zelfs
 10	in	in	DET	_	Definite=Ind	12	det	_	dutch=een
