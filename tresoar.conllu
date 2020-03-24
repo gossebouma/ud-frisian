@@ -910,7 +910,7 @@
 1	Boppedat	boppedat	ADV	_	_	2	advmod	_	dutch=Daarnaast
 2	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=heeft
 3	it	it	PRON	_	Person=3|PronType=Prs	2	nsubj	_	dutch=het
-4	de	de	DET	_	Definite=Def	0	root	_	dutch=de
+4	de	de	DET	_	Definite=Def	5	root	_	dutch=de
 5	stipefunksje	stipefunksje	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=betrekking
 6	wat	wat	PRON	_	Gender=Com|Number=Sing	0	root	_	dutch=betrekking
 7	it	it	DET	_	Definite=Def	8	det	_	dutch=het
