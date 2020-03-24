@@ -993,7 +993,7 @@
 9	fasiliteiten	fasiliteit	NOUN	_	Number=Plur	6	conj	_	dutch=faciliteiten
 10	dy’t	dy’t	PRON	_	PronType=Rel	16	nsubj	_	dutch=die
 11	it	it	DET	_	Definite=Def	12	det	_	dutch=het
-12	ferbliuw	ferbliuw	NOUN	_	Gender=Neut|Number=Sing	16	obj	_	dutch=verblijf
+12	ferbliuw	ferbliuw	NOUN	_	Gender=Neut|Number=Sing	17	obj	_	dutch=verblijf
 13	en	en	CCONJ	_	_	15	cc	_	dutch=en
 14	it	it	DET	_	Definite=Def	15	det	_	dutch=het
 15	studearjen	studearje	ADJ	_	VerbForm=Inf	12	conj	_	dutch=studeren
