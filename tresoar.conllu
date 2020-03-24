@@ -1329,7 +1329,7 @@
 # source_text = Ook veel geraadpleegde archieven zoals de registers van de Burgerlijke Stand kunnen in de vorm van microfilms in zelfbediening worden geraadpleegd .
 # alignment =  0-0 1-3 2-2 3-2 4-2 5-3 6-4 7-5 8-6 9-7 10-8 11-9 12-10 13-11 14-12 15-13 16-14 17-15 18-16 19-17 20-18 21-20 22-19 23-21
 # ALIGNED
-1	Ek	ek	ADV	_	_	5	amod	_	dutch=Ook
+1	Ek	ek	ADV	_	_	2	amod	_	dutch=Ook
 2	argiven	argyf	VERB	_	Number=Plur	0	root	_	dutch=archieven
 3	dy’t	dy’t	PRON	_	VerbForm=Part	5	nsubj_pass	_	dutch=geraadpleegde
 4	gauris	gauris	ADJ	_	VerbForm=Part	5	advmod	_	dutch=geraadpleegde
