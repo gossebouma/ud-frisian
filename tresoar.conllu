@@ -2343,7 +2343,7 @@
 2	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	3	aux_pass	_	dutch=wordt
 3	stribbe	stribbe	VERB	_	VerbForm=Part	0	root	_	dutch=gestreefd
 4	nei	nei	ADP	_	_	0	root	_	dutch=naar
-5	twa	twa	NUM	_	_	0	root	_	dutch=twee
+5	twa	twa	NUM	_	_	6	root	_	dutch=twee
 6	wikselútstallingen	wikselútstalling	NOUN	_	_	8	case	_	dutch=per
 7	it	it	DET	_	_	8	case	_	dutch=per
 8	jier	jier	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=jaar
