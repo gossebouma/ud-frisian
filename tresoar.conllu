@@ -2155,7 +2155,7 @@
 10	literatuer	literatuer	NOUN	_	Gender=Com|Number=Sing	2	nmod	_	dutch=literatuur
 11	sille	sille	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	17	aux	_	dutch=zullen
 12	nammers	nammers	ADV	_	_	0	root	_	dutch=KEY-MISSING
-13	ek	ek	ADV	_	_	16	advmod	_	dutch=ook
+13	ek	ek	ADV	_	_	17	advmod	_	dutch=ook
 14	yn	yn	ADP	_	_	16	det	_	dutch=KEY-MISSING
 15	de	de	DET	_	_	16	det	_	dutch=KEY-MISSING
 16	útstalling	útstalling	NOUN	_	VerbForm=Part	0	root	_	dutch=getoond
