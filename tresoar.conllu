@@ -1618,7 +1618,7 @@
 7	no	no	ADV	_	_	6	advmod	_	dutch=nu
 8	benammen	benammen	ADV	_	_	6	advmod	_	dutch=vooral
 9	noch	noch	ADV	_	_	6	advmod	_	dutch=nog
-10	út	út	ADP	_	_	0	root	_	dutch=KEY-MISSING
+10	út	út	ADP	_	_	14	root	_	dutch=KEY-MISSING
 11	“	“	PUNCT	_	_	12	punct	_	dutch=“
 12	losse	losse	ADJ	_	Degree=Pos	14	amod	_	dutch=losse
 13	”	”	PUNCT	_	_	12	punct	_	dutch=”
