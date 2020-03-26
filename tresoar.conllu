@@ -1861,7 +1861,7 @@
 24	kinne	kinne	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	28	aux	_	dutch=kunnen
 25	dêr	dêr	ADV	_	_	0	root	_	dutch=KEY-MISSING
 26	CD-roms	CD-rom	NOUN	_	Number=Plur	28	nsubj_pass	_	dutch=CD-roms
-27	op	op	ADP	_	_	28	root	_	dutch=KEY-MISSING
+27	op	op	ADP	_	_	25	root	_	dutch=KEY-MISSING
 28	rieplachte	rieplachtsje	VERB	_	VerbForm=Part	0	root	_	dutch=geraadpleegd
 29	wurde	wurde	AUX	_	VerbForm=Inf	28	aux_pass	_	dutch=worden
 30	,	,	PUNCT	_	_	40	punct	_	dutch=,
