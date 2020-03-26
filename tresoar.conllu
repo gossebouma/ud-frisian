@@ -1875,7 +1875,7 @@
 38	samling	samling	NOUN	_	Gender=Com|Number=Sing	40	obj	_	dutch=verzameling
 39	fan	fan	ADP	_	_	0	root	_	dutch=KEY-MISSING
 40	hat	hawwe	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	28	advcl	_	dutch=heeft
-41	.	.	PUNCT	_	_	3	punct	_	dutch=.
+41	.	.	PUNCT	_	_	28	punct	_	dutch=.
 
 # sent_id = 80
 # text = Ek kinne bestannen útwiksele wurde mei in grut ferskaat oan opslachmedia fan floppydisk oant memorystick .
