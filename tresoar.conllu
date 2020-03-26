@@ -1969,7 +1969,7 @@
 14	it	it	DET	_	Definite=Def	15	det	_	dutch=het
 15	wurk	wurk	NOUN	_	Number=Plur	12	nmod	_	dutch=schrijvers
 16	fan	fan	ADP	_	_	17	case	_	dutch=van
-17	mannen	man	NOUN	_	_	15	root	_	dutch=KEY-MISSING
+17	mannen	man	NOUN	_	_	15	nmod	_	dutch=KEY-MISSING
 18	as	as	SCONJ	_	_	20	mark	_	dutch=zoals
 19	de	de	DET	_	Definite=Def	20	det	_	dutch=de
 20	bruorren	broer	NOUN	_	Number=Plur	15	nmod	_	dutch=gebroeders
