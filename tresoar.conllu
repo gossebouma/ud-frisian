@@ -1782,7 +1782,7 @@
 31	yn	yn	ADP	_	_	32	case	_	dutch=in
 32	bedriuw	bedriuw	NOUN	_	Gender=Neut|Number=Sing	33	xcomp	_	dutch=bedrijf
 33	hâldt	hâlde	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	29	conj	_	dutch=houdt
-34	.	.	PUNCT	_	_	3	punct	_	dutch=.
+34	.	.	PUNCT	_	_	10	punct	_	dutch=.
 
 # sent_id = 77
 # text = It hjoeddeiske “ topstik ” út ús kolleksje ICT-apparatuer is de kubusfoarmige Qbic .
