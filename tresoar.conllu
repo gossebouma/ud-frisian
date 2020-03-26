@@ -2113,7 +2113,7 @@
 # source_text = Aandacht wordt geschonken aan het werk van bekende schrijvers zoals Douwe Tamminga , Anne Wadman , Trinus Riemersma en Rink van der Velde .
 # alignment =  0-0 1-8 2-6 4-4 5-5 6-2 7-1 8-9 9-10 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-21 21-21 22-22 23-23
 # NOT ALIGNED
-1	Bekende	bekend	ADJ	_	Gender=Com|Number=Sing	7	nsubj_pass	_	dutch=Aandacht
+1	Bekende	bekend	ADJ	_	Gender=Com|Number=Sing	2	nsubj_pass	_	dutch=Aandacht
 2	skriuwers	skriuwer	NOUN	_	Number=Plur	6	nmod	_	dutch=schrijvers
 3	fan	fan	ADP	_	_	2	case	_	dutch=van
 4	wa’t	wa’t	PRON	_	_	0	root	_	dutch=KEY-MISSING
