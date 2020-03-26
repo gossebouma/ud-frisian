@@ -2080,7 +2080,7 @@
 9	,	,	PUNCT	_	_	10	punct	_	dutch=,
 10	Douwe	Douwe	PROPN	_	_	8	conj	_	dutch=Douwe
 11	Kalma	Kalma	PROPN	_	_	10	flat	_	dutch=Kalma
-12	en	en	CCONJ	_	_	0	root	_	dutch=VAL-MISSING
+12	en	en	CCONJ	_	_	13	root	_	dutch=VAL-MISSING
 13	Reinder	Reinder	PROPN	_	_	8	conj	_	dutch=Reinder
 14	Brolsma	Brolsma	PROPN	_	_	13	flat	_	dutch=VAL-MISSING
 15	opfallende	opfallend	ADJ	_	Degree=Pos	16	amod	_	dutch=opvallende
