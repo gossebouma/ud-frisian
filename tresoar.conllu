@@ -1959,7 +1959,7 @@
 4	de	de	DET	_	Definite=Def	6	det	_	dutch=de
 5	njoggentjinde	njoggentjin	ADJ	_	_	6	amod	_	dutch=negentiende
 6	iu	iu	NOUN	_	Gender=Com|Number=Sing	2	nmod	_	dutch=eeuw
-7	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	root	_	dutch=wordt
+7	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux_pass	_	dutch=wordt
 8	foaral	foaral	ADV	_	_	9	advmod	_	dutch=vooral
 9	toand	toane	VERB	_	VerbForm=Part	0	root	_	dutch=getoond
 10	oan	oan	ADP	_	_	12	case	_	dutch=aan
