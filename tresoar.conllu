@@ -1837,7 +1837,7 @@
 # NOT ALIGNED
 1	Njonken	njonken	ADP	_	_	3	case	_	dutch=Naast
 2	it	it	DET	_	Definite=Def	3	det	_	dutch=het
-3	sykjen	sykje	VERB	_	VerbForm=Inf	28	root	_	dutch=doorzoeken
+3	sykjen	sykje	VERB	_	VerbForm=Inf	28	obl	_	dutch=doorzoeken
 4	yn	yn	ADP	_	_	6	case	_	dutch=KEY-MISSING
 5	’e	’e	DET	_	Definite=Def	6	det	_	dutch=de
 6	bestannen	bestân	NOUN	_	Number=Plur	3	obl	_	dutch=bestanden
