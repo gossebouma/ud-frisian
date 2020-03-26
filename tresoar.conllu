@@ -2293,7 +2293,7 @@
 4	kolleksjes	kolleksje	NOUN	_	Number=Plur	10	nsubj	_	dutch=collecties
 5	fan	fan	ADP	_	_	6	case	_	dutch=van
 6	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	4	nmod	_	dutch=Tresoar
-7	in	in	DET	_	Definite=Ind	9	root	_	dutch=een
+7	in	in	DET	_	Definite=Ind	9	case	_	dutch=een
 8	belangryk	belangryk	ADJ	_	Degree=Pos	0	root	_	dutch=belangrijk
 9	útgongspunt	útgongspunt	NOUN	_	VerbForm=Inf	0	root	_	dutch=vormen
 10	wêze	wêze	AUX	_	VerbForm=Inf	9	root	_	dutch=vormen
