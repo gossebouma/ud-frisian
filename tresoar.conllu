@@ -1859,7 +1859,7 @@
 22	ynternet	ynternet	NOUN	_	Gender=Neut|Number=Sing	20	nmod	_	dutch=internet
 23	,	,	PUNCT	_	_	28	punct	_	dutch=,
 24	kinne	kinne	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	28	aux	_	dutch=kunnen
-25	dêr	dêr	ADV	_	_	28	root	_	dutch=KEY-MISSING
+25	dêr	dêr	ADV	_	_	28	obl	_	dutch=KEY-MISSING
 26	CD-roms	CD-rom	NOUN	_	Number=Plur	28	nsubj_pass	_	dutch=CD-roms
 27	op	op	ADP	_	_	25	case	_	dutch=KEY-MISSING
 28	rieplachte	rieplachtsje	VERB	_	VerbForm=Part	0	root	_	dutch=geraadpleegd
