@@ -1961,7 +1961,7 @@
 6	iu	iu	NOUN	_	Gender=Com|Number=Sing	2	nmod	_	dutch=eeuw
 7	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=wordt
 8	foaral	foaral	ADV	_	_	9	advmod	_	dutch=vooral
-9	toand	toane	VERB	_	VerbForm=Part	7	xcomp	_	dutch=getoond
+9	toand	toane	VERB	_	VerbForm=Part	0	root	_	dutch=getoond
 10	oan	oan	ADP	_	_	12	case	_	dutch=aan
 11	’e	’e	DET	_	Definite=Def	12	det	_	dutch=de
 12	hân	hân	NOUN	_	Gender=Com|Number=Sing	9	obl	_	dutch=hand
