@@ -1687,7 +1687,7 @@
 29	hawwe	hawwe	AUX	_	_	23	acl_relcl	_	dutch=KEY-MISSING
 30	op	op	ADP	_	_	32	case	_	dutch=op
 31	ien	ien	NUM	_	_	32	nummod	_	dutch=één
-32	plak	plak	NOUN	_	Gender=Com|Number=Sing	23	nmod	_	dutch=plaats
+32	plak	plak	NOUN	_	Gender=Com|Number=Sing	34	nmod	_	dutch=plaats
 33	tagelyk	tagelyk	ADV	_	_	23	amod	_	dutch=tegelijk
 34	opfrege	opfreegje	VERB	_	VerbForm=Part	15	conj	_	dutch=opgevraagd
 35	wurde	wurde	AUX	_	VerbForm=Inf	34	aux_pass	_	dutch=worden
