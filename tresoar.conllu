@@ -1630,7 +1630,7 @@
 19	sil	sille	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	39	aux	_	dutch=zal
 20	ek	ek	ADV	_	_	19	advmod	_	dutch=ook
 21	de	de	DET	_	Definite=Def	22	det	_	dutch=de
-22	relaasje	relaasje	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=relatie
+22	relaasje	relaasje	NOUN	_	Gender=Com|Number=Sing	39	root	_	dutch=relatie
 23	tusken	tusken	ADP	_	_	26	case	_	dutch=tussen
 24	de	de	DET	_	Definite=Def	26	det	_	dutch=de
 25	ferskillende	ferskillend	ADJ	_	Degree=Pos	26	amod	_	dutch=verschillende
