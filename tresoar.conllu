@@ -1647,7 +1647,7 @@
 36	der	der	ADV	_	_	39	advmod	_	dutch=er
 37	om	om	ADP	_	_	36	case	_	dutch=om
 38	hinne	hinne	ADP	_	_	36	case	_	dutch=VAL-MISSING
-39	toand	toane	VERB	_	VerbForm=Part	6	root	_	dutch=getoond
+39	toand	toane	VERB	_	VerbForm=Part	6	parataxis	_	dutch=getoond
 40	wurde	wurde	AUX	_	VerbForm=Inf	39	aux_pass	_	dutch=worden
 41	.	.	PUNCT	_	_	0	root	_	dutch=.
 
