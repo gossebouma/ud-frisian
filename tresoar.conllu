@@ -2243,7 +2243,7 @@
 # source_text = Voor de bezoeker zal met behulp van moderne middelen een beeld worden geschetst van meer dan tweehonderd jaar literatuurgeschiedenis .
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-12 12-11 13-13 14-14 15-15 16-16 17-17 18-18 19-19
 # NOT ALIGNED
-1	Foar	Foar	ADP	_	_	3	mark	_	dutch=Voor
+1	Foar	Foar	ADP	_	_	3	case	_	dutch=Voor
 2	de	de	DET	_	Definite=Def	3	det	_	dutch=de
 3	besiker	besiker	NOUN	_	Gender=Com|Number=Sing	4	nsubj	_	dutch=bezoeker
 4	sil	sille	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	12	advcl	_	dutch=zal
