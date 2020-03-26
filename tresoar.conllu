@@ -1757,7 +1757,7 @@
 6	al	al	ADV	_	_	9	advmod	_	dutch=al
 7	dy	dy	PRON	_	_	9	det	_	dutch=deze
 8	firtuele	firtueel	ADJ	_	Degree=Pos	9	amod	_	dutch=virtuele
-9	tsjinsten	tsjinst	NOUN	_	Number=Plur	3	nsubj	_	dutch=diensten
+9	tsjinsten	tsjinst	NOUN	_	Number=Plur	3	advmod	_	dutch=diensten
 10	beskikt	beskikke	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	3	parataxis	_	dutch=beschikt
 11	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	10	nsubj	_	dutch=Tresoar
 12	oer	oer	ADP	_	_	17	case	_	dutch=over
