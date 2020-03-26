@@ -2103,7 +2103,7 @@
 9	it	it	DET	_	Gender=Com|Number=Sing	10	det	_	dutch=periode
 10	tiidrek	tiidrek	NOUN	_	Gender=Com|Number=Sing	6	obl	_	dutch=periode
 11	nei	nei	ADP	_	_	13	case	_	dutch=VAL-MISSING
-12	de	de	DET	_	Definite=Def	13	flat	_	dutch=VAL-MISSING
+12	de	de	DET	_	Definite=Def	13	det	_	dutch=VAL-MISSING
 13	Twadde	Twadde	PROPN	_	_	10	nmod	_	dutch=Tweede
 14	Wrâldoarloch	Wrâldoarloch	PROPN	_	_	13	flat	_	dutch=VAL-MISSING
 15	.	.	PUNCT	_	_	6	punct	_	dutch=.
