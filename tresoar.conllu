@@ -2232,7 +2232,7 @@
 16	yn	yn	ADP	_	_	18	case	_	dutch=in
 17	de	de	DET	_	Definite=Def	18	det	_	dutch=de
 18	útstalling	útstalling	NOUN	_	Gender=Com|Number=Sing	15	obl	_	dutch=tentoonstelling
-19	ek	ek	ADV	_	_	22	advmod	_	dutch=ook
+19	ek	ek	ADV	_	_	15	advmod	_	dutch=ook
 20	op	op	ADP	_	_	22	case	_	dutch=aan
 21	it	it	DET	_	Definite=Def	22	det	_	dutch=de
 22	aljemint	aljemint	NOUN	_	Gender=Com|Number=Sing	15	xcomp	_	dutch=orde
