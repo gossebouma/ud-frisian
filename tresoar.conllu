@@ -1873,7 +1873,7 @@
 36	in	in	DET	_	Definite=Ind	38	det	_	dutch=een
 37	grutte	grut	ADJ	_	Degree=Pos	38	amod	_	dutch=grote
 38	samling	samling	NOUN	_	Gender=Com|Number=Sing	40	obj	_	dutch=verzameling
-39	fan	fan	ADP	_	_	0	root	_	dutch=KEY-MISSING
+39	fan	fan	ADP	_	_	31	root	_	dutch=KEY-MISSING
 40	hat	hawwe	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	28	advcl	_	dutch=heeft
 41	.	.	PUNCT	_	_	28	punct	_	dutch=.
 
