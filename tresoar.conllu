@@ -1615,7 +1615,7 @@
 4	’e	’e	DET	_	Definite=Def	5	det	_	dutch=de
 5	webside	webside	NOUN	_	Gender=Com|Number=Sing	2	nmod	_	dutch=website
 6	bestiet	bestean	VERB	_	_	0	root	_	dutch=KEY-MISSING
-7	no	no	ADV	_	_	6	mark	_	dutch=nu
+7	no	no	ADV	_	_	6	advcl	_	dutch=nu
 8	benammen	benammen	ADV	_	_	16	amod	_	dutch=vooral
 9	noch	noch	ADV	_	_	16	amod	_	dutch=nog
 10	út	út	ADP	_	_	0	root	_	dutch=KEY-MISSING
