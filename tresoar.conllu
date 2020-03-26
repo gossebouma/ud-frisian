@@ -1707,7 +1707,7 @@
 6	fan	fan	ADP	_	_	8	case	_	dutch=van
 7	de	de	DET	_	Definite=Def	8	det	_	dutch=de
 8	kolleksje	kolleksje	NOUN	_	Gender=Com|Number=Sing	5	nmod	_	dutch=collectie
-9	kin	kinne	AUX	_	Gender=Com|Number=Sing	8	nmod	_	dutch=kan
+9	kin	kinne	AUX	_	Gender=Com|Number=Sing	13	nmod	_	dutch=kan
 10	in	in	DET	_	Definite=Ind	12	det	_	dutch=een
 11	folslein	folslein	ADJ	_	Degree=Pos	12	amod	_	dutch=volledig
 12	ferhaal	ferhaal	NOUN	_	Gender=Neut|Number=Sing	23	nmod	_	dutch=verhaal
