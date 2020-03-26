@@ -1849,7 +1849,7 @@
 12	en	en	CCONJ	_	_	13	cc	_	dutch=en
 13	beharkjen	beharkje	VERB	_	VerbForm=Inf	11	conj	_	dutch=beluisteren
 14	fan	fan	ADP	_	_	15	case	_	dutch=van
-15	byld-	byld-	NOUN	_	VerbForm=Inf	11	conj	_	dutch=beluisteren
+15	byld-	byld-	NOUN	_	VerbForm=Inf	11	obl	_	dutch=beluisteren
 16	en	en	CCONJ	_	_	17	cc	_	dutch=en
 17	lûdmateriaal	lûdmateriaal	NOUN	_	Gender=Neut|Number=Sing	15	conj	_	dutch=geluidsmateriaal
 18	en	en	CCONJ	_	_	20	cc	_	dutch=en
