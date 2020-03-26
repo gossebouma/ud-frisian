@@ -1549,7 +1549,7 @@
 17	noch	noch	ADV	_	_	19	advmod	_	dutch=KEY-MISSING
 18	hieltyd	hieltyd	ADV	_	Degree=Pos	19	advmod	_	dutch=voortdurend
 19	fierder	fierder	ADJ	_	_	20	advmod	_	dutch=KEY-MISSING
-20	ûntjout	ûntjaan	VERB	_	Gender=Com|Number=Sing	14	amod	_	dutch=veelheid
+20	ûntjout	ûntjaan	VERB	_	Gender=Com|Number=Sing	14	case	_	dutch=veelheid
 21	,	,	PUNCT	_	_	27	advmod	_	dutch=waar
 22	dêr’t	dêr’t	ADV	_	_	27	advmod	_	dutch=waar
 23	in	in	DET	_	Definite=Ind	20	det	_	dutch=een
