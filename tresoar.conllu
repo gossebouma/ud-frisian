@@ -2219,7 +2219,7 @@
 3	oare	oar	ADJ	_	Degree=Pos	4	nmod	_	dutch=andere
 4	foarmen	foarm	NOUN	_	VerbForm=Inf	1	appos	_	dutch=vormen
 5	fan	fan	ADP	_	_	6	case	_	dutch=van
-6	literatuer	literatuer	NOUN	_	Gender=Com|Number=Sing	1	nmod	_	dutch=literatuur
+6	literatuer	literatuer	NOUN	_	Gender=Com|Number=Sing	4	nmod	_	dutch=literatuur
 7	,	,	PUNCT	_	_	9	punct	_	dutch=,
 8	lykas	lykas	SCONJ	_	_	9	mark	_	dutch=zoals
 9	toaniel	toaniel	NOUN	_	Gender=Neut|Number=Sing	1	nmod	_	dutch=toneel
