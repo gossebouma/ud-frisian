@@ -2129,7 +2129,7 @@
 14	Anne	Anne	PROPN	_	_	12	conj	_	dutch=Anne
 15	Wadman	Wadman	PROPN	_	_	14	flat	_	dutch=VAL-MISSING
 16	,	,	PUNCT	_	_	17	punct	_	dutch=,
-17	Trinus	Trinus	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+17	Trinus	Trinus	PROPN	_	_	11	root	_	dutch=VAL-MISSING
 18	Riemersma	Riemersma	PROPN	_	_	17	flat	_	dutch=VAL-MISSING
 19	en	en	CCONJ	_	_	0	root	_	dutch=VAL-MISSING
 20	Rink	Rink	PROPN	_	_	0	root	_	dutch=VAL-MISSING
