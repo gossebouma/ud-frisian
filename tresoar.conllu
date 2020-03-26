@@ -2278,7 +2278,7 @@
 7	fan	fan	ADP	_	_	9	case	_	dutch=van
 8	ûnderskate	ûnderskaat	ADJ	_	VerbForm=Part	9	amod	_	dutch=uiteenlopende
 9	soarte	soart	NOUN	_	Gender=Com|Number=Sing	6	nmod	_	dutch=aard
-10	inoar	inoar	PRON	_	Case=Acc|PronType=Rcp	11	obj	_	dutch=elkaar
+10	inoar	inoar	PRON	_	Case=Acc|PronType=Rcp	11	expl_sv	_	dutch=elkaar
 11	ôfwikselje	ôfwikselje	VERB	_	VerbForm=Inf	0	root	_	dutch=afwisselen
 12	.	.	PUNCT	_	_	11	punct	_	dutch=.
 
