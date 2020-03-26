@@ -1716,7 +1716,7 @@
 15	,	,	PUNCT	_	_	25	punct	_	dutch=,
 16	dêr’t	dêr’t	ADV	_	_	27	advmod	_	dutch=waarin
 17	de	de	DET	_	Definite=Def	18	det	_	dutch=de
-18	rol	rol	NOUN	_	Gender=Com|Number=Sing	25	nsubj	_	dutch=rol
+18	rol	rol	NOUN	_	Gender=Com|Number=Sing	27	nsubj	_	dutch=rol
 19	dy’t	dy’t	PRON	_	Person=3|PronType=Dem	25	obj	_	dutch=die
 20	it	it	DET	_	Definite=Def	21	det	_	dutch=het
 21	objekt	objekt	NOUN	_	Gender=Neut|Number=Sing	25	nsubj	_	dutch=object
