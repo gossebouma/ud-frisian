@@ -1557,7 +1557,7 @@
 25	oan	oan	ADP	_	_	26	case	_	dutch=aan
 26	gegevens	gegeven	NOUN	_	Number=Plur	24	nmod	_	dutch=gegevens
 27	trochsocht	trochsykje	VERB	_	VerbForm=Inf	14	acl_relcl	_	dutch=doorzoeken
-28	wurde	wurde	AUX	_	_	0	root	_	dutch=KEY-MISSING
+28	wurde	wurde	AUX	_	_	27	root	_	dutch=KEY-MISSING
 29	kinne	kinne	AUX	_	_	0	root	_	dutch=KEY-MISSING
 30	:	:	PUNCT	_	_	32	punct	_	dutch=:
 31	boargerlike	boargerlike	PROPN	_	Degree=Pos	32	amod	_	dutch=burgerlijke
