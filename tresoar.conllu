@@ -1543,7 +1543,7 @@
 11	stúdzjeseal	stúdzjeseal	NOUN	_	Gender=Com|Number=Sing	4	obj	_	dutch=studiezaal
 12	en	en	CCONJ	_	_	14	cc	_	dutch=en
 13	in	in	DET	_	_	11	conj	_	dutch=een
-14	webside	webside	NOUN	_	Gender=Com|Number=Sing	13	iobj	_	dutch=website
+14	webside	webside	NOUN	_	Gender=Com|Number=Sing	11	iobj	_	dutch=website
 15	dy’t	dy’t	PRON	_	Gender=Com|Number=Sing	20	acl	_	dutch=ontwikkeling
 16	him	him	PRON	_	_	20	expl_pv	_	dutch=KEY-MISSING
 17	noch	noch	ADV	_	_	19	advmod	_	dutch=KEY-MISSING
