@@ -1689,7 +1689,7 @@
 31	ien	ien	NUM	_	_	32	nummod	_	dutch=één
 32	plak	plak	NOUN	_	Gender=Com|Number=Sing	23	nmod	_	dutch=plaats
 33	tagelyk	tagelyk	ADV	_	_	23	amod	_	dutch=tegelijk
-34	opfrege	opfreegje	VERB	_	VerbForm=Part	2	conj	_	dutch=opgevraagd
+34	opfrege	opfreegje	VERB	_	VerbForm=Part	15	conj	_	dutch=opgevraagd
 35	wurde	wurde	AUX	_	VerbForm=Inf	34	aux_pass	_	dutch=worden
 36	kinne	kinne	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	34	aux	_	dutch=kunnen
 37	.	.	PUNCT	_	_	2	punct	_	dutch=.
