@@ -1801,7 +1801,7 @@
 10	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	12	cop	_	dutch=is
 11	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 12	kubusfoarmige	kubusfoarmich	ADJ	_	Gender=Com|Number=Sing	0	root	_	dutch=kubusvormige
-13	Qbic	Qbic	PROPN	_	Gender=Com|Number=Sing	12	appos	_	dutch=Qbic
+13	Qbic	Qbic	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Qbic
 14	.	.	PUNCT	_	_	12	punct	_	dutch=.
 
 # sent_id = 78
