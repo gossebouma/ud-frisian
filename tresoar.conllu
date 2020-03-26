@@ -1688,7 +1688,7 @@
 30	op	op	ADP	_	_	32	case	_	dutch=op
 31	ien	ien	NUM	_	_	32	nummod	_	dutch=één
 32	plak	plak	NOUN	_	Gender=Com|Number=Sing	34	obl	_	dutch=plaats
-33	tagelyk	tagelyk	ADV	_	_	32	advcl	_	dutch=tegelijk
+33	tagelyk	tagelyk	ADV	_	_	32	amod	_	dutch=tegelijk
 34	opfrege	opfreegje	VERB	_	VerbForm=Part	15	conj	_	dutch=opgevraagd
 35	wurde	wurde	AUX	_	VerbForm=Inf	34	aux_pass	_	dutch=worden
 36	kinne	kinne	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	34	aux	_	dutch=kunnen
