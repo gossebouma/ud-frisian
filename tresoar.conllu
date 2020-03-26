@@ -2124,7 +2124,7 @@
 9	,	,	PUNCT	_	_	10	mark	_	dutch=zoals
 10	binne	wêze	AUX	_	_	2	cop	_	dutch=Douwe
 11	Douwe	Douwe	PROPN	_	_	2	acl	_	dutch=Douwe
-12	Tamminga	Tamminga	PROPN	_	_	10	flat	_	dutch=Tamminga
+12	Tamminga	Tamminga	PROPN	_	_	11	flat	_	dutch=Tamminga
 13	,	,	PUNCT	_	_	14	punct	_	dutch=,
 14	Anne	Anne	PROPN	_	_	2	appos	_	dutch=Anne
 15	Wadman	Wadman	PROPN	_	_	0	root	_	dutch=VAL-MISSING
