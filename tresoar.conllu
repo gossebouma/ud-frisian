@@ -2306,7 +2306,7 @@
 # NOT ALIGNED
 1	Sa	sa	ADV	_	_	10	advmod	_	dutch=Zo
 2	sille	sille	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	10	aux	_	dutch=zullen
-3	der	der	ADV	_	_	10	root	_	dutch=KEY-MISSING
+3	der	der	ADV	_	_	10	advmod	_	dutch=KEY-MISSING
 4	yn	yn	ADP	_	_	7	case	_	dutch=in
 5	’e	’e	DET	_	Definite=Def	7	det	_	dutch=de
 6	heine	hein	ADJ	_	Degree=Pos	7	amod	_	dutch=nabije
