@@ -2144,7 +2144,7 @@
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 12-11 15-13 16-13 17-12 18-14
 # NOT ALIGNED
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
-2	ûntjouwingen	ûntjouwing	NOUN	_	Number=Plur	16	nsubj_pass	_	dutch=ontwikkelingen
+2	ûntjouwingen	ûntjouwing	NOUN	_	Number=Plur	17	nsubj_pass	_	dutch=ontwikkelingen
 3	fan	fan	ADP	_	_	6	case	_	dutch=van
 4	de	de	DET	_	Definite=Def	6	det	_	dutch=de
 5	lêste	lêst	ADJ	_	_	6	amod	_	dutch=laatste
