@@ -2321,7 +2321,7 @@
 15	fan	fan	ADP	_	_	16	case	_	dutch=van
 16	diggelwurk	diggelwurk	NOUN	_	Gender=Neut|Number=Sing	14	nmod	_	dutch=aardewerk
 17	út	út	ADP	_	_	18	case	_	dutch=KEY-MISSING
-18	Makkum	Makkum	PROPN	_	_	0	root	_	dutch=KEY-MISSING
+18	Makkum	Makkum	PROPN	_	_	16	root	_	dutch=KEY-MISSING
 19	,	,	PUNCT	_	_	23	punct	_	dutch=,
 20	de	de	DET	_	Definite=Def	23	det	_	dutch=de
 21	stinzen	stins	NOUN	_	Gender=Com|Number=Sing	14	conj	_	dutch=stinzen
