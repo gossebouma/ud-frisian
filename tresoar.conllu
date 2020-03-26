@@ -2258,7 +2258,7 @@
 13	wurde	wurde	AUX	_	VerbForm=Inf	12	aux_pass	_	dutch=worden
 14	fan	fan	ADP	_	_	18	case	_	dutch=van
 15	mear	folle	PRON	_	PronType=Ind	17	amod	_	dutch=meer
-16	as	as	SCONJ	_	_	15	root	_	dutch=VAL-MISSING
+16	as	as	SCONJ	_	_	15	flat	_	dutch=VAL-MISSING
 17	twahûndert	twahûndert	NUM	_	_	18	nummod	_	dutch=tweehonderd
 18	jier	jier	NOUN	_	Gender=Neut|Number=Sing	11	nmod	_	dutch=jaar
 19	literatuerskiednis	literatuerskiednis	NOUN	_	Gender=Com|Number=Sing	18	nmod	_	dutch=literatuurgeschiedenis
