@@ -1541,7 +1541,7 @@
 9	kompjûters	kompjûter	NOUN	_	Number=Plur	10	obl	_	dutch=computers
 10	tariste	tariede	VERB	_	VerbForm=Part	11	acl	_	dutch=uitgeruste
 11	stúdzjeseal	stúdzjeseal	NOUN	_	Gender=Com|Number=Sing	4	obj	_	dutch=studiezaal
-12	en	en	CCONJ	_	_	13	cc	_	dutch=en
+12	en	en	CCONJ	_	_	14	cc	_	dutch=en
 13	in	in	DET	_	_	11	conj	_	dutch=een
 14	webside	webside	NOUN	_	Gender=Com|Number=Sing	15	iobj	_	dutch=website
 15	dy’t	dy’t	PRON	_	Gender=Com|Number=Sing	13	acl	_	dutch=ontwikkeling
