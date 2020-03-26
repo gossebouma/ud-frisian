@@ -1660,7 +1660,7 @@
 2	kin	kin	AUX	_	Gender=Com|Number=Sing	4	aux	_	dutch=kan
 3	bygelyks	bygelyks	ADV	_	_	4	amod	_	dutch=bijvoorbeeld
 4	betsjutte	betsjutte	VERB	_	VerbForm=Inf	0	root	_	dutch=betekenen
-5	dat	dat	SCONJ	_	Person=3|PronType=Rel	16	xcomp	_	dutch=dat
+5	dat	dat	SCONJ	_	Person=3|PronType=Rel	15	xcomp	_	dutch=dat
 6	by	by	ADP	_	_	8	case	_	dutch=bij
 7	de	de	DET	_	Definite=Def	8	det	_	dutch=de
 8	beskriuwing	beskriuwing	NOUN	_	Gender=Com|Number=Sing	15	obl	_	dutch=beschrijving
