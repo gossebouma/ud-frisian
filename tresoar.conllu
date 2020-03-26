@@ -1802,7 +1802,7 @@
 11	de	de	DET	_	Definite=Def	13	det	_	dutch=de
 12	kubusfoarmige	kubusfoarmich	ADJ	_	Gender=Com|Number=Sing	13	amod	_	dutch=kubusvormige
 13	Qbic	Qbic	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Qbic
-14	.	.	PUNCT	_	_	12	punct	_	dutch=.
+14	.	.	PUNCT	_	_	13	punct	_	dutch=.
 
 # sent_id = 78
 # text = Op ’e stúdzjeseal binne foar it publyk ( njonken in tweintich standert kompjûters ) fjouwer fan dy apparaten pleatst .
