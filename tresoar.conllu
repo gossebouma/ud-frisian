@@ -2342,7 +2342,7 @@
 1	Der	der	ADV	_	_	3	advmod	_	dutch=Er
 2	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	3	aux_pass	_	dutch=wordt
 3	stribbe	stribbe	VERB	_	VerbForm=Part	0	root	_	dutch=gestreefd
-4	nei	nei	ADP	_	_	6	root	_	dutch=naar
+4	nei	nei	ADP	_	_	6	case	_	dutch=naar
 5	twa	twa	NUM	_	_	6	nummod	_	dutch=twee
 6	wikselútstallingen	wikselútstalling	NOUN	_	_	8	case	_	dutch=per
 7	it	it	DET	_	_	8	case	_	dutch=per
