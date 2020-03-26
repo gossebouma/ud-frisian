@@ -2346,7 +2346,7 @@
 5	twa	twa	NUM	_	_	6	nummod	_	dutch=twee
 6	wikselútstallingen	wikselútstalling	NOUN	_	_	3	obl	_	dutch=per
 7	it	it	DET	_	_	8	case	_	dutch=per
-8	jier	jier	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=jaar
+8	jier	jier	NOUN	_	Gender=Neut|Number=Sing	6	root	_	dutch=jaar
 9	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 99
