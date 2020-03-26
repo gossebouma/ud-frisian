@@ -2037,7 +2037,7 @@
 48	skriuwster	skriuwster	NOUN	_	Gender=Com|Number=Sing	46	parataxis	_	dutch=schrijfster
 49	Nynke	Nynke	PROPN	_	Gender=Com|Number=Sing	48	appos	_	dutch=Nienke
 50	fan	fan	PROPN	_	_	49	flat	_	dutch=van
-51	Hichtum	Hichtum	PROPN	_	Gender=Neut|Number=Sing	48	nmod	_	dutch=Hichtum
+51	Hichtum	Hichtum	PROPN	_	Gender=Neut|Number=Sing	49	nmod	_	dutch=Hichtum
 52	.	.	PUNCT	_	_	25	punct	_	dutch=.
 
 # sent_id = 86
