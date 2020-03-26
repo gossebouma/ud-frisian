@@ -2297,7 +2297,7 @@
 8	belangryk	belangryk	ADJ	_	Degree=Pos	9	amod	_	dutch=belangrijk
 9	útgongspunt	útgongspunt	NOUN	_	VerbForm=Inf	0	root	_	dutch=vormen
 10	wêze	wêze	AUX	_	VerbForm=Inf	9	cop	_	dutch=vormen
-11	.	.	PUNCT	_	_	10	punct	_	dutch=.
+11	.	.	PUNCT	_	_	9	punct	_	dutch=.
 
 # sent_id = 97
 # text = Sa sille der yn ’e heine takomst útstallingen te sjen wêze oer de skiednis fan diggelwurk út Makkum , de stinzen en states en oer nijkommers yn Fryslân .
