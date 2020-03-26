@@ -1792,7 +1792,7 @@
 1	It	it	DET	_	Definite=Def	0	root	_	dutch=Het
 2	hjoeddeiske	hjoeddeiske	ADJ	_	Degree=Pos	0	root	_	dutch=huidige
 3	“	“	PUNCT	_	_	0	root	_	dutch=“
-4	topstik	topstik	NOUN	_	_	0	root	_	dutch=”
+4	topstik	topstik	NOUN	_	_	13	root	_	dutch=”
 5	”	”	PUNCT	_	_	0	root	_	dutch=”
 6	út	út	ADP	_	_	8	case	_	dutch=uit
 7	ús	ús	PRON	_	Person=1|Poss=Yes|PronType=Prs	8	nmod_poss	_	dutch=onze
