@@ -2100,7 +2100,7 @@
 6	leit	leit	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=ligt
 7	lykwols	lykwols	ADV	_	_	6	advmod	_	dutch=echter
 8	op	op	ADP	_	_	10	case	_	dutch=op
-9	it	it	DET	_	Gender=Com|Number=Sing	10	obl	_	dutch=periode
+9	it	it	DET	_	Gender=Com|Number=Sing	10	det	_	dutch=periode
 10	tiidrek	tiidrek	NOUN	_	Gender=Com|Number=Sing	6	obl	_	dutch=periode
 11	nei	nei	ADP	_	_	0	root	_	dutch=VAL-MISSING
 12	de	de	DET	_	Definite=Def	0	root	_	dutch=VAL-MISSING
