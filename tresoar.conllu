@@ -2121,7 +2121,7 @@
 6	wurk	wurk	NOUN	_	Gender=Neut|Number=Sing	7	obl	_	dutch=werk
 7	omtinken	omtinken	NOUN	_	VerbForm=Part	2	acl_relcl	_	dutch=geschonken
 8	kriget	krije	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	aux_pass	_	dutch=wordt
-9	,	,	PUNCT	_	_	10	mark	_	dutch=zoals
+9	,	,	PUNCT	_	_	10	punct	_	dutch=zoals
 10	binne	wêze	AUX	_	_	2	cop	_	dutch=Douwe
 11	Douwe	Douwe	PROPN	_	_	2	nsubj	_	dutch=Douwe
 12	Tamminga	Tamminga	PROPN	_	_	11	flat	_	dutch=Tamminga
