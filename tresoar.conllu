@@ -1616,7 +1616,7 @@
 5	webside	webside	NOUN	_	Gender=Com|Number=Sing	2	nmod	_	dutch=website
 6	bestiet	bestean	VERB	_	_	0	root	_	dutch=KEY-MISSING
 7	no	no	ADV	_	_	6	advmod	_	dutch=nu
-8	benammen	benammen	ADV	_	_	16	amod	_	dutch=vooral
+8	benammen	benammen	ADV	_	_	6	amod	_	dutch=vooral
 9	noch	noch	ADV	_	_	16	amod	_	dutch=nog
 10	út	út	ADP	_	_	0	root	_	dutch=KEY-MISSING
 11	“	“	PUNCT	_	_	12	punct	_	dutch=“
