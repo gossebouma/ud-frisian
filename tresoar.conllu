@@ -1648,7 +1648,7 @@
 37	om	om	ADP	_	_	36	case	_	dutch=om
 38	hinne	hinne	ADP	_	_	36	case	_	dutch=VAL-MISSING
 39	toand	toane	VERB	_	VerbForm=Part	0	root	_	dutch=getoond
-40	wurde	wurde	AUX	_	VerbForm=Inf	39	nmod	_	dutch=worden
+40	wurde	wurde	AUX	_	VerbForm=Inf	39	aux_pass	_	dutch=worden
 41	.	.	PUNCT	_	_	0	root	_	dutch=.
 
 # sent_id = 74
