@@ -2287,7 +2287,7 @@
 # source_text = Daarbij zullen de collecties van Tresoar een belangrijk uitgangspunt vormen .
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-9 9-9 10-10
 # NOT ALIGNED
-1	Dêrby	dêrby	ADV	_	_	10	advmod	_	dutch=Daarbij
+1	Dêrby	dêrby	ADV	_	_	9	advmod	_	dutch=Daarbij
 2	sille	sille	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	9	aux	_	dutch=zullen
 3	de	de	DET	_	Definite=Def	4	det	_	dutch=de
 4	kolleksjes	kolleksje	NOUN	_	Number=Plur	10	nsubj	_	dutch=collecties
