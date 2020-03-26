@@ -1977,7 +1977,7 @@
 22	,	,	PUNCT	_	_	23	punct	_	dutch=,
 23	Harmen	Harmen	PROPN	_	_	21	conj	_	dutch=Harmen
 24	Sytstra	Sytstra	PROPN	_	_	23	flat	_	dutch=VAL-MISSING
-25	en	en	CCONJ	_	_	26	cc	_	dutch=VAL-MISSING
+25	en	en	CCONJ	_	_	27	cc	_	dutch=VAL-MISSING
 26	Waling	Waling	PROPN	_	_	21	conj	_	dutch=Waling
 27	Dykstra	Dykstra	PROPN	_	_	26	root	_	dutch=VAL-MISSING
 28	.	.	PUNCT	_	_	27	punct	_	dutch=.
