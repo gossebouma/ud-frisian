@@ -2193,7 +2193,7 @@
 4	leit	lizze	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=ligt
 5	wurk	wurk	NOUN	_	Gender=Neut|Number=Sing	4	nsubj	_	dutch=werk
 6	fan	fan	ADP	_	_	9	case	_	dutch=van
-7	sawol	sawol	ADV	_	_	9	nmod	_	dutch=zowel
+7	sawol	sawol	ADV	_	_	9	advmod	_	dutch=zowel
 8	it	it	DET	_	Definite=Def	9	det	_	dutch=het
 9	begjin	begjin	NOUN	_	Gender=Neut|Number=Sing	4	obl	_	dutch=begin
 10	mei	mei	ADP	_	_	13	case	_	dutch=met
