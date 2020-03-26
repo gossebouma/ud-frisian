@@ -2032,7 +2032,7 @@
 43	fan	fan	ADP	_	_	46	case	_	dutch=van
 44	dy	dy	PRON	_	_	46	det	_	dutch=diens
 45	syn	syn	PRON	_	_	46	det	_	dutch=diens
-46	frou	frou	NOUN	_	Gender=Com|Number=Sing	25	conj	_	dutch=echtgenote
+46	frou	frou	NOUN	_	Gender=Com|Number=Sing	36	conj	_	dutch=echtgenote
 47	de	de	DET	_	Definite=Def	48	det	_	dutch=de
 48	skriuwster	skriuwster	NOUN	_	Gender=Com|Number=Sing	46	parataxis	_	dutch=schrijfster
 49	Nynke	Nynke	PROPN	_	Gender=Com|Number=Sing	48	appos	_	dutch=Nienke
