@@ -2127,7 +2127,7 @@
 12	Tamminga	Tamminga	PROPN	_	_	11	flat	_	dutch=Tamminga
 13	,	,	PUNCT	_	_	14	punct	_	dutch=,
 14	Anne	Anne	PROPN	_	_	2	appos	_	dutch=Anne
-15	Wadman	Wadman	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+15	Wadman	Wadman	PROPN	_	_	14	root	_	dutch=VAL-MISSING
 16	,	,	PUNCT	_	_	15	punct	_	dutch=,
 17	Trinus	Trinus	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 18	Riemersma	Riemersma	PROPN	_	_	0	root	_	dutch=VAL-MISSING
