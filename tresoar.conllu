@@ -1649,7 +1649,7 @@
 38	hinne	hinne	ADP	_	_	36	case	_	dutch=VAL-MISSING
 39	toand	toane	VERB	_	VerbForm=Part	6	parataxis	_	dutch=getoond
 40	wurde	wurde	AUX	_	VerbForm=Inf	39	aux_pass	_	dutch=worden
-41	.	.	PUNCT	_	_	0	root	_	dutch=.
+41	.	.	PUNCT	_	_	6	root	_	dutch=.
 
 # sent_id = 74
 # text = Dat kin bygelyks betsjutte dat by de beskriuwing fan in argyfstik ek de ynhâld toand wurdt , of dat ferskillende gegevens en ôfbyldingen dy’t mei elkoar te meitsjen hawwe op ien plak tagelyk opfrege wurde kinne .
