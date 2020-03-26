@@ -1683,7 +1683,7 @@
 25	mei	mei	ADP	_	Gender=Com|Number=Sing	26	case	_	dutch=betrekking
 26	elkoar	elkoar	PRON	_	_	29	obl	_	dutch=KEY-MISSING
 27	te	te	ADP	_	Gender=Com|Number=Sing	28	mark	_	dutch=betrekking
-28	meitsjen	meitsje	VERB	_	VerbForm=Part	23	acl	_	dutch=hebbend
+28	meitsjen	meitsje	VERB	_	VerbForm=Part	29	acl	_	dutch=hebbend
 29	hawwe	hawwe	AUX	_	_	0	root	_	dutch=KEY-MISSING
 30	op	op	ADP	_	_	32	case	_	dutch=op
 31	ien	ien	NUM	_	_	32	nummod	_	dutch=één
