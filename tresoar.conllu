@@ -2122,7 +2122,7 @@
 7	omtinken	omtinken	NOUN	_	VerbForm=Part	10	acl_relcl	_	dutch=geschonken
 8	kriget	krije	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	aux_pass	_	dutch=wordt
 9	,	,	PUNCT	_	_	10	mark	_	dutch=zoals
-10	binne	wêze	AUX	_	_	2	acl	_	dutch=Douwe
+10	binne	wêze	AUX	_	_	2	cop	_	dutch=Douwe
 11	Douwe	Douwe	PROPN	_	_	2	acl	_	dutch=Douwe
 12	Tamminga	Tamminga	PROPN	_	_	10	flat	_	dutch=Tamminga
 13	,	,	PUNCT	_	_	14	punct	_	dutch=,
