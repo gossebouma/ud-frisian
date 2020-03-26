@@ -2290,7 +2290,7 @@
 1	Dêrby	dêrby	ADV	_	_	9	advmod	_	dutch=Daarbij
 2	sille	sille	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	9	aux	_	dutch=zullen
 3	de	de	DET	_	Definite=Def	4	det	_	dutch=de
-4	kolleksjes	kolleksje	NOUN	_	Number=Plur	10	nsubj	_	dutch=collecties
+4	kolleksjes	kolleksje	NOUN	_	Number=Plur	9	nsubj	_	dutch=collecties
 5	fan	fan	ADP	_	_	6	case	_	dutch=van
 6	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	4	nmod	_	dutch=Tresoar
 7	in	in	DET	_	Definite=Ind	9	case	_	dutch=een
