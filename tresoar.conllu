@@ -1727,7 +1727,7 @@
 26	yn	yn	ADP	_	_	16	case	_	dutch=in
 27	beljochte	beljochtsje	NOUN	_	VerbForm=Part	12	acl_relcl	_	dutch=belicht
 28	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	27	aux_pass	_	dutch=wordt
-29	en	en	CCONJ	_	_	42	conj	_	dutch=en
+29	en	en	CCONJ	_	_	42	case	_	dutch=en
 30	dêr’t	dêr’t	ADV	_	_	42	obl	_	dutch=KEY-MISSING
 31	wat	wat	PRON	_	Person=3|PronType=Ind	34	amod	_	dutch=iets
 32	oer	oer	ADP	_	_	34	case	_	dutch=over
