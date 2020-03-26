@@ -1736,7 +1736,7 @@
 35	en	en	CCONJ	_	_	37	cc	_	dutch=en
 36	de	de	DET	_	Definite=Def	37	det	_	dutch=de
 37	betsjutting	betsjutting	NOUN	_	Gender=Com|Number=Sing	34	conj	_	dutch=betekenis
-38	fan	fan	ADP	_	_	41	case	_	dutch=van
+38	fan	fan	ADP	_	_	40	case	_	dutch=van
 39	it	it	DET	_	Definite=Def	40	det	_	dutch=het
 40	objekt	objekt	NOUN	_	Gender=Neut|Number=Sing	37	nmod	_	dutch=object
 41	yn	yn	ADP	_	Gender=Neut|Number=Sing	30	case	_	dutch=object
