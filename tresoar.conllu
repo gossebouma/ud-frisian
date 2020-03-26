@@ -2245,7 +2245,7 @@
 # NOT ALIGNED
 1	Foar	Foar	ADP	_	_	3	case	_	dutch=Voor
 2	de	de	DET	_	Definite=Def	3	det	_	dutch=de
-3	besiker	besiker	NOUN	_	Gender=Com|Number=Sing	4	nsubj	_	dutch=bezoeker
+3	besiker	besiker	NOUN	_	Gender=Com|Number=Sing	12	nsubj	_	dutch=bezoeker
 4	sil	sille	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	12	aux	_	dutch=zal
 5	mei	mei	ADP	_	_	9	case	_	dutch=met
 6	help	help	NOUN	_	Gender=Neut|Number=Sing	5	fixed	_	dutch=behulp
