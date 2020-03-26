@@ -1669,7 +1669,7 @@
 11	argyfstik	argyfstik	NOUN	_	Gender=Neut|Number=Sing	8	nmod	_	dutch=archiefstuk
 12	ek	ek	ADV	_	_	5	advmod	_	dutch=ook
 13	de	de	DET	_	Definite=Def	14	det	_	dutch=de
-14	ynhâld	ynhâld	NOUN	_	Gender=Com|Number=Sing	16	nsubj	_	dutch=inhoud
+14	ynhâld	ynhâld	NOUN	_	Gender=Com|Number=Sing	15	nsubj	_	dutch=inhoud
 15	toand	toane	VERB	_	VerbForm=Part	2	amod	_	dutch=getoond
 16	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	acl_relcl	_	dutch=wordt
 17	,	,	PUNCT	_	_	21	punct	_	dutch=,
