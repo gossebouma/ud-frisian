@@ -2106,7 +2106,7 @@
 12	de	de	DET	_	Definite=Def	0	root	_	dutch=VAL-MISSING
 13	Twadde	Twadde	PROPN	_	_	9	nmod	_	dutch=Tweede
 14	Wrâldoarloch	Wrâldoarloch	PROPN	_	_	13	flat	_	dutch=VAL-MISSING
-15	.	.	PUNCT	_	_	14	punct	_	dutch=.
+15	.	.	PUNCT	_	_	6	punct	_	dutch=.
 
 # sent_id = 89
 # text = Bekende skriuwers fan wa’t it wurk omtinken kriget , binne Douwe Tamminga , Anne Wadman , Trinus Riemersma en Rink van der Velde .
