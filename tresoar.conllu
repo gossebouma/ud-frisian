@@ -2195,7 +2195,7 @@
 6	fan	fan	ADP	_	_	9	case	_	dutch=van
 7	sawol	sawol	ADV	_	_	9	advmod	_	dutch=zowel
 8	it	it	DET	_	Definite=Def	9	det	_	dutch=het
-9	begjin	begjin	NOUN	_	Gender=Neut|Number=Sing	4	obl	_	dutch=begin
+9	begjin	begjin	NOUN	_	Gender=Neut|Number=Sing	5	obl	_	dutch=begin
 10	mei	mei	ADP	_	_	13	case	_	dutch=met
 11	bygelyks	bygelyks	ADV	_	_	13	advmod	_	dutch=bijvoorbeeld
 12	de	de	DET	_	_	13	det	_	dutch=KEY-MISSING
