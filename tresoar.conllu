@@ -1979,7 +1979,7 @@
 24	Sytstra	Sytstra	PROPN	_	_	23	flat	_	dutch=VAL-MISSING
 25	en	en	CCONJ	_	_	0	root	_	dutch=VAL-MISSING
 26	Waling	Waling	PROPN	_	_	21	conj	_	dutch=Waling
-27	Dykstra	Dykstra	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+27	Dykstra	Dykstra	PROPN	_	_	26	root	_	dutch=VAL-MISSING
 28	.	.	PUNCT	_	_	27	punct	_	dutch=.
 
 # sent_id = 85
