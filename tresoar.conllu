@@ -1725,7 +1725,7 @@
 24	tiid	tiid	NOUN	_	Gender=Com|Number=Sing	25	obl	_	dutch=tijd
 25	spile	spylje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	12	acl_relcl	_	dutch=speelde
 26	yn	yn	ADP	_	_	16	case	_	dutch=in
-27	beljochte	beljochtsje	NOUN	_	VerbForm=Part	18	obl	_	dutch=belicht
+27	beljochte	beljochtsje	NOUN	_	VerbForm=Part	12	obl	_	dutch=belicht
 28	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	27	aux_pass	_	dutch=wordt
 29	en	en	CCONJ	_	_	42	conj	_	dutch=en
 30	dêr’t	dêr’t	ADV	_	_	42	obl	_	dutch=KEY-MISSING
