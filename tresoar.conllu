@@ -2119,7 +2119,7 @@
 4	wa’t	wa’t	PRON	_	_	7	obl	_	dutch=KEY-MISSING
 5	it	it	DET	_	Definite=Def	6	det	_	dutch=het
 6	wurk	wurk	NOUN	_	Gender=Neut|Number=Sing	7	obl	_	dutch=werk
-7	omtinken	omtinken	NOUN	_	VerbForm=Part	0	root	_	dutch=geschonken
+7	omtinken	omtinken	NOUN	_	VerbForm=Part	2	root	_	dutch=geschonken
 8	kriget	krije	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	aux_pass	_	dutch=wordt
 9	,	,	PUNCT	_	_	10	mark	_	dutch=zoals
 10	binne	wêze	AUX	_	_	2	acl	_	dutch=Douwe
