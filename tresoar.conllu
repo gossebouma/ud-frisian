@@ -1677,7 +1677,7 @@
 19	dat	dat	SCONJ	_	Person=3|PronType=Dem	20	obj	_	dutch=dat
 20	ferskillende	ferskillend	ADJ	_	Degree=Pos	21	acl	_	dutch=verschillende
 21	gegevens	gegeven	NOUN	_	Number=Plur	34	nsubj_pass	_	dutch=gegevens
-22	en	en	CCONJ	_	_	34	cc	_	dutch=en
+22	en	en	CCONJ	_	_	23	cc	_	dutch=en
 23	ôfbyldingen	ôfbylding	NOUN	_	Number=Plur	21	conj	_	dutch=afbeeldingen
 24	dy’t	dy’t	PRON	_	Gender=Com|Number=Sing	29	nsubj	_	dutch=betrekking
 25	mei	mei	ADP	_	Gender=Com|Number=Sing	26	case	_	dutch=betrekking
