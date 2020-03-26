@@ -1679,7 +1679,7 @@
 21	gegevens	gegeven	NOUN	_	Number=Plur	2	conj	_	dutch=gegevens
 22	en	en	CCONJ	_	_	34	cc	_	dutch=en
 23	ôfbyldingen	ôfbylding	NOUN	_	Number=Plur	34	nsubj_pass	_	dutch=afbeeldingen
-24	dy’t	dy’t	PRON	_	Gender=Com|Number=Sing	28	obj	_	dutch=betrekking
+24	dy’t	dy’t	PRON	_	Gender=Com|Number=Sing	29	obj	_	dutch=betrekking
 25	mei	mei	ADP	_	Gender=Com|Number=Sing	26	case	_	dutch=betrekking
 26	elkoar	elkoar	PRON	_	_	29	obl	_	dutch=KEY-MISSING
 27	te	te	ADP	_	Gender=Com|Number=Sing	28	mark	_	dutch=betrekking
