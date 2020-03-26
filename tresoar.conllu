@@ -1865,7 +1865,7 @@
 28	rieplachte	rieplachtsje	VERB	_	VerbForm=Part	0	root	_	dutch=geraadpleegd
 29	wurde	wurde	AUX	_	VerbForm=Inf	28	aux_pass	_	dutch=worden
 30	,	,	PUNCT	_	_	40	punct	_	dutch=,
-31	dêr’t	dêr’t	ADV	_	_	40	advmod	_	dutch=waarvan
+31	dêr’t	dêr’t	ADV	_	_	40	obl	_	dutch=waarvan
 32	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	40	nsubj	_	dutch=Tresoar
 33	ûnderwilens	ûnderwilens	ADV	_	_	40	advmod	_	dutch=ondertussen
 34	ek	ek	ADV	_	_	40	advmod	_	dutch=ook
