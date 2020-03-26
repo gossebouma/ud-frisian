@@ -1732,7 +1732,7 @@
 31	wat	wat	PRON	_	Person=3|PronType=Ind	34	amod	_	dutch=iets
 32	oer	oer	ADP	_	_	34	case	_	dutch=over
 33	de	de	DET	_	Definite=Def	34	det	_	dutch=de
-34	skiednis	skiednis	NOUN	_	Gender=Com|Number=Sing	42	conj	_	dutch=geschiedenis
+34	skiednis	skiednis	NOUN	_	Gender=Com|Number=Sing	42	obl	_	dutch=geschiedenis
 35	en	en	CCONJ	_	_	37	cc	_	dutch=en
 36	de	de	DET	_	Definite=Def	37	det	_	dutch=de
 37	betsjutting	betsjutting	NOUN	_	Gender=Com|Number=Sing	34	conj	_	dutch=betekenis
