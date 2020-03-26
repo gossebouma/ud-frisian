@@ -1751,7 +1751,7 @@
 # ALIGNED
 1	Foar	foar	ADP	_	_	3	case	_	dutch=Voor
 2	it	it	DET	_	Definite=Def	3	det	_	dutch=het
-3	leverje	leverje	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=leveren
+3	leverje	leverje	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	10	root	_	dutch=leveren
 4	kinnen	kinne	AUX	_	VerbForm=Inf	3	aux	_	dutch=kunnen
 5	fan	fan	ADP	_	_	9	case	_	dutch=van
 6	al	al	ADV	_	_	9	advmod	_	dutch=al
