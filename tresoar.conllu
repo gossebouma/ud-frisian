@@ -1644,7 +1644,7 @@
 33	en	en	CCONJ	_	_	35	cc	_	dutch=en
 34	it	it	DET	_	Definite=Def	35	det	_	dutch=het
 35	ferhaal	ferhaal	NOUN	_	Gender=Neut|Number=Sing	26	conj	_	dutch=verhaal
-36	der	der	ADV	_	_	37	appos	_	dutch=er
+36	der	der	ADV	_	_	39	appos	_	dutch=er
 37	om	om	ADP	_	_	40	case	_	dutch=om
 38	hinne	hinne	ADP	_	_	0	root	_	dutch=VAL-MISSING
 39	toand	toane	VERB	_	VerbForm=Part	0	root	_	dutch=getoond
