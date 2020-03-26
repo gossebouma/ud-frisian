@@ -1617,7 +1617,7 @@
 6	bestiet	bestean	VERB	_	_	0	root	_	dutch=KEY-MISSING
 7	no	no	ADV	_	_	6	advmod	_	dutch=nu
 8	benammen	benammen	ADV	_	_	6	advmod	_	dutch=vooral
-9	noch	noch	ADV	_	_	16	amod	_	dutch=nog
+9	noch	noch	ADV	_	_	6	amod	_	dutch=nog
 10	út	út	ADP	_	_	0	root	_	dutch=KEY-MISSING
 11	“	“	PUNCT	_	_	12	punct	_	dutch=“
 12	losse	losse	ADJ	_	Degree=Pos	14	amod	_	dutch=losse
