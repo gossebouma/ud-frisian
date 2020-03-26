@@ -2027,7 +2027,7 @@
 38	politikus	politikus	NOUN	_	Gender=Com|Number=Sing	36	conj	_	dutch=politicus
 39	Piter	Piter	PROPN	_	_	36	appos	_	dutch=Pieter
 40	Jelles	Jelles	PROPN	_	_	39	flat	_	dutch=VAL-MISSING
-41	Troelstra	Troelstra	PROPN	_	_	39	root	_	dutch=VAL-MISSING
+41	Troelstra	Troelstra	PROPN	_	_	39	flat	_	dutch=VAL-MISSING
 42	en	en	CCONJ	_	_	46	cc	_	dutch=en
 43	fan	fan	ADP	_	_	46	case	_	dutch=van
 44	dy	dy	PRON	_	_	46	det	_	dutch=diens
