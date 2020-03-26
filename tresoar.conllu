@@ -1561,7 +1561,7 @@
 29	kinne	kinne	AUX	_	_	27	aux	_	dutch=KEY-MISSING
 30	:	:	PUNCT	_	_	32	punct	_	dutch=:
 31	boargerlike	boargerlike	PROPN	_	Degree=Pos	32	amod	_	dutch=burgerlijke
-32	stân	stân	PROPN	_	Gender=Com|Number=Sing	27	appos	_	dutch=stand
+32	stân	stân	PROPN	_	Gender=Com|Number=Sing	26	appos	_	dutch=stand
 33	,	,	PUNCT	_	_	35	punct	_	dutch=,
 34	notariële	notarieel	ADJ	_	Degree=Pos	35	amod	_	dutch=notariële
 35	argiven	argyf	NOUN	_	Number=Plur	32	conj	_	dutch=archieven
