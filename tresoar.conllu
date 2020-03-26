@@ -1972,7 +1972,7 @@
 17	mannen	man	NOUN	_	_	15	nmod	_	dutch=KEY-MISSING
 18	as	as	SCONJ	_	_	20	mark	_	dutch=zoals
 19	de	de	DET	_	Definite=Def	20	det	_	dutch=de
-20	bruorren	broer	NOUN	_	Number=Plur	15	nmod	_	dutch=gebroeders
+20	bruorren	broer	NOUN	_	Number=Plur	17	nmod	_	dutch=gebroeders
 21	Halbertsma	Halbertsma	PROPN	_	Gender=Com|Number=Sing	20	appos	_	dutch=Halbertsma
 22	,	,	PUNCT	_	_	23	punct	_	dutch=,
 23	Harmen	Harmen	PROPN	_	_	21	conj	_	dutch=Harmen
