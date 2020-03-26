@@ -1799,7 +1799,7 @@
 8	kolleksje	kolleksje	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=collectie
 9	ICT-apparatuer	ICT-apparatuer	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	dutch=apparatuur
 10	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	12	cop	_	dutch=is
-11	de	de	DET	_	Definite=Def	12	det	_	dutch=de
+11	de	de	DET	_	Definite=Def	13	det	_	dutch=de
 12	kubusfoarmige	kubusfoarmich	ADJ	_	Gender=Com|Number=Sing	13	amod	_	dutch=kubusvormige
 13	Qbic	Qbic	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Qbic
 14	.	.	PUNCT	_	_	12	punct	_	dutch=.
