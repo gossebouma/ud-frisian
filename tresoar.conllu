@@ -2326,7 +2326,7 @@
 20	de	de	DET	_	Definite=Def	21	det	_	dutch=de
 21	stinzen	stins	NOUN	_	Gender=Com|Number=Sing	14	conj	_	dutch=stinzen
 22	en	en	CCONJ	_	_	23	cc	_	dutch=en
-23	states	state	NOUN	_	Number=Plur	14	conj	_	dutch=staten
+23	states	state	NOUN	_	Number=Plur	21	conj	_	dutch=staten
 24	en	en	CCONJ	_	_	26	cc	_	dutch=en
 25	oer	oer	ADP	_	_	26	case	_	dutch=over
 26	nijkommers	nijkommer	NOUN	_	Number=Plur	14	conj	_	dutch=nieuwkomers
