@@ -1724,7 +1724,7 @@
 23	syn	syn	PRON	_	VerbForm=Inf	9	nmod	_	dutch=zijn
 24	tiid	tiid	NOUN	_	Gender=Com|Number=Sing	27	obl	_	dutch=tijd
 25	spile	spylje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	12	acl_relcl	_	dutch=speelde
-26	yn	yn	ADP	_	_	23	compound_prt	_	dutch=in
+26	yn	yn	ADP	_	_	16	compound_prt	_	dutch=in
 27	beljochte	beljochtsje	NOUN	_	VerbForm=Part	42	obl	_	dutch=belicht
 28	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	27	aux_pass	_	dutch=wordt
 29	en	en	CCONJ	_	_	34	cc	_	dutch=en
