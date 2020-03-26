@@ -2073,7 +2073,7 @@
 2	de	de	DET	_	Definite=Def	3	det	_	dutch=de
 3	oarloch	oarloch	NOUN	_	Gender=Com|Number=Sing	16	obl	_	dutch=oorlog
 4	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	16	cop	_	dutch=zijn
-5	auteurs	auteur	NOUN	_	_	16	mark	_	dutch=zoals
+5	auteurs	auteur	NOUN	_	_	16	nsubj	_	dutch=zoals
 6	as	as	SCONJ	_	_	7	mark	_	dutch=zoals
 7	Simke	Simke	PROPN	_	Degree=Pos	3	amod	_	dutch=Simke
 8	Kloosterman	Kloosterman	PROPN	_	Gender=Com|Number=Sing	7	flat	_	dutch=Kloosterman
