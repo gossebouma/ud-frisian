@@ -1754,7 +1754,7 @@
 3	leverje	leverje	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=leveren
 4	kinnen	kinne	AUX	_	VerbForm=Inf	3	obl	_	dutch=kunnen
 5	fan	fan	ADP	_	_	9	case	_	dutch=van
-6	al	al	ADV	_	_	3	obl	_	dutch=al
+6	al	al	ADV	_	_	9	obl	_	dutch=al
 7	dy	dy	PRON	_	_	9	det	_	dutch=deze
 8	firtuele	firtueel	ADJ	_	Degree=Pos	9	amod	_	dutch=virtuele
 9	tsjinsten	tsjinst	NOUN	_	Number=Plur	3	nsubj	_	dutch=diensten
