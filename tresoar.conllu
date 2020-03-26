@@ -2131,7 +2131,7 @@
 16	,	,	PUNCT	_	_	17	punct	_	dutch=,
 17	Trinus	Trinus	PROPN	_	_	11	root	_	dutch=VAL-MISSING
 18	Riemersma	Riemersma	PROPN	_	_	17	flat	_	dutch=VAL-MISSING
-19	en	en	CCONJ	_	_	20	root	_	dutch=VAL-MISSING
+19	en	en	CCONJ	_	_	20	cc	_	dutch=VAL-MISSING
 20	Rink	Rink	PROPN	_	_	11	conj	_	dutch=VAL-MISSING
 21	van	van	PROPN	_	_	20	flat	_	dutch=VAL-MISSING
 22	der	der	PROPN	_	_	20	flat	_	dutch=VAL-MISSING
