@@ -1790,7 +1790,7 @@
 # alignment =  0-0 1-1 2-2 3-4 4-4 5-5 6-6 7-7 8-9 9-10 10-11 11-12 12-13 13-14
 # NOT ALIGNED
 1	It	it	DET	_	Definite=Def	0	root	_	dutch=Het
-2	hjoeddeiske	hjoeddeiske	ADJ	_	Degree=Pos	4	root	_	dutch=huidige
+2	hjoeddeiske	hjoeddeiske	ADJ	_	Degree=Pos	4	amod	_	dutch=huidige
 3	“	“	PUNCT	_	_	4	punct	_	dutch=“
 4	topstik	topstik	NOUN	_	_	13	nsubj	_	dutch=”
 5	”	”	PUNCT	_	_	4	punct	_	dutch=”
