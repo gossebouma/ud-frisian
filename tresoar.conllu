@@ -2082,7 +2082,7 @@
 11	Kalma	Kalma	PROPN	_	_	10	flat	_	dutch=Kalma
 12	en	en	CCONJ	_	_	0	root	_	dutch=VAL-MISSING
 13	Reinder	Reinder	PROPN	_	_	8	conj	_	dutch=Reinder
-14	Brolsma	Brolsma	PROPN	_	_	13	root	_	dutch=VAL-MISSING
+14	Brolsma	Brolsma	PROPN	_	_	13	flat	_	dutch=VAL-MISSING
 15	opfallende	opfallend	ADJ	_	Degree=Pos	16	amod	_	dutch=opvallende
 16	nammen	namme	NOUN	_	Number=Plur	0	root	_	dutch=namen
 17	.	.	PUNCT	_	_	16	punct	_	dutch=.
