@@ -1742,7 +1742,7 @@
 41	yn	yn	ADP	_	Gender=Neut|Number=Sing	30	case	_	dutch=object
 42	ferteld	fertelle	VERB	_	VerbForm=Part	27	conj	_	dutch=verteld
 43	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	42	aux_pass	_	dutch=wordt
-44	.	.	PUNCT	_	_	42	punct	_	dutch=.
+44	.	.	PUNCT	_	_	13	punct	_	dutch=.
 
 # sent_id = 76
 # text = Foar it leverje kinnen fan al dy firtuele tsjinsten beskikt Tresoar oer in lytse , tawijde tsjinst ICT dy’t in flinke samling PC’s , servers en oare ICT-apparatuer beheart en yn bedriuw hâldt .
