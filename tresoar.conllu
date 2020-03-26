@@ -1624,7 +1624,7 @@
 13	”	”	PUNCT	_	_	12	punct	_	dutch=”
 14	gegevens	gegeven	NOUN	_	Number=Plur	16	nmod	_	dutch=gegevens
 15	;	;	PUNCT	_	_	14	punct	_	dutch=;
-16	mear	folle	PRON	_	PronType=Ind	19	nsubj	_	dutch=meer
+16	mear	folle	PRON	_	PronType=Ind	19	advmod	_	dutch=meer
 17	en	en	CCONJ	_	_	18	cc	_	dutch=en
 18	mear	folle	PRON	_	PronType=Ind	16	conj	_	dutch=meer
 19	sil	sille	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=zal
