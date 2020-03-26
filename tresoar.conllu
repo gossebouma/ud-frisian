@@ -2170,7 +2170,7 @@
 # NOT ALIGNED
 1	De	de	DET	_	Definite=Def	5	det	_	dutch=De
 2	Fryske	Frysk	ADJ	_	_	5	nmod	_	dutch=Friese
-3	berne-	berne-	NOUN	_	_	2	flat	_	dutch=kinder-en
+3	berne-	berne-	NOUN	_	_	6	flat	_	dutch=kinder-en
 4	en	en	CCONJ	_	_	5	cc	_	dutch=KEY-MISSING
 5	jongereinliteratuer	jongereinliteratuer	NOUN	_	Gender=Com|Number=Sing	6	nsubj	_	dutch=jeugdliteratuur
 6	bloeit	bloeie	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=bloeit
