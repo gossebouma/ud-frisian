@@ -1552,7 +1552,7 @@
 20	ûntjout	ûntjaan	VERB	_	Gender=Com|Number=Sing	14	acl_relcl	_	dutch=veelheid
 21	,	,	PUNCT	_	_	27	advmod	_	dutch=waar
 22	dêr’t	dêr’t	ADV	_	_	27	advmod	_	dutch=waar
-23	in	in	DET	_	Definite=Ind	20	det	_	dutch=een
+23	in	in	DET	_	Definite=Ind	24	det	_	dutch=een
 24	macht	macht	NOUN	_	_	26	case	_	dutch=aan
 25	oan	oan	ADP	_	_	26	case	_	dutch=aan
 26	gegevens	gegeven	NOUN	_	Number=Plur	27	nmod	_	dutch=gegevens
