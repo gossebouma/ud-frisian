@@ -1548,7 +1548,7 @@
 16	him	him	PRON	_	_	0	root	_	dutch=KEY-MISSING
 17	noch	noch	ADV	_	_	0	root	_	dutch=KEY-MISSING
 18	hieltyd	hieltyd	ADV	_	Degree=Pos	13	amod	_	dutch=voortdurend
-19	fierder	fierder	ADJ	_	_	20	root	_	dutch=KEY-MISSING
+19	fierder	fierder	ADJ	_	_	20	advmod	_	dutch=KEY-MISSING
 20	ûntjout	ûntjaan	VERB	_	Gender=Com|Number=Sing	27	nsubj	_	dutch=veelheid
 21	,	,	PUNCT	_	_	27	advmod	_	dutch=waar
 22	dêr’t	dêr’t	ADV	_	_	27	advmod	_	dutch=waar
