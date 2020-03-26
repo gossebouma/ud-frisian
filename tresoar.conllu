@@ -2075,7 +2075,7 @@
 4	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	16	cop	_	dutch=zijn
 5	auteurs	auteur	NOUN	_	_	8	mark	_	dutch=zoals
 6	as	as	SCONJ	_	_	8	mark	_	dutch=zoals
-7	Simke	Simke	PROPN	_	Degree=Pos	8	amod	_	dutch=Simke
+7	Simke	Simke	PROPN	_	Degree=Pos	3	amod	_	dutch=Simke
 8	Kloosterman	Kloosterman	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Kloosterman
 9	,	,	PUNCT	_	_	10	punct	_	dutch=,
 10	Douwe	Douwe	PROPN	_	_	8	conj	_	dutch=Douwe
