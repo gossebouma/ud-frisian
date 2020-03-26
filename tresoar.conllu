@@ -1980,7 +1980,7 @@
 25	en	en	CCONJ	_	_	27	cc	_	dutch=VAL-MISSING
 26	Waling	Waling	PROPN	_	_	21	conj	_	dutch=Waling
 27	Dykstra	Dykstra	PROPN	_	_	26	flat	_	dutch=VAL-MISSING
-28	.	.	PUNCT	_	_	27	punct	_	dutch=.
+28	.	.	PUNCT	_	_	9	punct	_	dutch=.
 
 # sent_id = 85
 # text = De “ Troelstra-samling ” fan it eardere Frysk Letterkundich Museum en Dokumintaasjesintrum is yn it gehiel fan de permaninte útstalling op in nije wize ynrjochte en jout in byld fan libben en wurk fan de dichter en politikus Piter Jelles Troelstra en fan dy syn frou de skriuwster Nynke fan Hichtum .
