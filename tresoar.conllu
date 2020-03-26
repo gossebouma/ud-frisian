@@ -1577,7 +1577,7 @@
 45	in	in	DET	_	Definite=Ind	46	det	_	dutch=een
 46	greep	greep	NOUN	_	Gender=Com|Number=Sing	48	obj	_	dutch=greep
 47	te	te	ADP	_	_	48	mark	_	dutch=te
-48	dwaan	dwaan	VERB	_	VerbForm=Inf	4	advcl	_	dutch=doen
+48	dwaan	dwaan	VERB	_	VerbForm=Inf	26	advcl	_	dutch=doen
 49	.	.	PUNCT	_	_	4	punct	_	dutch=.
 
 # sent_id = 72
