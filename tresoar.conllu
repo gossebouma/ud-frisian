@@ -1627,7 +1627,7 @@
 16	mear	folle	PRON	_	PronType=Ind	39	advmod	_	dutch=meer
 17	en	en	CCONJ	_	_	18	cc	_	dutch=en
 18	mear	folle	PRON	_	PronType=Ind	16	conj	_	dutch=meer
-19	sil	sille	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=zal
+19	sil	sille	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	39	root	_	dutch=zal
 20	ek	ek	ADV	_	_	19	advmod	_	dutch=ook
 21	de	de	DET	_	Definite=Def	22	det	_	dutch=de
 22	relaasje	relaasje	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=relatie
