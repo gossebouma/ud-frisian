@@ -2160,7 +2160,7 @@
 15	de	de	DET	_	_	0	root	_	dutch=KEY-MISSING
 16	útstalling	útstalling	NOUN	_	VerbForm=Part	0	root	_	dutch=getoond
 17	toand	toane	VERB	_	VerbForm=Part	0	root	_	dutch=getoond
-18	wurde	wurde	AUX	_	VerbForm=Inf	16	aux_pass	_	dutch=worden
+18	wurde	wurde	AUX	_	VerbForm=Inf	17	aux_pass	_	dutch=worden
 19	.	.	PUNCT	_	_	16	punct	_	dutch=.
 
 # sent_id = 91
