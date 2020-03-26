@@ -2130,7 +2130,7 @@
 15	Wadman	Wadman	PROPN	_	_	14	flat	_	dutch=VAL-MISSING
 16	,	,	PUNCT	_	_	15	punct	_	dutch=,
 17	Trinus	Trinus	PROPN	_	_	0	root	_	dutch=VAL-MISSING
-18	Riemersma	Riemersma	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+18	Riemersma	Riemersma	PROPN	_	_	17	root	_	dutch=VAL-MISSING
 19	en	en	CCONJ	_	_	0	root	_	dutch=VAL-MISSING
 20	Rink	Rink	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 21	van	van	PROPN	_	_	0	root	_	dutch=VAL-MISSING
