@@ -2324,7 +2324,7 @@
 18	Makkum	Makkum	PROPN	_	_	16	nmod	_	dutch=KEY-MISSING
 19	,	,	PUNCT	_	_	23	punct	_	dutch=,
 20	de	de	DET	_	Definite=Def	21	det	_	dutch=de
-21	stinzen	stins	NOUN	_	Gender=Com|Number=Sing	14	conj	_	dutch=stinzen
+21	stinzen	stins	NOUN	_	Gender=Com|Number=Sing	18	conj	_	dutch=stinzen
 22	en	en	CCONJ	_	_	23	cc	_	dutch=en
 23	states	state	NOUN	_	Number=Plur	21	conj	_	dutch=staten
 24	en	en	CCONJ	_	_	26	cc	_	dutch=en
