@@ -2179,7 +2179,7 @@
 9	desennia	desennium	NOUN	_	Number=Plur	6	obl	_	dutch=decennia
 10	as	as	SCONJ	_	_	12	case	_	dutch=als
 11	in	in	DET	_	_	12	det	_	dutch=KEY-MISSING
-12	titelroas	titelroas	NOUN	_	_	6	advmod	_	dutch=tevoren
+12	titelroas	titelroas	NOUN	_	_	6	obl	_	dutch=tevoren
 13	.	.	PUNCT	_	_	6	punct	_	dutch=.
 
 # sent_id = 92
