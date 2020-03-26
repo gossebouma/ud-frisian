@@ -1703,7 +1703,7 @@
 2	in	in	DET	_	Definite=Ind	4	det	_	dutch=een
 3	lytser	lyts	ADJ	_	Degree=Cmp	4	amod	_	dutch=kleiner
 4	tal	tal	NOUN	_	Gender=Neut|Number=Sing	5	obj	_	dutch=aantal
-5	ûnderdielen	ûnderdiel	NOUN	_	VerbForm=Inf	27	nsubj_pass	_	dutch=delen
+5	ûnderdielen	ûnderdiel	NOUN	_	VerbForm=Inf	0	root	_	dutch=delen
 6	fan	fan	ADP	_	_	8	case	_	dutch=van
 7	de	de	DET	_	Definite=Def	8	det	_	dutch=de
 8	kolleksje	kolleksje	NOUN	_	Gender=Com|Number=Sing	5	nmod	_	dutch=collectie
