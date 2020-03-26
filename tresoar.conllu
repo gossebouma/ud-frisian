@@ -1720,7 +1720,7 @@
 19	dy’t	dy’t	PRON	_	Person=3|PronType=Dem	25	obj	_	dutch=die
 20	it	it	DET	_	Definite=Def	21	det	_	dutch=het
 21	objekt	objekt	NOUN	_	Gender=Neut|Number=Sing	25	nsubj	_	dutch=object
-22	yn	yn	ADP	_	_	23	compound_prt	_	dutch=in
+22	yn	yn	ADP	_	_	24	compound_prt	_	dutch=in
 23	syn	syn	PRON	_	VerbForm=Inf	24	nmod	_	dutch=zijn
 24	tiid	tiid	NOUN	_	Gender=Com|Number=Sing	27	obl	_	dutch=tijd
 25	spile	spylje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	12	acl_relcl	_	dutch=speelde
