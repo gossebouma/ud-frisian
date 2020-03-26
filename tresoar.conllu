@@ -1796,7 +1796,7 @@
 5	”	”	PUNCT	_	_	4	punct	_	dutch=”
 6	út	út	ADP	_	_	8	case	_	dutch=uit
 7	ús	ús	PRON	_	Person=1|Poss=Yes|PronType=Prs	8	nmod_poss	_	dutch=onze
-8	kolleksje	kolleksje	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=collectie
+8	kolleksje	kolleksje	NOUN	_	Gender=Com|Number=Sing	4	root	_	dutch=collectie
 9	ICT-apparatuer	ICT-apparatuer	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	dutch=apparatuur
 10	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	13	cop	_	dutch=is
 11	de	de	DET	_	Definite=Def	13	det	_	dutch=de
