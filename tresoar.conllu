@@ -1710,7 +1710,7 @@
 9	kin	kinne	AUX	_	Gender=Com|Number=Sing	13	aux	_	dutch=kan
 10	in	in	DET	_	Definite=Ind	12	det	_	dutch=een
 11	folslein	folslein	ADJ	_	Degree=Pos	12	amod	_	dutch=volledig
-12	ferhaal	ferhaal	NOUN	_	Gender=Neut|Number=Sing	23	nmod	_	dutch=verhaal
+12	ferhaal	ferhaal	NOUN	_	Gender=Neut|Number=Sing	13	nmod	_	dutch=verhaal
 13	ferteld	fertelle	VERB	_	VerbForm=Part	0	root	_	dutch=verteld
 14	wurde	wurde	AUX	_	VerbForm=Inf	12	appos	_	dutch=worden
 15	,	,	PUNCT	_	_	25	punct	_	dutch=,
