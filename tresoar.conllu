@@ -2344,7 +2344,7 @@
 3	stribbe	stribbe	VERB	_	VerbForm=Part	0	root	_	dutch=gestreefd
 4	nei	nei	ADP	_	_	6	case	_	dutch=naar
 5	twa	twa	NUM	_	_	6	nummod	_	dutch=twee
-6	wikselútstallingen	wikselútstalling	NOUN	_	_	3	case	_	dutch=per
+6	wikselútstallingen	wikselútstalling	NOUN	_	_	3	obl	_	dutch=per
 7	it	it	DET	_	_	8	case	_	dutch=per
 8	jier	jier	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=jaar
 9	.	.	PUNCT	_	_	3	punct	_	dutch=.
