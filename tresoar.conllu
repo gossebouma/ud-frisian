@@ -2227,7 +2227,7 @@
 11	kabaret	kabaret	NOUN	_	Gender=Neut|Number=Sing	9	conj	_	dutch=cabaret
 12	en	en	CCONJ	_	_	13	cc	_	dutch=en
 13	muzykteksten	muzyktekst	NOUN	_	Number=Plur	9	conj	_	dutch=muziekteksten
-14	,	,	PUNCT	_	_	1	punct	_	dutch=,
+14	,	,	PUNCT	_	_	15	punct	_	dutch=,
 15	komme	komme	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=komen
 16	yn	yn	ADP	_	_	18	case	_	dutch=in
 17	de	de	DET	_	Definite=Def	18	det	_	dutch=de
