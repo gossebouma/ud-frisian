@@ -2774,7 +2774,7 @@
 3	dat	dat	SCONJ	_	_	6	mark	_	dutch=dat
 4	in	in	DET	_	Definite=Ind	5	det	_	dutch=een
 5	jiermennich	jiermennich	NOUN	_	Number=Plur	7	obl	_	dutch=jaren
-6	lyn	lyn	ADV	_	_	5	acl	_	dutch=geleden
+6	lyn	lyn	ADV	_	_	5	amod	_	dutch=geleden
 7	útfierd	útfiere	VERB	_	VerbForm=Part	23	advcl	_	dutch=uitgevoerd
 8	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	cop	_	dutch=is
 9	yn	yn	ADP	_	_	0	root	_	dutch=VAL-MISSING
