@@ -2956,7 +2956,7 @@
 11	Romein	Romein	PROPN	_	_	10	flat	_	dutch=Romein
 12	yn	yn	ADP	_	_	14	case	_	dutch=VAL-MISSING
 13	it	it	DET	_	Definite=Def	14	det	_	dutch=VAL-MISSING
-14	ramt	ramt	NOUN	_	Gender=Neut|Number=Sing	4	root	_	dutch=VAL-MISSING
+14	ramt	ramt	NOUN	_	Gender=Neut|Number=Sing	4	obl	_	dutch=VAL-MISSING
 15	fan	fan	ADP	_	_	17	case	_	dutch=VAL-MISSING
 16	‘	‘	PUNCT	_	_	17	punct	_	dutch=‘
 17	It	it	DET	_	_	14	nmod	_	dutch=It
