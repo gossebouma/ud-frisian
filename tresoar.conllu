@@ -2930,7 +2930,7 @@
 7	Frysk	Frysk	NOUN	_	Gender=Neut|Number=Sing	8	nmod	_	dutch=Fries
 8	skriuwen	skriuwe	VERB	_	VerbForm=Inf	15	obj	_	dutch=schrijven
 9	op	op	ADP	_	_	10	case	_	dutch=op
-10	himsels	himsels	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	7	nmod	_	dutch=zich
+10	himsels	himsels	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	8	nmod	_	dutch=zich
 11	wol	wol	ADV	_	_	15	advmod	_	dutch=wel
 12	yn	yn	ADP	_	_	7	case	_	dutch=in
 13	’e	’e	DET	_	Definite=Def	0	root	_	dutch=VAL-MISSING
