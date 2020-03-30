@@ -2779,7 +2779,7 @@
 8	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	aux	_	dutch=is
 9	yn	yn	ADP	_	_	10	det	_	dutch=VAL-MISSING
 10	opdracht	opdracht	NOUN	_	Gender=Com|Number=Sing	7	fixed	_	dutch=opdracht
-11	fan	fan	ADP	_	_	13	fixed	_	dutch=van
+11	fan	fan	ADP	_	_	13	case	_	dutch=van
 12	de	de	DET	_	Definite=Def	13	det	_	dutch=VAL-MISSING
 13	lanlike	lanlik	ADJ	_	Degree=Pos	0	root	_	dutch=VAL-MISSING
 14	‘	‘	PUNCT	_	_	15	punct	_	dutch=‘
