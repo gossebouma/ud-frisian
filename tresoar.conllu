@@ -2504,7 +2504,7 @@
 20	sjen	sjen	VERB	_	VerbForm=Inf	21	compound_prt	_	dutch=zien
 21	litte	litte	VERB	_	VerbForm=Inf	0	root	_	dutch=laten
 22	:	:	PUNCT	_	_	23	punct	_	dutch=:
-23	boeken	boek	NOUN	_	VerbForm=Inf	21	root	_	dutch=boeken
+23	boeken	boek	NOUN	_	VerbForm=Inf	21	parataxis	_	dutch=boeken
 24	út	út	ADP	_	_	26	case	_	dutch=uit
 25	’e	’e	DET	_	Definite=Def	26	det	_	dutch=de
 26	Universiteitsbiblioteek	universiteitsbiblioteek	NOUN	_	Gender=Com|Number=Sing	23	nmod	_	dutch=Universiteitsbibliotheek
