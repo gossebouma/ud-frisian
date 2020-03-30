@@ -2973,7 +2973,7 @@
 2	kinne	kinne	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	10	aux	_	dutch=kunnen
 3	oankommende	oankomme	VERB	_	VerbForm=Part	4	amod	_	dutch=aankomende
 4	skriuwers	skriuwer	NOUN	_	Number=Plur	10	nsubj	_	dutch=schrijvers
-5	/	/	SYM	_	Number=Plur	6	fixed	_	dutch=/
+5	/	/	SYM	_	Number=Plur	6	cc	_	dutch=/
 6	dichters	dichter	NOUN	_	Number=Plur	4	fixed	_	dutch=dichters
 7	eigen	eigen	ADJ	_	Degree=Pos	8	amod	_	dutch=eigen
 8	wurk	wurk	NOUN	_	Gender=Neut|Number=Sing	10	obj	_	dutch=werk
