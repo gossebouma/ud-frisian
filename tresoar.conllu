@@ -3000,7 +3000,7 @@
 10	op	op	ADP	_	Gender=Neut|Number=Sing	11	case	_	dutch=Heerenveen
 11	It	It	PROPN	_	Gender=Neut|Number=Sing	5	nmod	_	dutch=Heerenveen
 12	Hearrenfean	Hearrenfean	PROPN	_	Gender=Neut|Number=Sing	11	flat	_	dutch=Heerenveen
-13	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	21	root	_	dutch=wordt
+13	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	21	xcomp	_	dutch=wordt
 14	alle	al	DET	_	_	15	det	_	dutch=elk
 15	jierren	jierren	NOUN	_	Gender=Neut|Number=Sing	43	obl	_	dutch=jaar
 16	yn	yn	ADP	_	_	17	case	_	dutch=in
