@@ -3021,7 +3021,7 @@
 31	,	,	PUNCT	_	_	32	punct	_	dutch=,
 32	bedoeld	bedoele	VERB	_	VerbForm=Part	30	acl	_	dutch=bedoeld
 33	as	as	ADP	_	_	0	root	_	dutch=KEY-MISSING
-34	earste	ien	ADJ	_	_	38	advcl	_	dutch=eerste
+34	earste	ien	ADJ	_	_	38	det	_	dutch=eerste
 35	yn	yn	ADP	_	_	37	case	_	dutch=KEY-MISSING
 36	’e	’e	DET	_	_	37	det	_	dutch=KEY-MISSING
 37	kunde	kunde	NOUN	_	Gender=Com|Number=Sing	38	obl	_	dutch=kennismaking
