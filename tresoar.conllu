@@ -3113,7 +3113,7 @@
 # ALIGNED
 1	Kaperskaart	kaperskaart	NOUN	_	_	0	root	_	dutch=Kaperskaart
 2	fan	fan	ADP	_	_	3	case	_	dutch=van
-3	Skiermuontseach	Skiermuontseach	PROPN	_	_	1	flat	_	dutch=Schiermonnikoog
+3	Skiermuontseach	Skiermuontseach	PROPN	_	_	1	nmod	_	dutch=Schiermonnikoog
 
 # sent_id = 132
 # text = De bewenners fan Skiermuontseach hiene yn ’e santjinde en achttjinde iu in lukrative byfertsjinste útfûn .
