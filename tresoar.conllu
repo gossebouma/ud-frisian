@@ -2638,7 +2638,7 @@
 4	fan	fan	ADP	_	_	8	case	_	dutch=van
 5	it	it	DET	_	Definite=Def	8	det	_	dutch=het
 6	learen	leare	VERB	_	Degree=Pos	8	amod	_	dutch=leren
-7	om	om	ADP	_	VerbForm=Inf	9	nmod	_	dutch=zoeken
+7	om	om	ADP	_	VerbForm=Inf	9	mark	_	dutch=zoeken
 8	te	te	ADP	_	VerbForm=Inf	3	obl	_	dutch=zoeken
 9	sykjen	sykje	VERB	_	VerbForm=Inf	3	obl	_	dutch=zoeken
 10	yn	yn	ADP	_	_	12	case	_	dutch=in
