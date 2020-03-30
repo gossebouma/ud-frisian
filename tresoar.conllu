@@ -2840,7 +2840,7 @@
 15	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	14	aux_pass	_	dutch=zijn
 16	,	,	PUNCT	_	_	19	punct	_	dutch=,
 17	mar	mar	CCONJ	_	_	19	cc	_	dutch=maar
-18	oaren	oar	ADJ	_	Degree=Pos	19	nsubj	_	dutch=anderen
+18	oaren	oar	ADJ	_	Degree=Pos	1	nsubj	_	dutch=anderen
 19	hawwe	hawwe	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	4	conj	_	dutch=hebben
 20	wol	wol	ADV	_	_	19	advmod	_	dutch=wel
 21	aspiraasjes	aspiraasje	NOUN	_	Gender=Com|Number=Sing	19	obj	_	dutch=aspiratie
