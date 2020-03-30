@@ -3183,7 +3183,7 @@
 10	en	en	CCONJ	_	_	11	cc	_	dutch=en
 11	diene	dwaan	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	6	conj	_	dutch=klaagden
 12	har	har	PRON	_	Number=Plur|Tense=Past|VerbForm=Fin	13	nmod_poss	_	dutch=klaagden
-13	beklach	beklach	NOUN	_	Number=Plur|Tense=Past|VerbForm=Fin	6	conj	_	dutch=klaagden
+13	beklach	beklach	NOUN	_	Number=Plur|Tense=Past|VerbForm=Fin	11	conj	_	dutch=klaagden
 14	by	by	ADP	_	_	16	case	_	dutch=bij
 15	de	de	DET	_	Definite=Def	16	det	_	dutch=de
 16	oerheid	oerheid	NOUN	_	Gender=Com|Number=Sing	12	obl	_	dutch=overheid
