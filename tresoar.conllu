@@ -2962,7 +2962,7 @@
 17	It	it	DET	_	_	4	obl	_	dutch=It
 18	Literatuerfabryk	literatuerfabryk	NOUN	_	_	17	flat	_	dutch=VAL-MISSING
 19	’	’	PUNCT	_	_	17	punct	_	dutch=’
-20	.	.	PUNCT	_	_	18	punct	_	dutch=.
+20	.	.	PUNCT	_	_	4	punct	_	dutch=.
 
 # sent_id = 124
 # text = Dêr kinne oankommende skriuwers / dichters eigen wurk hearre litte foar publyk .
