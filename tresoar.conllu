@@ -2637,7 +2637,7 @@
 3	fariearje	fariearje	VERB	_	VerbForm=Inf	0	root	_	dutch=variëren
 4	fan	fan	ADP	_	_	6	case	_	dutch=van
 5	it	it	DET	_	Definite=Def	6	det	_	dutch=het
-6	learen	leare	VERB	_	Degree=Pos	3	obj	_	dutch=leren
+6	learen	leare	VERB	_	Degree=Pos	3	acl	_	dutch=leren
 7	om	om	ADP	_	VerbForm=Inf	9	mark	_	dutch=zoeken
 8	te	te	ADP	_	VerbForm=Inf	9	mark	_	dutch=zoeken
 9	sykjen	sykje	VERB	_	VerbForm=Inf	3	obl	_	dutch=zoeken
