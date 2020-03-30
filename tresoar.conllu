@@ -2562,7 +2562,7 @@
 10	de	de	DET	_	Definite=Def	11	det	_	dutch=de
 11	berte-	berte-	NOUN	_	_	15	obj	_	dutch=geboorte-of
 12	of	of	CCONJ	_	_	13	root	_	dutch=KEY-MISSING
-13	houliksakte	houliksakte	NOUN	_	_	11	flat	_	dutch=huwelijksakte
+13	houliksakte	houliksakte	NOUN	_	_	11	advmod	_	dutch=huwelijksakte
 14	sjen	sjen	VERB	_	VerbForm=Inf	15	compound_prt	_	dutch=zien
 15	litte	litte	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	6	advcl	_	dutch=laten
 16	fan	fan	ADP	_	_	18	case	_	dutch=van
