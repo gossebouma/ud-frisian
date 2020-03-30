@@ -3012,7 +3012,7 @@
 22	,	,	PUNCT	_	_	24	punct	_	dutch=,
 23	in	in	DET	_	Definite=Ind	24	det	_	dutch=een
 24	dei	dei	NOUN	_	Gender=Com|Number=Sing	13	nsubj	_	dutch=dag
-25	mei	mei	ADP	_	_	28	mark	_	dutch=met
+25	mei	mei	ADP	_	_	28	case	_	dutch=met
 26	in	in	DET	_	_	28	nsubj	_	dutch=een
 27	grut	grut	ADJ	_	Gender=Com|Number=Sing	34	advcl	_	dutch=verscheidenheid
 28	ferskaat	ferskaat	NOUN	_	Gender=Com|Number=Sing	34	advcl	_	dutch=verscheidenheid
