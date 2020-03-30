@@ -2825,7 +2825,7 @@
 # NOT ALIGNED
 1	Foar	foar	ADP	_	_	3	case	_	dutch=Voor
 2	in	in	DET	_	Definite=Ind	3	det	_	dutch=een
-3	part	part	NOUN	_	Gender=Neut|Number=Sing	4	nsubj	_	dutch=deel
+3	part	part	NOUN	_	Gender=Neut|Number=Sing	4	obl	_	dutch=deel
 4	giet	gean	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=gaat
 5	it	it	PRON	_	_	0	root	_	dutch=KEY-MISSING
 6	om	om	ADP	_	_	7	case	_	dutch=om
