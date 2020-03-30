@@ -2466,7 +2466,7 @@
 14	koade	koade	NOUN	_	Gender=Com|Number=Sing	11	obl	_	dutch=code
 15	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
 16	dêr’t	dêr’t	ADV	_	_	24	advmod	_	dutch=waarmee
-17	allinnich	allinnich	ADV	_	_	24	root	_	dutch=VAL-MISSING
+17	allinnich	allinnich	ADV	_	_	24	nmod	_	dutch=VAL-MISSING
 18	hy	hy	PRON	_	Case=Nom|Person=3|PronType=Prs	24	nsubj	_	dutch=hij
 19	/	/	SYM	_	Case=Nom|Person=3|PronType=Prs	20	cc	_	dutch=VAL-MISSING
 20	sy	sy	PRON	_	Case=Nom|Person=3|PronType=Prs	18	conj	_	dutch=VAL-MISSING
