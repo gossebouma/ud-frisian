@@ -2651,7 +2651,7 @@
 17	profylwurkstikken	profylwurkstik	NOUN	_	Number=Plur	15	nmod	_	dutch=profielwerkstukken
 18	yn	yn	ADP	_	_	20	case	_	dutch=in
 19	’e	’e	DET	_	Definite=Def	20	det	_	dutch=de
-20	eksamenklasse	eksamenklasse	NOUN	_	Gender=Com|Number=Sing	17	obl	_	dutch=examenklas
+20	eksamenklasse	eksamenklasse	NOUN	_	Gender=Com|Number=Sing	17	nmod	_	dutch=examenklas
 21	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 111
