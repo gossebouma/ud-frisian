@@ -3127,7 +3127,7 @@
 5	hiene	hawwe	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	15	aux	_	dutch=hadden
 6	yn	yn	ADP	_	_	11	case	_	dutch=in
 7	’e	’e	PUNCT	_	Definite=Def	11	det	_	dutch=de
-8	santjinde	santjinde	ADJ	_	_	11	nmod	_	dutch=zeventiende
+8	santjinde	santjinde	ADJ	_	_	11	amod	_	dutch=zeventiende
 9	en	en	CCONJ	_	_	10	cc	_	dutch=en
 10	achttjinde	achttjinde	ADJ	_	_	8	conj	_	dutch=achttiende
 11	iu	iu	NOUN	_	Gender=Com|Number=Sing	15	obl	_	dutch=eeuw
