@@ -2488,7 +2488,7 @@
 4	mei	mei	ADP	_	_	6	case	_	dutch=KEY-MISSING
 5	wite	wite	ADJ	_	Degree=Pos	6	amod	_	dutch=witte
 6	mofkes	mofke	NOUN	_	Number=Plur	3	nmod	_	dutch=handschoenen
-7	oan	oan	ADP	_	Number=Plur	6	root	_	dutch=handschoenen
+7	oan	oan	ADP	_	Number=Plur	6	case	_	dutch=handschoenen
 8	,	,	PUNCT	_	_	21	punct	_	dutch=,
 9	meie	meie	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	21	aux	_	dutch=mogen
 10	âlde	âld	ADJ	_	Degree=Pos	13	nmod	_	dutch=oude
