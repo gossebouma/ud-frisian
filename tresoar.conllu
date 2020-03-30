@@ -2581,7 +2581,7 @@
 2	bliuwt	bliuwe	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=is
 3	sa	sa	ADV	_	_	7	advmod	_	dutch=daarmee
 4	net	net	ADV	_	_	7	advmod	_	dutch=niet
-5	in	in	DET	_	_	11	det	_	dutch=KEY-MISSING
+5	in	in	DET	_	_	7	det	_	dutch=KEY-MISSING
 6	“	“	PUNCT	_	_	7	punct	_	dutch=“
 7	fier	fier	ADJ	_	Gender=Com|Number=Sing	0	root	_	dutch=ver
 8	fan	fan	ADP	_	Gender=Com|Number=Sing	7	fixed	_	dutch=van
