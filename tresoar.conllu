@@ -2848,7 +2848,7 @@
 23	mei	mei	ADP	_	_	25	case	_	dutch=met
 24	har	har	PRON	_	Person=3|Poss=Yes|PronType=Prs	25	nmod_poss	_	dutch=hun
 25	wurk	wurk	NOUN	_	Gender=Neut|Number=Sing	30	obl	_	dutch=werk
-26	nei	nei	ADP	_	_	28	case	_	dutch=naar
+26	nei	nei	ADP	_	_	27	case	_	dutch=naar
 27	bûten	bûten	ADP	_	_	30	obl	_	dutch=buiten
 28	ta	ta	ADP	_	_	30	obl	_	dutch=buiten
 29	te	te	ADP	_	_	30	mark	_	dutch=te
