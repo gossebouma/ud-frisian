@@ -3030,7 +3030,7 @@
 40	it	it	DET	_	Definite=Def	42	det	_	dutch=het
 41	kreatyf	kreatyf	ADJ	_	Degree=Pos	42	amod	_	dutch=creatief
 42	skriuwen	skriuwe	VERB	_	Gender=Neut|Number=Sing	38	obl	_	dutch=schrijven
-43	yn	yn	ADP	_	Degree=Pos	44	xcomp	_	dutch=in
+43	yn	yn	ADP	_	Degree=Pos	44	case	_	dutch=in
 44	kursusferbân	kursusferbân	NOUN	_	Gender=Neut|Number=Sing	42	parataxis	_	dutch=cursusverband
 45	(	(	PUNCT	_	_	46	punct	_	dutch=(
 46	www.skriuwdei.nl	www.skriuwdei.nl	X	_	_	44	nmod	_	dutch=www.skriuwdei.nl
