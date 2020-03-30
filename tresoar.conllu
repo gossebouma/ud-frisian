@@ -2991,7 +2991,7 @@
 1	Yn	yn	ADP	_	_	2	case	_	dutch=In
 2	gearwurking	gearwurking	NOUN	_	Gender=Com|Number=Sing	43	obl	_	dutch=samenwerking
 3	mei	mei	ADP	_	_	0	root	_	dutch=met
-4	it	it	DET	_	_	0	root	_	dutch=KEY-MISSING
+4	it	it	DET	_	_	5	root	_	dutch=KEY-MISSING
 5	kreativiteitssintrum	kreativiteitssintrum	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=creativiteitscentrum
 6	‘	‘	PUNCT	_	_	7	punct	_	dutch=‘
 7	De	De	DET	_	Definite=Def	5	appos	_	dutch=De
