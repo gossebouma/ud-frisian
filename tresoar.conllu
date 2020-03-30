@@ -3205,7 +3205,7 @@
 9	meitsje	meitsje	VERB	_	VerbForm=Inf	5	obj	_	dutch=maken
 10	dêr’t	dêr’t	ADV	_	_	17	advmod	_	dutch=waar
 11	de	de	DET	_	Definite=Def	13	det	_	dutch=de
-12	krekte	krekt	ADJ	_	Degree=Pos	16	nsubj	_	dutch=juiste
+12	krekte	krekt	ADJ	_	Degree=Pos	13	nsubj	_	dutch=juiste
 13	posysjes	posysje	NOUN	_	Number=Plur	16	iobj	_	dutch=posities
 14	fan	fan	ADP	_	_	0	root	_	dutch=van
 15	de	de	DET	_	Definite=Def	0	root	_	dutch=de
