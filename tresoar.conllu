@@ -3076,7 +3076,7 @@
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-7 7-7 8-8 9-9 10-10 11-11 12-12 13-13
 # NOT ALIGNED
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
-2	aktiviteiten	aktiviteit	NOUN	_	Number=Plur	8	nsubj	_	dutch=activiteiten
+2	aktiviteiten	aktiviteit	NOUN	_	Number=Plur	10	nsubj	_	dutch=activiteiten
 3	op	op	ADP	_	_	7	case	_	dutch=op
 4	it	it	DET	_	Definite=Def	3	fixed	_	dutch=het
 5	mêd	mêd	NOUN	_	Gender=Neut|Number=Sing	3	fixed	_	dutch=gebied
