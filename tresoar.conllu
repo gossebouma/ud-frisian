@@ -3211,7 +3211,7 @@
 15	de	de	DET	_	Definite=Def	16	det	_	dutch=de
 16	beakens	beaken	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	13	nmod	_	dutch=werd
 17	op	op	ADP	_	_	10	case	_	dutch=op
-18	oanjûn	oanjaan	VERB	_	VerbForm=Part	8	xcomp	_	dutch=aangegeven
+18	oanjûn	oanjaan	VERB	_	VerbForm=Part	8	acl_relcl	_	dutch=aangegeven
 19	wiene	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	18	aux	_	dutch=werd
 20	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
