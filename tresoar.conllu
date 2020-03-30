@@ -2616,7 +2616,7 @@
 3	fuortset	fuortset	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	4	amod	_	dutch=richten
 4	ûnderwiis	ûnderwiis	NOUN	_	Gender=Neut|Number=Sing	5	obl	_	dutch=onderwijs
 5	sette	sette	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=richten
-6	wy	wy	PRON	_	Case=Acc|Person=1|PronType=Prs	5	expl_pv	_	dutch=ons
+6	wy	wy	PRON	_	Case=Acc|Person=1|PronType=Prs	5	nsubj	_	dutch=ons
 7	mear	folle	ADV	_	_	5	advmod	_	dutch=meer
 8	yn	yn	ADP	_	_	0	root	_	dutch=KEY-MISSING
 9	op	op	ADP	_	_	12	case	_	dutch=op
