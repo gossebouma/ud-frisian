@@ -2645,7 +2645,7 @@
 11	ús	ús	PRON	_	Person=1|Poss=Yes|PronType=Prs	12	nmod_poss	_	dutch=onze
 12	katalogus	katalogus	NOUN	_	Gender=Com|Number=Sing	9	obl	_	dutch=catalogus
 13	oant	oant	ADP	_	_	15	case	_	dutch=tot
-14	it	it	DET	_	Gender=Com|Number=Sing	15	obl	_	dutch=begeleiding
+14	it	it	DET	_	Gender=Com|Number=Sing	15	det	_	dutch=begeleiding
 15	begelieden	begeliede	VERB	_	Gender=Com|Number=Sing	3	obl	_	dutch=begeleiding
 16	by	by	ADP	_	_	17	case	_	dutch=bij
 17	profylwurkstikken	profylwurkstik	NOUN	_	Number=Plur	15	nmod	_	dutch=profielwerkstukken
