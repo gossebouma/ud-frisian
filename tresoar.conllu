@@ -2666,7 +2666,7 @@
 5	gastlessen	gastles	NOUN	_	Number=Plur	0	root	_	dutch=gastlessen
 6	op	op	ADP	_	_	7	case	_	dutch=op
 7	skoalle	skoalle	NOUN	_	Gender=Com|Number=Sing	5	nmod	_	dutch=school
-8	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	root	_	dutch=behoort
+8	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	cop	_	dutch=behoort
 9	mooglik	mooglik	ADJ	_	Number=Plur	0	root	_	dutch=mogelijkheden
 10	.	.	PUNCT	_	_	9	punct	_	dutch=.
 
