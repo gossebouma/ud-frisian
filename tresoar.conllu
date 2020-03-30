@@ -3088,7 +3088,7 @@
 11	fan	fan	ADP	_	_	13	case	_	dutch=van
 12	it	it	DET	_	Definite=Def	13	det	_	dutch=het
 13	koördinatorswurk	koördinatorswurk	NOUN	_	Gender=Neut|Number=Sing	10	nmod	_	dutch=coördinatorswerk
-14	.	.	PUNCT	_	_	8	punct	_	dutch=.
+14	.	.	PUNCT	_	_	10	punct	_	dutch=.
 
 # sent_id = 129
 # text = De skatten
