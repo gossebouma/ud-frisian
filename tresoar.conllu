@@ -2668,7 +2668,7 @@
 7	skoalle	skoalle	NOUN	_	Gender=Com|Number=Sing	5	nmod	_	dutch=school
 8	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=behoort
 9	mooglik	mooglik	ADJ	_	Number=Plur	0	root	_	dutch=mogelijkheden
-10	.	.	PUNCT	_	_	8	punct	_	dutch=.
+10	.	.	PUNCT	_	_	9	punct	_	dutch=.
 
 # sent_id = 112
 # text = Yn ’e kommende jierren sille wy noch mear as no al it gefal is ynvestearje yn it digitaal oanbieden fan boarnemateriaal dat oanslút by de kearndoelen fan it ûnderwiis .
