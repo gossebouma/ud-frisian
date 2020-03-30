@@ -2773,7 +2773,7 @@
 2	ûndersyk	ûndersyk	NOUN	_	Gender=Neut|Number=Sing	7	obl	_	dutch=onderzoek
 3	dat	dat	SCONJ	_	_	6	mark	_	dutch=dat
 4	in	in	DET	_	Definite=Ind	5	det	_	dutch=een
-5	jiermennich	jiermennich	NOUN	_	Number=Plur	7	nmod	_	dutch=jaren
+5	jiermennich	jiermennich	NOUN	_	Number=Plur	7	acl	_	dutch=jaren
 6	lyn	lyn	ADV	_	_	2	acl	_	dutch=geleden
 7	útfierd	útfiere	VERB	_	VerbForm=Part	23	advcl	_	dutch=uitgevoerd
 8	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	cop	_	dutch=is
