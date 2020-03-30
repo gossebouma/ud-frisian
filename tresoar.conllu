@@ -2522,7 +2522,7 @@
 38	Nynke	Nynke	PROPN	_	Gender=Com|Number=Sing	36	nmod	_	dutch=Nienke
 39	fan	fan	PROPN	_	_	40	case	_	dutch=van
 40	Hichtum	Hichtum	PROPN	_	Gender=Neut|Number=Sing	38	nmod	_	dutch=Hichtum
-41	.	.	PUNCT	_	_	0	root	_	dutch=.
+41	.	.	PUNCT	_	_	21	root	_	dutch=.
 
 # sent_id = 106
 # text = Ek foto’s , ansichten en plattegrûnen fan harren eigen wenplak meitsje in soad yndruk .
