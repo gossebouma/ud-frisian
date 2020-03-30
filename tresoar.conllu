@@ -2577,7 +2577,7 @@
 # source_text = Geschiedenis is daarmee niet “ de ver van mijn bed show ” , maar wordt een begrijpelijk en persoonlijk verhaal over de verbinding tussen toen en nu .
 # alignment =  0-0 1-1 2-2 3-3 5-4 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22 23-23 24-24 25-25 26-26 27-27
 # NOT ALIGNED
-1	Skiednis	skiednis	NOUN	_	Gender=Com|Number=Sing	7	nsubj	_	dutch=Geschiedenis
+1	Skiednis	skiednis	NOUN	_	Gender=Com|Number=Sing	2	nsubj	_	dutch=Geschiedenis
 2	bliuwt	bliuwe	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=is
 3	sa	sa	ADV	_	_	2	advmod	_	dutch=daarmee
 4	net	net	ADV	_	_	2	advmod	_	dutch=niet
