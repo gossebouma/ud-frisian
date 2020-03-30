@@ -2385,7 +2385,7 @@
 8	Idols	idol	NOUN	_	Gender=Com_Neut|Number=Sing	6	nmod	_	dutch=Idols
 9	en	en	CCONJ	_	_	11	cc	_	dutch=en
 10	oare	oar	ADJ	_	Degree=Pos	11	amod	_	dutch=andere
-11	foarmen	foarm	NOUN	_	VerbForm=Inf	14	nsubj	_	dutch=vormen
+11	foarmen	foarm	NOUN	_	VerbForm=Inf	8	nsubj	_	dutch=vormen
 12	fan	fan	ADP	_	_	13	case	_	dutch=van
 13	popularisearjen	popularisearje	VERB	_	Gender=Com|Number=Sing	11	nmod	_	dutch=popularisatie
 14	liket	lykje	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=lijkt
