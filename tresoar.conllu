@@ -2749,7 +2749,7 @@
 12	brûken	brûke	VERB	_	VerbForm=Inf	4	acl	_	dutch=gebruiken
 13	foar	foar	ADP	_	_	14	case	_	dutch=voor
 14	wurkstikken	wurkstik	NOUN	_	Number=Plur	12	obl	_	dutch=werkstukken
-15	en	en	CCONJ	_	_	17	root	_	dutch=KEY-MISSING
+15	en	en	CCONJ	_	_	17	cc	_	dutch=KEY-MISSING
 16	oar	oar	ADJ	_	Degree=Pos	17	amod	_	dutch=ander
 17	húswurk	húswurk	NOUN	_	Gender=Neut|Number=Sing	14	conj	_	dutch=huiswerk
 18	.	.	PUNCT	_	_	2	punct	_	dutch=.
