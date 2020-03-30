@@ -3112,7 +3112,7 @@
 # alignment =  0-0 1-1 2-2
 # ALIGNED
 1	Kaperskaart	kaperskaart	NOUN	_	_	0	root	_	dutch=Kaperskaart
-2	fan	fan	ADP	_	_	3	flat	_	dutch=van
+2	fan	fan	ADP	_	_	3	case	_	dutch=van
 3	Skiermuontseach	Skiermuontseach	PROPN	_	_	1	flat	_	dutch=Schiermonnikoog
 
 # sent_id = 132
