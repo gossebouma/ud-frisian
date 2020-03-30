@@ -3180,7 +3180,7 @@
 7	mei	mei	ADP	_	_	9	case	_	dutch=met
 8	sokke	sok	DET	_	Degree=Pos	9	amod	_	dutch=dergelijke
 9	praktiken	praktyk	NOUN	_	Number=Plur	6	obl	_	dutch=praktijken
-10	en	en	CCONJ	_	_	12	cc	_	dutch=en
+10	en	en	CCONJ	_	_	11	cc	_	dutch=en
 11	diene	dwaan	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	6	conj	_	dutch=klaagden
 12	har	har	PRON	_	Number=Plur|Tense=Past|VerbForm=Fin	13	nmod_poss	_	dutch=klaagden
 13	beklach	beklach	NOUN	_	Number=Plur|Tense=Past|VerbForm=Fin	6	conj	_	dutch=klaagden
