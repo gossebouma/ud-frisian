@@ -3020,7 +3020,7 @@
 30	workshops	workshop	NOUN	_	Number=Plur	28	nmod	_	dutch=workshops
 31	,	,	PUNCT	_	_	32	punct	_	dutch=,
 32	bedoeld	bedoele	VERB	_	VerbForm=Part	30	acl	_	dutch=bedoeld
-33	as	as	ADP	_	_	38	nmod	_	dutch=KEY-MISSING
+33	as	as	ADP	_	_	38	mark	_	dutch=KEY-MISSING
 34	earste	ien	ADJ	_	_	38	advmod	_	dutch=eerste
 35	yn	yn	ADP	_	_	37	case	_	dutch=KEY-MISSING
 36	’e	’e	DET	_	_	37	det	_	dutch=KEY-MISSING
