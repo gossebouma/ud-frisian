@@ -3035,7 +3035,7 @@
 45	(	(	PUNCT	_	_	46	punct	_	dutch=(
 46	www.skriuwdei.nl	www.skriuwdei.nl	X	_	_	48	nmod	_	dutch=www.skriuwdei.nl
 47	)	)	PUNCT	_	_	46	punct	_	dutch=)
-48	.	.	PUNCT	_	_	13	punct	_	dutch=.
+48	.	.	PUNCT	_	_	21	punct	_	dutch=.
 
 # sent_id = 126
 # text = Boppeneamde aktiviteiten kinne allegear beflapt wurde ûnder it kopke ‘ skriuwbefoardering ’ .
