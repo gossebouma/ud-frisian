@@ -2567,7 +2567,7 @@
 15	litte	litte	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	6	advcl	_	dutch=laten
 16	fan	fan	ADP	_	_	18	case	_	dutch=van
 17	harren	harren	PRON	_	Degree=Pos	18	nmod_poss	_	dutch=eigen
-18	pakes	pake	NOUN	_	Number=Plur	11	obl	_	dutch=opa’s
+18	pakes	pake	NOUN	_	Number=Plur	11	nmod	_	dutch=opa’s
 19	en	en	CCONJ	_	_	20	cc	_	dutch=en
 20	beppes	beppe	NOUN	_	Number=Plur	18	conj	_	dutch=oma’s
 21	.	.	PUNCT	_	_	6	punct	_	dutch=.
