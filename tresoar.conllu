@@ -2566,7 +2566,7 @@
 14	sjen	sjen	VERB	_	VerbForm=Inf	15	compound_prt	_	dutch=zien
 15	litte	litte	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	6	advcl	_	dutch=laten
 16	fan	fan	ADP	_	_	18	case	_	dutch=van
-17	harren	harren	PRON	_	Degree=Pos	18	amod	_	dutch=eigen
+17	harren	harren	PRON	_	Degree=Pos	18	nmod_poss	_	dutch=eigen
 18	pakes	pake	NOUN	_	Number=Plur	6	obl	_	dutch=opa’s
 19	en	en	CCONJ	_	_	20	cc	_	dutch=en
 20	beppes	beppe	NOUN	_	Number=Plur	18	conj	_	dutch=oma’s
