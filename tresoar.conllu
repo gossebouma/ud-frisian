@@ -2713,7 +2713,7 @@
 # ALIGNED
 1	Dosinten	dosint	NOUN	_	Number=Plur	8	nsubj	_	dutch=Docenten
 2	kinne	kinne	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	8	aux	_	dutch=kunnen
-3	by	by	ADP	_	Gender=Com|Number=Sing	8	obj	_	dutch=bij
+3	by	by	ADP	_	Gender=Com|Number=Sing	4	obj	_	dutch=bij
 4	ús	ús	PRON	_	Person=1|Poss=Yes|PronType=Prs	5	nmod_poss	_	dutch=ons
 5	ynformaasje	ynformaasje	NOUN	_	Gender=Com|Number=Sing	8	xcomp	_	dutch=informatie
 6	en	en	CCONJ	_	_	7	cc	_	dutch=en
