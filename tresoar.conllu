@@ -2954,7 +2954,7 @@
 9	yn	yn	ADP	_	_	10	case	_	dutch=in
 10	Teater	Teater	PROPN	_	_	8	nmod	_	dutch=Theater
 11	Romein	Romein	PROPN	_	_	10	flat	_	dutch=Romein
-12	yn	yn	ADP	_	_	0	root	_	dutch=VAL-MISSING
+12	yn	yn	ADP	_	_	14	root	_	dutch=VAL-MISSING
 13	it	it	DET	_	Definite=Def	14	root	_	dutch=VAL-MISSING
 14	ramt	ramt	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=VAL-MISSING
 15	fan	fan	ADP	_	_	0	root	_	dutch=VAL-MISSING
