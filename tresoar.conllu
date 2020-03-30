@@ -2402,7 +2402,7 @@
 25	de	de	DET	_	Definite=Def	26	det	_	dutch=de
 26	werklikheid	werklikheid	NOUN	_	Gender=Com|Number=Sing	28	nsubj	_	dutch=werkelijkheid
 27	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	28	cop	_	dutch=is
-28	oars	oars	ADV	_	_	14	conj	_	dutch=anders
+28	oars	oars	ADV	_	_	14	parataxis	_	dutch=anders
 29	.	.	PUNCT	_	_	14	punct	_	dutch=.
 
 # sent_id = 102
