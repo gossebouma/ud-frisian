@@ -3024,7 +3024,7 @@
 34	earste	ien	ADJ	_	_	37	amod	_	dutch=eerste
 35	yn	yn	ADP	_	_	37	case	_	dutch=KEY-MISSING
 36	’e	’e	DET	_	_	37	det	_	dutch=KEY-MISSING
-37	kunde	kunde	NOUN	_	Gender=Com|Number=Sing	24	nmod	_	dutch=kennismaking
+37	kunde	kunde	NOUN	_	Gender=Com|Number=Sing	38	nmod	_	dutch=kennismaking
 38	kommen	komme	VERB	_	Gender=Com|Number=Sing	24	nmod	_	dutch=kennismaking
 39	mei	mei	ADP	_	_	42	case	_	dutch=met
 40	it	it	DET	_	Definite=Def	42	det	_	dutch=het
