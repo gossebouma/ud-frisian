@@ -3162,7 +3162,7 @@
 18	foar	foar	ADP	_	_	20	case	_	dutch=voor
 19	de	de	DET	_	Definite=Def	20	det	_	dutch=de
 20	jutters	jutter	NOUN	_	Degree=Pos	22	obl	_	dutch=nodige
-21	bút	bút	NOUN	_	Gender=Com|Number=Sing	22	nsubj	_	dutch=buit
+21	bút	bút	NOUN	_	Gender=Com|Number=Sing	22	obj	_	dutch=buit
 22	opleveren	opleverje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	16	acl_relcl	_	dutch=opleverde
 23	.	.	PUNCT	_	_	7	punct	_	dutch=.
 
