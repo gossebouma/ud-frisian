@@ -2661,7 +2661,7 @@
 # NOT ALIGNED
 1	Ek	ek	ADV	_	_	9	advmod	_	dutch=Ook
 2	it	it	DET	_	Definite=Def	3	det	_	dutch=het
-3	jaan	jaan	VERB	_	Number=Plur	9	root	_	dutch=gastlessen
+3	jaan	jaan	VERB	_	Number=Plur	9	nsubj	_	dutch=gastlessen
 4	fan	fan	ADP	_	_	5	case	_	dutch=van
 5	gastlessen	gastles	NOUN	_	Number=Plur	3	nmod	_	dutch=gastlessen
 6	op	op	ADP	_	_	7	case	_	dutch=op
