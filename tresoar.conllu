@@ -3199,7 +3199,7 @@
 3	fan	fan	PROPN	_	_	4	case	_	dutch=van
 4	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	2	nmod	_	dutch=Friesland
 5	lieten	litte	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	dutch=lieten
-6	doe	doe	ADV	_	_	18	advmod	_	dutch=daarop
+6	doe	doe	ADV	_	_	9	advmod	_	dutch=daarop
 7	in	in	DET	_	Definite=Ind	8	det	_	dutch=een
 8	kaart	kaart	NOUN	_	Gender=Com|Number=Sing	9	obj	_	dutch=kaart
 9	meitsje	meitsje	VERB	_	VerbForm=Inf	5	obj	_	dutch=maken
