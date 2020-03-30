@@ -3203,7 +3203,7 @@
 7	in	in	DET	_	Definite=Ind	8	det	_	dutch=een
 8	kaart	kaart	NOUN	_	Gender=Com|Number=Sing	9	obj	_	dutch=kaart
 9	meitsje	meitsje	VERB	_	VerbForm=Inf	5	obj	_	dutch=maken
-10	dêr’t	dêr’t	ADV	_	_	17	advmod	_	dutch=waar
+10	dêr’t	dêr’t	ADV	_	_	16	advmod	_	dutch=waar
 11	de	de	DET	_	Definite=Def	13	det	_	dutch=de
 12	krekte	krekt	ADJ	_	Degree=Pos	13	amod	_	dutch=juiste
 13	posysjes	posysje	NOUN	_	Number=Plur	16	iobj	_	dutch=posities
