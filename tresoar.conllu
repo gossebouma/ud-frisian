@@ -2604,7 +2604,7 @@
 25	doe	doe	ADV	_	_	23	nmod	_	dutch=toen
 26	en	en	CCONJ	_	_	27	cc	_	dutch=en
 27	no	no	ADV	_	_	25	conj	_	dutch=nu
-28	.	.	PUNCT	_	_	7	punct	_	dutch=.
+28	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
 # sent_id = 109
 # text = Foar it fuortset ûnderwiis sette wy mear yn op it yndividueel begelieden by ûndersyksopdrachten .
