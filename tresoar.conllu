@@ -2663,7 +2663,7 @@
 2	it	it	DET	_	Definite=Def	0	root	_	dutch=het
 3	jaan	jaan	VERB	_	Number=Plur	0	root	_	dutch=gastlessen
 4	fan	fan	ADP	_	_	5	case	_	dutch=van
-5	gastlessen	gastles	NOUN	_	Number=Plur	0	root	_	dutch=gastlessen
+5	gastlessen	gastles	NOUN	_	Number=Plur	3	root	_	dutch=gastlessen
 6	op	op	ADP	_	_	7	case	_	dutch=op
 7	skoalle	skoalle	NOUN	_	Gender=Com|Number=Sing	5	nmod	_	dutch=school
 8	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	cop	_	dutch=behoort
