@@ -2685,7 +2685,7 @@
 8	mear	folle	ADV	_	_	15	advmod	_	dutch=meer
 9	as	as	SCONJ	_	_	13	mark	_	dutch=dan
 10	no	no	ADV	_	_	13	advmod	_	dutch=nu
-11	al	al	ADV	_	_	0	root	_	dutch=KEY-MISSING
+11	al	al	ADV	_	_	13	root	_	dutch=KEY-MISSING
 12	it	it	DET	_	Definite=Def	13	det	_	dutch=het
 13	gefal	gefal	NOUN	_	Gender=Neut|Number=Sing	7	advcl	_	dutch=geval
 14	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	13	cop	_	dutch=is
