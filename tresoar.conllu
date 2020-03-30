@@ -3186,7 +3186,7 @@
 13	beklach	beklach	NOUN	_	Number=Plur|Tense=Past|VerbForm=Fin	11	obj	_	dutch=klaagden
 14	by	by	ADP	_	_	16	case	_	dutch=bij
 15	de	de	DET	_	Definite=Def	16	det	_	dutch=de
-16	oerheid	oerheid	NOUN	_	Gender=Com|Number=Sing	12	obl	_	dutch=overheid
+16	oerheid	oerheid	NOUN	_	Gender=Com|Number=Sing	11	obl	_	dutch=overheid
 17	.	.	PUNCT	_	_	6	punct	_	dutch=.
 
 # sent_id = 135
