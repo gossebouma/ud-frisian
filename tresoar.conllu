@@ -2463,7 +2463,7 @@
 11	rint	rinne	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	advcl	_	dutch=loopt
 12	mei	mei	ADP	_	_	14	case	_	dutch=met
 13	in	in	DET	_	Definite=Ind	14	det	_	dutch=een
-14	koade	koade	NOUN	_	Gender=Com|Number=Sing	5	obl	_	dutch=code
+14	koade	koade	NOUN	_	Gender=Com|Number=Sing	11	obl	_	dutch=code
 15	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
 16	dêr’t	dêr’t	ADV	_	_	24	advmod	_	dutch=waarmee
 17	allinnich	allinnich	ADV	_	_	0	root	_	dutch=VAL-MISSING
