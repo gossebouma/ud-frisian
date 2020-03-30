@@ -2935,7 +2935,7 @@
 12	yn	yn	ADP	_	_	14	case	_	dutch=in
 13	’e	’e	DET	_	Definite=Def	14	det	_	dutch=VAL-MISSING
 14	macht	macht	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=VAL-MISSING
-15	ha	hawwe	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	1	csubj	_	dutch=hebben
+15	ha	hawwe	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	14	csubj	_	dutch=hebben
 16	.	.	PUNCT	_	_	1	punct	_	dutch=.
 
 # sent_id = 123
