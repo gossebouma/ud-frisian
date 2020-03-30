@@ -2646,7 +2646,7 @@
 12	katalogus	katalogus	NOUN	_	Gender=Com|Number=Sing	9	obl	_	dutch=catalogus
 13	oant	oant	ADP	_	_	15	case	_	dutch=tot
 14	it	it	DET	_	Gender=Com|Number=Sing	15	det	_	dutch=begeleiding
-15	begelieden	begeliede	VERB	_	Gender=Com|Number=Sing	3	obl	_	dutch=begeleiding
+15	begelieden	begeliede	VERB	_	Gender=Com|Number=Sing	6	obl	_	dutch=begeleiding
 16	by	by	ADP	_	_	17	case	_	dutch=bij
 17	profylwurkstikken	profylwurkstik	NOUN	_	Number=Plur	15	nmod	_	dutch=profielwerkstukken
 18	yn	yn	ADP	_	_	20	case	_	dutch=in
