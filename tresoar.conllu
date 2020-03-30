@@ -2468,7 +2468,7 @@
 16	dêr’t	dêr’t	ADV	_	_	24	advmod	_	dutch=waarmee
 17	allinnich	allinnich	ADV	_	_	0	root	_	dutch=VAL-MISSING
 18	hy	hy	PRON	_	Case=Nom|Person=3|PronType=Prs	24	nsubj	_	dutch=hij
-19	/	/	SYM	_	Case=Nom|Person=3|PronType=Prs	20	case	_	dutch=VAL-MISSING
+19	/	/	SYM	_	Case=Nom|Person=3|PronType=Prs	20	cc	_	dutch=VAL-MISSING
 20	sy	sy	PRON	_	Case=Nom|Person=3|PronType=Prs	0	root	_	dutch=VAL-MISSING
 21	de	de	DET	_	Definite=Def	22	det	_	dutch=de
 22	depotdoar	depotdoar	NOUN	_	Number=Plur	24	obj	_	dutch=depotdeuren
