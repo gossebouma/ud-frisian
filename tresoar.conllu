@@ -3082,7 +3082,7 @@
 5	mêd	mêd	NOUN	_	Gender=Neut|Number=Sing	3	fixed	_	dutch=gebied
 6	fan	fan	ADP	_	_	3	fixed	_	dutch=van
 7	skriuwbefoardering	skriuwbefoardering	NOUN	_	Number=Plur|Tense=Pres|VerbForm=Fin	2	nmod	_	dutch=vormen
-8	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	10	root	_	dutch=vormen
+8	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	10	cop	_	dutch=vormen
 9	in	in	DET	_	Definite=Ind	10	det	_	dutch=een
 10	part	part	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=gedeelte
 11	fan	fan	ADP	_	_	13	case	_	dutch=van
