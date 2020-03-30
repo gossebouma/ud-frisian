@@ -2861,7 +2861,7 @@
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7
 # ALIGNED
 1	Yn	yn	ADP	_	_	2	case	_	dutch=In
-2	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	7	obl	_	dutch=Fryslân
+2	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	3	obl	_	dutch=Fryslân
 3	leit	lizze	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=ligt
 4	dy	dy	DET	_	_	5	det	_	dutch=die
 5	situaasje	situaasje	NOUN	_	Gender=Com|Number=Sing	3	nsubj	_	dutch=situatie
