@@ -2377,7 +2377,7 @@
 # ALIGNED
 1	In	in	DET	_	_	3	det	_	dutch=Een
 2	gruttere	grut	ADJ	_	Degree=Cmp	3	amod	_	dutch=grotere
-3	tsjinstridichheid	tsjinstridichheid	NOUN	_	Gender=Com|Number=Sing	11	obj	_	dutch=tegenstrijdigheid
+3	tsjinstridichheid	tsjinstridichheid	NOUN	_	Gender=Com|Number=Sing	14	obj	_	dutch=tegenstrijdigheid
 4	yn	yn	ADP	_	_	6	case	_	dutch=in
 5	in	in	DET	_	Definite=Ind	6	det	_	dutch=een
 6	tiid	tiid	NOUN	_	Gender=Com|Number=Sing	3	nmod	_	dutch=tijd
