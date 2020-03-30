@@ -2998,7 +2998,7 @@
 8	Cirkel	Cirkel	NOUN	_	Gender=Com|Number=Sing	7	fixed	_	dutch=Cirkel
 9	’	’	PUNCT	_	_	7	punct	_	dutch=’
 10	op	op	ADP	_	Gender=Neut|Number=Sing	11	appos	_	dutch=Heerenveen
-11	It	It	PROPN	_	Gender=Neut|Number=Sing	12	appos	_	dutch=Heerenveen
+11	It	It	PROPN	_	Gender=Neut|Number=Sing	5	appos	_	dutch=Heerenveen
 12	Hearrenfean	Hearrenfean	PROPN	_	Gender=Neut|Number=Sing	2	appos	_	dutch=Heerenveen
 13	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=wordt
 14	alle	al	DET	_	_	15	det	_	dutch=elk
