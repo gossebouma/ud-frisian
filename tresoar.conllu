@@ -3209,7 +3209,7 @@
 13	posysjes	posysje	NOUN	_	Number=Plur	16	iobj	_	dutch=posities
 14	fan	fan	ADP	_	_	16	case	_	dutch=van
 15	de	de	DET	_	Definite=Def	16	det	_	dutch=de
-16	beakens	beaken	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	8	acl_relcl	_	dutch=werd
+16	beakens	beaken	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	8	nmod	_	dutch=werd
 17	op	op	ADP	_	_	16	xcomp	_	dutch=op
 18	oanjûn	oanjaan	VERB	_	VerbForm=Part	5	xcomp	_	dutch=aangegeven
 19	wiene	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	8	acl_relcl	_	dutch=werd
