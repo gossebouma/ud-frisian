@@ -2485,7 +2485,7 @@
 1	Twa	twa	NUM	_	_	3	nummod	_	dutch=Twee
 2	oare	oar	ADJ	_	Degree=Pos	3	amod	_	dutch=andere
 3	bern	bern	NOUN	_	Number=Plur	0	root	_	dutch=kinderen
-4	mei	mei	ADP	_	_	6	root	_	dutch=KEY-MISSING
+4	mei	mei	ADP	_	_	6	case	_	dutch=KEY-MISSING
 5	wite	wite	ADJ	_	Degree=Pos	6	amod	_	dutch=witte
 6	mofkes	mofke	NOUN	_	Number=Plur	0	root	_	dutch=handschoenen
 7	oan	oan	ADP	_	Number=Plur	0	root	_	dutch=handschoenen
