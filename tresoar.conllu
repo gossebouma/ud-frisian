@@ -3015,7 +3015,7 @@
 25	mei	mei	ADP	_	_	28	case	_	dutch=met
 26	in	in	DET	_	_	28	det	_	dutch=een
 27	grut	grut	ADJ	_	Gender=Com|Number=Sing	28	amod	_	dutch=verscheidenheid
-28	ferskaat	ferskaat	NOUN	_	Gender=Com|Number=Sing	24	obl	_	dutch=verscheidenheid
+28	ferskaat	ferskaat	NOUN	_	Gender=Com|Number=Sing	24	nmod	_	dutch=verscheidenheid
 29	oan	oan	ADP	_	_	30	case	_	dutch=aan
 30	workshops	workshop	NOUN	_	Number=Plur	28	nmod	_	dutch=workshops
 31	,	,	PUNCT	_	_	32	punct	_	dutch=,
