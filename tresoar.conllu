@@ -2827,7 +2827,7 @@
 2	in	in	DET	_	Definite=Ind	3	det	_	dutch=een
 3	part	part	NOUN	_	Gender=Neut|Number=Sing	4	obl	_	dutch=deel
 4	giet	gean	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=gaat
-5	it	it	PRON	_	_	4	root	_	dutch=KEY-MISSING
+5	it	it	PRON	_	_	4	nsubj	_	dutch=KEY-MISSING
 6	om	om	ADP	_	_	7	case	_	dutch=om
 7	teksten	tekst	NOUN	_	Number=Plur	0	root	_	dutch=teksten
 8	dy’t	dy’t	PRON	_	PronType=Rel	14	nsubj_pass	_	dutch=die
