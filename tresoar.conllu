@@ -3033,7 +3033,7 @@
 43	yn	yn	ADP	_	Degree=Pos	44	case	_	dutch=in
 44	kursusferbân	kursusferbân	NOUN	_	Gender=Neut|Number=Sing	42	obl	_	dutch=cursusverband
 45	(	(	PUNCT	_	_	46	punct	_	dutch=(
-46	www.skriuwdei.nl	www.skriuwdei.nl	X	_	_	19	nmod	_	dutch=www.skriuwdei.nl
+46	www.skriuwdei.nl	www.skriuwdei.nl	X	_	_	48	nmod	_	dutch=www.skriuwdei.nl
 47	)	)	PUNCT	_	_	46	punct	_	dutch=)
 48	.	.	PUNCT	_	_	13	punct	_	dutch=.
 
