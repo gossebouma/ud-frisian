@@ -3008,7 +3008,7 @@
 18	de	de	DET	_	Definite=Def	20	det	_	dutch=de
 19	Provinsjale	provinsjaal	PROPN	_	Degree=Pos	20	amod	_	dutch=Provinciale
 20	Skriuwdei	Skriuwdei	PROPN	_	Gender=Com_Neut|Number=Sing	13	iobj	_	dutch=Schrijfdag
-21	hâlden	hâlde	VERB	_	VerbForm=Part	43	obl	_	dutch=gehouden
+21	hâlden	hâlde	VERB	_	VerbForm=Part	0	root	_	dutch=gehouden
 22	,	,	PUNCT	_	_	21	punct	_	dutch=,
 23	in	in	DET	_	Definite=Ind	24	det	_	dutch=een
 24	dei	dei	NOUN	_	Gender=Com|Number=Sing	13	nsubj	_	dutch=dag
