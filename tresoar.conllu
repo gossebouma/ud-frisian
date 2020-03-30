@@ -2472,7 +2472,7 @@
 20	sy	sy	PRON	_	Case=Nom|Person=3|PronType=Prs	18	conj	_	dutch=VAL-MISSING
 21	de	de	DET	_	Definite=Def	22	det	_	dutch=de
 22	depotdoar	depotdoar	NOUN	_	Number=Plur	24	obj	_	dutch=depotdeuren
-23	mei	mei	ADP	_	Number=Plur	24	compund_prt	_	dutch=depotdeuren
+23	mei	mei	ADP	_	Number=Plur	15	compund_prt	_	dutch=depotdeuren
 24	iepenje	iepenje	VERB	_	VerbForm=Inf	14	acl_relcl	_	dutch=openen
 25	kin	kinne	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	24	aux	_	dutch=kan
 26	.	.	PUNCT	_	_	2	punct	_	dutch=.
