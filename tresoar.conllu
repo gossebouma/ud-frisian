@@ -2437,7 +2437,7 @@
 5	nei	nei	ADP	_	_	7	case	_	dutch=naar
 6	de	de	DET	_	Definite=Def	7	det	_	dutch=de
 7	depots	depot	NOUN	_	Number=Plur	4	obl	_	dutch=depots
-8	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
+8	,	,	PUNCT	_	_	13	root	_	dutch=KEY-MISSING
 9	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	13	cop	_	dutch=is
 10	dat	dat	PRON	_	Person=3|PronType=Dem	13	nsubj	_	dutch=dat
 11	ien	ien	NUM	_	_	13	nummod	_	dutch=één
