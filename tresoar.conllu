@@ -2850,7 +2850,7 @@
 25	wurk	wurk	NOUN	_	Gender=Neut|Number=Sing	30	obl	_	dutch=werk
 26	nei	nei	ADP	_	_	27	case	_	dutch=naar
 27	bûten	bûten	ADP	_	_	30	obl	_	dutch=buiten
-28	ta	ta	ADP	_	_	30	obl	_	dutch=buiten
+28	ta	ta	ADP	_	_	27	obl	_	dutch=buiten
 29	te	te	ADP	_	_	30	mark	_	dutch=te
 30	kommen	komme	VERB	_	VerbForm=Inf	21	acl	_	dutch=treden
 31	.	.	PUNCT	_	_	4	punct	_	dutch=.
