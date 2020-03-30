@@ -3014,7 +3014,7 @@
 24	dei	dei	NOUN	_	Gender=Com|Number=Sing	13	nsubj	_	dutch=dag
 25	mei	mei	ADP	_	_	28	case	_	dutch=met
 26	in	in	DET	_	_	28	det	_	dutch=een
-27	grut	grut	ADJ	_	Gender=Com|Number=Sing	34	advcl	_	dutch=verscheidenheid
+27	grut	grut	ADJ	_	Gender=Com|Number=Sing	28	advcl	_	dutch=verscheidenheid
 28	ferskaat	ferskaat	NOUN	_	Gender=Com|Number=Sing	34	advcl	_	dutch=verscheidenheid
 29	oan	oan	ADP	_	_	30	case	_	dutch=aan
 30	workshops	workshop	NOUN	_	Number=Plur	27	nmod	_	dutch=workshops
