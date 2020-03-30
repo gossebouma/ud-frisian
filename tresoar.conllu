@@ -2643,7 +2643,7 @@
 9	sykjen	sykje	VERB	_	VerbForm=Inf	6	xcomp	_	dutch=zoeken
 10	yn	yn	ADP	_	_	12	case	_	dutch=in
 11	ús	ús	PRON	_	Person=1|Poss=Yes|PronType=Prs	12	nmod_poss	_	dutch=onze
-12	katalogus	katalogus	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	dutch=catalogus
+12	katalogus	katalogus	NOUN	_	Gender=Com|Number=Sing	9	nmod	_	dutch=catalogus
 13	oant	oant	ADP	_	_	15	case	_	dutch=tot
 14	it	it	DET	_	Gender=Com|Number=Sing	3	obl	_	dutch=begeleiding
 15	begelieden	begeliede	VERB	_	Gender=Com|Number=Sing	3	obl	_	dutch=begeleiding
