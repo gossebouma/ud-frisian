@@ -3084,7 +3084,7 @@
 7	skriuwbefoardering	skriuwbefoardering	NOUN	_	Number=Plur|Tense=Pres|VerbForm=Fin	2	nmod	_	dutch=vormen
 8	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=vormen
 9	in	in	DET	_	Definite=Ind	10	det	_	dutch=een
-10	part	part	NOUN	_	Gender=Neut|Number=Sing	8	obj	_	dutch=gedeelte
+10	part	part	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=gedeelte
 11	fan	fan	ADP	_	_	13	case	_	dutch=van
 12	it	it	DET	_	Definite=Def	13	det	_	dutch=het
 13	koördinatorswurk	koördinatorswurk	NOUN	_	Gender=Neut|Number=Sing	10	nmod	_	dutch=coördinatorswerk
