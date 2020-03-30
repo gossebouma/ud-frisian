@@ -2541,7 +2541,7 @@
 10	wenplak	wenplak	NOUN	_	Gender=Com|Number=Sing	2	nmod	_	dutch=woonplaats
 11	meitsje	meitsje	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=maken
 12	in	in	DET	_	_	14	det	_	dutch=veel
-13	soad	soad	NOUN	_	_	12	det	_	dutch=veel
+13	soad	soad	NOUN	_	_	12	fixed	_	dutch=veel
 14	yndruk	yndruk	NOUN	_	Gender=Com|Number=Sing	11	obj	_	dutch=indruk
 15	.	.	PUNCT	_	_	11	punct	_	dutch=.
 
