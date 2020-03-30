@@ -3159,7 +3159,7 @@
 15	ûntstiene	ûntstean	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	7	conj	_	dutch=ontstonden
 16	skipbrekken	skipbrek	NOUN	_	Number=Plur	15	nsubj	_	dutch=schipbreuken
 17	dy’t	dy’t	PRON	_	PronType=Rel	22	obj	_	dutch=die
-18	foar	foar	ADP	_	_	20	root	_	dutch=voor
+18	foar	foar	ADP	_	_	20	case	_	dutch=voor
 19	de	de	DET	_	Definite=Def	20	det	_	dutch=de
 20	jutters	jutter	NOUN	_	Degree=Pos	21	amod	_	dutch=nodige
 21	bút	bút	NOUN	_	Gender=Com|Number=Sing	22	nsubj	_	dutch=buit
