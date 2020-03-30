@@ -3013,7 +3013,7 @@
 23	in	in	DET	_	Definite=Ind	24	det	_	dutch=een
 24	dei	dei	NOUN	_	Gender=Com|Number=Sing	13	nsubj	_	dutch=dag
 25	mei	mei	ADP	_	_	27	mark	_	dutch=met
-26	in	in	DET	_	_	27	nsubj	_	dutch=een
+26	in	in	DET	_	_	28	nsubj	_	dutch=een
 27	grut	grut	ADJ	_	Gender=Com|Number=Sing	34	advcl	_	dutch=verscheidenheid
 28	ferskaat	ferskaat	NOUN	_	Gender=Com|Number=Sing	34	advcl	_	dutch=verscheidenheid
 29	oan	oan	ADP	_	_	30	case	_	dutch=aan
