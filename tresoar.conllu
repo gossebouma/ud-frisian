@@ -2776,7 +2776,7 @@
 5	jiermennich	jiermennich	NOUN	_	Number=Plur	7	obl	_	dutch=jaren
 6	lyn	lyn	ADV	_	_	5	advmod	_	dutch=geleden
 7	útfierd	útfiere	VERB	_	VerbForm=Part	23	advcl	_	dutch=uitgevoerd
-8	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	cop	_	dutch=is
+8	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	aux	_	dutch=is
 9	yn	yn	ADP	_	_	0	root	_	dutch=VAL-MISSING
 10	opdracht	opdracht	NOUN	_	Gender=Com|Number=Sing	9	fixed	_	dutch=opdracht
 11	fan	fan	ADP	_	_	9	fixed	_	dutch=van
