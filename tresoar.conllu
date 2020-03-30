@@ -2687,7 +2687,7 @@
 10	no	no	ADV	_	_	13	advmod	_	dutch=nu
 11	al	al	ADV	_	_	13	root	_	dutch=KEY-MISSING
 12	it	it	DET	_	Definite=Def	13	det	_	dutch=het
-13	gefal	gefal	NOUN	_	Gender=Neut|Number=Sing	7	advcl	_	dutch=geval
+13	gefal	gefal	NOUN	_	Gender=Neut|Number=Sing	8	advcl	_	dutch=geval
 14	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	13	cop	_	dutch=is
 15	ynvestearje	ynvestearje	VERB	_	VerbForm=Inf	0	root	_	dutch=investeren
 16	yn	yn	ADP	_	_	19	case	_	dutch=in
