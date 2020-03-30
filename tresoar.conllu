@@ -2618,7 +2618,7 @@
 5	sette	sette	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=richten
 6	wy	wy	PRON	_	Case=Acc|Person=1|PronType=Prs	5	nsubj	_	dutch=ons
 7	mear	folle	ADV	_	_	5	advmod	_	dutch=meer
-8	yn	yn	ADP	_	_	5	root	_	dutch=KEY-MISSING
+8	yn	yn	ADP	_	_	5	compound_prt	_	dutch=KEY-MISSING
 9	op	op	ADP	_	_	12	case	_	dutch=op
 10	it	it	DET	_	Definite=Def	12	det	_	dutch=het
 11	yndividueel	yndividueel	ADJ	_	Degree=Pos	12	amod	_	dutch=individueel
