@@ -2591,7 +2591,7 @@
 12	”	”	PUNCT	_	_	7	punct	_	dutch=”
 13	,	,	PUNCT	_	_	15	punct	_	dutch=,
 14	mar	mar	CCONJ	_	_	15	cc	_	dutch=maar
-15	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	conj	_	dutch=wordt
+15	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	2	conj	_	dutch=wordt
 16	in	in	DET	_	Definite=Ind	20	det	_	dutch=een
 17	begryplik	begryplik	ADJ	_	Degree=Pos	20	nmod	_	dutch=begrijpelijk
 18	en	en	CCONJ	_	_	19	cc	_	dutch=en
