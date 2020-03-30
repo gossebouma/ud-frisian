@@ -2464,7 +2464,7 @@
 12	mei	mei	ADP	_	_	14	case	_	dutch=met
 13	in	in	DET	_	Definite=Ind	14	det	_	dutch=een
 14	koade	koade	NOUN	_	Gender=Com|Number=Sing	11	obl	_	dutch=code
-15	,	,	PUNCT	_	_	14	root	_	dutch=KEY-MISSING
+15	,	,	PUNCT	_	_	14	punct	_	dutch=KEY-MISSING
 16	dêr’t	dêr’t	ADV	_	_	24	advmod	_	dutch=waarmee
 17	allinnich	allinnich	ADV	_	_	24	advmod	_	dutch=VAL-MISSING
 18	hy	hy	PRON	_	Case=Nom|Person=3|PronType=Prs	24	nsubj	_	dutch=hij
