@@ -2398,7 +2398,7 @@
 21	Liket	lykje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	14	parataxis	_	dutch=Lijkt
 22	”	”	PUNCT	_	_	21	punct	_	dutch=”
 23	,	,	PUNCT	_	_	28	punct	_	dutch=,
-24	want	want	CCONJ	_	_	28	cc	_	dutch=want
+24	want	want	CCONJ	_	_	28	mark	_	dutch=want
 25	de	de	DET	_	Definite=Def	26	det	_	dutch=de
 26	werklikheid	werklikheid	NOUN	_	Gender=Com|Number=Sing	28	nsubj	_	dutch=werkelijkheid
 27	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	28	cop	_	dutch=is
