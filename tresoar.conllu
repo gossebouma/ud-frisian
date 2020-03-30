@@ -2383,7 +2383,7 @@
 6	tiid	tiid	NOUN	_	Gender=Com|Number=Sing	3	nmod	_	dutch=tijd
 7	fan	fan	ADP	_	_	8	case	_	dutch=van
 8	Idols	idol	NOUN	_	Gender=Com_Neut|Number=Sing	6	amod	_	dutch=Idols
-9	en	en	CCONJ	_	_	10	cc	_	dutch=en
+9	en	en	CCONJ	_	_	11	cc	_	dutch=en
 10	oare	oar	ADJ	_	Degree=Pos	11	amod	_	dutch=andere
 11	foarmen	foarm	NOUN	_	VerbForm=Inf	14	nsubj	_	dutch=vormen
 12	fan	fan	ADP	_	_	13	case	_	dutch=van
