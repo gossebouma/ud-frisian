@@ -3077,7 +3077,7 @@
 # NOT ALIGNED
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
 2	aktiviteiten	aktiviteit	NOUN	_	Number=Plur	8	nsubj	_	dutch=activiteiten
-3	op	op	ADP	_	_	7	root	_	dutch=op
+3	op	op	ADP	_	_	7	case	_	dutch=op
 4	it	it	DET	_	Definite=Def	3	fixed	_	dutch=het
 5	mêd	mêd	NOUN	_	Gender=Neut|Number=Sing	3	fixed	_	dutch=gebied
 6	fan	fan	ADP	_	_	3	fixed	_	dutch=van
