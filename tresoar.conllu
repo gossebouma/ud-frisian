@@ -3277,7 +3277,7 @@
 8	út	út	ADP	_	_	10	case	_	dutch=uit
 9	it	it	DET	_	Definite=Def	10	det	_	dutch=het
 10	wetter	wetter	NOUN	_	VerbForm=Inf	3	xcomp	_	dutch=halen
-11	te	te	ADP	_	_	10	mark	_	dutch=te
+11	te	te	ADP	_	_	12	mark	_	dutch=te
 12	fiskjen	fiskje	VERB	_	_	10	mark	_	dutch=te
 13	en	en	CCONJ	_	_	17	cc	_	dutch=en
 14	op	op	ADP	_	_	16	case	_	dutch=op
