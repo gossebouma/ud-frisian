@@ -3614,7 +3614,7 @@
 # ALIGNED
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
 2	state	state	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=state
-3	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	2	cop	_	dutch=is
+3	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	22	cop	_	dutch=is
 4	,	,	PUNCT	_	_	8	punct	_	dutch=,
 5	lykas	lykas	SCONJ	_	_	8	mark	_	dutch=als
 6	safolle	safolle	NUM	_	_	8	nummod	_	dutch=zoveel
