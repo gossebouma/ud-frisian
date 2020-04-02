@@ -3237,7 +3237,7 @@
 15	beakens	beaken	NOUN	_	Number=Plur	12	nmod	_	dutch=bakens
 16	sjen	sjen	VERB	_	VerbForm=Inf	9	compound_prt	_	dutch=zien
 17	en	en	CCONJ	_	_	0	root	_	dutch=KEY-MISSING
-18	dêrnjonken	dêrnjonken	ADV	_	VerbForm=Part	9	parataxis	_	dutch=afgebeeld
+18	dêrnjonken	dêrnjonken	ADV	_	VerbForm=Part	26	parataxis	_	dutch=afgebeeld
 19	is	wêze	AUX	_	VerbForm=Part	26	aux	_	dutch=afgebeeld
 20	ek	ek	ADV	_	_	26	advmod	_	dutch=daarbij
 21	de	de	DET	_	Definite=Def	22	det	_	dutch=de
