@@ -3302,7 +3302,7 @@
 6	it	it	DET	_	Definite=Def	7	det	_	dutch=het
 7	noarden	noarden	NOUN	_	Gender=Neut|Number=Sing	5	nsubj	_	dutch=noorden
 8	altiten	altiten	ADV	_	_	5	advmod	_	dutch=altijd
-9	boppenoan	boppenoan	ADV	_	_	0	root	_	dutch=bovenaan
+9	boppenoan	boppenoan	ADV	_	_	5	root	_	dutch=bovenaan
 10	,	,	PUNCT	_	_	0	root	_	dutch=,
 11	doe	doe	ADV	_	_	0	root	_	dutch=toen
 12	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=was
