@@ -3271,7 +3271,7 @@
 2	bewenners	bewenner	NOUN	_	Number=Plur	3	nsubj	_	dutch=bewoners
 3	besykje	besykje	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=proberen
 4	mei	mei	ADP	_	_	5	case	_	dutch=met
-5	heakken	heak	NOUN	_	VerbForm=Inf	3	obl	_	dutch=haken
+5	heakken	heak	NOUN	_	VerbForm=Inf	12	obl	_	dutch=haken
 6	de	de	DET	_	Definite=Def	7	det	_	dutch=de
 7	bút	bút	NOUN	_	Gender=Com|Number=Sing	10	obj	_	dutch=buit
 8	út	út	ADP	_	_	10	case	_	dutch=uit
