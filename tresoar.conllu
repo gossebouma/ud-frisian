@@ -3559,7 +3559,7 @@
 3	de	de	DET	_	_	4	det	_	dutch=KEY-MISSING
 4	kaart	kaart	NOUN	_	Gender=Com|Number=Sing	2	obj	_	dutch=kaart
 5	yn	yn	ADP	_	_	6	case	_	dutch=in
-6	1736	1736	NUM	_	_	2	root	_	dutch=1736
+6	1736	1736	NUM	_	_	2	obl	_	dutch=1736
 7	.	.	PUNCT	_	_	0	root	_	dutch=.
 
 # sent_id = 153
