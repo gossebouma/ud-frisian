@@ -3419,7 +3419,7 @@
 16	Easterwierrum	Easterwierrum	PROPN	_	Gender=Neut|Number=Sing	14	nmod	_	dutch=Oosterbierum
 17	oant	oant	ADP	_	_	18	case	_	dutch=aan
 18	Raard	Raard	PROPN	_	Gender=Neut|Number=Sing	11	obl	_	dutch=Rauwerd
-19	ta	ta	ADP	_	_	18	root	_	dutch=KEY-MISSING
+19	ta	ta	ADP	_	_	18	case	_	dutch=KEY-MISSING
 20	.	.	PUNCT	_	_	7	punct	_	dutch=.
 
 # sent_id = 146
