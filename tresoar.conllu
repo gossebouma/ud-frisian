@@ -3304,7 +3304,7 @@
 8	altiten	altiten	ADV	_	_	5	advmod	_	dutch=altijd
 9	boppenoan	boppenoan	ADV	_	_	5	advmod	_	dutch=bovenaan
 10	,	,	PUNCT	_	_	5	punct	_	dutch=,
-11	doe	doe	ADV	_	_	17	root	_	dutch=toen
+11	doe	doe	ADV	_	_	17	advmod	_	dutch=toen
 12	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	17	cop	_	dutch=was
 13	dat	dat	PRON	_	Person=3|PronType=Dem	17	nsubj	_	dutch=dat
 14	net	net	ADV	_	_	17	advmod	_	dutch=niet
