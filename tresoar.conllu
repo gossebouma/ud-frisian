@@ -3310,7 +3310,7 @@
 14	net	net	ADV	_	_	17	advmod	_	dutch=niet
 15	altyd	altyd	ADV	_	_	17	advmod	_	dutch=altijd
 16	it	it	DET	_	_	17	det	_	dutch=KEY-MISSING
-17	gefal	gefal	NOUN	_	_	5	root	_	dutch=KEY-MISSING
+17	gefal	gefal	NOUN	_	_	5	parataxis	_	dutch=KEY-MISSING
 18	,	,	PUNCT	_	_	24	punct	_	dutch=,
 19	it	it	DET	_	Definite=Def	23	det	_	dutch=het
 20	ôf	ôf	ADP	_	_	22	compound_prt	_	dutch=af
