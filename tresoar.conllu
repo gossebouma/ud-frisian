@@ -3577,7 +3577,7 @@
 8	sjoen	sjen	VERB	_	_	3	advcl	_	dutch=gezien
 9	,	,	PUNCT	_	_	8	punct	_	dutch=,
 10	mei	mei	ADP	_	_	11	case	_	dutch=met
-11	bygebouwen	bygebouw	NOUN	_	Number=Plur	15	nmod	_	dutch=bijgebouwen
+11	bygebouwen	bygebouw	NOUN	_	Number=Plur	3	nmod	_	dutch=bijgebouwen
 12	en	en	CCONJ	_	_	13	cc	_	dutch=en
 13	park	park	NOUN	_	Gender=Neut|Number=Sing	11	conj	_	dutch=park
 14	,	,	PUNCT	_	_	11	punct	_	dutch=,
