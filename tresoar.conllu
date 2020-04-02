@@ -3383,7 +3383,7 @@
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-10 12-11
 # ALIGNED
 1	Portier	Portier	PROPN	_	Gender=Com|Number=Sing	12	nsubj	_	dutch=Portier
-2	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	12	cop	_	dutch=is
+2	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	_	dutch=is
 3	benammen	benammen	ADV	_	_	5	advmod	_	dutch=vooral
 4	bekend	bekend	ADJ	_	Degree=Pos	5	advmod	_	dutch=bekend
 5	wurden	wurde	AUX	_	VerbForm=Part	12	advcl	_	dutch=geworden
