@@ -3414,7 +3414,7 @@
 11	rint	rinne	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	acl_relcl	_	dutch=loopt
 12	fan	fan	ADP	_	_	14	case	_	dutch=van
 13	de	de	DET	_	Definite=Def	14	det	_	dutch=de
-14	seedyk	seedyk	NOUN	_	Gender=Com|Number=Sing	7	obl	_	dutch=zeedijk
+14	seedyk	seedyk	NOUN	_	Gender=Com|Number=Sing	11	obl	_	dutch=zeedijk
 15	by	by	ADP	_	Gender=Neut|Number=Sing	14	nmod	_	dutch=Oosterbierum
 16	Easterwierrum	Easterwierrum	PROPN	_	Gender=Neut|Number=Sing	14	nmod	_	dutch=Oosterbierum
 17	oant	oant	ADP	_	_	18	case	_	dutch=aan
