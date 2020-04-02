@@ -3223,7 +3223,7 @@
 1	Dizze	dizze	DET	_	_	4	det	_	dutch=Deze
 2	prachtich	prachtich	ADJ	_	Degree=Pos	3	obl	_	dutch=fraai
 3	ynkleure	ynkleurje	VERB	_	VerbForm=Part	4	acl	_	dutch=ingekleurde
-4	print	print	NOUN	_	Gender=Com|Number=Sing	9	nsubj	_	dutch=prent
+4	print	print	NOUN	_	Gender=Com|Number=Sing	9	amod	_	dutch=prent
 5	fan	fan	ADP	_	_	8	case	_	dutch=uit
 6	sa	sa	ADV	_	_	8	amod	_	dutch=ongeveer
 7	likernôch	likernôch	ADV	_	_	8	amod	_	dutch=ongeveer
