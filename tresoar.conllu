@@ -3634,7 +3634,7 @@
 20	de	de	DET	_	Definite=Def	21	det	_	dutch=de
 21	famylje	famylje	NOUN	_	Gender=Com|Number=Sing	18	nmod	_	dutch=familie
 22	sloopt	slope	VERB	_	VerbForm=Part	0	root	_	dutch=gesloopt
-23	.	.	PUNCT	_	_	2	punct	_	dutch=.
+23	.	.	PUNCT	_	_	22	punct	_	dutch=.
 
 # sent_id = 156
 # text = De aadlike famyljes gyngen yn ’e rin fan de njoggentjinde iu út Fryslân wei nei de Feluwe en it Westen .
