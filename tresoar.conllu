@@ -3632,7 +3632,7 @@
 18	opdracht	opdracht	NOUN	_	Gender=Com|Number=Sing	22	obl	_	dutch=opdracht
 19	fan	fan	ADP	_	_	21	case	_	dutch=van
 20	de	de	DET	_	Definite=Def	21	det	_	dutch=de
-21	famylje	famylje	NOUN	_	Gender=Com|Number=Sing	18	obl	_	dutch=familie
+21	famylje	famylje	NOUN	_	Gender=Com|Number=Sing	18	advmod	_	dutch=familie
 22	sloopt	slope	VERB	_	VerbForm=Part	0	root	_	dutch=gesloopt
 23	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
