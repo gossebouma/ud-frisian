@@ -3617,7 +3617,7 @@
 3	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	22	cop	_	dutch=is
 4	,	,	PUNCT	_	_	8	punct	_	dutch=,
 5	lykas	lykas	SCONJ	_	_	8	mark	_	dutch=als
-6	safolle	safolle	NUM	_	_	8	nummod	_	dutch=zoveel
+6	safolle	safolle	NUM	_	_	9	nummod	_	dutch=zoveel
 7	prachtige	prachtich	ADJ	_	Degree=Pos	9	amod	_	dutch=fraaie
 8	aadlike	aadlike	ADJ	_	Degree=Pos	9	amod	_	dutch=adellijke
 9	huzen	hûs	NOUN	_	VerbForm=Inf	22	advcl	_	dutch=huizen
