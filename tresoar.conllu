@@ -3461,7 +3461,7 @@
 18	iggen	igge	NOUN	_	Gender=Com|Number=Sing	14	obl	_	dutch=rand
 19	fan	fan	ADP	_	_	21	case	_	dutch=van
 20	de	de	DET	_	Definite=Def	21	det	_	dutch=de
-21	âlde	âld	ADJ	_	Gender=Neut|Number=Sing	18	nmod	_	dutch=Middelzee
+21	âlde	âld	ADJ	_	Gender=Neut|Number=Sing	22	nmod	_	dutch=Middelzee
 22	Middelsee	Middelsee	PROPN	_	Gender=Neut|Number=Sing	18	nmod	_	dutch=Middelzee
 23	.	.	PUNCT	_	_	4	punct	_	dutch=.
 
