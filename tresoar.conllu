@@ -3294,7 +3294,7 @@
 # source_text = Tegenwoordig ligt het noorden op onze kaarten altijd bovenaan , toen was dat niet altijd zo , het af te beelden onderwerp stond centraal .
 # alignment =  2-0 3-6 4-5 5-2 6-3 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 17-16 18-17 19-18 20-19 21-20 22-21 23-22 24-23 25-24
 # NOT ALIGNED
-1	Op	op	ADP	_	_	4	root	_	dutch=KEY-MISSING
+1	Op	op	ADP	_	_	4	case	_	dutch=KEY-MISSING
 2	’e	’e	DET	_	_	4	det	_	dutch=KEY-MISSING
 3	tsjintwurdige	tsjintwurdich	ADJ	_	Degree=Pos	4	amod	_	dutch=Tegenwoordig
 4	kaarten	kaart	NOUN	_	Number=Plur	7	nmod	_	dutch=kaarten
