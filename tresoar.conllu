@@ -3581,7 +3581,7 @@
 12	en	en	CCONJ	_	_	13	cc	_	dutch=en
 13	park	park	NOUN	_	Gender=Neut|Number=Sing	11	conj	_	dutch=park
 14	,	,	PUNCT	_	_	11	punct	_	dutch=,
-15	eigendom	eigendom	NOUN	_	Gender=Neut|Number=Sing	3	obl	_	dutch=eigendom
+15	eigendom	eigendom	NOUN	_	Gender=Neut|Number=Sing	3	advcl	_	dutch=eigendom
 16	fan	fan	ADP	_	_	18	case	_	dutch=van
 17	de	de	DET	_	Definite=Def	18	det	_	dutch=de
 18	famylje	famylje	NOUN	_	Gender=Com|Number=Sing	15	nmod	_	dutch=familie
