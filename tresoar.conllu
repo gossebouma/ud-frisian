@@ -3589,7 +3589,7 @@
 20	Schwartzenberg	Schwartzenberg	PROPN	_	_	19	flat	_	dutch=VAL-MISSING
 21	en	en	PROPN	_	_	19	flat	_	dutch=en
 22	Hohenlansberg	Hohenlansberg	PROPN	_	Gender=Neut|Number=Sing	19	flat	_	dutch=VAL-MISSING
-23	.	.	PUNCT	_	_	22	punct	_	dutch=.
+23	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 154
 # text = It park is oanlein yn ’e formele Frânske styl .
