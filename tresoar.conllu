@@ -3388,7 +3388,7 @@
 4	bekend	bekend	ADJ	_	Degree=Pos	5	advmod	_	dutch=bekend
 5	wurden	wurde	AUX	_	VerbForm=Part	0	root	_	dutch=geworden
 6	as	as	ADP	_	_	7	mark	_	dutch=als
-7	tekener	tekener	NOUN	_	Gender=Com|Number=Sing	12	advcl	_	dutch=tekenaar
+7	tekener	tekener	NOUN	_	Gender=Com|Number=Sing	5	advcl	_	dutch=tekenaar
 8	fan	fan	ADP	_	_	10	case	_	dutch=van
 9	topografyske	topografysk	ADJ	_	Degree=Pos	10	amod	_	dutch=topografische
 10	kaarten	kaart	NOUN	_	Number=Plur	7	nmod	_	dutch=kaarten
