@@ -3329,7 +3329,7 @@
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
 2	wynrjochting	wynrjochting	NOUN	_	_	5	nsubj_pass	_	dutch=daarbij
 3	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	5	aux_pass	_	dutch=werd
-4	dêrop	dêrop	ADV	_	Gender=Com|Number=Sing	5	nsubj_pass	_	dutch=windrichting
+4	dêrop	dêrop	ADV	_	Gender=Com|Number=Sing	5	advmod	_	dutch=windrichting
 5	oanpast	oanpasse	VERB	_	VerbForm=Part	0	root	_	dutch=aangepast
 6	,	,	PUNCT	_	_	12	punct	_	dutch=,
 7	de	de	DET	_	Definite=Def	8	det	_	dutch=de
