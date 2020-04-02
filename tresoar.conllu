@@ -3521,7 +3521,7 @@
 3	de	de	DET	_	Definite=Def	4	det	_	dutch=de
 4	state	state	NOUN	_	_	1	nmod	_	dutch=state
 5	Groot	Groot	PROPN	_	_	4	flat	_	dutch=Groot
-6	Terhorne	Terhorne	PROPN	_	_	4	flat	_	dutch=Terhorne
+6	Terhorne	Terhorne	PROPN	_	_	5	flat	_	dutch=Terhorne
 7	te	te	ADP	_	_	8	case	_	dutch=te
 8	Bitgum	Bitgum	PROPN	_	Gender=Neut|Number=Sing	4	nmod	_	dutch=Beetgum
 
