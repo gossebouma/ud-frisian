@@ -3623,7 +3623,7 @@
 9	huzen	hûs	NOUN	_	VerbForm=Inf	22	advcl	_	dutch=huizen
 10	yn	yn	ADP	_	_	11	case	_	dutch=in
 11	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	9	nmod	_	dutch=Fryslân
-12	,	,	PUNCT	_	_	16	punct	_	dutch=,
+12	,	,	PUNCT	_	_	9	punct	_	dutch=,
 13	yn	yn	ADP	_	_	16	case	_	dutch=in
 14	’e	’e	DET	_	Definite=Def	16	det	_	dutch=de
 15	njoggentjinde	njoggentjin	ADJ	_	_	16	amod	_	dutch=negentiende
