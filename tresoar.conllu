@@ -3283,7 +3283,7 @@
 14	op	op	ADP	_	_	16	case	_	dutch=op
 15	it	it	DET	_	Definite=Def	16	det	_	dutch=het
 16	strân	strân	NOUN	_	Gender=Neut|Number=Sing	17	obl	_	dutch=strand
-17	lizze	lizze	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	3	conj	_	dutch=liggen
+17	lizze	lizze	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	8	conj	_	dutch=liggen
 18	frijwat	frijwat	DET	_	VerbForm=Part	20	amod	_	dutch=aangespoelde
 19	oanspielde	oanspiele	VERB	_	VerbForm=Part	20	amod	_	dutch=aangespoelde
 20	liken	lyk	NOUN	_	Number=Plur	17	nsubj	_	dutch=lijken
