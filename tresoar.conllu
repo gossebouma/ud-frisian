@@ -3350,7 +3350,7 @@
 # source_text = 2 .
 # alignment =  0-0 1-0 2-1
 # ALIGNED
-1	(	(	PUNCT	_	_	0	root	_	dutch=2
+1	(	(	PUNCT	_	_	2	root	_	dutch=2
 2	lo	lo	X	_	_	0	root	_	dutch=2
 3	)	)	PUNCT	_	_	1	punct	_	dutch=.
 
