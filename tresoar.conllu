@@ -3586,7 +3586,7 @@
 17	de	de	DET	_	Definite=Def	18	det	_	dutch=de
 18	famylje	famylje	NOUN	_	Gender=Com|Number=Sing	15	nmod	_	dutch=familie
 19	Thoe	Thoe	PROPN	_	_	18	appos	_	dutch=Thoe
-20	Schwartzenberg	Schwartzenberg	PROPN	_	_	19	root	_	dutch=VAL-MISSING
+20	Schwartzenberg	Schwartzenberg	PROPN	_	_	19	flat	_	dutch=VAL-MISSING
 21	en	en	PROPN	_	_	22	cc	_	dutch=en
 22	Hohenlansberg	Hohenlansberg	PROPN	_	Gender=Neut|Number=Sing	0	root	_	dutch=VAL-MISSING
 23	.	.	PUNCT	_	_	22	punct	_	dutch=.
