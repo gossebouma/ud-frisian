@@ -3319,7 +3319,7 @@
 23	ûnderwerp	ûnderwerp	NOUN	_	Gender=Neut|Number=Sing	24	nsubj	_	dutch=onderwerp
 24	stie	stean	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	5	parataxis	_	dutch=stond
 25	sintraal	sintraal	ADJ	_	Degree=Pos	24	xcomp	_	dutch=centraal
-26	.	.	PUNCT	_	_	5	root	_	dutch=.
+26	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
 # sent_id = 140
 # text = De wynrjochting waard dêrop oanpast , de wynroas op ’e kaart joech oan wêr’t it noarden wie .
