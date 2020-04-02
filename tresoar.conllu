@@ -3273,7 +3273,7 @@
 4	mei	mei	ADP	_	_	5	case	_	dutch=met
 5	heakken	heak	NOUN	_	VerbForm=Inf	12	obl	_	dutch=haken
 6	de	de	DET	_	Definite=Def	7	det	_	dutch=de
-7	bút	bút	NOUN	_	Gender=Com|Number=Sing	10	obj	_	dutch=buit
+7	bút	bút	NOUN	_	Gender=Com|Number=Sing	12	obj	_	dutch=buit
 8	út	út	ADP	_	_	10	case	_	dutch=uit
 9	it	it	DET	_	Definite=Def	10	det	_	dutch=het
 10	wetter	wetter	NOUN	_	VerbForm=Inf	12	obl	_	dutch=halen
