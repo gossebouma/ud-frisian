@@ -3629,7 +3629,7 @@
 15	njoggentjinde	njoggentjin	ADJ	_	_	22	amod	_	dutch=negentiende
 16	iu	iu	NOUN	_	Gender=Com|Number=Sing	9	nmod	_	dutch=eeuw
 17	yn	yn	ADP	_	_	18	case	_	dutch=in
-18	opdracht	opdracht	NOUN	_	Gender=Com|Number=Sing	16	nmod	_	dutch=opdracht
+18	opdracht	opdracht	NOUN	_	Gender=Com|Number=Sing	22	nmod	_	dutch=opdracht
 19	fan	fan	ADP	_	_	21	case	_	dutch=van
 20	de	de	DET	_	Definite=Def	21	det	_	dutch=de
 21	famylje	famylje	NOUN	_	Gender=Com|Number=Sing	18	obl	_	dutch=familie
