@@ -3619,7 +3619,7 @@
 5	lykas	lykas	SCONJ	_	_	8	mark	_	dutch=als
 6	safolle	safolle	NUM	_	_	8	nummod	_	dutch=zoveel
 7	prachtige	prachtich	ADJ	_	Degree=Pos	8	amod	_	dutch=fraaie
-8	aadlike	aadlike	ADJ	_	Degree=Pos	2	advcl	_	dutch=adellijke
+8	aadlike	aadlike	ADJ	_	Degree=Pos	9	advcl	_	dutch=adellijke
 9	huzen	hûs	NOUN	_	VerbForm=Inf	22	advcl	_	dutch=huizen
 10	yn	yn	ADP	_	_	11	case	_	dutch=in
 11	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	9	nmod	_	dutch=Fryslân
