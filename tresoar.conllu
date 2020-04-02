@@ -3558,7 +3558,7 @@
 2	tekene	tekenje	VERB	_	_	4	det	_	dutch=deze
 3	de	de	DET	_	_	4	det	_	dutch=KEY-MISSING
 4	kaart	kaart	NOUN	_	Gender=Com|Number=Sing	1	root	_	dutch=kaart
-5	yn	yn	ADP	_	_	3	case	_	dutch=in
+5	yn	yn	ADP	_	_	6	case	_	dutch=in
 6	1736	1736	NUM	_	_	0	root	_	dutch=1736
 7	.	.	PUNCT	_	_	0	root	_	dutch=.
 
