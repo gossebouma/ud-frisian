@@ -3496,7 +3496,7 @@
 24	de	de	DET	_	Definite=Def	25	det	_	dutch=de
 25	dyk	dyk	NOUN	_	Gender=Com|Number=Sing	26	obl	_	dutch=dijk
 26	lizze	lizze	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	21	acl_relcl	_	dutch=liggen
-27	,	,	PUNCT	_	_	31	root	_	dutch=KEY-MISSING
+27	,	,	PUNCT	_	_	31	punct	_	dutch=KEY-MISSING
 28	ek	ek	ADV	_	_	31	advmod	_	dutch=ook
 29	de	de	DET	_	Definite=Def	30	det	_	dutch=de
 30	silhûetten	silhûet	NOUN	_	Number=Plur	31	obj	_	dutch=silhouetten
