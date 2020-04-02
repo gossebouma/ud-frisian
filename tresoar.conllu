@@ -3653,7 +3653,7 @@
 10	njoggentjinde	njoggentjin	ADJ	_	_	11	amod	_	dutch=negentiende
 11	iu	iu	NOUN	_	Gender=Com|Number=Sing	4	obl	_	dutch=eeuw
 12	út	út	ADP	_	_	13	case	_	dutch=uit
-13	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	4	nmod	_	dutch=Fryslân
+13	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	4	obl	_	dutch=Fryslân
 14	wei	wei	ADP	_	_	13	case	_	dutch=uit
 15	nei	nei	ADP	_	_	17	case	_	dutch=naar
 16	de	de	DET	_	Definite=Def	17	det	_	dutch=de
