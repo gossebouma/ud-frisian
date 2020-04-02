@@ -3613,7 +3613,7 @@
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22
 # ALIGNED
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
-2	state	state	NOUN	_	Gender=Com|Number=Sing	22	root	_	dutch=state
+2	state	state	NOUN	_	Gender=Com|Number=Sing	22	nsubj	_	dutch=state
 3	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	22	cop	_	dutch=is
 4	,	,	PUNCT	_	_	9	punct	_	dutch=,
 5	lykas	lykas	SCONJ	_	_	9	mark	_	dutch=als
