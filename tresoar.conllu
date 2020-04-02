@@ -3352,7 +3352,7 @@
 # ALIGNED
 1	(	(	PUNCT	_	_	2	root	_	dutch=2
 2	lo	lo	X	_	_	0	root	_	dutch=2
-3	)	)	PUNCT	_	_	1	punct	_	dutch=.
+3	)	)	PUNCT	_	_	2	punct	_	dutch=.
 
 # sent_id = 142
 # text = 2 .
