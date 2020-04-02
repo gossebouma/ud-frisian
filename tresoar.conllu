@@ -3317,7 +3317,7 @@
 21	te	te	ADP	_	_	22	mark	_	dutch=te
 22	byldzjen	byldzje	VERB	_	VerbForm=Inf	23	acl	_	dutch=beelden
 23	ûnderwerp	ûnderwerp	NOUN	_	Gender=Neut|Number=Sing	24	nsubj	_	dutch=onderwerp
-24	stie	stean	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=stond
+24	stie	stean	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	5	root	_	dutch=stond
 25	sintraal	sintraal	ADJ	_	Degree=Pos	24	xcomp	_	dutch=centraal
 26	.	.	PUNCT	_	_	0	root	_	dutch=.
 
