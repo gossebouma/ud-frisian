@@ -3393,7 +3393,7 @@
 9	topografyske	topografysk	ADJ	_	Degree=Pos	10	amod	_	dutch=topografische
 10	kaarten	kaart	NOUN	_	Number=Plur	7	nmod	_	dutch=kaarten
 11	en	en	CCONJ	_	Gender=Com|Number=Sing	12	cc	_	dutch=enzeegezichten
-12	seesichten	seesicht	NOUN	_	Gender=Com|Number=Sing	10	root	_	dutch=enzeegezichten
+12	seesichten	seesicht	NOUN	_	Gender=Com|Number=Sing	10	conj	_	dutch=enzeegezichten
 13	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
 # sent_id = 145
