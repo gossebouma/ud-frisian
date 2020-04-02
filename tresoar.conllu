@@ -3276,7 +3276,7 @@
 7	bút	bút	NOUN	_	Gender=Com|Number=Sing	10	obj	_	dutch=buit
 8	út	út	ADP	_	_	10	case	_	dutch=uit
 9	it	it	DET	_	Definite=Def	10	det	_	dutch=het
-10	wetter	wetter	NOUN	_	VerbForm=Inf	3	obl	_	dutch=halen
+10	wetter	wetter	NOUN	_	VerbForm=Inf	12	obl	_	dutch=halen
 11	te	te	ADP	_	_	12	mark	_	dutch=te
 12	fiskjen	fiskje	VERB	_	_	3	xcomp	_	dutch=te
 13	en	en	CCONJ	_	_	17	cc	_	dutch=en
