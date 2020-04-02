@@ -3275,7 +3275,7 @@
 6	de	de	DET	_	Definite=Def	7	det	_	dutch=de
 7	bút	bút	NOUN	_	Gender=Com|Number=Sing	10	obj	_	dutch=buit
 8	út	út	ADP	_	_	10	root	_	dutch=uit
-9	it	it	DET	_	Definite=Def	0	root	_	dutch=het
+9	it	it	DET	_	Definite=Def	10	root	_	dutch=het
 10	wetter	wetter	NOUN	_	VerbForm=Inf	3	xcomp	_	dutch=halen
 11	te	te	ADP	_	_	10	mark	_	dutch=te
 12	fiskjen	fiskje	VERB	_	_	10	mark	_	dutch=te
