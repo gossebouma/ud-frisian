@@ -3327,7 +3327,7 @@
 # alignment =  0-0 1-3 2-2 3-1 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17
 # ALIGNED
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
-2	wynrjochting	wynrjochting	NOUN	_	_	5	nsubj	_	dutch=daarbij
+2	wynrjochting	wynrjochting	NOUN	_	_	5	nsubj_pass	_	dutch=daarbij
 3	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	5	aux_pass	_	dutch=werd
 4	dêrop	dêrop	ADV	_	Gender=Com|Number=Sing	5	nsubj_pass	_	dutch=windrichting
 5	oanpast	oanpasse	VERB	_	VerbForm=Part	0	root	_	dutch=aangepast
