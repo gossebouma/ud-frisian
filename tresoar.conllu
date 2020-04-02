@@ -3197,7 +3197,7 @@
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
 2	Steaten	Steaten	PROPN	_	Number=Plur	5	nsubj	_	dutch=Staten
 3	fan	fan	PROPN	_	_	2	flat	_	dutch=van
-4	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	2	nmod	_	dutch=Friesland
+4	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	2	flat	_	dutch=Friesland
 5	lieten	litte	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	dutch=lieten
 6	doe	doe	ADV	_	_	9	advmod	_	dutch=daarop
 7	in	in	DET	_	Definite=Ind	8	det	_	dutch=een
