@@ -3278,7 +3278,7 @@
 9	it	it	DET	_	Definite=Def	10	det	_	dutch=het
 10	wetter	wetter	NOUN	_	VerbForm=Inf	3	obl	_	dutch=halen
 11	te	te	ADP	_	_	12	mark	_	dutch=te
-12	fiskjen	fiskje	VERB	_	_	3	mark	_	dutch=te
+12	fiskjen	fiskje	VERB	_	_	3	xcomp	_	dutch=te
 13	en	en	CCONJ	_	_	17	cc	_	dutch=en
 14	op	op	ADP	_	_	16	case	_	dutch=op
 15	it	it	DET	_	Definite=Def	16	det	_	dutch=het
