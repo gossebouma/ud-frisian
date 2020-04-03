@@ -4011,7 +4011,7 @@
 5	ealman	ealman	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=edelman
 6	dy’t	dy’t	PRON	_	PronType=Rel	14	nsubj_pass	_	dutch=die
 7	oan	oan	ADP	_	_	9	root	_	dutch=KEY-MISSING
-8	’e	’e	DET	_	_	9	amod	_	dutch=vijftiende
+8	’e	’e	DET	_	_	9	det	_	dutch=vijftiende
 9	ein	ein	NOUN	_	Gender=Neut|Number=Sing	14	obl	_	dutch=eind
 10	fan	fan	ADP	_	_	0	root	_	dutch=KEY-MISSING
 11	de	de	DET	_	Gender=Com|Number=Sing	9	obl	_	dutch=eeuw
