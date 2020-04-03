@@ -3840,7 +3840,7 @@
 10	in	in	DET	_	Definite=Ind	11	det	_	dutch=een
 11	stik	stik	NOUN	_	Gender=Neut|Number=Sing	8	nmod	_	dutch=stuk
 12	lân	lân	NOUN	_	Gender=Neut|Number=Sing	11	nmod	_	dutch=land
-13	dêr’t	dêr’t	ADV	_	_	22	advmod	_	dutch=waarvan
+13	dêr’t	dêr’t	ADV	_	_	21	advmod	_	dutch=waarvan
 14	de	de	DET	_	Definite=Def	15	det	_	dutch=de
 15	opbringst	opbringst	NOUN	_	Number=Plur	22	nsubj	_	dutch=opbrengsten
 16	út	út	ADP	_	_	17	case	_	dutch=uit
