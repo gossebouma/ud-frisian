@@ -3677,7 +3677,7 @@
 7	te	te	ADV	_	_	8	advmod	_	dutch=te
 8	djoer	djoer	ADJ	_	Degree=Pos	0	root	_	dutch=duur
 9	yn	yn	ADP	_	_	10	case	_	dutch=in
-10	ûnderhâld	ûnderhâld	NOUN	_	_	16	advmod	_	dutch=waarop
+10	ûnderhâld	ûnderhâld	NOUN	_	_	8	advmod	_	dutch=waarop
 11	en	en	CCONJ	_	_	12	cc	_	dutch=KEY-MISSING
 12	waarden	wurde	AUX	_	_	16	aux_pass	_	dutch=KEY-MISSING
 13	doe	doe	ADV	_	_	16	advmod	_	dutch=alle
