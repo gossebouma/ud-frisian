@@ -4014,7 +4014,7 @@
 8	’e	’e	DET	_	_	9	det	_	dutch=vijftiende
 9	ein	ein	NOUN	_	Gender=Neut|Number=Sing	14	obl	_	dutch=eind
 10	fan	fan	ADP	_	_	0	root	_	dutch=KEY-MISSING
-11	de	de	DET	_	Gender=Com|Number=Sing	13	obl	_	dutch=eeuw
+11	de	de	DET	_	Gender=Com|Number=Sing	13	det	_	dutch=eeuw
 12	fyftjinde	fyftjinde	ADJ	_	_	13	amod	_	dutch=vijftiende
 13	iu	iu	NOUN	_	Gender=Com|Number=Sing	9	obl	_	dutch=eeuw
 14	berne	berne	VERB	_	VerbForm=Part	5	acl_relcl	_	dutch=geboren
