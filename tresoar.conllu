@@ -4124,7 +4124,7 @@
 3	dat	dat	PRON	_	VerbForm=Part	5	nsubj_pass	_	dutch=afgebeelde
 4	hjir	hjir	ADV	_	_	5	advmod	_	dutch=hier
 5	toand	toane	VERB	_	VerbForm=Part	2	acl	_	dutch=afgebeelde
-6	wurdt	wurde	AUX	_	_	5	root	_	dutch=KEY-MISSING
+6	wurdt	wurde	AUX	_	_	5	aux_pass	_	dutch=KEY-MISSING
 7	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
 8	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	14	cop	_	dutch=is
 9	yn	yn	ADP	_	_	10	case	_	dutch=in
