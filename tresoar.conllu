@@ -3851,7 +3851,7 @@
 21	bedoeld	bedoele	VERB	_	VerbForm=Part	12	acl	_	dutch=bedoeld
 22	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	21	aux	_	dutch=was
 23	as	as	ADP	_	_	24	mark	_	dutch=als
-24	ynkommen	ynkommen	NOUN	_	Gender=Neut|Number=Sing	4	advcl	_	dutch=inkomen
+24	ynkommen	ynkommen	NOUN	_	Gender=Neut|Number=Sing	21	advcl	_	dutch=inkomen
 25	foar	foar	ADP	_	_	27	case	_	dutch=voor
 26	de	de	DET	_	_	27	det	_	dutch=KEY-MISSING
 27	geastliken	geastlike	ADJ	_	Number=Plur	24	nmod	_	dutch=geestelijken
