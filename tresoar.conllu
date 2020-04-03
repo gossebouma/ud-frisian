@@ -4165,7 +4165,7 @@
 13	ûndergyng	ûndergean	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	5	acl_relcl	_	dutch=onderging
 14	en	en	CCONJ	_	_	19	cc	_	dutch=en
 15	úteinliken	úteinlik	ADJ	_	Degree=Pos	19	advmod	_	dutch=uiteindelijk
-16	sa	sa	ADV	_	_	19	root	_	dutch=KEY-MISSING
+16	sa	sa	ADV	_	_	19	advmod	_	dutch=KEY-MISSING
 17	mei	mei	ADP	_	_	18	case	_	dutch=met
 18	kalk	kalk	NOUN	_	Gender=Com|Number=Sing	19	obl	_	dutch=kalk
 19	bewurke	bewurkje	VERB	_	VerbForm=Part	13	conj	_	dutch=bewerkt
