@@ -3878,7 +3878,7 @@
 14	)	)	PUNCT	_	_	12	punct	_	dutch=)
 15	en	en	CCONJ	_	_	16	cc	_	dutch=VAL-MISSING
 16	Webka	Webka	PROPN	_	_	5	conj	_	dutch=Webka
-17	Reynsma	Reynsma	PROPN	_	_	16	root	_	dutch=VAL-MISSING
+17	Reynsma	Reynsma	PROPN	_	_	16	flat	_	dutch=VAL-MISSING
 18	dat	dat	SCONJ	_	_	36	mark	_	dutch=dat
 19	it	it	DET	_	Definite=Def	0	root	_	dutch=het
 20	kleaster	kleaster	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=Foswerd
