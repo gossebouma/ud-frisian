@@ -3847,7 +3847,7 @@
 17	ferhier	ferhier	NOUN	_	Gender=Com|Number=Sing	15	nmod	_	dutch=verhuur
 18	of	of	CCONJ	_	_	19	cc	_	dutch=of
 19	eksploitaasje	eksploitaasje	NOUN	_	Gender=Com|Number=Sing	15	conj	_	dutch=exploitatie
-20	fan	fan	ADP	_	_	0	root	_	dutch=KEY-MISSING
+20	fan	fan	ADP	_	_	13	root	_	dutch=KEY-MISSING
 21	bedoeld	bedoele	VERB	_	VerbForm=Part	5	acl	_	dutch=bedoeld
 22	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	21	xcomp	_	dutch=was
 23	as	as	ADP	_	_	24	mark	_	dutch=als
