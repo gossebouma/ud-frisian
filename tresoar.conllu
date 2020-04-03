@@ -3795,7 +3795,7 @@
 6	ûnder	ûnder	ADP	_	_	7	case	_	dutch=onder
 7	Ferwert	Ferwert	PROPN	_	Gender=Neut|Number=Sing	5	nmod	_	dutch=Ferwerd
 8	hie	hawwe	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=had
-9	hiel	hiel	ADJ	_	PronType=Ind	11	amod	_	dutch=veel
+9	hiel	hiel	ADJ	_	PronType=Ind	10	amod	_	dutch=veel
 10	wat	wat	PRON	_	PronType=Ind	11	nmod	_	dutch=veel
 11	lân	lân	NOUN	_	Number=Plur	8	obj	_	dutch=landerijen
 12	yn	yn	ADP	_	_	13	case	_	dutch=in
