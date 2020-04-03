@@ -4099,7 +4099,7 @@
 7	geastliken	geastlike	NOUN	_	Number=Plur	0	root	_	dutch=geestelijken
 8	kieze	kieze	VERB	_	VerbForm=Inf	10	ccomp	_	dutch=kiezen
 9	te	te	ADP	_	_	10	mark	_	dutch=te
-10	meien	meie	AUX	_	VerbForm=Inf	14	parataxis	_	dutch=mogen
+10	meien	meie	AUX	_	VerbForm=Inf	4	parataxis	_	dutch=mogen
 11	,	,	PUNCT	_	_	10	punct	_	dutch=,
 12	dat	dat	PRON	_	_	13	det	_	dutch=dit
 13	gyng	gean	VERB	_	_	0	root	_	dutch=KEY-MISSING
