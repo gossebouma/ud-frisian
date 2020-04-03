@@ -3876,7 +3876,7 @@
 12	Ternaard	Ternaard	PROPN	_	Gender=Neut|Number=Sing	10	nmod	_	dutch=Ternaard
 13	?	?	PUNCT	_	_	12	punct	_	dutch=?
 14	)	)	PUNCT	_	_	12	punct	_	dutch=)
-15	en	en	CCONJ	_	_	0	root	_	dutch=VAL-MISSING
+15	en	en	CCONJ	_	_	16	root	_	dutch=VAL-MISSING
 16	Webka	Webka	PROPN	_	_	5	conj	_	dutch=Webka
 17	Reynsma	Reynsma	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 18	dat	dat	SCONJ	_	_	36	mark	_	dutch=dat
