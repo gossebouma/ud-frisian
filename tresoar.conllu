@@ -3995,7 +3995,7 @@
 # alignment =  0-0 1-1 2-2 3-3
 # ALIGNED
 1	Testamint	testamint	NOUN	_	_	0	root	_	dutch=Testament
-2	fan	fan	ADP	_	_	3	flat	_	dutch=van
+2	fan	fan	ADP	_	_	3	case	_	dutch=van
 3	Syds	Syds	PROPN	_	_	1	nmod	_	dutch=Syds
 4	Tjaerda	Tjaerda	PROPN	_	_	0	root	_	dutch=Tjaerda
 
