@@ -3896,7 +3896,7 @@
 32	trije	trije	NUM	_	_	33	nummod	_	dutch=drie
 33	hektare	hektare	NOUN	_	Gender=Com|Number=Sing	28	nmod	_	dutch=hectare
 34	)	)	PUNCT	_	_	33	punct	_	dutch=)
-35	lân	lân	NOUN	_	Gender=Neut|Number=Sing	36	obj	_	dutch=land
+35	lân	lân	NOUN	_	Gender=Neut|Number=Sing	28	obj	_	dutch=land
 36	ferkocht	ferkeapje	VERB	_	VerbForm=Part	4	ccomp	_	dutch=verkocht
 37	hat	hawwe	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	36	aux	_	dutch=hebben
 38	.	.	PUNCT	_	_	4	punct	_	dutch=.
