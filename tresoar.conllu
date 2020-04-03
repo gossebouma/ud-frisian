@@ -4172,7 +4172,7 @@
 20	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	19	aux_pass	_	dutch=werd
 21	dat	dat	SCONJ	_	_	26	advmod	_	dutch=waardoor
 22	der	der	ADV	_	_	26	advmod	_	dutch=waardoor
-23	op	op	ADP	_	_	24	root	_	dutch=KEY-MISSING
+23	op	op	ADP	_	_	24	case	_	dutch=KEY-MISSING
 24	skreaun	skriuwe	VERB	_	Degree=Pos	26	xcomp	_	dutch=beschrijfbaar
 25	wurde	wurde	AUX	_	Degree=Pos	24	aux_pass	_	dutch=beschrijfbaar
 26	koe	kinne	AUX	_	Degree=Pos	0	root	_	dutch=beschrijfbaar
