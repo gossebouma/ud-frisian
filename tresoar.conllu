@@ -4121,7 +4121,7 @@
 # NOT ALIGNED
 1	It	it	DET	_	Definite=Def	2	det	_	dutch=Het
 2	testamint	testamint	NOUN	_	Gender=Neut|Number=Sing	14	nsubj	_	dutch=testament
-3	dat	dat	PRON	_	VerbForm=Part	5	nsubj_pass	_	dutch=afgebeelde
+3	dat	dat	PRON	_	VerbForm=Part	6	nsubj_pass	_	dutch=afgebeelde
 4	hjir	hjir	ADV	_	_	5	advmod	_	dutch=hier
 5	toand	toane	VERB	_	VerbForm=Part	2	acl	_	dutch=afgebeelde
 6	wurdt	wurde	AUX	_	_	5	root	_	dutch=KEY-MISSING
