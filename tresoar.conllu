@@ -3891,7 +3891,7 @@
 27	acht	acht	VERB	_	_	28	nummod	_	dutch=acht
 28	pûnsmieten	pûnsmiet	NOUN	_	Number=Plur	36	nsubj	_	dutch=pondematen
 29	(	(	PUNCT	_	_	31	punct	_	dutch=(
-30	=	=	PUNCT	_	_	31	parataxis	_	dutch==
+30	=	=	PUNCT	_	_	31	punct	_	dutch==
 31	sawat	sawat	ADV	_	_	33	amod	_	dutch=bijna
 32	trije	trije	NUM	_	_	33	nummod	_	dutch=drie
 33	hektare	hektare	NOUN	_	Gender=Com|Number=Sing	28	nmod	_	dutch=hectare
