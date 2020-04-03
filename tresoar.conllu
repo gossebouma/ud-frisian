@@ -3676,7 +3676,7 @@
 6	wiene	wêze	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	8	cop	_	dutch=waren
 7	te	te	ADV	_	_	8	advmod	_	dutch=te
 8	djoer	djoer	ADJ	_	Degree=Pos	0	root	_	dutch=duur
-9	yn	yn	ADP	_	_	0	root	_	dutch=in
+9	yn	yn	ADP	_	_	10	root	_	dutch=in
 10	ûnderhâld	ûnderhâld	NOUN	_	_	16	advmod	_	dutch=waarop
 11	en	en	CCONJ	_	_	0	root	_	dutch=KEY-MISSING
 12	waarden	wurde	AUX	_	_	0	root	_	dutch=KEY-MISSING
