@@ -3731,7 +3731,7 @@
 16	en	en	CCONJ	_	_	19	cc	_	dutch=en
 17	in	in	DET	_	Definite=Ind	19	det	_	dutch=een
 18	njoggentjinde-iuwske	njoggentjinde-iuwsk	ADJ	_	Degree=Pos	19	amod	_	dutch=negentiende-eeuwse
-19	kaart	kaart	NOUN	_	Gender=Com|Number=Sing	15	conj	_	dutch=kaart
+19	kaart	kaart	NOUN	_	Gender=Com|Number=Sing	6	conj	_	dutch=kaart
 20	mei	mei	ADP	_	_	22	case	_	dutch=met
 21	in	in	DET	_	Definite=Ind	22	det	_	dutch=een
 22	túnûntwerp	túnûntwerp	NOUN	_	Gender=Neut|Number=Sing	19	nmod	_	dutch=tuinontwerp
