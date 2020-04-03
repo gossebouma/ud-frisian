@@ -3853,7 +3853,7 @@
 23	as	as	ADP	_	_	24	mark	_	dutch=als
 24	ynkommen	ynkommen	NOUN	_	Gender=Neut|Number=Sing	4	advcl	_	dutch=inkomen
 25	foar	foar	ADP	_	_	27	case	_	dutch=voor
-26	de	de	DET	_	_	0	root	_	dutch=KEY-MISSING
+26	de	de	DET	_	_	27	root	_	dutch=KEY-MISSING
 27	geastliken	geastlike	ADJ	_	Number=Plur	24	nmod	_	dutch=geestelijken
 28	.	.	PUNCT	_	_	4	punct	_	dutch=.
 
