@@ -3683,7 +3683,7 @@
 13	doe	doe	ADV	_	_	0	root	_	dutch=alle
 14	hast	hast	ADV	_	_	15	amod	_	dutch=haast
 15	allegearre	allegearre	ADV	_	_	0	root	_	dutch=alle
-16	sloopt	slope	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	8	root	_	dutch=volgde
+16	sloopt	slope	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	8	conj	_	dutch=volgde
 17	.	.	PUNCT	_	_	8	punct	_	dutch=.
 
 # sent_id = 158
