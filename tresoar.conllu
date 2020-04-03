@@ -4095,7 +4095,7 @@
 3	rjocht	rjocht	NOUN	_	Gender=Neut|Number=Sing	4	nsubj	_	dutch=recht
 4	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=was
 5	om	om	ADP	_	Gender=Neut|Number=Sing	10	mark	_	dutch=recht
-6	sels	sels	ADV	_	_	7	advmod	_	dutch=zelf
+6	sels	sels	ADV	_	_	8	advmod	_	dutch=zelf
 7	geastliken	geastlike	NOUN	_	Number=Plur	8	obj	_	dutch=geestelijken
 8	kieze	kieze	VERB	_	VerbForm=Inf	10	ccomp	_	dutch=kiezen
 9	te	te	ADP	_	_	10	mark	_	dutch=te
