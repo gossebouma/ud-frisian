@@ -3799,7 +3799,7 @@
 10	wat	wat	PRON	_	PronType=Ind	11	nmod	_	dutch=veel
 11	lân	lân	NOUN	_	Number=Plur	8	obj	_	dutch=landerijen
 12	yn	yn	ADP	_	_	13	case	_	dutch=in
-13	besit	besit	VERB	_	Gender=Neut|Number=Sing	8	xcomp	_	dutch=bezit
+13	besit	besit	NOUN	_	Gender=Neut|Number=Sing	8	xcomp	_	dutch=bezit
 14	.	.	PUNCT	_	_	8	punct	_	dutch=.
 
 # sent_id = 164
