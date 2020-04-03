@@ -4130,7 +4130,7 @@
 9	yn	yn	ADP	_	_	10	case	_	dutch=in
 10	werklikheid	werklikheid	NOUN	_	Gender=Com|Number=Sing	14	obl	_	dutch=werkelijkheid
 11	106	106	NUM	_	_	14	nummod	_	dutch=106
-12	by	by	ADP	_	Abbr=Yes	13	root	_	dutch=cm
+12	by	by	ADP	_	Abbr=Yes	13	case	_	dutch=cm
 13	67	67	NUM	_	_	14	nummod	_	dutch=67
 14	sm	sm	NOUN	_	Abbr=Yes	0	root	_	dutch=cm
 15	.	.	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
