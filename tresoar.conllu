@@ -3679,7 +3679,7 @@
 9	yn	yn	ADP	_	_	10	case	_	dutch=in
 10	ûnderhâld	ûnderhâld	NOUN	_	_	16	advmod	_	dutch=waarop
 11	en	en	CCONJ	_	_	12	cc	_	dutch=KEY-MISSING
-12	waarden	wurde	AUX	_	_	0	root	_	dutch=KEY-MISSING
+12	waarden	wurde	AUX	_	_	16	root	_	dutch=KEY-MISSING
 13	doe	doe	ADV	_	_	0	root	_	dutch=alle
 14	hast	hast	ADV	_	_	15	amod	_	dutch=haast
 15	allegearre	allegearre	ADV	_	_	16	nsubj_pass	_	dutch=alle
