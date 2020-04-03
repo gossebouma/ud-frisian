@@ -3885,7 +3885,7 @@
 21	Foswert	Foswert	PROPN	_	Gender=Com|Number=Sing	24	appos	_	dutch=Foswerd
 22	oan	oan	ADP	_	_	23	case	_	dutch=aan
 23	Siuk	Siuk	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Siuk
-24	en	en	CCONJ	_	_	25	case	_	dutch=VAL-MISSING
+24	en	en	CCONJ	_	_	25	cc	_	dutch=VAL-MISSING
 25	Siurd	Siurd	PROPN	_	_	23	conj	_	dutch=Siurd
 26	Tuyngha	Tuyngha	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 27	acht	acht	VERB	_	_	28	nummod	_	dutch=acht
