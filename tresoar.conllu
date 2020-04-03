@@ -4170,7 +4170,7 @@
 18	kalk	kalk	NOUN	_	Gender=Com|Number=Sing	19	obl	_	dutch=kalk
 19	bewurke	bewurkje	VERB	_	VerbForm=Part	13	conj	_	dutch=bewerkt
 20	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	19	aux_pass	_	dutch=werd
-21	dat	dat	SCONJ	_	_	26	advmod	_	dutch=waardoor
+21	dat	dat	SCONJ	_	_	26	mark	_	dutch=waardoor
 22	der	der	ADV	_	_	26	advmod	_	dutch=waardoor
 23	op	op	ADP	_	_	24	case	_	dutch=KEY-MISSING
 24	skreaun	skriuwe	VERB	_	Degree=Pos	26	xcomp	_	dutch=beschrijfbaar
