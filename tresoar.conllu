@@ -4111,7 +4111,7 @@
 19	Keizer	Keizer	NOUN	_	_	17	nmod	_	dutch=Keizer
 20	Karel	Karel	PROPN	_	_	19	flat	_	dutch=VAL-MISSING
 21	V	V	PROPN	_	_	19	flat	_	dutch=VAL-MISSING
-22	yn	yn	ADP	_	_	0	root	_	dutch=VAL-MISSING
+22	yn	yn	ADP	_	_	13	root	_	dutch=VAL-MISSING
 23	.	.	PUNCT	_	_	21	punct	_	dutch=.
 
 # sent_id = 178
