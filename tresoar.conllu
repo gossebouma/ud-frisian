@@ -4077,7 +4077,7 @@
 12	byinoar	byinoar	ADV	_	_	14	compound_prt	_	dutch=bijeen
 13	te	te	ADP	_	_	14	mark	_	dutch=te
 14	kommen	komme	VERB	_	VerbForm=Inf	7	acl	_	dutch=komen
-15	op	op	ADP	_	_	16	root	_	dutch=KEY-MISSING
+15	op	op	ADP	_	_	16	case	_	dutch=KEY-MISSING
 16	tiden	tiid	NOUN	_	_	20	mark	_	dutch=wanneer
 17	dy’t	dy’t	PRON	_	Case=Nom|Person=3|PronType=Prs	20	nsubj	_	dutch=zij
 18	se	se	PRON	_	Case=Nom|Person=3|PronType=Prs	20	nsubj	_	dutch=zij
