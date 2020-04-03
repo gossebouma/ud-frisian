@@ -3849,7 +3849,7 @@
 19	eksploitaasje	eksploitaasje	NOUN	_	Gender=Com|Number=Sing	17	conj	_	dutch=exploitatie
 20	fan	fan	ADP	_	_	13	case	_	dutch=KEY-MISSING
 21	bedoeld	bedoele	VERB	_	VerbForm=Part	12	acl	_	dutch=bedoeld
-22	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	21	xcomp	_	dutch=was
+22	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	21	aux	_	dutch=was
 23	as	as	ADP	_	_	24	mark	_	dutch=als
 24	ynkommen	ynkommen	NOUN	_	Gender=Neut|Number=Sing	4	advcl	_	dutch=inkomen
 25	foar	foar	ADP	_	_	27	case	_	dutch=voor
