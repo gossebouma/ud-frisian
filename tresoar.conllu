@@ -4175,7 +4175,7 @@
 23	op	op	ADP	_	_	24	case	_	dutch=KEY-MISSING
 24	skreaun	skriuwe	VERB	_	Degree=Pos	26	xcomp	_	dutch=beschrijfbaar
 25	wurde	wurde	AUX	_	Degree=Pos	24	aux_pass	_	dutch=beschrijfbaar
-26	koe	kinne	AUX	_	Degree=Pos	0	root	_	dutch=beschrijfbaar
+26	koe	kinne	AUX	_	Degree=Pos	19	root	_	dutch=beschrijfbaar
 27	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 180
