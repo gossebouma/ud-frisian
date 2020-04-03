@@ -3964,7 +3964,7 @@
 # NOT ALIGNED
 1	De	De	DET	_	Definite=Def	2	det	_	dutch=De
 2	wurden	wurd	NOUN	_	Number=Plur	10	nsubj	_	dutch=woorden
-3	‘	‘	PUNCT	_	_	0	root	_	dutch=“
+3	‘	‘	PUNCT	_	_	4	root	_	dutch=“
 4	sold	sold	VERB	_	_	0	root	_	dutch=”
 5	’	’	PUNCT	_	_	0	root	_	dutch=”
 6	en	en	CCONJ	_	_	8	cc	_	dutch=en
