@@ -4091,7 +4091,7 @@
 # alignment =  0-0 1-1 2-2 3-3 4-2 5-4 6-5 7-8 8-6 9-7 10-9 11-10 13-11 14-12 15-13 16-14 17-15 18-16 19-17 20-18 21-18 22-19
 # NOT ALIGNED
 1	In	in	DET	_	Definite=Ind	3	det	_	dutch=Een
-2	oar	oar	ADJ	_	Degree=Pos	5	amod	_	dutch=ander
+2	oar	oar	ADJ	_	Degree=Pos	3	amod	_	dutch=ander
 3	rjocht	rjocht	NOUN	_	Gender=Neut|Number=Sing	7	nsubj	_	dutch=recht
 4	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	7	cop	_	dutch=was
 5	om	om	ADP	_	Gender=Neut|Number=Sing	7	nsubj	_	dutch=recht
