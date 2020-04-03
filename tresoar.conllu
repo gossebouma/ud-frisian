@@ -3882,7 +3882,7 @@
 18	dat	dat	SCONJ	_	_	36	mark	_	dutch=dat
 19	it	it	DET	_	Definite=Def	20	det	_	dutch=het
 20	kleaster	kleaster	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=Foswerd
-21	Foswert	Foswert	PROPN	_	Gender=Com|Number=Sing	24	appos	_	dutch=Foswerd
+21	Foswert	Foswert	PROPN	_	Gender=Com|Number=Sing	20	appos	_	dutch=Foswerd
 22	oan	oan	ADP	_	_	23	case	_	dutch=aan
 23	Siuk	Siuk	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Siuk
 24	en	en	CCONJ	_	_	25	cc	_	dutch=VAL-MISSING
