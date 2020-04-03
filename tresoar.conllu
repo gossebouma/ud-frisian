@@ -3819,7 +3819,7 @@
 10	prebende	prebende	NOUN	_	Gender=Com|Number=Sing	14	advcl	_	dutch=prebende
 11	oan	oan	ADP	_	_	13	case	_	dutch=aan
 12	it	it	DET	_	Definite=Def	13	det	_	dutch=het
-13	kleaster	kleaster	NOUN	_	Gender=Neut|Number=Sing	14	nmod	_	dutch=klooster
+13	kleaster	kleaster	NOUN	_	Gender=Neut|Number=Sing	14	obl	_	dutch=klooster
 14	neilitten	neilitte	VERB	_	VerbForm=Part	0	root	_	dutch=nagelaten
 15	.	.	PUNCT	_	_	14	punct	_	dutch=.
 
