@@ -3759,7 +3759,7 @@
 11	litten	litte	VERB	_	VerbForm=Inf	0	root	_	dutch=laten
 12	fan	fan	ADP	_	_	14	case	_	dutch=van
 13	it	it	DET	_	Definite=Def	14	det	_	dutch=het
-14	hûs	hûs	NOUN	_	Gender=Neut|Number=Sing	9	advmod	_	dutch=huis
+14	hûs	hûs	NOUN	_	Gender=Neut|Number=Sing	9	nmod	_	dutch=huis
 15	.	.	PUNCT	_	_	11	punct	_	dutch=.
 
 # sent_id = 161
