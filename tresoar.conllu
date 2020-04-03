@@ -3755,7 +3755,7 @@
 7	sloop	sloop	NOUN	_	Gender=Com|Number=Sing	10	obl	_	dutch=sloop
 8	in	in	DET	_	Definite=Ind	9	det	_	dutch=een
 9	makette	makette	NOUN	_	Gender=Com|Number=Sing	10	obj	_	dutch=maquette
-10	meitsje	meitsje	VERB	_	VerbForm=Inf	11	ccomp	_	dutch=maken
+10	meitsje	meitsje	VERB	_	VerbForm=Inf	11	xcomp	_	dutch=maken
 11	litten	litte	VERB	_	VerbForm=Inf	0	root	_	dutch=laten
 12	fan	fan	ADP	_	_	14	case	_	dutch=van
 13	it	it	DET	_	Definite=Def	14	det	_	dutch=het
