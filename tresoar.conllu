@@ -4107,7 +4107,7 @@
 15	tsjin	tsjin	ADP	_	_	17	case	_	dutch=tegen
 16	de	de	DET	_	Definite=Def	17	det	_	dutch=de
 17	sintralisaasjetwang	sintralisaasjetwang	NOUN	_	Gender=Com|Number=Sing	14	nmod	_	dutch=centralisatiedrang
-18	fan	fan	ADP	_	_	0	root	_	dutch=VAL-MISSING
+18	fan	fan	ADP	_	_	19	root	_	dutch=VAL-MISSING
 19	Keizer	Keizer	NOUN	_	_	17	nmod	_	dutch=Keizer
 20	Karel	Karel	PROPN	_	_	19	root	_	dutch=VAL-MISSING
 21	V	V	PROPN	_	_	0	root	_	dutch=VAL-MISSING
