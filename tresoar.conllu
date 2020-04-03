@@ -4133,7 +4133,7 @@
 12	by	by	ADP	_	Abbr=Yes	13	case	_	dutch=cm
 13	67	67	NUM	_	_	11	nummod	_	dutch=67
 14	sm	sm	NOUN	_	Abbr=Yes	0	root	_	dutch=cm
-15	.	.	PUNCT	_	_	14	root	_	dutch=KEY-MISSING
+15	.	.	PUNCT	_	_	14	punct	_	dutch=KEY-MISSING
 16	en	en	CCONJ	_	_	17	cc	_	dutch=en
 17	bestiet	bestean	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	14	conj	_	dutch=bestaat
 18	út	út	ADP	_	_	23	case	_	dutch=uit
