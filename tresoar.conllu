@@ -3833,7 +3833,7 @@
 3	prebende	prebende	NOUN	_	Gender=Com|Number=Sing	4	obl	_	dutch=prebende
 4	giet	gean	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=is
 5	it	it	PRON	_	Gender=Com|Number=Sing	4	nsubj	_	dutch=sprake
-6	om	om	ADP	_	_	8	root	_	dutch=KEY-MISSING
+6	om	om	ADP	_	_	8	case	_	dutch=KEY-MISSING
 7	in	in	DET	_	Definite=Ind	8	det	_	dutch=een
 8	skinking	skinking	NOUN	_	Gender=Com|Number=Sing	22	obl	_	dutch=schenking
 9	fan	fan	ADP	_	_	11	case	_	dutch=van
