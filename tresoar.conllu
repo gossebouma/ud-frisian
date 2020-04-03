@@ -3724,7 +3724,7 @@
 9	state	state	NOUN	_	Gender=Com|Number=Sing	11	obj	_	dutch=state
 10	sjen	sjen	VERB	_	VerbForm=Inf	11	compound_prt	_	dutch=zien
 11	lit	litte	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	acl_relcl	_	dutch=laat
-12	temidden	temidden	ADV	_	VerbForm=Part	1	advcl	_	dutch=omringd
+12	temidden	temidden	ADV	_	VerbForm=Part	11	advcl	_	dutch=omringd
 13	fan	fan	ADP	_	_	15	case	_	dutch=door
 14	in	in	DET	_	Definite=Ind	15	det	_	dutch=een
 15	stinzetún	stinzetún	NOUN	_	Gender=Com|Number=Sing	12	obl	_	dutch=stinzentuin
