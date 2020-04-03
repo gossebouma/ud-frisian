@@ -3887,7 +3887,7 @@
 23	Siuk	Siuk	PROPN	_	Gender=Com|Number=Sing	36	obl	_	dutch=Siuk
 24	en	en	CCONJ	_	_	25	cc	_	dutch=VAL-MISSING
 25	Siurd	Siurd	PROPN	_	_	23	conj	_	dutch=Siurd
-26	Tuyngha	Tuyngha	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+26	Tuyngha	Tuyngha	PROPN	_	_	25	root	_	dutch=VAL-MISSING
 27	acht	acht	VERB	_	_	28	nummod	_	dutch=acht
 28	pûnsmieten	pûnsmiet	NOUN	_	Number=Plur	36	nsubj	_	dutch=pondematen
 29	(	(	PUNCT	_	_	30	punct	_	dutch=(
