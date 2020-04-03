@@ -3951,7 +3951,7 @@
 10	tusken	tusken	SYM	_	_	12	case	_	dutch=tussen
 11	it	it	DET	_	Definite=Def	12	det	_	dutch=het
 12	Ingelsk	Ingelsk	PROPN	_	Gender=Neut|Number=Sing	9	nmod	_	dutch=Engels
-13	en	en	CCONJ	_	_	16	cc	_	dutch=en
+13	en	en	CCONJ	_	_	15	cc	_	dutch=en
 14	it	it	DET	_	Definite=Def	16	det	_	dutch=het
 15	Aldfrysk	Aldfrysk	NOUN	_	_	12	obl	_	dutch=voren
 16	bliken	blike	VERB	_	Gender=Neut|Number=Sing	12	conj	_	dutch=Oudfries
