@@ -4626,7 +4626,7 @@
 13	datkear	datkear	ADV	_	_	14	advmod	_	dutch=dit
 14	gyng	gean	VERB	_	_	3	det	_	dutch=dit
 15	it	it	PRON	_	_	14	nsubj	_	dutch=dit
-16	om	om	ADP	_	Gender=Com_Neut|Number=Sing	18	parataxis	_	dutch=keer
+16	om	om	ADP	_	Gender=Com_Neut|Number=Sing	18	case	_	dutch=keer
 17	in	in	DET	_	Definite=Ind	18	det	_	dutch=een
 18	brief	brief	NOUN	_	Gender=Com|Number=Sing	14	obl	_	dutch=brief
 19	oan	oan	ADP	_	_	21	case	_	dutch=aan
