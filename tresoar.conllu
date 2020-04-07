@@ -4258,7 +4258,7 @@
 4	foar	foar	ADP	_	_	6	case	_	dutch=voor
 5	it	it	DET	_	Definite=Def	6	det	_	dutch=het
 6	Hof	Hof	PROPN	_	Gender=Neut|Number=Sing	3	nmod	_	dutch=Hof
-7	van	van	PROPN	_	_	8	case	_	dutch=van
+7	van	van	PROPN	_	_	6	case	_	dutch=van
 8	Friesland	Friesland	PROPN	_	Gender=Neut|Number=Sing	6	nmod	_	dutch=Friesland
 
 # sent_id = 185
