@@ -4817,7 +4817,7 @@
 5	,	,	PUNCT	_	_	3	punct	_	dutch=,
 6	skreau	skriuwe	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=schreef
 7	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	6	nsubj	_	dutch=hij
-8	,	,	PUNCT	_	_	3	punct	_	dutch=,
+8	,	,	PUNCT	_	_	6	punct	_	dutch=,
 9	foar	foar	ADP	_	Degree=Pos	11	case	_	dutch=deels
 10	in	in	DET	_	Degree=Pos	11	det	_	dutch=deels
 11	part	part	NOUN	_	Degree=Pos	6	advmod	_	dutch=deels
