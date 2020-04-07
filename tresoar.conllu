@@ -4799,7 +4799,7 @@
 4	dagen	dei	NOUN	_	Number=Plur	8	obl	_	dutch=dagen
 5	koed	kinne	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	8	aux	_	dutch=kon
 6	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	8	nsubj	_	dutch=hij
-7	net	net	ADV	_	_	8	cc	_	dutch=noch
+7	net	net	ADV	_	_	8	advmod	_	dutch=noch
 8	prate	prate	VERB	_	VerbForm=Inf	0	root	_	dutch=spreken
 9	en	en	CCONJ	_	_	10	cc	_	dutch=noch
 10	ite	ite	VERB	_	VerbForm=Inf	8	conj	_	dutch=eten
