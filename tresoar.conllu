@@ -4592,7 +4592,7 @@
 # alignment =  0-0 1-2 2-1 3-3 4-4 5-4 6-5 7-5 8-6 9-7 10-8 11-8 12-9 13-11
 # NOT ALIGNED
 1	Ut	út	ADP	_	_	2	case	_	dutch=Uit
-2	argyfûndersyk	argyfûndersyk	NOUN	_	Number=Plur|Tense=Pres|VerbForm=Fin	6	root	_	dutch=weten
+2	argyfûndersyk	argyfûndersyk	NOUN	_	Number=Plur|Tense=Pres|VerbForm=Fin	6	obl	_	dutch=weten
 3	hat	hawwe	AUX	_	Gender=Neut|Number=Sing	6	aux	_	dutch=archiefonderzoek
 4	letter	letter	ADJ	_	Case=Nom|Person=1|PronType=Prs	6	advmod	_	dutch=we
 5	bliken	blike	AUX	_	_	6	aux	_	dutch=inmiddels
