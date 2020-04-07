@@ -4639,7 +4639,7 @@
 # source_text = Schreef hij aan zijn verloofde dat het goed met hem ging , aan zijn ouders maakte hij kenbaar dat het eten erg slecht was en dat hij geld nodig had om extra eten te kunnen kopen .
 # alignment =  0-0 1-1 2-2 3-3 4-4 7-5 8-6 9-7 10-8 11-9 12-10 13-11 15-16 19-12 20-13 21-14 22-17 23-18 24-19 25-20 26-22 27-23 28-24 29-25 30-26 31-27 32-28 33-29 34-30 35-31 36-32 37-35 38-33 39-34 40-36
 # NOT ALIGNED
-1	Wylst	wylst	SCONJ	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=Schreef
+1	Wylst	wylst	SCONJ	_	Number=Sing|Tense=Past|VerbForm=Fin	6	root	_	dutch=Schreef
 2	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	6	nsubj	_	dutch=hij
 3	oan	oan	ADP	_	_	5	case	_	dutch=aan
 4	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	5	nmod_poss	_	dutch=zijn
