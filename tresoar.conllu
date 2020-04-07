@@ -4494,7 +4494,7 @@
 7	mei	mei	ADP	_	_	9	case	_	dutch=met
 8	in	in	DET	_	Definite=Ind	9	det	_	dutch=een
 9	brievehaad	brievehaad	NOUN	_	Gender=Neut|Number=Sing	6	nmod	_	dutch=briefhoofd
-10	dêr’t	dêr’t	ADV	_	_	18	advmod	_	dutch=waarop
+10	dêr’t	dêr’t	ADV	_	_	14	advmod	_	dutch=waarop
 11	in	in	DET	_	Definite=Ind	12	det	_	dutch=een
 12	soldaat	soldaat	NOUN	_	Gender=Com|Number=Sing	14	nsubj	_	dutch=soldaat
 13	op	op	ADP	_	_	14	compound_prt	_	dutch=KEY-MISSING
