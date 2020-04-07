@@ -4780,7 +4780,7 @@
 5	ferstoar	ferstjerre	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=overleed
 6	de	de	DET	_	Definite=Def	7	det	_	dutch=de
 7	steedhâlder	steedhâlder	NOUN	_	Gender=Com|Number=Sing	5	nsubj	_	dutch=stadhouder
-8	oan	oan	ADP	_	_	12	case	_	dutch=aan
+8	oan	oan	ADP	_	_	10	case	_	dutch=aan
 9	de	de	DET	_	Definite=Def	10	det	_	dutch=de
 10	gefolgen	gefolch	NOUN	_	Number=Plur	5	obl	_	dutch=gevolgen
 11	fan	fan	ADP	_	Definite=Def	12	det	_	dutch=de
