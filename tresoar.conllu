@@ -4386,7 +4386,7 @@
 15	de	de	DET	_	Definite=Def	17	det	_	dutch=de
 16	iepensteande	iepensteand	VERB	_	VerbForm=Part	17	amod	_	dutch=openstaande
 17	skulden	skuld	NOUN	_	Number=Plur	19	nsubj_pass	_	dutch=schulden
-18	op	op	ADP	_	_	19	root	_	dutch=KEY-MISSING
+18	op	op	ADP	_	_	19	prt_compound	_	dutch=KEY-MISSING
 19	fêstlein	fêstlizze	VERB	_	VerbForm=Part	11	acl_relcl	_	dutch=vastgelegd
 20	waarden	wurde	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	19	aux_pass	_	dutch=werden
 21	.	.	PUNCT	_	_	8	punct	_	dutch=.
