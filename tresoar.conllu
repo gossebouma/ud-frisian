@@ -4863,7 +4863,7 @@
 20	de	de	DET	_	Definite=Def	21	det	_	dutch=de
 21	liifdokter	liifdokter	NOUN	_	Gender=Com|Number=Sing	18	nmod	_	dutch=lijfarts
 22	fan	fan	ADP	_	_	24	case	_	dutch=van
-23	de	de	DET	_	Definite=Def	24	det	_	dutch=de
+23	de	de	DET	_	Definite=Def	11	det	_	dutch=de
 24	steedhâlder	steedhâlder	NOUN	_	Gender=Com|Number=Sing	21	nmod	_	dutch=stadhouder
 25	.	.	PUNCT	_	_	15	punct	_	dutch=.
 
