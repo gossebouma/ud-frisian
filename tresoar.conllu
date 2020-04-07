@@ -4312,7 +4312,7 @@
 6	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	10	aux	_	dutch=zijn
 7	aardich	aardich	ADJ	_	Degree=Pos	8	advmod	_	dutch=vrij
 8	kompleet	kompleet	ADJ	_	Degree=Pos	10	xcomp	_	dutch=compleet
-9	bewarre	bewarje	VERB	_	VerbForm=Part	8	obl	_	dutch=bewaard
+9	bewarre	bewarje	VERB	_	VerbForm=Part	10	obl	_	dutch=bewaard
 10	bleaun	bliuwe	VERB	_	VerbForm=Part	0	root	_	dutch=gebleven
 11	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
 12	krekt	krekt	ADV	_	_	15	mark	_	dutch=evenals
