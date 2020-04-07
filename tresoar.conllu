@@ -4679,7 +4679,7 @@
 38	keapje	keapje	VERB	_	VerbForm=Inf	34	xcomp	_	dutch=kopen
 39	te	te	ADP	_	_	40	mark	_	dutch=te
 40	kinnen	kinne	VERB	_	VerbForm=Inf	38	aux	_	dutch=kunnen
-41	.	.	PUNCT	_	_	15	root	_	dutch=.
+41	.	.	PUNCT	_	_	15	punct	_	dutch=.
 
 # sent_id = 203
 # text = 8 .
