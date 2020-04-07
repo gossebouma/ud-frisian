@@ -4665,7 +4665,7 @@
 24	dat	dat	SCONJ	_	_	27	mark	_	dutch=dat
 25	it	it	DET	_	Definite=Def	26	det	_	dutch=het
 26	iten	iten	NOUN	_	VerbForm=Inf	27	nsubj	_	dutch=eten
-27	striemin	striemin	ADJ	_	Degree=Pos	0	root	_	dutch=slecht
+27	striemin	striemin	ADJ	_	Degree=Pos	23	root	_	dutch=slecht
 28	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	27	cop	_	dutch=was
 29	en	en	CCONJ	_	_	34	cc	_	dutch=en
 30	dat	dat	SCONJ	_	_	34	mark	_	dutch=dat
