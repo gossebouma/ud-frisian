@@ -4826,7 +4826,7 @@
 14	en	en	CCONJ	_	Gender=Com|Number=Sing	6	obl	_	dutch=inkt
 15	foar	foar	ADP	_	Degree=Pos	17	case	_	dutch=deels
 16	in	in	DET	_	Degree=Pos	17	det	_	dutch=deels
-17	part	part	NOUN	_	Degree=Pos	11	advmod	_	dutch=deels
+17	part	part	NOUN	_	Degree=Pos	11	conj	_	dutch=deels
 18	mei	mei	ADP	_	_	20	case	_	dutch=met
 19	read	read	ADJ	_	Degree=Pos	20	amod	_	dutch=rood
 20	kryt	kryt	NOUN	_	Gender=Neut|Number=Sing	17	nmod	_	dutch=krijt
