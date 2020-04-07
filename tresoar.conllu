@@ -4730,7 +4730,7 @@
 1	It	it	DET	_	Definite=Def	2	det	_	dutch=Het
 2	wapen	wapen	NOUN	_	Gender=Neut|Number=Sing	3	nsubj	_	dutch=wapen
 3	gyng	gean	VERB	_	Degree=Pos	0	root	_	dutch=onverwacht
-4	ynienen	ynienen	ADV	_	Degree=Pos	3	root	_	dutch=onverwacht
+4	ynienen	ynienen	ADV	_	Degree=Pos	3	advmod	_	dutch=onverwacht
 5	ôf	ôf	ADP	_	_	0	root	_	dutch=af
 6	en	en	CCONJ	_	_	7	cc	_	dutch=en
 7	rekke	rekke	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=trof
