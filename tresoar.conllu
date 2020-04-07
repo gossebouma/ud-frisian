@@ -4373,7 +4373,7 @@
 2	foarbyld	foarbyld	NOUN	_	Gender=Neut|Number=Sing	8	nsubj	_	dutch=bewijsstuk
 3	fan	fan	ADP	_	Degree=Pos	5	amod	_	dutch=dergelijk
 4	sa’n	sa’n	DET	_	Degree=Pos	5	amod	_	dutch=dergelijk
-5	bewiisstik	bewiisstik	NOUN	_	Gender=Neut|Number=Sing	8	nsubj	_	dutch=bewijsstuk
+5	bewiisstik	bewiisstik	NOUN	_	Gender=Neut|Number=Sing	2	nsubj	_	dutch=bewijsstuk
 6	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	8	cop	_	dutch=is
 7	in	in	DET	_	Definite=Ind	11	det	_	dutch=een
 8	kerfstok	kerfstok	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=kerfstok
