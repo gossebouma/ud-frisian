@@ -4413,7 +4413,7 @@
 15	Prins	Prins	PROPN	_	Gender=Com|Number=Sing	12	nmod	_	dutch=Prins
 16	fan	fan	PROPN	_	_	15	flat	_	dutch=van
 17	Oranje	Oranje	PROPN	_	_	15	flat	_	dutch=VAL-MISSING
-18	,	,	PUNCT	_	_	17	punct	_	dutch=,
+18	,	,	PUNCT	_	_	12	punct	_	dutch=,
 19	yn	yn	ADP	_	_	25	case	_	dutch=tijdens
 20	’e	’e	DET	_	Definite=Def	25	det	_	dutch=de
 21	tiid	tiid	NOUN	_	Degree=Pos	25	amod	_	dutch=Franse
