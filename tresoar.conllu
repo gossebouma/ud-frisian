@@ -4660,7 +4660,7 @@
 19	brief	brief	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 20	oan	oan	ADP	_	_	22	case	_	dutch=aan
 21	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	22	nmod_poss	_	dutch=zijn
-22	âlden	âlder	NOUN	_	Number=Plur	0	root	_	dutch=ouders
+22	âlden	âlder	NOUN	_	Number=Plur	19	root	_	dutch=ouders
 23	witte	witte	VERB	_	Degree=Pos	0	root	_	dutch=kenbaar
 24	dat	dat	SCONJ	_	_	27	mark	_	dutch=dat
 25	it	it	DET	_	Definite=Def	26	det	_	dutch=het
