@@ -4785,7 +4785,7 @@
 10	gefolgen	gefolch	NOUN	_	Number=Plur	5	obl	_	dutch=gevolgen
 11	fan	fan	ADP	_	Definite=Def	13	case	_	dutch=de
 12	it	it	DET	_	Number=Plur	13	det	_	dutch=gevolgen
-13	ûngemak	ûngemak	NOUN	_	Number=Plur	5	obl	_	dutch=gevolgen
+13	ûngemak	ûngemak	NOUN	_	Number=Plur	10	obl	_	dutch=gevolgen
 14	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
 # sent_id = 209
