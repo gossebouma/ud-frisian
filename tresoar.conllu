@@ -4751,7 +4751,7 @@
 4	him	him	PRON	_	Number=Sing|Tense=Past|VerbForm=Fin	3	iobj	_	dutch=doorboorde
 5	dwers	dwers	ADJ	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=doorboorde
 6	troch	troch	ADP	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=doorboorde
-7	de	de	DET	_	Gender=Com|Number=Sing	5	obj	_	dutch=tong
+7	de	de	DET	_	Gender=Com|Number=Sing	8	obj	_	dutch=tong
 8	tonge	tonge	NOUN	_	Gender=Com|Number=Sing	5	obj	_	dutch=tong
 9	en	en	CCONJ	_	_	14	cc	_	dutch=en
 10	it	it	DET	_	_	0	root	_	dutch=KEY-MISSING
