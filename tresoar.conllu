@@ -4259,7 +4259,7 @@
 5	it	it	DET	_	Definite=Def	6	det	_	dutch=het
 6	Hof	Hof	PROPN	_	Gender=Neut|Number=Sing	3	nmod	_	dutch=Hof
 7	van	van	PROPN	_	_	6	flat	_	dutch=van
-8	Friesland	Friesland	PROPN	_	Gender=Neut|Number=Sing	6	nmod	_	dutch=Friesland
+8	Friesland	Friesland	PROPN	_	Gender=Neut|Number=Sing	6	flat	_	dutch=Friesland
 
 # sent_id = 185
 # text = Yn 1499 waard it Hof van Friesland oprjochte .
