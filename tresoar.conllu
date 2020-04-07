@@ -4356,7 +4356,7 @@
 1	Dy	dy	DET	_	_	2	det	_	dutch=Deze
 2	foarwerpen	foarwerp	NOUN	_	Number=Plur	5	nsubj_pass	_	dutch=voorwerpen
 3	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	5	aux_pass	_	dutch=zijn
-4	faak	faak	ADJ	_	Degree=Pos	7	advmod	_	dutch=vaak
+4	faak	faak	ADJ	_	Degree=Pos	5	advmod	_	dutch=vaak
 5	brûkt	brûke	VERB	_	VerbForm=Part	0	root	_	dutch=gebruikt
 6	as	as	ADP	_	_	7	mark	_	dutch=als
 7	bewiisstik	bewiisstik	NOUN	_	Gender=Neut|Number=Sing	5	xcomp	_	dutch=bewijsstuk
