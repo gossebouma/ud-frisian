@@ -4290,7 +4290,7 @@
 7	yn	yn	ADP	_	_	9	case	_	dutch=in
 8	’e	’e	PUNCT	_	Definite=Def	9	det	_	dutch=de
 9	rjochtspraak	rjochtspraak	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	6	nmod	_	dutch=behield
-10	en	en	CCONJ	_	_	14	mark	_	dutch=en
+10	en	en	CCONJ	_	_	14	cc	_	dutch=en
 11	dat	dat	PRON	_	_	14	nsubj	_	dutch=KEY-MISSING
 12	soe	sille	AUX	_	_	14	aux	_	dutch=KEY-MISSING
 13	sa	sa	PRON	_	_	14	advmod	_	dutch=KEY-MISSING
