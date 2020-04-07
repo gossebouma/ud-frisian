@@ -4381,7 +4381,7 @@
 10	in	in	DET	_	Definite=Ind	11	det	_	dutch=een
 11	stokje	stôk	NOUN	_	Gender=Neut|Number=Sing	8	conj	_	dutch=stokje
 12	dêr’t	dêr’t	ADV	_	_	19	advmod	_	dutch=waarop
-13	mei	mei	ADP	_	Gender=Neut|Number=Sing	0	root	_	dutch=middel
+13	mei	mei	ADP	_	Gender=Neut|Number=Sing	14	root	_	dutch=middel
 14	ynkervingen	ynkerving	NOUN	_	Number=Plur	19	obl	_	dutch=inkervingen
 15	de	de	DET	_	Definite=Def	17	det	_	dutch=de
 16	iepensteande	iepensteand	VERB	_	VerbForm=Part	17	amod	_	dutch=openstaande
