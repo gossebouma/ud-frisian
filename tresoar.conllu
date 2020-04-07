@@ -4307,7 +4307,7 @@
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
 2	argiven	argyf	NOUN	_	Number=Plur	10	nsubj	_	dutch=archieven
 3	fan	fan	ADP	_	_	2	appos	_	dutch=van
-4	it	it	DET	_	_	3	flat	_	dutch=het
+4	it	it	DET	_	_	5	flat	_	dutch=het
 5	Hof	Hof	PROPN	_	_	3	flat	_	dutch=Hof
 6	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	10	cop	_	dutch=zijn
 7	aardich	aardich	ADJ	_	Degree=Pos	8	advmod	_	dutch=vrij
