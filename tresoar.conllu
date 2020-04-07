@@ -4343,7 +4343,7 @@
 9	skreaune	skriuwe	VERB	_	VerbForm=Part	11	amod	_	dutch=geschreven
 10	juridyske	juridysk	ADJ	_	Degree=Pos	11	amod	_	dutch=juridische
 11	stikken	stik	NOUN	_	Number=Plur	4	obl	_	dutch=stukken
-12	,	,	PUNCT	_	_	13	punct	_	dutch=,
+12	,	,	PUNCT	_	_	11	punct	_	dutch=,
 13	ek	ek	ADV	_	_	4	advmod	_	dutch=ook
 14	foarwerpen	foarwerp	NOUN	_	Number=Plur	4	nsubj	_	dutch=voorwerpen
 15	.	.	PUNCT	_	_	4	punct	_	dutch=.
