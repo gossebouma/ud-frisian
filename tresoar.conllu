@@ -4851,7 +4851,7 @@
 8	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	15	aux	_	dutch=heeft
 9	dy	dy	PRON	_	_	10	det	_	dutch=deze
 10	stikjes	stik	NOUN	_	Number=Plur	15	obj	_	dutch=briefjes
-11	papier	papier	NOUN	_	_	10	root	_	dutch=KEY-MISSING
+11	papier	papier	NOUN	_	_	10	nmod	_	dutch=KEY-MISSING
 12	yn	yn	ADP	_	_	0	root	_	dutch=in
 13	it	it	DET	_	_	0	root	_	dutch=KEY-MISSING
 14	famylje-argyf	famylje-argyf	NOUN	_	_	15	advcl	_	dutch=samen
