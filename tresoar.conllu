@@ -4773,7 +4773,7 @@
 # source_text = Ruim een week later overleed de stadhouder aan de gevolgen .
 # alignment =  0-0 1-0 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-8 11-9 12-9 13-10
 # ALIGNED
-1	In	in	DET	_	Degree=Pos	3	amod	_	dutch=Ruim
+1	In	in	DET	_	Degree=Pos	3	det	_	dutch=Ruim
 2	goed	goed	ADJ	_	Degree=Pos	3	amod	_	dutch=Ruim
 3	wike	wike	NOUN	_	Gender=Com|Number=Sing	4	obl	_	dutch=week
 4	letter	letter	ADJ	_	Degree=Cmp	5	advmod	_	dutch=later
