@@ -4571,7 +4571,7 @@
 # source_text = Volgens de overlevering zou hij bij de slag om de Berezina zijn gesneuveld .
 # alignment =  0-0 1-1 2-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-12 12-11 13-13
 # NOT ALIGNED
-1	Neffens	neffens	ADP	_	_	0	root	_	dutch=Volgens
+1	Neffens	neffens	ADP	_	_	3	root	_	dutch=Volgens
 2	de	de	DET	_	Definite=Def	3	det	_	dutch=de
 3	oerlevering	oerlevering	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	12	aux	_	dutch=zou
 4	moat	moat	AUX	_	_	12	aux	_	dutch=KEY-MISSING
