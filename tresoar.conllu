@@ -4286,7 +4286,7 @@
 3	krige	krije	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=kreeg
 4	in	in	DET	_	Definite=Ind	6	det	_	dutch=een
 5	belangrike	belangryk	ADJ	_	Degree=Pos	6	amod	_	dutch=belangrijke
-6	taak	taak	NOUN	_	Gender=Com|Number=Sing	3	parataxis	_	dutch=taak
+6	taak	taak	NOUN	_	Gender=Com|Number=Sing	3	obj	_	dutch=taak
 7	yn	yn	ADP	_	_	0	root	_	dutch=in
 8	’e	’e	PUNCT	_	Definite=Def	0	root	_	dutch=de
 9	rjochtspraak	rjochtspraak	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	3	parataxis	_	dutch=behield
