@@ -4411,7 +4411,7 @@
 13	fan	fan	ADP	_	_	15	case	_	dutch=van
 14	de	de	DET	_	Definite=Def	15	det	_	dutch=de
 15	Prins	Prins	PROPN	_	Gender=Com|Number=Sing	12	nmod	_	dutch=Prins
-16	fan	fan	PROPN	_	_	15	appos	_	dutch=van
+16	fan	fan	PROPN	_	_	15	flat	_	dutch=van
 17	Oranje	Oranje	PROPN	_	_	15	root	_	dutch=VAL-MISSING
 18	,	,	PUNCT	_	_	17	punct	_	dutch=,
 19	yn	yn	ADP	_	_	25	case	_	dutch=tijdens
