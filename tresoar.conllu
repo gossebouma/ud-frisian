@@ -4476,7 +4476,7 @@
 13	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	14	nmod_poss	_	dutch=zijn
 14	ferloofde	ferloofde	VERB	_	Gender=Com|Number=Sing	17	obl	_	dutch=verloofde
 15	Sjoukje	Sjoukje	PROPN	_	_	14	appos	_	dutch=Sjoukje
-16	Hendriks	Hendriks	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+16	Hendriks	Hendriks	PROPN	_	_	15	root	_	dutch=VAL-MISSING
 17	stjoerde	stjoere	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	7	acl_relcl	_	dutch=stuurde
 18	.	.	PUNCT	_	_	9	punct	_	dutch=.
 
