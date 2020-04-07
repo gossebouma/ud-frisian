@@ -4502,7 +4502,7 @@
 15	dy’t	dy’t	PRON	_	Definite=Ind	18	nsubj	_	dutch=een
 16	in	in	DET	_	Definite=Ind	17	det	_	dutch=een
 17	brief	brief	NOUN	_	Gender=Com|Number=Sing	18	obj	_	dutch=brief
-18	oerlanget	oerlangje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	acl_relcl	_	dutch=overhandigt
+18	oerlanget	oerlangje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	14	acl_relcl	_	dutch=overhandigt
 19	oan	oan	ADP	_	_	21	case	_	dutch=aan
 20	in	in	DET	_	Definite=Ind	21	det	_	dutch=een
 21	dame	dame	NOUN	_	Gender=Com|Number=Sing	18	obl	_	dutch=dame
