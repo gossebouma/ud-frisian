@@ -4597,7 +4597,7 @@
 4	letter	letter	ADJ	_	Case=Nom|Person=1|PronType=Prs	6	advmod	_	dutch=we
 5	bliken	blike	AUX	_	_	6	aux	_	dutch=inmiddels
 6	dien	dwaan	VERB	_	_	0	root	_	dutch=inmiddels
-7	,	,	PUNCT	_	_	6	root	_	dutch=dat
+7	,	,	PUNCT	_	_	6	punct	_	dutch=dat
 8	dat	dat	SCONJ	_	_	12	mark	_	dutch=dat
 9	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	12	nsubj	_	dutch=hij
 10	by	by	ADP	_	_	11	case	_	dutch=bij
