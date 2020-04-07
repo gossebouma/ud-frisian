@@ -4284,7 +4284,7 @@
 1	It	it	DET	_	Definite=Def	2	det	_	dutch=Het
 2	Hof	Hof	PROPN	_	Gender=Neut|Number=Sing	3	nsubj	_	dutch=Hof
 3	krige	krije	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=kreeg
-4	in	in	DET	_	Definite=Ind	5	det	_	dutch=een
+4	in	in	DET	_	Definite=Ind	6	det	_	dutch=een
 5	belangrike	belangryk	ADJ	_	Degree=Pos	3	obj	_	dutch=belangrijke
 6	taak	taak	NOUN	_	Gender=Com|Number=Sing	3	parataxis	_	dutch=taak
 7	yn	yn	ADP	_	_	0	root	_	dutch=in
