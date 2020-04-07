@@ -4728,7 +4728,7 @@
 # alignment =  0-0 1-1 2-3 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11
 # NOT ALIGNED
 1	It	it	DET	_	Definite=Def	2	det	_	dutch=Het
-2	wapen	wapen	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=wapen
+2	wapen	wapen	NOUN	_	Gender=Neut|Number=Sing	3	root	_	dutch=wapen
 3	gyng	gean	VERB	_	Degree=Pos	0	root	_	dutch=onverwacht
 4	ynienen	ynienen	ADV	_	Degree=Pos	0	root	_	dutch=onverwacht
 5	ôf	ôf	ADP	_	_	0	root	_	dutch=af
