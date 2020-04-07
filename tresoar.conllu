@@ -4748,7 +4748,7 @@
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
 2	kûgel	kûgel	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	3	nsubj	_	dutch=doorboorde
 3	gyng	gean	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=doorboorde
-4	him	him	PRON	_	Number=Sing|Tense=Past|VerbForm=Fin	3	root	_	dutch=doorboorde
+4	him	him	PRON	_	Number=Sing|Tense=Past|VerbForm=Fin	3	iobj	_	dutch=doorboorde
 5	dwers	dwers	ADJ	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=doorboorde
 6	troch	troch	ADP	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=doorboorde
 7	de	de	DET	_	Gender=Com|Number=Sing	5	obj	_	dutch=tong
