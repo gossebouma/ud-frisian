@@ -4201,7 +4201,7 @@
 # NOT ALIGNED
 1	In	in	DET	_	Definite=Ind	3	det	_	dutch=Een
 2	min	min	ADJ	_	Degree=Pos	3	amod	_	dutch=zwakke
-3	plak	plak	NOUN	_	Gender=Com|Number=Sing	9	nsubj	_	dutch=plek
+3	plak	plak	NOUN	_	Gender=Com|Number=Sing	10	nsubj	_	dutch=plek
 4	yn	yn	ADP	_	_	6	case	_	dutch=in
 5	it	it	DET	_	Definite=Def	6	det	_	dutch=het
 6	perkamint	perkamint	NOUN	_	Gender=Neut|Number=Sing	3	nmod	_	dutch=perkament
