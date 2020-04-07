@@ -4644,7 +4644,7 @@
 3	oan	oan	ADP	_	_	5	case	_	dutch=aan
 4	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	5	nmod_poss	_	dutch=zijn
 5	ferloofde	ferloofde	NOUN	_	Gender=Com|Number=Sing	6	obl	_	dutch=verloofde
-6	skreaun	skriuwe	VERB	_	_	0	root	_	dutch=KEY-MISSING
+6	skreaun	skriuwe	VERB	_	_	15	root	_	dutch=KEY-MISSING
 7	hie	hawwe	AUX	_	_	6	aux	_	dutch=KEY-MISSING
 8	dat	dat	SCONJ	_	_	13	mark	_	dutch=dat
 9	it	it	PRON	_	Person=3|PronType=Prs	13	nsubj	_	dutch=het
