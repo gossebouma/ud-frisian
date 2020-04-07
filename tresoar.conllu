@@ -4314,7 +4314,7 @@
 8	kompleet	kompleet	ADJ	_	Degree=Pos	9	advmod	_	dutch=compleet
 9	bewarre	bewarje	VERB	_	VerbForm=Part	10	xcomp	_	dutch=bewaard
 10	bleaun	bliuwe	VERB	_	VerbForm=Part	0	root	_	dutch=gebleven
-11	,	,	PUNCT	_	_	10	root	_	dutch=KEY-MISSING
+11	,	,	PUNCT	_	_	10	punct	_	dutch=KEY-MISSING
 12	krekt	krekt	ADV	_	_	15	mark	_	dutch=evenals
 13	lykas	lykas	SCONJ	_	_	15	mark	_	dutch=evenals
 14	de	de	DET	_	Definite=Def	15	det	_	dutch=de
