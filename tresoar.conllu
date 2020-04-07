@@ -4853,7 +4853,7 @@
 10	stikjes	stik	NOUN	_	Number=Plur	15	obj	_	dutch=briefjes
 11	papier	papier	NOUN	_	_	10	nmod	_	dutch=KEY-MISSING
 12	yn	yn	ADP	_	_	14	case	_	dutch=in
-13	it	it	DET	_	_	14	root	_	dutch=KEY-MISSING
+13	it	it	DET	_	_	14	nsubj	_	dutch=KEY-MISSING
 14	famylje-argyf	famylje-argyf	NOUN	_	_	15	advcl	_	dutch=samen
 15	bewarre	bewarje	VERB	_	VerbForm=Part	0	root	_	dutch=bewaard
 16	by	by	ADP	_	_	0	root	_	dutch=KEY-MISSING
