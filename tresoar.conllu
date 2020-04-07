@@ -4489,7 +4489,7 @@
 2	moaiste	moai	ADJ	_	Degree=Sup	3	amod	_	dutch=fraaiste
 3	eksimplaar	eksimplaar	NOUN	_	Gender=Neut|Number=Sing	6	nsubj	_	dutch=exemplaar
 4	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	cop	_	dutch=is
-5	it	it	DET	_	_	0	root	_	dutch=KEY-MISSING
+5	it	it	DET	_	_	6	root	_	dutch=KEY-MISSING
 6	brief	brief	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=brief
 7	mei	mei	ADP	_	_	9	case	_	dutch=met
 8	in	in	DET	_	Definite=Ind	9	det	_	dutch=een
