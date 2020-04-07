@@ -4766,7 +4766,7 @@
 19	nei	nei	ADP	_	_	20	case	_	dutch=naar
 20	bûten	bûten	ADP	_	_	14	obl	_	dutch=buiten
 21	ta	ta	ADP	_	_	14	obl	_	dutch=buiten
-22	.	.	PUNCT	_	_	5	punct	_	dutch=.
+22	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 208
 # text = In goed wike letter ferstoar de steedhâlder oan de gefolgen fan it ûngemak .
