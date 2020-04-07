@@ -4745,7 +4745,7 @@
 # source_text = De kogel doorboorde tong en verhemelte en kwam naast de neus weer naar buiten .
 # alignment =  0-0 1-2 2-2 3-2 4-2 5-2 6-3 7-3 8-6 10-5 12-6 13-7 14-8 15-9 16-10 17-11 18-12 19-13 20-13 21-14
 # NOT ALIGNED
-1	De	de	DET	_	Definite=Def	0	root	_	dutch=De
+1	De	de	DET	_	Definite=Def	2	root	_	dutch=De
 2	kûgel	kûgel	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=doorboorde
 3	gyng	gean	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=doorboorde
 4	him	him	PRON	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=doorboorde
