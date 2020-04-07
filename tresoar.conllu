@@ -4657,7 +4657,7 @@
 16	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	15	nsubj	_	dutch=hij
 17	yn	yn	ADP	_	_	19	case	_	dutch=KEY-MISSING
 18	it	it	DET	_	_	19	det	_	dutch=KEY-MISSING
-19	brief	brief	NOUN	_	_	0	root	_	dutch=KEY-MISSING
+19	brief	brief	NOUN	_	_	15	root	_	dutch=KEY-MISSING
 20	oan	oan	ADP	_	_	22	case	_	dutch=aan
 21	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	22	nmod_poss	_	dutch=zijn
 22	âlden	âlder	NOUN	_	Number=Plur	19	nmod	_	dutch=ouders
