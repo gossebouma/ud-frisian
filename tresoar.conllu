@@ -4829,7 +4829,7 @@
 17	part	part	NOUN	_	Degree=Pos	6	advmod	_	dutch=deels
 18	mei	mei	ADP	_	_	20	case	_	dutch=met
 19	read	read	ADJ	_	Degree=Pos	20	amod	_	dutch=rood
-20	kryt	kryt	NOUN	_	Gender=Neut|Number=Sing	17	obl	_	dutch=krijt
+20	kryt	kryt	NOUN	_	Gender=Neut|Number=Sing	17	nmod	_	dutch=krijt
 21	,	,	PUNCT	_	_	15	punct	_	dutch=,
 22	op	op	ADP	_	_	23	case	_	dutch=op
 23	stikjes	stik	NOUN	_	Number=Plur	6	obl	_	dutch=velletjes
