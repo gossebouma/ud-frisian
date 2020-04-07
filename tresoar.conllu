@@ -4207,7 +4207,7 @@
 6	perkamint	perkamint	NOUN	_	Gender=Neut|Number=Sing	3	nmod	_	dutch=perkament
 7	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	cop	_	dutch=is
 8	gauris	gauris	ADJ	_	Degree=Pos	9	advmod	_	dutch=vaak
-9	it	it	DET	_	Gender=Com|Number=Sing	0	root	_	dutch=plek
+9	it	it	DET	_	Gender=Com|Number=Sing	10	root	_	dutch=plek
 10	plak	plak	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=plek
 11	dêr’t	dêr’t	ADV	_	_	13	advmod	_	dutch=waaronder
 12	de	de	DET	_	Definite=Def	0	root	_	dutch=de
