@@ -4758,7 +4758,7 @@
 11	ferwulft	ferwulft	NOUN	_	Gender=Neut|Number=Sing	8	conj	_	dutch=verhemelte
 12	hinne	hinne	ADP	_	_	8	case	_	dutch=KEY-MISSING
 13	en	en	CCONJ	_	_	14	cc	_	dutch=en
-14	kaam	kaam	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	5	conj	_	dutch=kwam
+14	kaam	kaam	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	3	conj	_	dutch=kwam
 15	njonken	njonken	ADP	_	_	17	case	_	dutch=naast
 16	de	de	DET	_	Definite=Def	17	det	_	dutch=de
 17	noas	noas	NOUN	_	Gender=Com|Number=Sing	14	obl	_	dutch=neus
