@@ -4221,7 +4221,7 @@
 # alignment =  0-0 1-2 2-4 3-5 4-8 5-9 6-10 7-11 8-12 9-13 10-14 11-15 12-16 13-17 14-18 15-20 16-19 17-21
 # NOT ALIGNED
 1	Yn	yn	ADP	_	_	3	case	_	dutch=In
-2	dit	dit	DET	_	_	0	root	_	dutch=hier
+2	dit	dit	DET	_	_	3	root	_	dutch=hier
 3	testamint	testamint	NOUN	_	Gender=Neut|Number=Sing	6	obl	_	dutch=testament
 4	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	aux	_	dutch=is
 5	te	te	ADP	_	_	6	mark	_	dutch=te
