@@ -4654,7 +4654,7 @@
 13	gyng	gean	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	6	ccomp	_	dutch=ging
 14	,	,	PUNCT	_	_	1	punct	_	dutch=,
 15	liet	litte	VERB	_	_	0	root	_	dutch=KEY-MISSING
-16	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	0	root	_	dutch=hij
+16	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	15	root	_	dutch=hij
 17	yn	yn	ADP	_	_	0	root	_	dutch=KEY-MISSING
 18	it	it	DET	_	_	0	root	_	dutch=KEY-MISSING
 19	brief	brief	NOUN	_	_	0	root	_	dutch=KEY-MISSING
