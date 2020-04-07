@@ -4738,7 +4738,7 @@
 9	yn	yn	ADP	_	_	11	case	_	dutch=in
 10	’e	’e	DET	_	Definite=Def	11	det	_	dutch=de
 11	hals	hals	NOUN	_	Gender=Com|Number=Sing	7	obl	_	dutch=hals
-12	.	.	PUNCT	_	_	0	root	_	dutch=.
+12	.	.	PUNCT	_	_	3	root	_	dutch=.
 
 # sent_id = 207
 # text = De kûgel gyng him dwers troch de tonge en it ferwulft hinne en kaam njonken de noas wer nei bûten ta .
