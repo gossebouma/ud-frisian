@@ -4235,7 +4235,7 @@
 13	perkamint	perkamint	NOUN	_	Gender=Neut|Number=Sing	10	nmod	_	dutch=perkament
 14	inkelde	inkeld	DET	_	_	15	det	_	dutch=enkele
 15	gatten	gat	NOUN	_	Number=Plur	16	nsubj	_	dutch=gaten
-16	kommen	komme	VERB	_	VerbForm=Part	6	ccomp	_	dutch=gevallen
+16	kommen	komme	VERB	_	VerbForm=Part	6	csubj	_	dutch=gevallen
 17	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	16	aux	_	dutch=zijn
 18	.	.	PUNCT	_	_	6	punct	_	dutch=.
 
