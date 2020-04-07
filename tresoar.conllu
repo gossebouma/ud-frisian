@@ -4296,7 +4296,7 @@
 13	sa	sa	PRON	_	_	14	advmod	_	dutch=KEY-MISSING
 14	bliuwe	bliuwe	VERB	_	_	3	conj	_	dutch=KEY-MISSING
 15	oant	oant	ADP	_	_	16	case	_	dutch=tot
-16	1811	1811	NUM	_	_	9	obl	_	dutch=1811
+16	1811	1811	NUM	_	_	14	obl	_	dutch=1811
 17	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 187
