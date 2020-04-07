@@ -4628,7 +4628,7 @@
 15	it	it	PRON	_	_	14	nsubj	_	dutch=dit
 16	om	om	ADP	_	Gender=Com_Neut|Number=Sing	3	parataxis	_	dutch=keer
 17	in	in	DET	_	Definite=Ind	18	det	_	dutch=een
-18	brief	brief	NOUN	_	Gender=Com|Number=Sing	16	parataxis	_	dutch=brief
+18	brief	brief	NOUN	_	Gender=Com|Number=Sing	14	parataxis	_	dutch=brief
 19	oan	oan	ADP	_	_	21	case	_	dutch=aan
 20	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	21	nmod_poss	_	dutch=zijn
 21	âlden	âlder	NOUN	_	Number=Plur	18	nmod	_	dutch=ouders
