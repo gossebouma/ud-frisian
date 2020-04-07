@@ -4420,7 +4420,7 @@
 22	fan	fan	ADP	_	_	25	case	_	dutch=KEY-MISSING
 23	de	de	DET	_	Definite=Def	25	det	_	dutch=de
 24	Frânske	Frânsk	ADJ	_	Degree=Pos	25	amod	_	dutch=Franse
-25	oerhearsking	oerhearsking	NOUN	_	Gender=Com|Number=Sing	29	nmod	_	dutch=overheersing
+25	oerhearsking	oerhearsking	NOUN	_	Gender=Com|Number=Sing	21	nmod	_	dutch=overheersing
 26	op	op	ADP	_	_	28	case	_	dutch=op
 27	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	28	nmod_poss	_	dutch=zijn
 28	hoed	hoed	NOUN	_	Gender=Com|Number=Sing	29	obl	_	dutch=hoed
