@@ -4651,7 +4651,7 @@
 10	goed	goed	ADJ	_	Degree=Pos	13	xcomp	_	dutch=goed
 11	mei	mei	ADP	_	_	12	case	_	dutch=met
 12	him	him	PRON	_	Case=Acc|Person=3|PronType=Prs	10	obl	_	dutch=hem
-13	gyng	gean	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	1	ccomp	_	dutch=ging
+13	gyng	gean	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	6	ccomp	_	dutch=ging
 14	,	,	PUNCT	_	_	1	punct	_	dutch=,
 15	liet	litte	VERB	_	_	0	root	_	dutch=KEY-MISSING
 16	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	0	root	_	dutch=hij
