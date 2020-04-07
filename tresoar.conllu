@@ -4318,7 +4318,7 @@
 12	krekt	krekt	ADV	_	_	15	mark	_	dutch=evenals
 13	lykas	lykas	SCONJ	_	_	15	mark	_	dutch=evenals
 14	de	de	DET	_	Definite=Def	15	det	_	dutch=de
-15	dossiers	dossier	NOUN	_	Number=Plur	10	advcl	_	dutch=dossiers
+15	dossiers	dossier	NOUN	_	Number=Plur	5	advcl	_	dutch=dossiers
 16	út	út	ADP	_	_	18	case	_	dutch=uit
 17	’e	’e	DET	_	Definite=Def	18	det	_	dutch=de
 18	perioade	perioade	NOUN	_	Gender=Com|Number=Sing	15	nmod	_	dutch=periode
