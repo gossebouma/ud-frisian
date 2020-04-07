@@ -4433,7 +4433,7 @@
 35	út	út	ADP	_	_	36	case	_	dutch=uit
 36	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	38	obl	_	dutch=Friesland
 37	om	om	ADP	_	_	31	case	_	dutch=KEY-MISSING
-38	ferballe	ferbalje	VERB	_	VerbForm=Part	3	conj	_	dutch=veroordeeld
+38	ferballe	ferbalje	VERB	_	VerbForm=Part	29	conj	_	dutch=veroordeeld
 39	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	38	aux_pass	_	dutch=werd
 40	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
