@@ -4205,7 +4205,7 @@
 4	yn	yn	ADP	_	_	6	case	_	dutch=in
 5	it	it	DET	_	Definite=Def	6	det	_	dutch=het
 6	perkamint	perkamint	NOUN	_	Gender=Neut|Number=Sing	3	nmod	_	dutch=perkament
-7	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	cop	_	dutch=is
+7	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	10	cop	_	dutch=is
 8	gauris	gauris	ADJ	_	Degree=Pos	9	advmod	_	dutch=vaak
 9	it	it	DET	_	Gender=Com|Number=Sing	10	det	_	dutch=plek
 10	plak	plak	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=plek
