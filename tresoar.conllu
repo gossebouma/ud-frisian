@@ -4209,7 +4209,7 @@
 8	gauris	gauris	ADJ	_	Degree=Pos	9	advmod	_	dutch=vaak
 9	it	it	DET	_	Gender=Com|Number=Sing	10	det	_	dutch=plek
 10	plak	plak	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=plek
-11	dêr’t	dêr’t	ADV	_	_	13	advmod	_	dutch=waaronder
+11	dêr’t	dêr’t	ADV	_	_	14	advmod	_	dutch=waaronder
 12	de	de	DET	_	Definite=Def	13	det	_	dutch=de
 13	rêchbonke	rêchbonke	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	9	acl_relcl	_	dutch=bevond
 14	siet	sjen	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	9	acl_relcl	_	dutch=bevond
