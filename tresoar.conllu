@@ -4709,7 +4709,7 @@
 2	Frederik	Frederik	PROPN	_	_	1	flat	_	dutch=Frederik
 3	,	,	PUNCT	_	_	4	punct	_	dutch=,
 4	steedhâlder	steedhâlder	NOUN	_	Gender=Com|Number=Sing	1	appos	_	dutch=stadhouder
-5	fan	fan	ADP	_	_	6	appos	_	dutch=van
+5	fan	fan	ADP	_	_	6	case	_	dutch=van
 6	Fryslân	Fryslân	PROPN	_	_	4	nmod	_	dutch=Friesland
 7	,	,	PUNCT	_	_	1	punct	_	dutch=,
 8	makke	meitsje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=maakte
