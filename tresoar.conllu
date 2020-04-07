@@ -4272,7 +4272,7 @@
 4	it	it	DET	_	Definite=Def	5	det	_	dutch=het
 5	Hof	Hof	PROPN	_	Gender=Neut|Number=Sing	8	nsubj_pass	_	dutch=Hof
 6	van	van	PROPN	_	_	5	flat	_	dutch=van
-7	Friesland	Friesland	PROPN	_	Gender=Neut|Number=Sing	5	nmod	_	dutch=Friesland
+7	Friesland	Friesland	PROPN	_	Gender=Neut|Number=Sing	5	flat	_	dutch=Friesland
 8	oprjochte	oprjochtsje	VERB	_	VerbForm=Part	0	root	_	dutch=opgericht
 9	.	.	PUNCT	_	_	8	punct	_	dutch=.
 
