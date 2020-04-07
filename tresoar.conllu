@@ -4499,7 +4499,7 @@
 12	soldaat	soldaat	NOUN	_	Gender=Com|Number=Sing	18	nsubj	_	dutch=soldaat
 13	op	op	ADP	_	_	14	compound_prt	_	dutch=KEY-MISSING
 14	stiet	stean	NOUN	_	Gender=Com|Number=Sing	18	nsubj	_	dutch=soldaat
-15	dy’t	dy’t	PRON	_	Definite=Ind	18	det	_	dutch=een
+15	dy’t	dy’t	PRON	_	Definite=Ind	18	nsubj	_	dutch=een
 16	in	in	DET	_	Definite=Ind	17	det	_	dutch=een
 17	brief	brief	NOUN	_	Gender=Com|Number=Sing	18	obj	_	dutch=brief
 18	oerlanget	oerlangje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	acl_relcl	_	dutch=overhandigt
