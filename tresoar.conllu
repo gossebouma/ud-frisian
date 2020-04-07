@@ -4823,7 +4823,7 @@
 11	part	part	NOUN	_	Degree=Pos	6	advmod	_	dutch=deels
 12	mei	mei	ADP	_	_	13	case	_	dutch=met
 13	inket	inket	NOUN	_	Gender=Com|Number=Sing	11	nmod	_	dutch=inkt
-14	en	en	CCONJ	_	Gender=Com|Number=Sing	6	obl	_	dutch=inkt
+14	en	en	CCONJ	_	Gender=Com|Number=Sing	17	obl	_	dutch=inkt
 15	foar	foar	ADP	_	Degree=Pos	17	case	_	dutch=deels
 16	in	in	DET	_	Degree=Pos	17	det	_	dutch=deels
 17	part	part	NOUN	_	Degree=Pos	11	conj	_	dutch=deels
