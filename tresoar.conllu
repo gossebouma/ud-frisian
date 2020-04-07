@@ -4432,7 +4432,7 @@
 34	jier	jier	NOUN	_	Gender=Neut|Number=Sing	32	nmod	_	dutch=jaar
 35	út	út	ADP	_	_	36	case	_	dutch=uit
 36	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	0	root	_	dutch=Friesland
-37	om	om	ADP	_	_	0	root	_	dutch=KEY-MISSING
+37	om	om	ADP	_	_	31	root	_	dutch=KEY-MISSING
 38	ferballe	ferbalje	VERB	_	VerbForm=Part	3	conj	_	dutch=veroordeeld
 39	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	38	aux_pass	_	dutch=werd
 40	.	.	PUNCT	_	_	3	punct	_	dutch=.
