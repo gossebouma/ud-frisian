@@ -4733,7 +4733,7 @@
 4	ynienen	ynienen	ADV	_	Degree=Pos	3	advmod	_	dutch=onverwacht
 5	ôf	ôf	ADP	_	_	3	compound_prt	_	dutch=af
 6	en	en	CCONJ	_	_	7	cc	_	dutch=en
-7	rekke	rekke	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	3	root	_	dutch=trof
+7	rekke	rekke	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	3	conj	_	dutch=trof
 8	him	him	PRON	_	Case=Acc|Person=3|PronType=Prs	7	iobj	_	dutch=hem
 9	yn	yn	ADP	_	_	11	case	_	dutch=in
 10	’e	’e	DET	_	Definite=Def	11	det	_	dutch=de
