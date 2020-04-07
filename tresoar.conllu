@@ -4600,7 +4600,7 @@
 7	,	,	PUNCT	_	_	0	root	_	dutch=dat
 8	dat	dat	SCONJ	_	_	0	root	_	dutch=dat
 9	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	0	root	_	dutch=hij
-10	by	by	ADP	_	_	12	case	_	dutch=bij
+10	by	by	ADP	_	_	11	case	_	dutch=bij
 11	Starograd-Gdanski	Starograd-Gdanski	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Starograd-Gdanski
 12	omkommen	omkomme	VERB	_	Gender=Com|Number=Sing	0	root	_	dutch=Starograd-Gdanski
 13	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	12	aux	_	dutch=is
