@@ -4603,7 +4603,7 @@
 10	by	by	ADP	_	_	12	case	_	dutch=bij
 11	Starograd-Gdanski	Starograd-Gdanski	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Starograd-Gdanski
 12	omkommen	omkomme	VERB	_	Gender=Com|Number=Sing	0	root	_	dutch=Starograd-Gdanski
-13	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=is
+13	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	12	root	_	dutch=is
 14	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
 # sent_id = 201
