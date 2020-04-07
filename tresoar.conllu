@@ -4784,7 +4784,7 @@
 9	de	de	DET	_	Definite=Def	10	det	_	dutch=de
 10	gefolgen	gefolch	NOUN	_	Number=Plur	5	obl	_	dutch=gevolgen
 11	fan	fan	ADP	_	Definite=Def	12	det	_	dutch=de
-12	it	it	DET	_	Number=Plur	5	obl	_	dutch=gevolgen
+12	it	it	DET	_	Number=Plur	13	obl	_	dutch=gevolgen
 13	ûngemak	ûngemak	NOUN	_	Number=Plur	5	obl	_	dutch=gevolgen
 14	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
