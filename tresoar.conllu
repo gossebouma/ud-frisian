@@ -4573,7 +4573,7 @@
 # NOT ALIGNED
 1	Neffens	neffens	ADP	_	_	3	case	_	dutch=Volgens
 2	de	de	DET	_	Definite=Def	3	det	_	dutch=de
-3	oerlevering	oerlevering	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	12	aux	_	dutch=zou
+3	oerlevering	oerlevering	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	12	obl	_	dutch=zou
 4	moat	moat	AUX	_	_	12	aux	_	dutch=KEY-MISSING
 5	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	12	nsubj	_	dutch=hij
 6	by	by	ADP	_	_	8	case	_	dutch=bij
