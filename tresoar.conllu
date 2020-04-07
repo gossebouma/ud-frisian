@@ -4824,7 +4824,7 @@
 12	mei	mei	ADP	_	_	13	case	_	dutch=met
 13	inket	inket	NOUN	_	Gender=Com|Number=Sing	6	obl	_	dutch=inkt
 14	en	en	CCONJ	_	Gender=Com|Number=Sing	6	obl	_	dutch=inkt
-15	foar	foar	ADP	_	Degree=Pos	6	advmod	_	dutch=deels
+15	foar	foar	ADP	_	Degree=Pos	17	advmod	_	dutch=deels
 16	in	in	DET	_	Degree=Pos	17	advmod	_	dutch=deels
 17	part	part	NOUN	_	Degree=Pos	6	advmod	_	dutch=deels
 18	mei	mei	ADP	_	_	20	case	_	dutch=met
