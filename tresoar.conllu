@@ -4765,7 +4765,7 @@
 18	wer	wer	ADV	_	_	14	advmod	_	dutch=weer
 19	nei	nei	ADP	_	_	20	case	_	dutch=naar
 20	bûten	bûten	ADP	_	_	14	obl	_	dutch=buiten
-21	ta	ta	ADP	_	_	20	obl	_	dutch=buiten
+21	ta	ta	ADP	_	_	20	case	_	dutch=buiten
 22	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 208
