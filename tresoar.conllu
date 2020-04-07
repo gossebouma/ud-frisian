@@ -4375,7 +4375,7 @@
 4	sa’n	sa’n	DET	_	Degree=Pos	5	amod	_	dutch=dergelijk
 5	bewiisstik	bewiisstik	NOUN	_	Gender=Neut|Number=Sing	2	nmod	_	dutch=bewijsstuk
 6	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	8	cop	_	dutch=is
-7	in	in	DET	_	Definite=Ind	11	det	_	dutch=een
+7	in	in	DET	_	Definite=Ind	8	det	_	dutch=een
 8	kerfstok	kerfstok	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=kerfstok
 9	,	,	PUNCT	_	_	11	punct	_	dutch=,
 10	in	in	DET	_	Definite=Ind	11	det	_	dutch=een
