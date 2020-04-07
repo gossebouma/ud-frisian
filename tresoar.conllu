@@ -4429,7 +4429,7 @@
 31	dêr’t	dêr’t	ADV	_	_	38	advmod	_	dutch=waarvoor
 32	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	38	nsubj_pass	_	dutch=hij
 33	fiif	fiif	NUM	_	_	34	nummod	_	dutch=vijf
-34	jier	jier	NOUN	_	Gender=Neut|Number=Sing	32	nmod	_	dutch=jaar
+34	jier	jier	NOUN	_	Gender=Neut|Number=Sing	38	nmod	_	dutch=jaar
 35	út	út	ADP	_	_	36	case	_	dutch=uit
 36	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	0	root	_	dutch=Friesland
 37	om	om	ADP	_	_	31	case	_	dutch=KEY-MISSING
