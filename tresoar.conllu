@@ -4416,7 +4416,7 @@
 18	,	,	PUNCT	_	_	12	punct	_	dutch=,
 19	yn	yn	ADP	_	_	21	case	_	dutch=tijdens
 20	’e	’e	DET	_	Definite=Def	21	det	_	dutch=de
-21	tiid	tiid	NOUN	_	Degree=Pos	29	amod	_	dutch=Franse
+21	tiid	tiid	NOUN	_	Degree=Pos	29	obl	_	dutch=Franse
 22	fan	fan	ADP	_	_	25	case	_	dutch=KEY-MISSING
 23	de	de	DET	_	Definite=Def	25	det	_	dutch=de
 24	Frânske	Frânsk	ADJ	_	Degree=Pos	25	amod	_	dutch=Franse
