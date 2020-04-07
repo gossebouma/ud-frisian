@@ -4677,7 +4677,7 @@
 36	ekstra	ekstra	ADJ	_	Degree=Pos	37	amod	_	dutch=extra
 37	iten	iten	NOUN	_	VerbForm=Inf	38	obj	_	dutch=eten
 38	keapje	keapje	VERB	_	VerbForm=Inf	34	xcomp	_	dutch=kopen
-39	te	te	ADP	_	_	38	mark	_	dutch=te
+39	te	te	ADP	_	_	40	mark	_	dutch=te
 40	kinnen	kinne	VERB	_	VerbForm=Inf	38	aux	_	dutch=kunnen
 41	.	.	PUNCT	_	_	0	root	_	dutch=.
 
