@@ -4339,7 +4339,7 @@
 5	bytiden	bytiden	ADV	_	_	4	advmod	_	dutch=soms
 6	,	,	PUNCT	_	_	11	punct	_	dutch=,
 7	by	by	ADP	_	_	11	case	_	dutch=naast
-8	de	de	DET	_	_	11	root	_	dutch=KEY-MISSING
+8	de	de	DET	_	_	11	det	_	dutch=KEY-MISSING
 9	skreaune	skriuwe	VERB	_	VerbForm=Part	11	amod	_	dutch=geschreven
 10	juridyske	juridysk	ADJ	_	Degree=Pos	11	amod	_	dutch=juridische
 11	stikken	stik	NOUN	_	Number=Plur	4	obl	_	dutch=stukken
