@@ -5397,7 +5397,7 @@
 19	doe’t	doe’t	ADV	_	_	23	mark	_	dutch=toen
 20	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	22	nsubj	_	dutch=hij
 21	op	op	ADP	_	_	22	case	_	dutch=op
-22	trochreis	trochreis	NOUN	_	Gender=Com|Number=Sing	23	obl	_	dutch=doorreis
+22	trochreis	trochreis	NOUN	_	Gender=Com|Number=Sing	14	obl	_	dutch=doorreis
 23	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	6	advcl	_	dutch=was
 24	nei	nei	ADP	_	_	25	case	_	dutch=naar
 25	Grins	Grins	PROPN	_	Gender=Neut|Number=Sing	22	obl	_	dutch=Groningen
