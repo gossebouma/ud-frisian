@@ -4905,7 +4905,7 @@
 1	Op	op	ADP	_	_	2	case	_	dutch=Op
 2	ien	ien	NUM	_	_	11	obl	_	dutch=één
 3	fan	fan	ADP	_	_	5	case	_	dutch=van
-4	dy	dy	DET	_	_	0	root	_	dutch=KEY-MISSING
+4	dy	dy	DET	_	_	5	root	_	dutch=KEY-MISSING
 5	stikjes	stik	NOUN	_	Number=Plur	2	nmod	_	dutch=velletjes
 6	papier	papier	NOUN	_	Gender=Neut|Number=Sing	5	nmod	_	dutch=papier
 7	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	11	aux	_	dutch=is
