@@ -5354,7 +5354,7 @@
 2	yn	yn	ADP	_	_	5	case	_	dutch=in
 3	’e	’e	DET	_	Definite=Def	5	det	_	dutch=de
 4	njoggentjinde	njoggentjin	ADJ	_	_	5	amod	_	dutch=negentiende
-5	iu	iu	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	17	root	_	dutch=werd
+5	iu	iu	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	17	obl	_	dutch=werd
 6	hawwe	hawwe	AUX	_	_	0	root	_	dutch=KEY-MISSING
 7	leden	lid	NOUN	_	Number=Plur	0	root	_	dutch=leden
 8	fan	fan	ADP	_	_	10	root	_	dutch=KEY-MISSING
