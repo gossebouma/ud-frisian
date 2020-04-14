@@ -5164,7 +5164,7 @@
 3	dan	dan	ADV	_	Number=Sing|Tense=Past|VerbForm=Fin	2	advmod	_	dutch=betrof
 4	om	om	ADP	_	Number=Sing|Tense=Past|VerbForm=Fin	6	case	_	dutch=betrof
 5	it	it	DET	_	Definite=Def	6	det	_	dutch=het
-6	hâlden	hâlde	VERB	_	VerbForm=Inf	2	obj	_	dutch=houden
+6	hâlden	hâlde	VERB	_	VerbForm=Inf	2	obl	_	dutch=houden
 7	fan	fan	ADP	_	_	9	case	_	dutch=van
 8	nuete	nuet	ADJ	_	Degree=Pos	9	amod	_	dutch=tamme
 9	knobbelswannen	knobbelswan	NOUN	_	Number=Plur	6	nmod	_	dutch=knobbelzwanen
