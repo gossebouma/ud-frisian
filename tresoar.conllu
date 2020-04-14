@@ -5062,7 +5062,7 @@
 4	A.	A.	PROPN	_	_	3	nsubj	_	dutch=A.
 5	L.	L.	PROPN	_	_	4	flat	_	dutch=.
 6	Heerma	Heerma	PROPN	_	_	4	flat	_	dutch=Heerma
-7	van	van	PROPN	_	_	6	flat	_	dutch=van
+7	van	van	PROPN	_	_	4	flat	_	dutch=van
 8	Voss	Voss	PROPN	_	_	6	flat	_	dutch=Voss
 9	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	13	aux	_	dutch=heeft
 10	Aaxma	Aaxma	PROPN	_	Gender=Com|Number=Sing	13	nsubj	_	dutch=Aaxma
