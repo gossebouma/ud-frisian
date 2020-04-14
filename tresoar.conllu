@@ -5089,7 +5089,7 @@
 31	en	en	CCONJ	_	_	35	cc	_	dutch=en
 32	de	de	DET	_	Definite=Def	33	det	_	dutch=de
 33	nammen	namme	NOUN	_	Number=Plur	35	obj	_	dutch=namen
-34	en	en	CCONJ	_	_	0	root	_	dutch=KEY-MISSING
+34	en	en	CCONJ	_	_	35	root	_	dutch=KEY-MISSING
 35	geslachtswapens	geslachtswapen	NOUN	_	VerbForm=Part	30	conj	_	dutch=voorzien
 36	byinoar	byinoar	ADV	_	Number=Plur	33	nmod	_	dutch=geslachtswapens
 37	set	sette	VERB	_	Number=Plur	33	nmod	_	dutch=geslachtswapens
