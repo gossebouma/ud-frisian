@@ -5149,7 +5149,7 @@
 6	rjocht	rjocht	NOUN	_	Gender=Neut|Number=Sing	3	nsubj	_	dutch=recht
 7	om	om	ADP	_	Gender=Neut|Number=Sing	11	mark	_	dutch=recht
 8	op	op	ADP	_	_	9	case	_	dutch=op
-9	swannen	swan	NOUN	_	Gender=Com|Number=Sing	11	nmod	_	dutch=zwanenjacht
+9	swannen	swan	NOUN	_	Gender=Com|Number=Sing	11	obl	_	dutch=zwanenjacht
 10	te	te	ADP	_	Gender=Com|Number=Sing	11	mark	_	dutch=zwanenjacht
 11	jeien	jeie	VERB	_	Gender=Com|Number=Sing	6	nmod	_	dutch=zwanenjacht
 12	.	.	PUNCT	_	_	3	punct	_	dutch=.
