@@ -5068,7 +5068,7 @@
 10	Aaxma	Aaxma	PROPN	_	Gender=Com|Number=Sing	13	nsubj	_	dutch=Aaxma
 11	in	in	DET	_	Definite=Ind	12	det	_	dutch=een
 12	list	list	NOUN	_	Gender=Com|Number=Sing	13	obj	_	dutch=lijst
-13	gearstald	gearstalle	VERB	_	VerbForm=Part	6	parataxis	_	dutch=samengesteld
+13	gearstald	gearstalle	VERB	_	VerbForm=Part	0	root	_	dutch=samengesteld
 14	fan	fan	ADP	_	_	15	case	_	dutch=van
 15	minsken	minske	NOUN	_	Gender=Com|Number=Sing	12	nmod	_	dutch=uitgewekenen
 16	dy’t	dy’t	PRON	_	Gender=Com|Number=Sing	12	nmod	_	dutch=uitgewekenen
