@@ -5413,7 +5413,7 @@
 3	him	him	PRON	_	Number=Sing|Tense=Past|VerbForm=Fin	2	obj	_	dutch=had
 4	dêr	dêr	ADV	_	_	2	advmod	_	dutch=toen
 5	sa	sa	ADV	_	_	6	advmod	_	dutch=zo
-6	bêst	bêst	ADJ	_	_	2	xcomp	_	dutch=zo
+6	bêst	bêst	ADJ	_	_	14	xcomp	_	dutch=zo
 7	,	,	PUNCT	_	_	13	punct	_	dutch=,
 8	dat	dat	SCONJ	_	_	13	mark	_	dutch=dat
 9	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	13	nsubj	_	dutch=hij
