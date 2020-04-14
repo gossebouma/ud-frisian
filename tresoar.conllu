@@ -5182,7 +5182,7 @@
 5	algemien	algemien	ADJ	_	Degree=Pos	6	amod	_	dutch=algemeen
 6	rjocht	rjocht	NOUN	_	Gender=Neut|Number=Sing	15	parataxis	_	dutch=recht
 7	,	,	PUNCT	_	_	6	punct	_	dutch=,
-8	mar	mar	CCONJ	_	_	6	punct	_	dutch=,
+8	mar	mar	CCONJ	_	_	15	punct	_	dutch=,
 9	yn	yn	ADP	_	Number=Sing	10	fixed	_	dutch=tijde
 10	’e	’e	DET	_	_	14	case	_	dutch=ten
 11	tiid	tiid	NOUN	_	Number=Sing	10	fixed	_	dutch=tijde
