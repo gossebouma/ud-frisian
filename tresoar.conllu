@@ -5410,7 +5410,7 @@
 # NOT ALIGNED
 1	It	it	PRON	_	Case=Nom|Person=3|PronType=Prs	2	nsubj	_	dutch=Hij
 2	foldie	foldwaan	VERB	_	Person=3|PronType=Prs	0	root	_	dutch=het
-3	him	him	PRON	_	Number=Sing|Tense=Past|VerbForm=Fin	2	root	_	dutch=had
+3	him	him	PRON	_	Number=Sing|Tense=Past|VerbForm=Fin	2	obj	_	dutch=had
 4	dêr	dêr	ADV	_	_	0	root	_	dutch=toen
 5	sa	sa	ADV	_	_	0	root	_	dutch=zo
 6	bêst	bêst	ADJ	_	_	0	root	_	dutch=zo
