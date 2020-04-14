@@ -5356,7 +5356,7 @@
 4	njoggentjinde	njoggentjin	ADJ	_	_	5	amod	_	dutch=negentiende
 5	iu	iu	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	17	obl	_	dutch=werd
 6	hawwe	hawwe	AUX	_	_	17	aux	_	dutch=KEY-MISSING
-7	leden	lid	NOUN	_	Number=Plur	0	root	_	dutch=leden
+7	leden	lid	NOUN	_	Number=Plur	17	root	_	dutch=leden
 8	fan	fan	ADP	_	_	10	root	_	dutch=KEY-MISSING
 9	it	it	DET	_	_	10	root	_	dutch=KEY-MISSING
 10	Keninklik	Keninklik	PROPN	_	_	7	nmod	_	dutch=Koninklijk
