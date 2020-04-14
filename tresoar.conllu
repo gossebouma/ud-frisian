@@ -5189,7 +5189,7 @@
 12	fan	fan	ADP	_	_	14	case	_	dutch=van
 13	de	de	DET	_	Definite=Def	14	det	_	dutch=de
 14	Bourgondiërs	Bourgondiër	NOUN	_	Number=Plur	18	obl	_	dutch=Bourgondiërs
-15	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	6	root	_	dutch=werd
+15	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	6	conj	_	dutch=werd
 16	it	it	PRON	_	Person=3|PronType=Prs	15	nsubj	_	dutch=het
 17	in	in	DET	_	Definite=Ind	18	det	_	dutch=een
 18	privileezje	privileezje	NOUN	_	Gender=Neut|Number=Sing	15	xcomp	_	dutch=privilege
