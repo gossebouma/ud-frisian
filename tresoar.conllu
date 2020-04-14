@@ -5044,7 +5044,7 @@
 11	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	18	aux_pass	_	dutch=zijn
 12	meastentiids	meastentiids	ADV	_	Gender=Com|Number=Sing	18	nsubj_pass	_	dutch=miskelk
 13	in	in	DET	_	Definite=Ind	14	det	_	dutch=een
-14	mistsjelke	mistsjelk	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=miskelk
+14	mistsjelke	mistsjelk	NOUN	_	Gender=Com|Number=Sing	18	root	_	dutch=miskelk
 15	of	of	CCONJ	_	Gender=Com|Number=Sing	18	nsubj_pass	_	dutch=miskelk
 16	in	in	DET	_	Definite=Ind	17	det	_	dutch=een
 17	hosty	hosty	NOUN	_	Gender=Com|Number=Sing	15	conj	_	dutch=hostie
