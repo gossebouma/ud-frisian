@@ -5147,7 +5147,7 @@
 4	der	der	ADV	_	_	3	advmod	_	dutch=er
 5	it	it	DET	_	Definite=Def	6	det	_	dutch=het
 6	rjocht	rjocht	NOUN	_	Gender=Neut|Number=Sing	3	nsubj	_	dutch=recht
-7	om	om	ADP	_	Gender=Neut|Number=Sing	3	nsubj	_	dutch=recht
+7	om	om	ADP	_	Gender=Neut|Number=Sing	11	nsubj	_	dutch=recht
 8	op	op	ADP	_	_	9	case	_	dutch=op
 9	swannen	swan	NOUN	_	Gender=Com|Number=Sing	6	nmod	_	dutch=zwanenjacht
 10	te	te	ADP	_	Gender=Com|Number=Sing	6	nmod	_	dutch=zwanenjacht
