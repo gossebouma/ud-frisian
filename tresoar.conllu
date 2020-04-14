@@ -4962,7 +4962,7 @@
 # alignment =  0-0 1-1 2-0 5-2 6-3 7-4 8-5 9-6 10-7 11-10 12-9 13-10 14-11 15-12 16-13
 # NOT ALIGNED
 1	Om	om	ADP	_	Gender=Com_Neut|Number=Sing	2	case	_	dutch=Rond1584
-2	1584	1584	NUM	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=stelde
+2	1584	1584	NUM	_	Number=Sing|Tense=Past|VerbForm=Fin	16	root	_	dutch=stelde
 3	hinne	hinne	ADP	_	Gender=Com_Neut|Number=Sing	2	case	_	dutch=Rond1584
 4	,	,	PUNCT	_	_	16	punct	_	dutch=KEY-MISSING
 5	hat	hawwe	AUX	_	_	16	aux	_	dutch=KEY-MISSING
