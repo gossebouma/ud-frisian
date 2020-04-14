@@ -5010,7 +5010,7 @@
 24	kening	kening	NOUN	_	Gender=Com|Number=Sing	20	appos	_	dutch=VAL-MISSING
 25	fan	fan	ADP	_	_	26	case	_	dutch=van
 26	Spanje	Spanje	PROPN	_	_	24	nmod	_	dutch=VAL-MISSING
-27	,	,	PUNCT	_	_	26	punct	_	dutch=,
+27	,	,	PUNCT	_	_	24	punct	_	dutch=,
 28	nei	nei	ADP	_	Degree=Pos	29	amod	_	dutch=naar
 29	Grinslân	Grinslân	PROPN	_	Gender=Neut|Number=Sing	0	root	_	dutch=VAL-MISSING
 30	en	en	CCONJ	_	_	31	cc	_	dutch=en
