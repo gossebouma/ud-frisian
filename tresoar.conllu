@@ -5079,7 +5079,7 @@
 21	hiene	hawwe	AUX	_	_	20	amod	_	dutch=KEY-MISSING
 22	en	en	CCONJ	_	_	30	cc	_	dutch=en
 23	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	30	aux	_	dutch=heeft
-24	Regnerus	Regnerus	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+24	Regnerus	Regnerus	PROPN	_	_	30	root	_	dutch=VAL-MISSING
 25	a	a	PROPN	_	_	24	flat	_	dutch=a
 26	Solckema	Solckema	PROPN	_	_	24	flat	_	dutch=VAL-MISSING
 27	dy	dy	DET	_	_	28	det	_	dutch=deze
