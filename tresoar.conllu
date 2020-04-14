@@ -5215,7 +5215,7 @@
 13	,	,	PUNCT	_	_	1	punct	_	dutch=,
 14	mocht	meie	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	17	aux	_	dutch=kon
 15	dat	dat	DET	_	_	16	det	_	dutch=KEY-MISSING
-16	rjocht	rjocht	NOUN	_	_	0	root	_	dutch=KEY-MISSING
+16	rjocht	rjocht	NOUN	_	_	17	root	_	dutch=KEY-MISSING
 17	hâlde	hâlde	VERB	_	VerbForm=Inf	0	root	_	dutch=blijven
 18	.	.	PUNCT	_	_	17	punct	_	dutch=.
 
