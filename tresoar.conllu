@@ -5377,7 +5377,7 @@
 # alignment =  5-0 8-3 10-5 11-6 12-7 13-9 14-8 15-12 16-10 17-11 18-13 19-14 20-15 21-16 22-17 23-18 24-19 25-20
 # NOT ALIGNED
 1	De	de	DET	_	_	2	det	_	dutch=KEY-MISSING
-2	lju	lju	NOUN	_	_	0	root	_	dutch=KEY-MISSING
+2	lju	lju	NOUN	_	_	3	root	_	dutch=KEY-MISSING
 3	praten	prate	VERB	_	_	0	root	_	dutch=KEY-MISSING
 4	letter	letter	ADJ	_	_	3	advmod	_	dutch=KEY-MISSING
 5	noch	noch	ADV	_	_	3	advmod	_	dutch=KEY-MISSING
