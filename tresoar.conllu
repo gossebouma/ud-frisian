@@ -5353,7 +5353,7 @@
 1	Ek	ek	ADV	_	_	0	root	_	dutch=Ook
 2	yn	yn	ADP	_	_	0	root	_	dutch=in
 3	’e	’e	DET	_	Definite=Def	0	root	_	dutch=de
-4	njoggentjinde	njoggentjin	ADJ	_	_	0	root	_	dutch=negentiende
+4	njoggentjinde	njoggentjin	ADJ	_	_	5	root	_	dutch=negentiende
 5	iu	iu	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=werd
 6	hawwe	hawwe	AUX	_	_	0	root	_	dutch=KEY-MISSING
 7	leden	lid	NOUN	_	Number=Plur	0	root	_	dutch=leden
