@@ -5364,7 +5364,7 @@
 12	in	in	DET	_	Definite=Ind	13	det	_	dutch=een
 13	tal	tal	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=aantal
 14	kearen	kear	NOUN	_	Number=Plur	13	nmod	_	dutch=keren
-15	in	in	DET	_	_	16	flat	_	dutch=KEY-MISSING
+15	in	in	DET	_	_	16	det	_	dutch=KEY-MISSING
 16	besite	besite	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 17	brocht	bringe	VERB	_	_	0	root	_	dutch=KEY-MISSING
 18	oan	oan	ADP	_	_	0	root	_	dutch=KEY-MISSING
