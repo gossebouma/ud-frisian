@@ -5180,7 +5180,7 @@
 3	foarhinne	foarhinne	ADV	_	_	6	advmod	_	dutch=vanouds
 4	in	in	DET	_	Definite=Ind	6	det	_	dutch=een
 5	algemien	algemien	ADJ	_	Degree=Pos	6	amod	_	dutch=algemeen
-6	rjocht	rjocht	NOUN	_	Gender=Neut|Number=Sing	15	parataxis	_	dutch=recht
+6	rjocht	rjocht	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=recht
 7	,	,	PUNCT	_	_	6	punct	_	dutch=,
 8	mar	mar	CCONJ	_	_	15	cc	_	dutch=,
 9	yn	yn	ADP	_	Number=Sing	11	fixed	_	dutch=tijde
