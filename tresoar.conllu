@@ -4994,7 +4994,7 @@
 8	de	de	DET	_	Definite=Def	9	det	_	dutch=de
 9	Friezen	Fries	NOUN	_	Number=Plur	6	nmod	_	dutch=Friezen
 10	dy’t	dy’t	PRON	_	PronType=Rel	32	nsubj	_	dutch=die
-11	fanwegen	fanwegen	ADP	_	_	12	case	_	dutch=vanwege
+11	fanwegen	fanwegen	ADP	_	_	13	case	_	dutch=vanwege
 12	harren	harren	PRON	_	Case=Acc|Person=3|PronType=Prs	13	nmod_poss	_	dutch=hun
 13	trou	trou	NOUN	_	Degree=Pos	32	advmod	_	dutch=trouw
 14	oan	oan	ADP	_	_	17	case	_	dutch=aan
