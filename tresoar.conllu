@@ -5391,7 +5391,7 @@
 13	III	III	PROPN	_	_	11	flat	_	dutch=III
 14	brocht	bringe	VERB	_	Gender=Com|Number=Sing	9	acl_relcl	_	dutch=Fogelsangh-state
 15	oan	oan	ADP	_	_	16	case	_	dutch=aan
-16	Fogelsangh-state	Fogelsangh-state	PROPN	_	Number=Sing|Tense=Past|VerbForm=Fin	9	acl_relcl	_	dutch=aflegde
+16	Fogelsangh-state	Fogelsangh-state	PROPN	_	Number=Sing|Tense=Past|VerbForm=Fin	14	acl_relcl	_	dutch=aflegde
 17	yn	yn	ADP	_	_	18	case	_	dutch=in
 18	Feankleaster	Feankleaster	PROPN	_	Gender=Neut|Number=Sing	14	nmod	_	dutch=Veenklooster
 19	doe’t	doe’t	ADV	_	_	23	mark	_	dutch=toen
