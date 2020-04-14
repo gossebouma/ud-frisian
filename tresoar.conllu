@@ -5074,7 +5074,7 @@
 16	dy’t	dy’t	PRON	_	Gender=Com|Number=Sing	20	nsubj	_	dutch=uitgewekenen
 17	om	om	ADP	_	_	19	case	_	dutch=KEY-MISSING
 18	in	in	DET	_	_	19	det	_	dutch=KEY-MISSING
-19	hinnekommen	hinnekommen	NOUN	_	_	0	root	_	dutch=KEY-MISSING
+19	hinnekommen	hinnekommen	NOUN	_	_	20	root	_	dutch=KEY-MISSING
 20	sjoen	sykje	VERB	_	_	15	acl_relcl	_	dutch=KEY-MISSING
 21	hiene	hawwe	AUX	_	_	20	amod	_	dutch=KEY-MISSING
 22	en	en	CCONJ	_	_	30	cc	_	dutch=en
