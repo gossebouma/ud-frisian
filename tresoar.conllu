@@ -5318,7 +5318,7 @@
 5	’e	’e	DET	_	Definite=Def	6	det	_	dutch=de
 6	es	es	NOUN	_	Number=Plur	0	root	_	dutch=puntjes
 7	wêze	wêze	AUX	_	VerbForm=Inf	6	cop	_	dutch=worden
-8	by	by	ADP	_	Number=Plur	10	obl	_	dutch=puntjes
+8	by	by	ADP	_	Number=Plur	10	case	_	dutch=puntjes
 9	sa’n	sa’n	DET	_	VerbForm=Part	10	root	_	dutch=voorbereid
 10	besite	besite	NOUN	_	VerbForm=Part	6	obl	_	dutch=voorbereid
 11	.	.	PUNCT	_	_	6	punct	_	dutch=.
