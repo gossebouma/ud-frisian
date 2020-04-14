@@ -5072,7 +5072,7 @@
 14	fan	fan	ADP	_	_	15	case	_	dutch=van
 15	minsken	minske	NOUN	_	Gender=Com|Number=Sing	12	nmod	_	dutch=uitgewekenen
 16	dy’t	dy’t	PRON	_	Gender=Com|Number=Sing	12	nmod	_	dutch=uitgewekenen
-17	om	om	ADP	_	_	0	root	_	dutch=KEY-MISSING
+17	om	om	ADP	_	_	19	root	_	dutch=KEY-MISSING
 18	in	in	DET	_	_	19	root	_	dutch=KEY-MISSING
 19	hinnekommen	hinnekommen	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 20	sjoen	sykje	VERB	_	_	0	root	_	dutch=KEY-MISSING
