@@ -5185,7 +5185,7 @@
 8	mar	mar	CCONJ	_	_	15	cc	_	dutch=,
 9	yn	yn	ADP	_	Number=Sing	11	case	_	dutch=tijde
 10	’e	’e	DET	_	_	14	case	_	dutch=ten
-11	tiid	tiid	NOUN	_	Number=Sing	10	fixed	_	dutch=tijde
+11	tiid	tiid	NOUN	_	Number=Sing	15	fixed	_	dutch=tijde
 12	fan	fan	ADP	_	_	14	case	_	dutch=van
 13	de	de	DET	_	Definite=Def	14	det	_	dutch=de
 14	Bourgondiërs	Bourgondiër	NOUN	_	Number=Plur	18	obl	_	dutch=Bourgondiërs
