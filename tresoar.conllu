@@ -4973,7 +4973,7 @@
 10	,	,	PUNCT	_	_	11	punct	_	dutch=,
 11	Hotze	Hotze	PROPN	_	_	7	appos	_	dutch=Hotze
 12	Aaxma	Aaxma	PROPN	_	_	11	flat	_	dutch=dit
-13	,	,	PUNCT	_	_	15	punct	_	dutch=,
+13	,	,	PUNCT	_	_	11	punct	_	dutch=,
 14	it	it	DET	_	_	15	det	_	dutch=dit
 15	boek	boek	NOUN	_	Gender=Neut|Number=Sing	16	obj	_	dutch=boek
 16	gearstald	gearstalle	VERB	_	_	0	root	_	dutch=samen
