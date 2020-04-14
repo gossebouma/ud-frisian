@@ -5421,7 +5421,7 @@
 11	wer	wer	ADV	_	VerbForm=Inf	13	xcomp	_	dutch=vertrekken
 12	fuort	fuort	ADV	_	VerbForm=Inf	13	xcomp	_	dutch=vertrekken
 13	woe	wolle	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	5	advcl	_	dutch=wou
-14	.	.	PUNCT	_	_	3	punct	_	dutch=.
+14	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
 # sent_id = 240
 # text = Doe’t er op it lêst , nei wat foarsichtich oantrúnjen , dochs wer yn syn koets sitten gyng , wied er sa rekke , dat er wegere om te swaaien nei de minsken dy’t oan de kant fan ’e dyk stiene .
