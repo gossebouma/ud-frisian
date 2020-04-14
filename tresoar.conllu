@@ -4913,7 +4913,7 @@
 9	bloed	bloed	NOUN	_	Gender=Neut|Number=Sing	11	nsubj	_	dutch=bloed
 10	te	te	ADP	_	_	11	mark	_	dutch=KEY-MISSING
 11	sjen	sjen	VERB	_	VerbForm=Inf	0	root	_	dutch=zien
-12	dat	dat	SCONJ	_	_	13	root	_	dutch=KEY-MISSING
+12	dat	dat	SCONJ	_	_	13	nsubj	_	dutch=KEY-MISSING
 13	ôfkomstich	ôfkomstich	ADJ	_	Degree=Pos	9	acl_relcl	_	dutch=afkomstig
 14	wie	wêze	AUX	_	_	0	root	_	dutch=KEY-MISSING
 15	út	út	ADP	_	_	17	case	_	dutch=uit
