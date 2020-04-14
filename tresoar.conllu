@@ -5369,7 +5369,7 @@
 17	brocht	bringe	VERB	_	_	0	root	_	dutch=KEY-MISSING
 18	oan	oan	ADP	_	_	0	root	_	dutch=KEY-MISSING
 19	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	0	root	_	dutch=Fryslân
-20	.	.	PUNCT	_	_	11	punct	_	dutch=.
+20	.	.	PUNCT	_	_	17	punct	_	dutch=.
 
 # sent_id = 238
 # text = De lju praten letter noch withoelang oer de besite dy’t Kening Willem III brocht oan Fogelsangh-state yn Feankleaster doe’t er op trochreis wie nei Grins .
