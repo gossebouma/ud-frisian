@@ -5007,7 +5007,7 @@
 21	II	II	PROPN	_	_	20	appos	_	dutch=VAL-MISSING
 22	,	,	PUNCT	_	_	21	punct	_	dutch=,
 23	de	de	DET	_	_	24	det	_	dutch=KEY-MISSING
-24	kening	kening	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=VAL-MISSING
+24	kening	kening	NOUN	_	Gender=Com|Number=Sing	20	root	_	dutch=VAL-MISSING
 25	fan	fan	ADP	_	_	26	case	_	dutch=van
 26	Spanje	Spanje	PROPN	_	_	24	nmod	_	dutch=VAL-MISSING
 27	,	,	PUNCT	_	_	26	punct	_	dutch=,
