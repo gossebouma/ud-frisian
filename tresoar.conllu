@@ -5381,7 +5381,7 @@
 3	praten	prate	VERB	_	_	0	root	_	dutch=KEY-MISSING
 4	letter	letter	ADJ	_	_	3	advmod	_	dutch=KEY-MISSING
 5	noch	noch	ADV	_	_	3	advmod	_	dutch=KEY-MISSING
-6	withoelang	withoelang	ADJ	_	Degree=Pos	0	root	_	dutch=Spraakmakend
+6	withoelang	withoelang	ADJ	_	Degree=Pos	3	root	_	dutch=Spraakmakend
 7	oer	oer	ADP	_	_	0	root	_	dutch=KEY-MISSING
 8	de	de	DET	_	_	0	root	_	dutch=KEY-MISSING
 9	besite	besite	NOUN	_	Gender=Neut|Number=Sing	6	nsubj	_	dutch=bezoek
