@@ -5202,7 +5202,7 @@
 # NOT ALIGNED
 1	Dyselde	dyselde	PRON	_	VerbForm=Inf	0	root	_	dutch=aantonen
 2	dy’t	dy’t	PRON	_	VerbForm=Inf	4	nsubj	_	dutch=aantonen
-3	oantoane	oantoane	VERB	_	VerbForm=Inf	0	root	_	dutch=aantonen
+3	oantoane	oantoane	VERB	_	VerbForm=Inf	1	root	_	dutch=aantonen
 4	koe	kinne	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	3	aux	_	dutch=kon
 5	dat	dat	SCONJ	_	_	12	mark	_	dutch=dat
 6	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	12	nsubj	_	dutch=hij
