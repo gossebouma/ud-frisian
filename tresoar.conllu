@@ -5379,7 +5379,7 @@
 1	De	de	DET	_	_	2	det	_	dutch=KEY-MISSING
 2	lju	lju	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 3	praten	prate	VERB	_	_	0	root	_	dutch=KEY-MISSING
-4	letter	letter	ADJ	_	_	0	root	_	dutch=KEY-MISSING
+4	letter	letter	ADJ	_	_	3	root	_	dutch=KEY-MISSING
 5	noch	noch	ADV	_	_	0	root	_	dutch=KEY-MISSING
 6	withoelang	withoelang	ADJ	_	Degree=Pos	0	root	_	dutch=Spraakmakend
 7	oer	oer	ADP	_	_	0	root	_	dutch=KEY-MISSING
