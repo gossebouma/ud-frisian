@@ -5368,7 +5368,7 @@
 16	besite	besite	NOUN	_	_	17	obj	_	dutch=KEY-MISSING
 17	brocht	bringe	VERB	_	_	0	root	_	dutch=KEY-MISSING
 18	oan	oan	ADP	_	_	19	case	_	dutch=KEY-MISSING
-19	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	0	root	_	dutch=Fryslân
+19	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	17	root	_	dutch=Fryslân
 20	.	.	PUNCT	_	_	17	punct	_	dutch=.
 
 # sent_id = 238
