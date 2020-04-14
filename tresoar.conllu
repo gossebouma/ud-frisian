@@ -4911,7 +4911,7 @@
 7	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	11	aux	_	dutch=is
 8	stjurre	stjurje	VERB	_	Degree=Pos	9	amod	_	dutch=geronnen
 9	bloed	bloed	NOUN	_	Gender=Neut|Number=Sing	11	nsubj	_	dutch=bloed
-10	te	te	ADP	_	_	11	root	_	dutch=KEY-MISSING
+10	te	te	ADP	_	_	11	nmod	_	dutch=KEY-MISSING
 11	sjen	sjen	VERB	_	VerbForm=Inf	0	root	_	dutch=zien
 12	dat	dat	SCONJ	_	_	0	root	_	dutch=KEY-MISSING
 13	ôfkomstich	ôfkomstich	ADJ	_	Degree=Pos	9	amod	_	dutch=afkomstig
