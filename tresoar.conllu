@@ -5217,7 +5217,7 @@
 15	dat	dat	DET	_	_	16	det	_	dutch=KEY-MISSING
 16	rjocht	rjocht	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 17	hâlde	hâlde	VERB	_	VerbForm=Inf	0	root	_	dutch=blijven
-18	.	.	PUNCT	_	_	0	root	_	dutch=.
+18	.	.	PUNCT	_	_	17	root	_	dutch=.
 
 # sent_id = 229
 # text = Mar om’t it rjocht fan de swannejacht net skriftlik fêstlein wie , ûnstiene der skelen .
