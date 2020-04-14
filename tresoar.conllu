@@ -5016,7 +5016,7 @@
 30	en	en	CCONJ	_	_	31	cc	_	dutch=en
 31	East-Fryslân	East-Fryslân	PROPN	_	Gender=Neut|Number=Sing	29	conj	_	dutch=VAL-MISSING
 32	ferballe	ferbalje	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	9	acl_relcl	_	dutch=verbannen
-33	wiene	wêze	AUX	_	Number=Plur	32	parataxis	_	dutch=waren
+33	wiene	wêze	AUX	_	Number=Plur	32	aux	_	dutch=waren
 34	of	of	CCONJ	_	_	38	cc	_	dutch=of
 35	dêr	dêr	ADV	_	_	0	root	_	dutch=KEY-MISSING
 36	om	om	ADP	_	_	0	root	_	dutch=KEY-MISSING
