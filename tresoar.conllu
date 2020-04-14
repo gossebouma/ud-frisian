@@ -4972,7 +4972,7 @@
 9	Wolsum	Wolsum	PROPN	_	Gender=Neut|Number=Sing	7	nmod	_	dutch=Wolsum
 10	,	,	PUNCT	_	_	11	punct	_	dutch=,
 11	Hotze	Hotze	PROPN	_	_	7	appos	_	dutch=Hotze
-12	Aaxma	Aaxma	PROPN	_	_	11	det	_	dutch=dit
+12	Aaxma	Aaxma	PROPN	_	_	11	flat	_	dutch=dit
 13	,	,	PUNCT	_	_	15	punct	_	dutch=,
 14	it	it	DET	_	_	15	det	_	dutch=dit
 15	boek	boek	NOUN	_	Gender=Neut|Number=Sing	16	obj	_	dutch=boek
