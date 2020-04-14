@@ -5014,7 +5014,7 @@
 28	nei	nei	ADP	_	Degree=Pos	29	case	_	dutch=naar
 29	Grinslân	Grinslân	PROPN	_	Gender=Neut|Number=Sing	0	root	_	dutch=VAL-MISSING
 30	en	en	CCONJ	_	_	31	cc	_	dutch=en
-31	East-Fryslân	East-Fryslân	PROPN	_	Gender=Neut|Number=Sing	0	root	_	dutch=VAL-MISSING
+31	East-Fryslân	East-Fryslân	PROPN	_	Gender=Neut|Number=Sing	29	root	_	dutch=VAL-MISSING
 32	ferballe	ferbalje	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	9	acl_relcl	_	dutch=verbannen
 33	wiene	wêze	AUX	_	Number=Plur	38	parataxis	_	dutch=waren
 34	of	of	CCONJ	_	_	38	cc	_	dutch=of
