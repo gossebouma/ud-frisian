@@ -5339,7 +5339,7 @@
 9	eartiids	eartiids	ADJ	_	Degree=Cmp	15	advmod	_	dutch=vroeger
 10	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	15	cop	_	dutch=was
 11	dat	dat	PRON	_	Person=3|PronType=Dem	15	nsubj	_	dutch=dat
-12	ek	ek	ADV	_	_	0	root	_	dutch=KEY-MISSING
+12	ek	ek	ADV	_	_	15	root	_	dutch=KEY-MISSING
 13	al	al	ADV	_	_	15	advmod	_	dutch=niet
 14	it	it	DET	_	_	0	root	_	dutch=KEY-MISSING
 15	gefal	gefal	NOUN	_	_	6	conj	_	dutch=anders
