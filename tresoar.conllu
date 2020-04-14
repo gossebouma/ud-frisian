@@ -5061,45 +5061,39 @@
 3	argivaris	argivaris	NOUN	_	_	0	root	_	dutch=L
 4	A.	A.	PROPN	_	_	3	nsubj	_	dutch=A.
 5	L.	L.	PROPN	_	_	4	flat	_	dutch=.
-
-# sent_id = 221
-# text = Heerma van Voss hat Aaxma in list gearstald fan minsken dy’t om in hinnekommen sjoen hiene en hat Regnerus a Solckema dy list systematysk yndield en de nammen en geslachtswapens byinoar set .
-# source_text = Heerma van Voss heeft Aaxma een lijst van uitgewekenen samengesteld en heeft Regnerus a Solckema deze lijst systematisch ingedeeld en de namen van geslachtswapens voorzien .
-# alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-9 8-7 9-8 10-8 16-10 17-11 18-14 19-13 20-14 21-15 22-16 23-17 24-18 25-19 26-20 27-21 29-24 30-23 31-23 32-25
-# NOT ALIGNED
-1	Heerma	Heerma	PROPN	_	_	0	root	_	dutch=Heerma
-2	van	van	PROPN	_	_	1	flat	_	dutch=van
-3	Voss	Voss	PROPN	_	_	1	flat	_	dutch=Voss
-4	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	8	aux	_	dutch=heeft
-5	Aaxma	Aaxma	PROPN	_	Gender=Com|Number=Sing	8	nsubj	_	dutch=Aaxma
-6	in	in	DET	_	Definite=Ind	7	det	_	dutch=een
-7	list	list	NOUN	_	Gender=Com|Number=Sing	8	obj	_	dutch=lijst
-8	gearstald	gearstalle	VERB	_	VerbForm=Part	1	parataxis	_	dutch=samengesteld
-9	fan	fan	ADP	_	_	10	case	_	dutch=van
-10	minsken	minske	NOUN	_	Gender=Com|Number=Sing	7	nmod	_	dutch=uitgewekenen
-11	dy’t	dy’t	PRON	_	Gender=Com|Number=Sing	7	nmod	_	dutch=uitgewekenen
-12	om	om	ADP	_	_	0	root	_	dutch=KEY-MISSING
-13	in	in	DET	_	_	0	root	_	dutch=KEY-MISSING
-14	hinnekommen	hinnekommen	NOUN	_	_	0	root	_	dutch=KEY-MISSING
-15	sjoen	sykje	VERB	_	_	0	root	_	dutch=KEY-MISSING
-16	hiene	hawwe	AUX	_	_	0	root	_	dutch=KEY-MISSING
-17	en	en	CCONJ	_	_	25	cc	_	dutch=en
-18	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	25	aux	_	dutch=heeft
-19	Regnerus	Regnerus	PROPN	_	_	0	root	_	dutch=VAL-MISSING
-20	a	a	PROPN	_	_	25	nsubj	_	dutch=a
-21	Solckema	Solckema	PROPN	_	_	0	root	_	dutch=VAL-MISSING
-22	dy	dy	DET	_	_	23	det	_	dutch=deze
-23	list	list	NOUN	_	Gender=Com|Number=Sing	25	obj	_	dutch=lijst
-24	systematysk	systematysk	ADJ	_	Degree=Pos	25	advmod	_	dutch=systematisch
-25	yndield	yndiele	VERB	_	VerbForm=Part	8	conj	_	dutch=ingedeeld
-26	en	en	CCONJ	_	_	30	cc	_	dutch=en
-27	de	de	DET	_	Definite=Def	28	det	_	dutch=de
-28	nammen	namme	NOUN	_	Number=Plur	30	obj	_	dutch=namen
-29	en	en	CCONJ	_	_	0	root	_	dutch=KEY-MISSING
-30	geslachtswapens	geslachtswapen	NOUN	_	VerbForm=Part	25	conj	_	dutch=voorzien
-31	byinoar	byinoar	ADV	_	Number=Plur	28	nmod	_	dutch=geslachtswapens
-32	set	sette	VERB	_	Number=Plur	28	nmod	_	dutch=geslachtswapens
-33	.	.	PUNCT	_	_	1	punct	_	dutch=.
+6	Heerma	Heerma	PROPN	_	_	0	root	_	dutch=Heerma
+7	van	van	PROPN	_	_	6	flat	_	dutch=van
+8	Voss	Voss	PROPN	_	_	6	flat	_	dutch=Voss
+9	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	13	aux	_	dutch=heeft
+10	Aaxma	Aaxma	PROPN	_	Gender=Com|Number=Sing	13	nsubj	_	dutch=Aaxma
+11	in	in	DET	_	Definite=Ind	12	det	_	dutch=een
+12	list	list	NOUN	_	Gender=Com|Number=Sing	13	obj	_	dutch=lijst
+13	gearstald	gearstalle	VERB	_	VerbForm=Part	6	parataxis	_	dutch=samengesteld
+14	fan	fan	ADP	_	_	15	case	_	dutch=van
+15	minsken	minske	NOUN	_	Gender=Com|Number=Sing	12	nmod	_	dutch=uitgewekenen
+16	dy’t	dy’t	PRON	_	Gender=Com|Number=Sing	12	nmod	_	dutch=uitgewekenen
+17	om	om	ADP	_	_	0	root	_	dutch=KEY-MISSING
+18	in	in	DET	_	_	0	root	_	dutch=KEY-MISSING
+19	hinnekommen	hinnekommen	NOUN	_	_	0	root	_	dutch=KEY-MISSING
+20	sjoen	sykje	VERB	_	_	0	root	_	dutch=KEY-MISSING
+21	hiene	hawwe	AUX	_	_	0	root	_	dutch=KEY-MISSING
+22	en	en	CCONJ	_	_	30	cc	_	dutch=en
+23	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	30	aux	_	dutch=heeft
+24	Regnerus	Regnerus	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+25	a	a	PROPN	_	_	30	nsubj	_	dutch=a
+26	Solckema	Solckema	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+27	dy	dy	DET	_	_	28	det	_	dutch=deze
+28	list	list	NOUN	_	Gender=Com|Number=Sing	30	obj	_	dutch=lijst
+29	systematysk	systematysk	ADJ	_	Degree=Pos	30	advmod	_	dutch=systematisch
+30	yndield	yndiele	VERB	_	VerbForm=Part	13	conj	_	dutch=ingedeeld
+31	en	en	CCONJ	_	_	35	cc	_	dutch=en
+32	de	de	DET	_	Definite=Def	33	det	_	dutch=de
+33	nammen	namme	NOUN	_	Number=Plur	35	obj	_	dutch=namen
+34	en	en	CCONJ	_	_	0	root	_	dutch=KEY-MISSING
+35	geslachtswapens	geslachtswapen	NOUN	_	VerbForm=Part	30	conj	_	dutch=voorzien
+36	byinoar	byinoar	ADV	_	Number=Plur	33	nmod	_	dutch=geslachtswapens
+37	set	sette	VERB	_	Number=Plur	33	nmod	_	dutch=geslachtswapens
+38	.	.	PUNCT	_	_	6	punct	_	dutch=.
 
 # sent_id = 222
 # text = It boek is tige wichtich foar de heraldyk ( wapenkunde ) en de genealogy ( stambeamûndersyk ) yn Fryslân .
