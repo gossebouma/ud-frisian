@@ -4915,7 +4915,7 @@
 11	sjen	sjen	VERB	_	VerbForm=Inf	0	root	_	dutch=zien
 12	dat	dat	SCONJ	_	_	13	nsubj	_	dutch=KEY-MISSING
 13	ôfkomstich	ôfkomstich	ADJ	_	Degree=Pos	9	acl_relcl	_	dutch=afkomstig
-14	wie	wêze	AUX	_	_	0	root	_	dutch=KEY-MISSING
+14	wie	wêze	AUX	_	_	13	root	_	dutch=KEY-MISSING
 15	út	út	ADP	_	_	17	case	_	dutch=uit
 16	’e	’e	DET	_	Definite=Def	17	det	_	dutch=de
 17	wûne	wûne	NOUN	_	Gender=Com|Number=Sing	13	obl	_	dutch=wond
