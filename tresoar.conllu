@@ -5020,7 +5020,7 @@
 34	of	of	CCONJ	_	_	39	cc	_	dutch=of
 35	dêr	dêr	ADV	_	_	0	root	_	dutch=KEY-MISSING
 36	om	om	ADP	_	_	38	root	_	dutch=KEY-MISSING
-37	in	in	DET	_	_	38	root	_	dutch=KEY-MISSING
+37	in	in	DET	_	_	38	det	_	dutch=KEY-MISSING
 38	hinnekommen	hinnekommen	NOUN	_	VerbForm=Part	4	conj	_	dutch=uitgeweken
 39	sjoen	sykje	VERB	_	VerbForm=Part	4	conj	_	dutch=uitgeweken
 40	hiene	hawwe	AUX	_	Number=Plur	39	aux	_	dutch=waren
