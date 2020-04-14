@@ -4887,7 +4887,7 @@
 13	en	en	CCONJ	_	_	16	cc	_	dutch=en
 14	hoe’t	hoe’t	ADV	_	Case=Nom|Person=3|PronType=Prs	16	advmod	_	dutch=men
 15	se	se	PRON	_	Case=Nom|Person=3|PronType=Prs	16	nsubj	_	dutch=men
-16	besocht	besykje	VERB	_	VerbForm=Part	9	acl_relcl	_	dutch=geprobeerd
+16	besocht	besykje	VERB	_	VerbForm=Part	9	conj	_	dutch=geprobeerd
 17	hawwe	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	16	aux	_	dutch=heeft
 18	om	om	ADP	_	_	23	mark	_	dutch=om
 19	him	him	PRON	_	Case=Acc|Person=3|PronType=Prs	23	obj	_	dutch=hem
