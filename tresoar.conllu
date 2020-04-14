@@ -5038,7 +5038,7 @@
 5	de	de	DET	_	Definite=Def	6	det	_	dutch=de
 6	geastliken	geastlike	ADJ	_	Number=Plur	3	nmod	_	dutch=geestelijken
 7	dy’t	dy’t	PRON	_	Number=Plur	8	nsubj	_	dutch=geestelijken
-8	flechte	flechtsje	VERB	_	Number=Plur	3	nmod	_	dutch=geestelijken
+8	flechte	flechtsje	VERB	_	Number=Plur	3	acl_relc	_	dutch=geestelijken
 9	wiene	wêze	AUX	_	VerbForm=Part	8	aux	_	dutch=uitgeweken
 10	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
 11	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	18	aux_pass	_	dutch=zijn
