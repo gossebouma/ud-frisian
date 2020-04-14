@@ -5151,7 +5151,7 @@
 8	op	op	ADP	_	_	9	case	_	dutch=op
 9	swannen	swan	NOUN	_	Gender=Com|Number=Sing	11	obl	_	dutch=zwanenjacht
 10	te	te	ADP	_	Gender=Com|Number=Sing	11	mark	_	dutch=zwanenjacht
-11	jeien	jeie	VERB	_	Gender=Com|Number=Sing	6	nmod	_	dutch=zwanenjacht
+11	jeien	jeie	VERB	_	Gender=Com|Number=Sing	6	xcomp	_	dutch=zwanenjacht
 12	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 226
