@@ -4967,7 +4967,7 @@
 4	,	,	PUNCT	_	_	16	punct	_	dutch=KEY-MISSING
 5	hat	hawwe	AUX	_	_	16	aux	_	dutch=KEY-MISSING
 6	de	de	DET	_	Definite=Def	7	det	_	dutch=de
-7	pastoar	pastoar	NOUN	_	Gender=Com|Number=Sing	2	obj	_	dutch=pastoor
+7	pastoar	pastoar	NOUN	_	Gender=Com|Number=Sing	16	obj	_	dutch=pastoor
 8	fan	fan	ADP	_	_	9	case	_	dutch=van
 9	Wolsum	Wolsum	PROPN	_	Gender=Neut|Number=Sing	7	nmod	_	dutch=Wolsum
 10	,	,	PUNCT	_	_	11	punct	_	dutch=,
