@@ -5312,7 +5312,7 @@
 # alignment =  0-0 1-1 3-2 4-3 5-4 6-5 7-4 8-6 9-6 10-7
 # NOT ALIGNED
 1	Alles	alles	PRON	_	Person=3|PronType=Ind	6	nsubj_pass	_	dutch=Alles
-2	moat	moat	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	10	aux	_	dutch=moet
+2	moat	moat	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	aux	_	dutch=moet
 3	alhielendal	alhielendal	ADV	_	_	6	advmod	_	dutch=KEY-MISSING
 4	yn	yn	ADP	_	_	6	case	_	dutch=in
 5	’e	’e	DET	_	Definite=Def	6	det	_	dutch=de
