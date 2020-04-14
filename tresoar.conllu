@@ -5162,7 +5162,7 @@
 1	It	it	PRON	_	Person=3|PronType=Prs	3	nsubj	_	dutch=Het
 2	gyng	gean	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=betrof
 3	dan	dan	ADV	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=betrof
-4	om	om	ADP	_	Number=Sing|Tense=Past|VerbForm=Fin	6	root	_	dutch=betrof
+4	om	om	ADP	_	Number=Sing|Tense=Past|VerbForm=Fin	6	case	_	dutch=betrof
 5	it	it	DET	_	Definite=Def	6	det	_	dutch=het
 6	hâlden	hâlde	VERB	_	VerbForm=Inf	3	obj	_	dutch=houden
 7	fan	fan	ADP	_	_	9	case	_	dutch=van
