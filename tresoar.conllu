@@ -5006,7 +5006,7 @@
 20	Filips	Filips	PROPN	_	_	32	obj	_	dutch=Filips
 21	II	II	PROPN	_	_	20	appos	_	dutch=VAL-MISSING
 22	,	,	PUNCT	_	_	21	punct	_	dutch=,
-23	de	de	DET	_	_	0	root	_	dutch=KEY-MISSING
+23	de	de	DET	_	_	24	root	_	dutch=KEY-MISSING
 24	kening	kening	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=VAL-MISSING
 25	fan	fan	ADP	_	_	24	appos	_	dutch=van
 26	Spanje	Spanje	PROPN	_	_	0	root	_	dutch=VAL-MISSING
