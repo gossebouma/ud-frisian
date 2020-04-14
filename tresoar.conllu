@@ -5168,7 +5168,7 @@
 7	fan	fan	ADP	_	_	9	case	_	dutch=van
 8	nuete	nuet	ADJ	_	Degree=Pos	9	amod	_	dutch=tamme
 9	knobbelswannen	knobbelswan	NOUN	_	Number=Plur	6	nmod	_	dutch=knobbelzwanen
-10	.	.	PUNCT	_	_	3	punct	_	dutch=.
+10	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
 # sent_id = 227
 # text = It wie foarhinne in algemien rjocht , mar yn ’e tiid fan de Bourgondiërs waard it in privileezje .
