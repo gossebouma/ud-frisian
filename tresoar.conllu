@@ -5088,7 +5088,7 @@
 30	yndield	yndiele	VERB	_	VerbForm=Part	13	conj	_	dutch=ingedeeld
 31	en	en	CCONJ	_	_	37	cc	_	dutch=en
 32	de	de	DET	_	Definite=Def	33	det	_	dutch=de
-33	nammen	namme	NOUN	_	Number=Plur	35	obj	_	dutch=namen
+33	nammen	namme	NOUN	_	Number=Plur	37	obj	_	dutch=namen
 34	en	en	CCONJ	_	_	35	cc	_	dutch=KEY-MISSING
 35	geslachtswapens	geslachtswapen	NOUN	_	VerbForm=Part	37	conj	_	dutch=voorzien
 36	byinoar	byinoar	ADV	_	Number=Plur	37	advmod	_	dutch=geslachtswapens
