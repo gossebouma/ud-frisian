@@ -4975,7 +4975,7 @@
 12	Aaxma	Aaxma	PROPN	_	_	15	det	_	dutch=dit
 13	,	,	PUNCT	_	_	15	punct	_	dutch=,
 14	it	it	DET	_	_	15	det	_	dutch=dit
-15	boek	boek	NOUN	_	Gender=Neut|Number=Sing	7	appos	_	dutch=boek
+15	boek	boek	NOUN	_	Gender=Neut|Number=Sing	16	appos	_	dutch=boek
 16	gearstald	gearstalle	VERB	_	_	0	root	_	dutch=samen
 17	.	.	PUNCT	_	_	16	punct	_	dutch=.
 
