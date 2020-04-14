@@ -5040,7 +5040,7 @@
 7	dy’t	dy’t	PRON	_	Number=Plur	8	nsubj	_	dutch=geestelijken
 8	flechte	flechtsje	VERB	_	Number=Plur	6	acl_relcl	_	dutch=geestelijken
 9	wiene	wêze	AUX	_	VerbForm=Part	8	aux	_	dutch=uitgeweken
-10	,	,	PUNCT	_	_	14	root	_	dutch=KEY-MISSING
+10	,	,	PUNCT	_	_	18	root	_	dutch=KEY-MISSING
 11	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	18	aux_pass	_	dutch=zijn
 12	meastentiids	meastentiids	ADV	_	Gender=Com|Number=Sing	18	advmod	_	dutch=miskelk
 13	in	in	DET	_	Definite=Ind	14	det	_	dutch=een
