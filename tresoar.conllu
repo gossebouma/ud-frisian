@@ -5081,7 +5081,7 @@
 23	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	30	aux	_	dutch=heeft
 24	Regnerus	Regnerus	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 25	a	a	PROPN	_	_	24	nsubj	_	dutch=a
-26	Solckema	Solckema	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+26	Solckema	Solckema	PROPN	_	_	24	root	_	dutch=VAL-MISSING
 27	dy	dy	DET	_	_	28	det	_	dutch=deze
 28	list	list	NOUN	_	Gender=Com|Number=Sing	30	obj	_	dutch=lijst
 29	systematysk	systematysk	ADJ	_	Degree=Pos	30	advmod	_	dutch=systematisch
