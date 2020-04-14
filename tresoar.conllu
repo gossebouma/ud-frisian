@@ -5103,7 +5103,7 @@
 1	It	it	DET	_	Definite=Def	2	det	_	dutch=Het
 2	boek	boek	NOUN	_	Gender=Neut|Number=Sing	5	nsubj	_	dutch=boek
 3	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	_	dutch=is
-4	tige	tige	ADJ	_	Gender=Com|Number=Sing	0	root	_	dutch=waarde
+4	tige	tige	ADJ	_	Gender=Com|Number=Sing	5	root	_	dutch=waarde
 5	wichtich	wichtich	ADJ	_	Gender=Com|Number=Sing	0	root	_	dutch=waarde
 6	foar	foar	ADP	_	_	8	case	_	dutch=voor
 7	de	de	DET	_	Definite=Def	8	det	_	dutch=de
