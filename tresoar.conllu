@@ -5201,7 +5201,7 @@
 # alignment =  0-2 1-2 2-2 3-1 4-3 5-4 7-9 8-5 9-6 10-7 11-10 12-11 13-12 16-15 17-17
 # NOT ALIGNED
 1	Dyselde	dyselde	PRON	_	VerbForm=Inf	0	root	_	dutch=aantonen
-2	dy’t	dy’t	PRON	_	VerbForm=Inf	4	root	_	dutch=aantonen
+2	dy’t	dy’t	PRON	_	VerbForm=Inf	4	nsubj	_	dutch=aantonen
 3	oantoane	oantoane	VERB	_	VerbForm=Inf	0	root	_	dutch=aantonen
 4	koe	kinne	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	3	aux	_	dutch=kon
 5	dat	dat	SCONJ	_	_	12	mark	_	dutch=dat
