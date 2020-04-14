@@ -5352,7 +5352,7 @@
 # NOT ALIGNED
 1	Ek	ek	ADV	_	_	0	root	_	dutch=Ook
 2	yn	yn	ADP	_	_	5	root	_	dutch=in
-3	’e	’e	DET	_	Definite=Def	5	root	_	dutch=de
+3	’e	’e	DET	_	Definite=Def	5	det	_	dutch=de
 4	njoggentjinde	njoggentjin	ADJ	_	_	5	amod	_	dutch=negentiende
 5	iu	iu	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=werd
 6	hawwe	hawwe	AUX	_	_	0	root	_	dutch=KEY-MISSING
