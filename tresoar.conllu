@@ -4964,7 +4964,7 @@
 1	Om	om	ADP	_	Gender=Com_Neut|Number=Sing	2	case	_	dutch=Rond1584
 2	1584	1584	NUM	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=stelde
 3	hinne	hinne	ADP	_	Gender=Com_Neut|Number=Sing	2	case	_	dutch=Rond1584
-4	,	,	PUNCT	_	_	16	root	_	dutch=KEY-MISSING
+4	,	,	PUNCT	_	_	16	punct	_	dutch=KEY-MISSING
 5	hat	hawwe	AUX	_	_	16	aux	_	dutch=KEY-MISSING
 6	de	de	DET	_	Definite=Def	7	det	_	dutch=de
 7	pastoar	pastoar	NOUN	_	Gender=Com|Number=Sing	2	obj	_	dutch=pastoor
