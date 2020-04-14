@@ -5409,7 +5409,7 @@
 # alignment =  0-0 1-2 2-1 3-3 4-4 5-4 6-8 7-9 8-10 9-11 10-13 11-13 12-12 13-14
 # NOT ALIGNED
 1	It	it	PRON	_	Case=Nom|Person=3|PronType=Prs	2	nsubj	_	dutch=Hij
-2	foldie	foldwaan	VERB	_	Person=3|PronType=Prs	3	obj	_	dutch=het
+2	foldie	foldwaan	VERB	_	Person=3|PronType=Prs	0	root	_	dutch=het
 3	him	him	PRON	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=had
 4	dêr	dêr	ADV	_	_	0	root	_	dutch=toen
 5	sa	sa	ADV	_	_	0	root	_	dutch=zo
