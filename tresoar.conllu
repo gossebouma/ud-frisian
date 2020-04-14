@@ -5393,7 +5393,7 @@
 15	oan	oan	ADP	_	_	16	case	_	dutch=aan
 16	Fogelsangh-state	Fogelsangh-state	PROPN	_	Number=Sing|Tense=Past|VerbForm=Fin	14	obl	_	dutch=aflegde
 17	yn	yn	ADP	_	_	18	case	_	dutch=in
-18	Feankleaster	Feankleaster	PROPN	_	Gender=Neut|Number=Sing	14	nmod	_	dutch=Veenklooster
+18	Feankleaster	Feankleaster	PROPN	_	Gender=Neut|Number=Sing	16	nmod	_	dutch=Veenklooster
 19	doe’t	doe’t	ADV	_	_	23	mark	_	dutch=toen
 20	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	23	nsubj	_	dutch=hij
 21	op	op	ADP	_	_	22	case	_	dutch=op
