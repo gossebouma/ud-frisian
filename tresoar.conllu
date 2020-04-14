@@ -5001,7 +5001,7 @@
 15	de	de	DET	_	Definite=Def	17	det	_	dutch=de
 16	Roomske	Roomsk	ADJ	_	Degree=Pos	17	amod	_	dutch=katholieke
 17	tsjerke	tsjerke	NOUN	_	Gender=Com|Number=Sing	13	obl	_	dutch=kerk
-18	en	en	CCONJ	_	_	0	root	_	dutch=VAL-MISSING
+18	en	en	CCONJ	_	_	20	root	_	dutch=VAL-MISSING
 19	oan	oan	ADP	_	_	20	case	_	dutch=aan
 20	Filips	Filips	PROPN	_	_	32	obj	_	dutch=Filips
 21	II	II	PROPN	_	_	20	flat	_	dutch=VAL-MISSING
