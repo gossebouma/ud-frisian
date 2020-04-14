@@ -5092,7 +5092,7 @@
 34	en	en	CCONJ	_	_	35	cc	_	dutch=KEY-MISSING
 35	geslachtswapens	geslachtswapen	NOUN	_	VerbForm=Part	30	conj	_	dutch=voorzien
 36	byinoar	byinoar	ADV	_	Number=Plur	37	advmod	_	dutch=geslachtswapens
-37	set	sette	VERB	_	Number=Plur	33	nmod	_	dutch=geslachtswapens
+37	set	sette	VERB	_	Number=Plur	30	nmod	_	dutch=geslachtswapens
 38	.	.	PUNCT	_	_	13	punct	_	dutch=.
 
 # sent_id = 222
