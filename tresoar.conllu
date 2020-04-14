@@ -5041,7 +5041,7 @@
 8	flechte	flechtsje	VERB	_	Number=Plur	6	acl_relcl	_	dutch=geestelijken
 9	wiene	wêze	AUX	_	VerbForm=Part	8	aux	_	dutch=uitgeweken
 10	,	,	PUNCT	_	_	14	root	_	dutch=KEY-MISSING
-11	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	14	aux_pass	_	dutch=zijn
+11	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	18	aux_pass	_	dutch=zijn
 12	meastentiids	meastentiids	ADV	_	Gender=Com|Number=Sing	18	nsubj_pass	_	dutch=miskelk
 13	in	in	DET	_	Definite=Ind	14	det	_	dutch=een
 14	mistsjelke	mistsjelk	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=miskelk
