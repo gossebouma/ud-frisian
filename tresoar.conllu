@@ -4920,7 +4920,7 @@
 16	’e	’e	DET	_	Definite=Def	17	det	_	dutch=de
 17	wûne	wûne	NOUN	_	Gender=Com|Number=Sing	13	obl	_	dutch=wond
 18	fan	fan	ADP	_	_	19	case	_	dutch=van
-19	Willem	Willem	PROPN	_	Gender=Com|Number=Sing	17	nmod	_	dutch=Willem
+19	Willem	Willem	PROPN	_	Gender=Com|Number=Sing	21	nmod	_	dutch=Willem
 20	Frederik	Frederik	PROPN	_	Gender=Com|Number=Sing	9	appos	_	dutch=Frederik
 21	.	.	PUNCT	_	_	11	punct	_	dutch=.
 
