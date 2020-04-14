@@ -5321,7 +5321,7 @@
 8	by	by	ADP	_	Number=Plur	10	obl	_	dutch=puntjes
 9	sa’n	sa’n	DET	_	VerbForm=Part	10	root	_	dutch=voorbereid
 10	besite	besite	NOUN	_	VerbForm=Part	0	root	_	dutch=voorbereid
-11	.	.	PUNCT	_	_	10	punct	_	dutch=.
+11	.	.	PUNCT	_	_	6	punct	_	dutch=.
 
 # sent_id = 236
 # text = Dat is hjoed de dei sa , mar eartiids wie dat ek al it gefal .
