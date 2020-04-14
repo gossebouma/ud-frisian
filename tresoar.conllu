@@ -5386,7 +5386,7 @@
 8	de	de	DET	_	_	9	det	_	dutch=KEY-MISSING
 9	besite	besite	NOUN	_	Gender=Neut|Number=Sing	3	obl	_	dutch=bezoek
 10	dy’t	dy’t	PRON	_	_	0	root	_	dutch=KEY-MISSING
-11	Kening	kening	NOUN	_	_	16	obj	_	dutch=Koning
+11	Kening	kening	NOUN	_	_	14	obj	_	dutch=Koning
 12	Willem	Willem	PROPN	_	_	11	flat	_	dutch=Willem
 13	III	III	PROPN	_	_	11	flat	_	dutch=III
 14	brocht	bringe	VERB	_	Gender=Com|Number=Sing	16	obl	_	dutch=Fogelsangh-state
