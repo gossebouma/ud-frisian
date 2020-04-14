@@ -5265,7 +5265,7 @@
 3	bliuwe	bliuwe	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=blijven
 4	langer	lang	ADJ	_	PronType=Ind	6	amod	_	dutch=meer
 5	as	as	SCONJ	_	_	4	fixed	_	dutch=dan
-6	in	in	DET	_	_	7	nummod	_	dutch=een
+6	in	in	DET	_	_	7	det	_	dutch=een
 7	jier	jier	NOUN	_	Gender=Neut|Number=Sing	3	obl	_	dutch=jaar
 8	by	by	ADP	_	_	10	case	_	dutch=bij
 9	it	it	DET	_	Person=3|Poss=Yes|PronType=Prs	10	nmod_poss	_	dutch=hun
