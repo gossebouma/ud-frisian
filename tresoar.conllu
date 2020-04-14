@@ -5186,7 +5186,7 @@
 9	yn	yn	ADP	_	Number=Sing	10	fixed	_	dutch=tijde
 10	’e	’e	DET	_	_	14	case	_	dutch=ten
 11	tiid	tiid	NOUN	_	Number=Sing	10	fixed	_	dutch=tijde
-12	fan	fan	ADP	_	_	14	fixed	_	dutch=van
+12	fan	fan	ADP	_	_	14	case	_	dutch=van
 13	de	de	DET	_	Definite=Def	14	det	_	dutch=de
 14	Bourgondiërs	Bourgondiër	NOUN	_	Number=Plur	18	obl	_	dutch=Bourgondiërs
 15	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=werd
