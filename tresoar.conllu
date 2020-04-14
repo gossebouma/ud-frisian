@@ -5118,7 +5118,7 @@
 16	stambeamûndersyk	stambeamûndersyk	NOUN	_	Gender=Neut|Number=Sing	14	nmod	_	dutch=stamboomonderzoek
 17	)	)	PUNCT	_	_	16	punct	_	dutch=)
 18	yn	yn	ADP	_	_	19	case	_	dutch=in
-19	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	5	obl	_	dutch=Fryslân
+19	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	8	obl	_	dutch=Fryslân
 20	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
 # sent_id = 223
