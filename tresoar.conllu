@@ -5060,7 +5060,7 @@
 2	de	de	DET	_	Definite=Def	3	det	_	dutch=de
 3	argivaris	argivaris	NOUN	_	_	4	flat	_	dutch=L
 4	A.	A.	PROPN	_	_	0	root	_	dutch=A.
-5	L.	L.	PROPN	_	_	4	root	_	dutch=.
+5	L.	L.	PROPN	_	_	4	flat	_	dutch=.
 
 # sent_id = 221
 # text = Heerma van Voss hat Aaxma in list gearstald fan minsken dy’t om in hinnekommen sjoen hiene en hat Regnerus a Solckema dy list systematysk yndield en de nammen en geslachtswapens byinoar set .
