@@ -4884,7 +4884,7 @@
 10	fan	fan	ADP	_	_	12	case	_	dutch=van
 11	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 12	steedhâlder	steedhâlder	NOUN	_	Gender=Com|Number=Sing	9	nmod	_	dutch=stadhouder
-13	en	en	CCONJ	_	_	0	root	_	dutch=en
+13	en	en	CCONJ	_	_	16	root	_	dutch=en
 14	hoe’t	hoe’t	ADV	_	Case=Nom|Person=3|PronType=Prs	16	advmod	_	dutch=men
 15	se	se	PRON	_	Case=Nom|Person=3|PronType=Prs	16	nsubj	_	dutch=men
 16	besocht	besykje	VERB	_	VerbForm=Part	9	acl_relcl	_	dutch=geprobeerd
