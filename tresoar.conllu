@@ -5303,7 +5303,7 @@
 6	in	in	DET	_	_	7	det	_	dutch=veel
 7	drokte	drokte	NOUN	_	Number=Plur	4	obj	_	dutch=voeten
 8	fan	fan	ADP	_	Definite=Def	9	case	_	dutch=de
-9	komsa	formaat	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=aarde
+9	komsa	formaat	NOUN	_	Gender=Com|Number=Sing	7	root	_	dutch=aarde
 10	.	.	PUNCT	_	_	4	punct	_	dutch=.
 
 # sent_id = 235
