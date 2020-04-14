@@ -5213,7 +5213,7 @@
 11	al	al	ADV	_	_	12	advmod	_	dutch=al
 12	besiet	besitte	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	1	ccomp	_	dutch=bezat
 13	,	,	PUNCT	_	_	1	punct	_	dutch=,
-14	mocht	meie	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	17	root	_	dutch=kon
+14	mocht	meie	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	17	aux	_	dutch=kon
 15	dat	dat	DET	_	_	16	det	_	dutch=KEY-MISSING
 16	rjocht	rjocht	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 17	hâlde	hâlde	VERB	_	VerbForm=Inf	0	root	_	dutch=blijven
