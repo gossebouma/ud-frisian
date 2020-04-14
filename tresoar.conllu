@@ -5075,7 +5075,7 @@
 17	om	om	ADP	_	_	19	case	_	dutch=KEY-MISSING
 18	in	in	DET	_	_	19	det	_	dutch=KEY-MISSING
 19	hinnekommen	hinnekommen	NOUN	_	_	0	root	_	dutch=KEY-MISSING
-20	sjoen	sykje	VERB	_	_	0	root	_	dutch=KEY-MISSING
+20	sjoen	sykje	VERB	_	_	15	root	_	dutch=KEY-MISSING
 21	hiene	hawwe	AUX	_	_	20	amod	_	dutch=KEY-MISSING
 22	en	en	CCONJ	_	_	30	cc	_	dutch=en
 23	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	30	aux	_	dutch=heeft
