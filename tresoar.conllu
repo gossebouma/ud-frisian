@@ -5045,7 +5045,7 @@
 12	meastentiids	meastentiids	ADV	_	Gender=Com|Number=Sing	18	advmod	_	dutch=miskelk
 13	in	in	DET	_	Definite=Ind	14	det	_	dutch=een
 14	mistsjelke	mistsjelk	NOUN	_	Gender=Com|Number=Sing	18	nsubj_pass	_	dutch=miskelk
-15	of	of	CCONJ	_	Gender=Com|Number=Sing	17	nsubj_pass	_	dutch=miskelk
+15	of	of	CCONJ	_	Gender=Com|Number=Sing	17	cc	_	dutch=miskelk
 16	in	in	DET	_	Definite=Ind	17	det	_	dutch=een
 17	hosty	hosty	NOUN	_	Gender=Com|Number=Sing	14	conj	_	dutch=hostie
 18	ôfbylde	ôfbyldzje	VERB	_	VerbForm=Part	0	root	_	dutch=afgebeeld
