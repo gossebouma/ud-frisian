@@ -5401,7 +5401,7 @@
 23	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	22	aux	_	dutch=was
 24	nei	nei	ADP	_	_	25	case	_	dutch=naar
 25	Grins	Grins	PROPN	_	Gender=Neut|Number=Sing	22	obl	_	dutch=Groningen
-26	.	.	PUNCT	_	_	6	punct	_	dutch=.
+26	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 239
 # text = It foldie him dêr sa bêst , dat er net wer fuort woe .
