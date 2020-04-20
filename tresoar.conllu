@@ -5445,7 +5445,7 @@
 15	syn	syn	PRON	_	_	16	nmod_poss	_	dutch=KEY-MISSING
 16	koets	koets	PRON	_	Gender=Com|Number=Sing	17	obl	_	dutch=koets
 17	sitten	sitte	VERB	_	Gender=Com|Number=Sing	18	xcomp	_	dutch=koets
-18	gyng	gean	VERB	_	_	27	advcl	_	dutch=KEY-MISSING
+18	gyng	gean	VERB	_	_	23	advcl	_	dutch=KEY-MISSING
 19	,	,	PUNCT	_	_	18	punct	_	dutch=,
 20	wied	wurde	AUX	_	Degree=Pos	23	aux	_	dutch=gepikeerd
 21	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	23	nsubj	_	dutch=hij
