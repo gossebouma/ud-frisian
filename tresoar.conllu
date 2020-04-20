@@ -5481,7 +5481,7 @@
 3	keninklike	Keninklik	ADJ	_	Degree=Pos	4	amod	_	dutch=koninklijke
 4	besite	besite	NOUN	_	Gender=Neut|Number=Sing	14	obl	_	dutch=bezoek
 5	fan	fan	ADP	_	_	6	case	_	dutch=van
-6	Emma	Emma	PROPN	_	Gender=Com|Number=Sing	4	root	_	dutch=Emma
+6	Emma	Emma	PROPN	_	Gender=Com|Number=Sing	4	nmod	_	dutch=Emma
 7	en	en	CCONJ	_	_	8	cc	_	dutch=en
 8	Wilhelmina	Wilhelmina	PROPN	_	Gender=Com|Number=Sing	6	conj	_	dutch=Wilhelmina
 9	yn	yn	ADP	_	_	10	case	_	dutch=in
