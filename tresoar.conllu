@@ -5439,7 +5439,7 @@
 9	foarsichtich	foarsichtich	ADJ	_	_	0	root	_	dutch=KEY-MISSING
 10	oantrúnjen	oantrúnje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	20	advcl	_	dutch=plaatsnam
 11	,	,	PUNCT	_	_	10	punct	_	dutch=,
-12	dochs	dochs	ADV	_	_	10	advmod	_	dutch=toch
+12	dochs	dochs	ADV	_	_	18	advmod	_	dutch=toch
 13	wer	wer	ADV	_	_	18	advmod	_	dutch=KEY-MISSING
 14	yn	yn	ADP	_	_	16	case	_	dutch=in
 15	syn	syn	PRON	_	_	16	nmod_poss	_	dutch=KEY-MISSING
