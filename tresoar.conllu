@@ -5555,7 +5555,7 @@
 13	,	,	PUNCT	_	_	12	punct	_	dutch=,
 14	ûnder	ûnder	ADP	_	_	16	case	_	dutch=onder
 15	it	it	DET	_	Definite=Def	16	det	_	dutch=de
-16	biedwurd	biedwurd	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=Eendragt
+16	biedwurd	biedwurd	NOUN	_	Gender=Com|Number=Sing	12	root	_	dutch=Eendragt
 17	‘	‘	PUNCT	_	_	19	punct	_	dutch=“
 18	ienriedigens	ienriedigens	NOUN	_	Gender=Com|Number=Sing	19	nsubj	_	dutch=Eendragt
 19	makket	meitsje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	16	parataxis	_	dutch=VAL-MISSING
