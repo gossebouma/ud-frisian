@@ -5447,7 +5447,7 @@
 17	sitten	sitte	VERB	_	Gender=Com|Number=Sing	10	obl	_	dutch=koets
 18	gyng	gean	VERB	_	_	0	root	_	dutch=KEY-MISSING
 19	,	,	PUNCT	_	_	10	punct	_	dutch=,
-20	wied	wurde	AUX	_	Degree=Pos	23	root	_	dutch=gepikeerd
+20	wied	wurde	AUX	_	Degree=Pos	23	aux	_	dutch=gepikeerd
 21	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	20	nsubj	_	dutch=hij
 22	sa	sa	ADV	_	_	23	advmod	_	dutch=zo
 23	rekke	rekke	VERB	_	Degree=Pos	0	root	_	dutch=gepikeerd
