@@ -5561,7 +5561,7 @@
 19	makket	meitsje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=VAL-MISSING
 20	macht	macht	NOUN	_	Gender=Com|Number=Sing	19	obj	_	dutch=VAL-MISSING
 21	’	’	PUNCT	_	_	20	punct	_	dutch=”
-22	.	.	PUNCT	_	_	20	punct	_	dutch=.
+22	.	.	PUNCT	_	_	12	punct	_	dutch=.
 
 # sent_id = 246
 # text = De feriening hie ta doel om finansjele stipe te jaan by sykte , âlderdom of ferstjerren .
