@@ -5434,7 +5434,7 @@
 4	it	it	DET	_	_	5	det	_	dutch=KEY-MISSING
 5	lêst	lêst	ADJ	_	Degree=Pos	18	advmod	_	dutch=uiteindelijk
 6	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
-7	nei	nei	ADP	_	_	10	root	_	dutch=KEY-MISSING
+7	nei	nei	ADP	_	_	10	case	_	dutch=KEY-MISSING
 8	wat	wat	DET	_	Gender=Com|Number=Sing	10	obl	_	dutch=druk
 9	foarsichtich	foarsichtich	ADJ	_	_	0	root	_	dutch=KEY-MISSING
 10	oantrúnjen	oantrúnje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	20	advcl	_	dutch=plaatsnam
