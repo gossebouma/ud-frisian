@@ -5444,7 +5444,7 @@
 14	yn	yn	ADP	_	_	16	case	_	dutch=in
 15	syn	syn	PRON	_	_	16	nmod_poss	_	dutch=KEY-MISSING
 16	koets	koets	PRON	_	Gender=Com|Number=Sing	17	obl	_	dutch=koets
-17	sitten	sitte	VERB	_	Gender=Com|Number=Sing	10	obl	_	dutch=koets
+17	sitten	sitte	VERB	_	Gender=Com|Number=Sing	18	obl	_	dutch=koets
 18	gyng	gean	VERB	_	_	0	root	_	dutch=KEY-MISSING
 19	,	,	PUNCT	_	_	18	punct	_	dutch=,
 20	wied	wurde	AUX	_	Degree=Pos	23	aux	_	dutch=gepikeerd
