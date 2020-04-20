@@ -5502,7 +5502,7 @@
 # NOT ALIGNED
 1	Dêr	dêr	ADV	_	_	7	advmod	_	dutch=Daarin
 2	wiene	wêze	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	7	aux_pass	_	dutch=waren
-3	ek	ek	ADV	_	_	13	advmod	_	dutch=ook
+3	ek	ek	ADV	_	_	7	advmod	_	dutch=ook
 4	de	de	DET	_	Definite=Def	5	det	_	dutch=de
 5	lieten	liet	NOUN	_	Number=Plur	7	nsubj_pass	_	dutch=liederen
 6	yn	yn	ADP	_	VerbForm=Part	1	case	_	dutch=opgenomen
