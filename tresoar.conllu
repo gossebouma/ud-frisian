@@ -5463,7 +5463,7 @@
 33	minsken	minske	NOUN	_	_	30	obl	_	dutch=KEY-MISSING
 34	dy’t	dy’t	PRON	_	PronType=Rel	41	nsubj	_	dutch=die
 35	oan	oan	ADP	_	_	40	case	_	dutch=langs
-36	de	de	DET	_	Definite=Def	40	det	_	dutch=de
+36	de	de	DET	_	Definite=Def	37	det	_	dutch=de
 37	kant	kant	NOUN	_	_	40	case	_	dutch=langs
 38	fan	fan	ADP	_	_	0	root	_	dutch=KEY-MISSING
 39	’e	’e	DET	_	Definite=Def	40	det	_	dutch=de
