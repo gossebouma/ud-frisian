@@ -5516,7 +5516,7 @@
 14	tasongen	tasjonge	VERB	_	VerbForm=Part	0	root	_	dutch=toegezongen
 15	wurde	wurde	AUX	_	VerbForm=Inf	14	aux_pass	_	dutch=worden
 16	soene	sille	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	15	aux	_	dutch=zouden
-17	.	.	PUNCT	_	_	13	punct	_	dutch=.
+17	.	.	PUNCT	_	_	14	punct	_	dutch=.
 
 # sent_id = 243
 # text = 12 .
