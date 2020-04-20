@@ -5512,7 +5512,7 @@
 10	by	by	ADP	_	_	13	case	_	dutch=bij
 11	dy	dy	DET	_	_	13	det	_	dutch=die
 12	feestlike	feestlik	ADJ	_	Degree=Pos	13	amod	_	dutch=feestelijke
-13	oangelegenheid	oangelegenheid	NOUN	_	VerbForm=Part	14	root	_	dutch=toegezongen
+13	oangelegenheid	oangelegenheid	NOUN	_	VerbForm=Part	14	obl	_	dutch=toegezongen
 14	tasongen	tasjonge	VERB	_	VerbForm=Part	0	root	_	dutch=toegezongen
 15	wurde	wurde	AUX	_	VerbForm=Inf	14	aux_pass	_	dutch=worden
 16	soene	sille	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	15	aux	_	dutch=zouden
