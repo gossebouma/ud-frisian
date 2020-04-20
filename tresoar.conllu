@@ -5451,7 +5451,7 @@
 21	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	23	nsubj	_	dutch=hij
 22	sa	sa	ADV	_	_	23	advmod	_	dutch=zo
 23	rekke	rekke	VERB	_	Degree=Pos	0	root	_	dutch=gepikeerd
-24	,	,	PUNCT	_	_	28	punct	_	dutch=,
+24	,	,	PUNCT	_	_	23	punct	_	dutch=,
 25	dat	dat	SCONJ	_	_	28	mark	_	dutch=dat
 26	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	28	nsubj	_	dutch=hij
 27	wegere	wegerje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	22	ccomp	_	dutch=weigerde
