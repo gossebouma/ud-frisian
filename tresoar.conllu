@@ -5485,7 +5485,7 @@
 7	en	en	CCONJ	_	_	8	cc	_	dutch=en
 8	Wilhelmina	Wilhelmina	PROPN	_	Gender=Com|Number=Sing	6	conj	_	dutch=Wilhelmina
 9	yn	yn	ADP	_	_	10	case	_	dutch=in
-10	1892	1892	NUM	_	_	4	root	_	dutch=1892
+10	1892	1892	NUM	_	_	4	nmod	_	dutch=1892
 11	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	14	aux_pass	_	dutch=werd
 12	it	it	DET	_	Definite=Def	13	det	_	dutch=het
 13	programma	programma	NOUN	_	Gender=Neut|Number=Sing	14	nsubj_pass	_	dutch=programma
