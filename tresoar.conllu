@@ -5511,7 +5511,7 @@
 9	har	har	PRON	_	Case=Acc|Person=3|PronType=Prs	15	xcomp	_	dutch=hen
 10	by	by	ADP	_	_	0	root	_	dutch=bij
 11	dy	dy	DET	_	_	0	root	_	dutch=die
-12	feestlike	feestlik	ADJ	_	Degree=Pos	0	root	_	dutch=feestelijke
+12	feestlike	feestlik	ADJ	_	Degree=Pos	13	root	_	dutch=feestelijke
 13	oangelegenheid	oangelegenheid	NOUN	_	VerbForm=Part	0	root	_	dutch=toegezongen
 14	tasongen	tasjonge	VERB	_	VerbForm=Part	0	root	_	dutch=toegezongen
 15	wurde	wurde	AUX	_	VerbForm=Inf	5	acl_relcl	_	dutch=worden
