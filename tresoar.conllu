@@ -5558,7 +5558,7 @@
 16	biedwurd	biedwurd	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=Eendragt
 17	‘	‘	PUNCT	_	_	19	punct	_	dutch=“
 18	ienriedigens	ienriedigens	NOUN	_	Gender=Com|Number=Sing	19	nsubj	_	dutch=Eendragt
-19	makket	meitsje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	16	root	_	dutch=VAL-MISSING
+19	makket	meitsje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	16	parataxis	_	dutch=VAL-MISSING
 20	macht	macht	NOUN	_	Gender=Com|Number=Sing	19	obj	_	dutch=VAL-MISSING
 21	’	’	PUNCT	_	_	19	punct	_	dutch=”
 22	.	.	PUNCT	_	_	12	punct	_	dutch=.
