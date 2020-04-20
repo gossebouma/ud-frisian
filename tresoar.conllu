@@ -5533,7 +5533,7 @@
 # ALIGNED
 1	Argyf-	argyf-	NOUN	_	_	0	root	_	dutch=Archief-en
 2	en	en	CCONJ	_	_	3	cc	_	dutch=Archief-en
-3	skriuwkistke	skriuwkist	NOUN	_	_	1	flat	_	dutch=schrijfkistje
+3	skriuwkistke	skriuwkist	NOUN	_	_	1	conj	_	dutch=schrijfkistje
 
 # sent_id = 245
 # text = Op 5 maaie 1776 waard te Grou ‘ ’t Gild ’ oprjochte , ûnder it biedwurd ‘ ienriedigens makket macht ’ .
