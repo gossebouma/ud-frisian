@@ -5469,7 +5469,7 @@
 39	’e	’e	DET	_	Definite=Def	40	det	_	dutch=de
 40	dyk	dyk	NOUN	_	Gender=Com|Number=Sing	41	obl	_	dutch=weg
 41	stiene	stean	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	32	acl_relcl	_	dutch=stond
-42	.	.	PUNCT	_	_	20	punct	_	dutch=.
+42	.	.	PUNCT	_	_	23	punct	_	dutch=.
 
 # sent_id = 241
 # text = Foar de keninklike besite fan Emma en Wilhelmina yn 1892 waard it programma printe op oranje papier .
