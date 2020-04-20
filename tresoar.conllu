@@ -5584,7 +5584,7 @@
 14	âlderdom	âlderdom	NOUN	_	Gender=Com|Number=Sing	12	conj	_	dutch=ouderdom
 15	of	of	CCONJ	_	_	16	cc	_	dutch=of
 16	ferstjerren	ferstjerre	VERB	_	VerbForm=Inf	12	conj	_	dutch=overlijden
-17	.	.	PUNCT	_	_	10	punct	_	dutch=.
+17	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 247
 # text = It fûns stie iepen foar manlju yn ’e leeftyd fan 16 oant en mei 50 jier .
