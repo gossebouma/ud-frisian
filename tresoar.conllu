@@ -5570,7 +5570,7 @@
 # ALIGNED
 1	De	de	DET	_	Gender=Com|Number=Sing	2	det	_	dutch=vereniging
 2	feriening	feriening	NOUN	_	Gender=Com|Number=Sing	10	nsubj	_	dutch=vereniging
-3	hie	hawwe	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	10	aux	_	dutch=had
+3	hie	hawwe	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=had
 4	ta	ta	ADP	_	_	10	compound_prt	_	dutch=tot
 5	doel	doel	NOUN	_	Gender=Neut|Number=Sing	4	fixed	_	dutch=doel
 6	om	om	ADP	_	Gender=Neut|Number=Sing	4	fixed	_	dutch=doel
