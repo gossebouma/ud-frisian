@@ -5557,7 +5557,7 @@
 15	it	it	DET	_	Definite=Def	16	det	_	dutch=de
 16	biedwurd	biedwurd	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=Eendragt
 17	‘	‘	PUNCT	_	_	16	punct	_	dutch=“
-18	ienriedigens	ienriedigens	NOUN	_	Gender=Com|Number=Sing	19	root	_	dutch=Eendragt
+18	ienriedigens	ienriedigens	NOUN	_	Gender=Com|Number=Sing	19	nsubj	_	dutch=Eendragt
 19	makket	meitsje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=VAL-MISSING
 20	macht	macht	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=VAL-MISSING
 21	’	’	PUNCT	_	_	20	punct	_	dutch=”
