@@ -5513,7 +5513,7 @@
 11	dy	dy	DET	_	_	13	det	_	dutch=die
 12	feestlike	feestlik	ADJ	_	Degree=Pos	13	amod	_	dutch=feestelijke
 13	oangelegenheid	oangelegenheid	NOUN	_	VerbForm=Part	14	obl	_	dutch=toegezongen
-14	tasongen	tasjonge	VERB	_	VerbForm=Part	5	root	_	dutch=toegezongen
+14	tasongen	tasjonge	VERB	_	VerbForm=Part	5	acl_relcl	_	dutch=toegezongen
 15	wurde	wurde	AUX	_	VerbForm=Inf	14	aux_pass	_	dutch=worden
 16	soene	sille	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	14	aux	_	dutch=zouden
 17	.	.	PUNCT	_	_	7	punct	_	dutch=.
