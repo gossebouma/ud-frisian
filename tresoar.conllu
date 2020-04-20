@@ -5532,7 +5532,7 @@
 # alignment =  0-0 1-0 2-1
 # ALIGNED
 1	Argyf-	argyf-	NOUN	_	_	0	root	_	dutch=Archief-en
-2	en	en	CCONJ	_	_	0	root	_	dutch=Archief-en
+2	en	en	CCONJ	_	_	3	root	_	dutch=Archief-en
 3	skriuwkistke	skriuwkist	NOUN	_	_	1	flat	_	dutch=schrijfkistje
 
 # sent_id = 245
