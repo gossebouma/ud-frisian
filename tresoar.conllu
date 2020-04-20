@@ -5460,7 +5460,7 @@
 30	swaaien	swaaie	VERB	_	VerbForm=Inf	27	xcomp	_	dutch=zwaaien
 31	nei	nei	ADP	_	_	33	case	_	dutch=naar
 32	de	de	DET	_	Gender=Com|Number=Sing	33	det	_	dutch=bevolking
-33	minsken	minske	NOUN	_	_	0	root	_	dutch=KEY-MISSING
+33	minsken	minske	NOUN	_	_	30	root	_	dutch=KEY-MISSING
 34	dy’t	dy’t	PRON	_	PronType=Rel	41	nsubj	_	dutch=die
 35	oan	oan	ADP	_	_	40	case	_	dutch=langs
 36	de	de	DET	_	Definite=Def	40	det	_	dutch=de
