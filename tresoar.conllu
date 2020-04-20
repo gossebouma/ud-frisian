@@ -5432,7 +5432,7 @@
 2	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	18	nsubj	_	dutch=hij
 3	op	op	ADP	_	_	5	case	_	dutch=KEY-MISSING
 4	it	it	DET	_	_	5	det	_	dutch=KEY-MISSING
-5	lêst	lêst	ADJ	_	Degree=Pos	10	advmod	_	dutch=uiteindelijk
+5	lêst	lêst	ADJ	_	Degree=Pos	18	advmod	_	dutch=uiteindelijk
 6	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
 7	nei	nei	ADP	_	_	0	root	_	dutch=KEY-MISSING
 8	wat	wat	DET	_	Gender=Com|Number=Sing	10	obl	_	dutch=druk
