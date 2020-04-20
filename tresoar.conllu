@@ -5468,7 +5468,7 @@
 38	fan	fan	ADP	_	_	40	root	_	dutch=KEY-MISSING
 39	’e	’e	DET	_	Definite=Def	40	det	_	dutch=de
 40	dyk	dyk	NOUN	_	Gender=Com|Number=Sing	37	nmod	_	dutch=weg
-41	stiene	stean	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	32	acl_relcl	_	dutch=stond
+41	stiene	stean	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	33	acl_relcl	_	dutch=stond
 42	.	.	PUNCT	_	_	23	punct	_	dutch=.
 
 # sent_id = 241
