@@ -5506,7 +5506,7 @@
 4	de	de	DET	_	Definite=Def	5	det	_	dutch=de
 5	lieten	liet	NOUN	_	Number=Plur	13	nsubj_pass	_	dutch=liederen
 6	yn	yn	ADP	_	VerbForm=Part	1	case	_	dutch=opgenomen
-7	opnommen	opnimme	VERB	_	VerbForm=Part	5	amod	_	dutch=opgenomen
+7	opnommen	opnimme	VERB	_	VerbForm=Part	0	root	_	dutch=opgenomen
 8	dy’t	dy’t	PRON	_	PronType=Rel	15	nsubj	_	dutch=die
 9	har	har	PRON	_	Case=Acc|Person=3|PronType=Prs	15	xcomp	_	dutch=hen
 10	by	by	ADP	_	_	0	root	_	dutch=bij
