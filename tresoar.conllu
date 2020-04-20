@@ -5418,7 +5418,7 @@
 8	dat	dat	SCONJ	_	_	13	mark	_	dutch=dat
 9	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	13	nsubj	_	dutch=hij
 10	net	net	ADV	_	_	13	advmod	_	dutch=niet
-11	wer	wer	ADV	_	VerbForm=Inf	13	xcomp	_	dutch=vertrekken
+11	wer	wer	ADV	_	VerbForm=Inf	13	advmod	_	dutch=vertrekken
 12	fuort	fuort	ADV	_	VerbForm=Inf	13	xcomp	_	dutch=vertrekken
 13	woe	wolle	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	5	advcl	_	dutch=wou
 14	.	.	PUNCT	_	_	2	punct	_	dutch=.
