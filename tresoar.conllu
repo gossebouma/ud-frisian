@@ -5441,7 +5441,7 @@
 11	,	,	PUNCT	_	_	10	punct	_	dutch=,
 12	dochs	dochs	ADV	_	_	10	advmod	_	dutch=toch
 13	wer	wer	ADV	_	_	0	root	_	dutch=KEY-MISSING
-14	yn	yn	ADP	_	_	17	case	_	dutch=in
+14	yn	yn	ADP	_	_	16	case	_	dutch=in
 15	syn	syn	PRON	_	_	16	nmod_poss	_	dutch=KEY-MISSING
 16	koets	koets	PRON	_	Gender=Com|Number=Sing	17	obl	_	dutch=koets
 17	sitten	sitte	VERB	_	Gender=Com|Number=Sing	10	obl	_	dutch=koets
