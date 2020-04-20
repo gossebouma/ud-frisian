@@ -5548,7 +5548,7 @@
 6	te	te	ADP	_	_	7	case	_	dutch=te
 7	Grou	Grou	PROPN	_	Gender=Neut|Number=Sing	12	obl	_	dutch=Grou
 8	‘	‘	PUNCT	_	_	10	root	_	dutch=‘
-9	’t	’t	DET	_	_	0	root	_	dutch=Gild
+9	’t	’t	DET	_	_	10	root	_	dutch=Gild
 10	Gild	Gild	NOUN	_	_	0	root	_	dutch=Gild
 11	’	’	PUNCT	_	_	0	root	_	dutch=’
 12	oprjochte	oprjochtsje	VERB	_	VerbForm=Part	0	root	_	dutch=opgericht
