@@ -5573,7 +5573,7 @@
 3	hie	hawwe	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=had
 4	ta	ta	ADP	_	_	10	compound_prt	_	dutch=tot
 5	doel	doel	NOUN	_	Gender=Neut|Number=Sing	4	fixed	_	dutch=doel
-6	om	om	ADP	_	Gender=Neut|Number=Sing	4	fixed	_	dutch=doel
+6	om	om	ADP	_	Gender=Neut|Number=Sing	10	fixed	_	dutch=doel
 7	finansjele	finansjeel	ADJ	_	Degree=Pos	8	amod	_	dutch=financiële
 8	stipe	stipe	NOUN	_	Gender=Com|Number=Sing	10	obj	_	dutch=ondersteuning
 9	te	te	ADP	_	_	10	mark	_	dutch=te
