@@ -5553,7 +5553,7 @@
 11	’	’	PUNCT	_	_	10	punct	_	dutch=’
 12	oprjochte	oprjochtsje	VERB	_	VerbForm=Part	0	root	_	dutch=opgericht
 13	,	,	PUNCT	_	_	12	punct	_	dutch=,
-14	ûnder	ûnder	ADP	_	_	16	root	_	dutch=onder
+14	ûnder	ûnder	ADP	_	_	16	case	_	dutch=onder
 15	it	it	DET	_	Definite=Def	16	root	_	dutch=de
 16	biedwurd	biedwurd	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=Eendragt
 17	‘	‘	PUNCT	_	_	16	punct	_	dutch=“
