@@ -6324,7 +6324,7 @@
 12	jo	jo	PRON	_	Person=2|Poss=Yes|PronType=Prs	13	nmod_poss	_	dutch=uw
 13	gedichten	gedicht	NOUN	_	Number=Plur	20	obj	_	dutch=gedichten
 14	it	it	DET	_	Definite=Def	20	obl	_	dutch=het
-15	leafst	leaf	ADJ	_	Degree=Sup	0	root	_	dutch=VAL-MISSING
+15	leafst	leaf	ADJ	_	Degree=Sup	14	root	_	dutch=VAL-MISSING
 16	yn	yn	ADP	_	_	19	case	_	dutch=in
 17	jo	jo	PRON	_	Person=2|Poss=Yes|PronType=Prs	19	nmod_poss	_	dutch=uw
 18	eigen	eigen	ADJ	_	Degree=Pos	19	amod	_	dutch=eigen
