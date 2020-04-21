@@ -6347,7 +6347,7 @@
 8	rinne	rinne	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	acl_relcl	_	dutch=loopt
 9	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	cop	_	dutch=is
 10	dat	dat	SCONJ	_	_	13	mark	_	dutch=dat
-11	net	net	ADV	_	Person=3|PronType=Ind	13	nsubj	_	dutch=niemand
+11	net	net	ADV	_	Person=3|PronType=Ind	13	advmod	_	dutch=niemand
 12	ien	ien	NUM	_	Person=3|PronType=Ind	13	nsubj	_	dutch=niemand
 13	wit	witte	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	csubj	_	dutch=weet
 14	hoe’t	hoe’t	ADV	_	_	17	advmod	_	dutch=hoe
