@@ -6743,7 +6743,7 @@
 11	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	8	nmod	_	dutch=Fries
 12	,	,	PUNCT	_	_	14	punct	_	dutch=,
 13	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	14	nmod_poss	_	dutch=zijn
-14	dichterskip	dichterskip	NOUN	_	Gender=Neut|Number=Sing	8	parataxis	_	dutch=dichterschap
+14	dichterskip	dichterskip	NOUN	_	Gender=Neut|Number=Sing	8	conj	_	dutch=dichterschap
 15	,	,	PUNCT	_	_	17	punct	_	dutch=,
 16	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	17	nmod_poss	_	dutch=zijn
 17	strideraasjes	strideraasje	NOUN	_	Number=Plur	14	conj	_	dutch=twisten
