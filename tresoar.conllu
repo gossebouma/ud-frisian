@@ -6120,7 +6120,7 @@
 6	dat	dat	SCONJ	_	_	9	mark	_	dutch=dat
 7	de	de	DET	_	Definite=Def	8	det	_	dutch=de
 8	Friezen	Fries	PROPN	_	Number=Plur	9	nsubj	_	dutch=Friezen
-9	frij	frij	ADJ	_	Degree=Pos	5	csubj_pass	_	dutch=vrij
+9	frij	frij	ADJ	_	Degree=Pos	5	ccomp	_	dutch=vrij
 10	wêze	wêze	AUX	_	VerbForm=Inf	9	cop	_	dutch=zijn
 11	soene	sille	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	9	aux	_	dutch=zouden
 12	.	.	PUNCT	_	_	5	punct	_	dutch=.
