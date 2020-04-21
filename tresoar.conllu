@@ -5600,7 +5600,7 @@
 7	yn	yn	ADP	_	_	9	case	_	dutch=in
 8	’e	’e	DET	_	Definite=Def	9	det	_	dutch=de
 9	leeftyd	leeftyd	NOUN	_	Gender=Com|Number=Sing	6	nmod	_	dutch=leeftijdscategorie
-10	fan	fan	ADP	_	_	0	root	_	dutch=KEY-MISSING
+10	fan	fan	ADP	_	_	16	root	_	dutch=KEY-MISSING
 11	16	16	NUM	_	_	16	nummod	_	dutch=16
 12	oant	oant	ADP	_	_	15	cc	_	dutch=tot
 13	en	en	CCONJ	_	_	12	fixed	_	dutch=en
