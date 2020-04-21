@@ -5679,7 +5679,7 @@
 9	sa	sa	SCONJ	_	_	12	mark	_	dutch=zoals
 10	as	as	SCONJ	_	_	12	mark	_	dutch=zoals
 11	it	it	DET	_	Definite=Def	12	det	_	dutch=het
-12	bywenjen	bywenjen	VERB	_	VerbForm=Inf	5	nmod	_	dutch=bijwonen
+12	bywenjen	bywenjen	VERB	_	VerbForm=Inf	7	nmod	_	dutch=bijwonen
 13	fan	fan	ADP	_	_	16	case	_	dutch=van
 14	begraffenissen	begraffenis	NOUN	_	Number=Plur	12	nmod	_	dutch=begrafenissen
 15	fan	fan	ADP	_	_	16	case	_	dutch=van
