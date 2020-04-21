@@ -6436,7 +6436,7 @@
 27	-	-	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
 28	nammentlik	nammentlik	ADV	_	_	0	root	_	dutch=VAL-MISSING
 29	Constantijn	Constantijn	PROPN	_	_	0	root	_	dutch=VAL-MISSING
-30	Huygens	Huygens	PROPN	_	_	0	root	_	dutch=KEY-MISSING
+30	Huygens	Huygens	PROPN	_	_	29	root	_	dutch=KEY-MISSING
 31	-	-	PUNCT	_	_	11	punct	_	dutch=–
 32	dan	dan	ADV	_	_	0	root	_	dutch=KEY-MISSING
 33	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	41	aux	_	dutch=heeft
