@@ -5711,7 +5711,7 @@
 14	yn	yn	ADP	_	_	16	case	_	dutch=in
 15	it	it	DET	_	Definite=Def	16	det	_	dutch=het
 16	jier	jier	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=oprichtingsjaar
-17	fan	fan	ADP	_	_	0	root	_	dutch=KEY-MISSING
+17	fan	fan	ADP	_	_	18	root	_	dutch=KEY-MISSING
 18	oprjochtsjen	oprjochtsje	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=oprichtingsjaar
 19	in	in	DET	_	Definite=Ind	20	det	_	dutch=een
 20	útjeftepost	útjeftepost	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=uitgavenpost
