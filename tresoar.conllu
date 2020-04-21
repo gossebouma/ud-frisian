@@ -6208,7 +6208,7 @@
 8	oarkonde	oarkonde	NOUN	_	Gender=Com|Number=Sing	5	obj	_	dutch=oorkonde
 9	oan	oan	ADP	_	_	11	case	_	dutch=aan
 10	de	de	DET	_	Definite=Def	11	det	_	dutch=de
-11	Friezen	Fries	PROPN	_	Number=Plur	5	nmod	_	dutch=Friezen
+11	Friezen	Fries	PROPN	_	Number=Plur	5	obl	_	dutch=Friezen
 12	dêr’t	dêr’t	ADV	_	_	19	advmod	_	dutch=waarin
 13	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	19	nsubj	_	dutch=hij
 14	de	de	DET	_	Definite=Def	15	det	_	dutch=de
