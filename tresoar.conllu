@@ -6707,7 +6707,7 @@
 14	bondele	bondelje	VERB	_	VerbForm=Part	1	conj	_	dutch=gebundeld
 15	,	,	PUNCT	_	_	1	punct	_	dutch=,
 16	koene	kinne	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	dutch=konden
-17	dy	dy	DET	_	Person=3|PronType=Dem	16	nsubj	_	dutch=die
+17	dy	dy	DET	_	Person=3|PronType=Dem	21	nsubj	_	dutch=die
 18	mear	folle	PRON	_	_	31	advmod	_	dutch=meer
 19	as	as	SCONJ	_	_	21	mark	_	dutch=dan
 20	fiiftûzen	fiiftûzen	NUM	_	_	21	nummod	_	dutch=vijfduizend
