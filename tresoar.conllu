@@ -6498,7 +6498,7 @@
 17	wurk	wurk	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=tand
 18	de	de	DET	_	Definite=Def	19	det	_	dutch=des
 19	tiid	tiid	NOUN	_	Gender=Com|Number=Sing	20	nmod	_	dutch=tijds
-20	treast	treast	NOUN	_	Gender=Com|Number=Sing	12	xcomp	_	dutch=tijds
+20	treast	treast	NOUN	_	Gender=Com|Number=Sing	12	csubj	_	dutch=tijds
 21	west	wêze	AUX	_	Gender=Com|Number=Sing	20	cop	_	dutch=tijds
 22	hat	hawwe	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	20	aux	_	dutch=heeft
 23	.	.	PUNCT	_	_	5	punct	_	dutch=.
