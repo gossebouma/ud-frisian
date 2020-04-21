@@ -6526,7 +6526,7 @@
 16	:	:	PUNCT	_	_	10	punct	_	dutch=:
 17	by	by	ADP	_	_	19	case	_	dutch=tijdens
 18	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	19	nmod_poss	_	dutch=zijn
-19	libben	libben	NOUN	_	Gender=Neut|Number=Sing	16	orphan	_	dutch=leven
+19	libben	libben	NOUN	_	Gender=Neut|Number=Sing	21	orphan	_	dutch=leven
 20	hast	hast	ADV	_	_	21	orphan	_	dutch=bijna
 21	gjinien	gjinien	PRON	_	Person=3|PronType=Ind	0	root	_	dutch=niemand
 22	dy’t	dy’t	PRON	_	PronType=Rel	26	nsubj	_	dutch=die
