@@ -6530,7 +6530,7 @@
 20	hast	hast	ADV	_	_	0	root	_	dutch=bijna
 21	gjinien	gjinien	PRON	_	Person=3|PronType=Ind	0	root	_	dutch=niemand
 22	dy’t	dy’t	PRON	_	PronType=Rel	26	nsubj	_	dutch=die
-23	de	de	DET	_	Person=3|Poss=Yes|PronType=Prs	24	nmod_poss	_	dutch=zijn
+23	de	de	DET	_	Person=3|Poss=Yes|PronType=Prs	24	det	_	dutch=zijn
 24	gedichten	gedicht	NOUN	_	Gender=Neut|Number=Sing	25	obj	_	dutch=werk
 25	útjaan	útjaan	VERB	_	VerbForm=Inf	26	xcomp	_	dutch=publiceren
 26	woe	wolle	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	21	acl_relcl	_	dutch=wilde
