@@ -6425,7 +6425,7 @@
 16	komt	komme	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	11	conj	_	dutch=komt
 17	fan	fan	ADP	_	_	18	case	_	dutch=van
 18	ien	ien	NUM	_	_	16	obl	_	dutch=één
-19	fan	fan	ADP	_	_	18	case	_	dutch=van
+19	fan	fan	ADP	_	_	23	case	_	dutch=van
 20	de	de	DET	_	Definite=Def	22	det	_	dutch=de
 21	meast	folle	ADV	_	Degree=Sup	22	amod	_	dutch=voornaamste
 22	ferneamde	ferneamde	ADJ	_	Number=Plur	18	nmod	_	dutch=dichters
