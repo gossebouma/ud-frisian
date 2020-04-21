@@ -6157,7 +6157,7 @@
 3	is	wêze	AUX	_	Gender=Com|Number=Sing	11	aux	_	dutch=sage
 4	nei	nei	ADP	_	Degree=Pos	6	case	_	dutch=waarschijnlijk
 5	alle	al	DET	_	Degree=Pos	6	det	_	dutch=waarschijnlijk
-6	gedachten	gedachte	NOUN	_	Degree=Pos	2	advmod	_	dutch=waarschijnlijk
+6	gedachten	gedachte	NOUN	_	Degree=Pos	11	advmod	_	dutch=waarschijnlijk
 7	yn	yn	ADP	_	_	10	case	_	dutch=in
 8	’e	’e	DET	_	Definite=Def	10	det	_	dutch=de
 9	alfte	alve	ADJ	_	_	10	amod	_	dutch=elfde
