@@ -5991,7 +5991,7 @@
 # NOT ALIGNED
 1	Dy	dy	DET	_	_	2	det	_	dutch=Deze
 2	bataljons	Bataljon	NOUN	_	Number=Plur	0	root	_	dutch=bataljons
-3	wiene	wêze	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	6	root	_	dutch=waren
+3	wiene	wêze	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	6	cop	_	dutch=waren
 4	saneamde	saneamd	ADJ	_	Degree=Pos	6	root	_	dutch=zogenaamde
 5	O.V.W.	O.V.W.	PROPN	_	_	6	root	_	dutch=V.
 6	bataljons	bataljon	NOUN	_	Number=Plur	0	root	_	dutch=bataljons
