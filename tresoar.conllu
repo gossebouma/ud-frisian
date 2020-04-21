@@ -6528,7 +6528,7 @@
 18	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	19	nmod_poss	_	dutch=zijn
 19	libben	libben	NOUN	_	Gender=Neut|Number=Sing	21	orphan	_	dutch=leven
 20	hast	hast	ADV	_	_	21	orphan	_	dutch=bijna
-21	gjinien	gjinien	PRON	_	Person=3|PronType=Ind	0	root	_	dutch=niemand
+21	gjinien	gjinien	PRON	_	Person=3|PronType=Ind	10	root	_	dutch=niemand
 22	dy’t	dy’t	PRON	_	PronType=Rel	26	nsubj	_	dutch=die
 23	de	de	DET	_	Person=3|Poss=Yes|PronType=Prs	24	det	_	dutch=zijn
 24	gedichten	gedicht	NOUN	_	Gender=Neut|Number=Sing	25	obj	_	dutch=werk
