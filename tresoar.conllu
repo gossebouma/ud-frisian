@@ -6201,7 +6201,7 @@
 1	Op	op	ADP	_	_	2	case	_	dutch=Op
 2	30	30	NUM	_	_	5	obl	_	dutch=30
 3	septimber	septimber	PROPN	_	Gender=Com|Number=Sing	2	fixed	_	dutch=september
-4	1417	1417	NUM	_	VerbForm=Part	2	acl	_	dutch=verstrekte
+4	1417	1417	NUM	_	VerbForm=Part	2	fixed	_	dutch=verstrekte
 5	jout	jaan	VERB	_	_	0	root	_	dutch=1417
 6	Sigismund	Sigismund	PROPN	_	Gender=Com|Number=Sing	5	nsubj	_	dutch=Sigismund
 7	in	in	DET	_	Definite=Ind	8	det	_	dutch=een
