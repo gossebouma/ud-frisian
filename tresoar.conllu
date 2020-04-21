@@ -6223,7 +6223,7 @@
 23	wie	wêze	AUX	_	_	21	case	_	dutch=KEY-MISSING
 24	dat	dat	SCONJ	_	Person=3|PronType=Dem	28	nsubj_pass	_	dutch=die
 25	se	se	PRON	_	Case=Acc|Person=3|PronType=Prs	28	iobj	_	dutch=hen
-26	oan	oan	ADP	_	_	27	root	_	dutch=KEY-MISSING
+26	oan	oan	ADP	_	_	27	case	_	dutch=KEY-MISSING
 27	har	har	PRON	_	Case=Acc|Person=3|PronType=Prs	28	iobj	_	dutch=hen
 28	takend	takenne	VERB	_	VerbForm=Part	21	csubj	_	dutch=toegekend
 29	wiene	wêze	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	28	aux_pass	_	dutch=waren
