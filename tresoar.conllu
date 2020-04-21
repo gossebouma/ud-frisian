@@ -6703,7 +6703,7 @@
 10	op	op	ADP	_	_	12	case	_	dutch=op
 11	alfabetyske	alfabetysk	ADJ	_	Degree=Pos	12	amod	_	dutch=alfabetische
 12	folchoarder	folchoarder	NOUN	_	Gender=Com|Number=Sing	14	obl	_	dutch=volgorde
-13	byinoar	byinoar	ADV	_	VerbForm=Part	14	conj	_	dutch=gebundeld
+13	byinoar	byinoar	ADV	_	VerbForm=Part	14	advmod	_	dutch=gebundeld
 14	bondele	bondelje	VERB	_	VerbForm=Part	1	conj	_	dutch=gebundeld
 15	,	,	PUNCT	_	_	1	punct	_	dutch=,
 16	koene	kinne	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	dutch=konden
