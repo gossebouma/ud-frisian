@@ -5683,7 +5683,7 @@
 13	fan	fan	ADP	_	_	14	case	_	dutch=van
 14	begraffenissen	begraffenis	NOUN	_	Number=Plur	12	nmod	_	dutch=begrafenissen
 15	fan	fan	ADP	_	_	17	case	_	dutch=van
-16	oare	oar	ADJ	_	Number=Plur	17	nmod	_	dutch=begrafenissen
+16	oare	oar	ADJ	_	Number=Plur	17	amod	_	dutch=begrafenissen
 17	leden	lid	NOUN	_	Number=Plur	14	nmod	_	dutch=begrafenissen
 18	fan	fan	ADP	_	_	20	case	_	dutch=van
 19	har	har	PRON	_	Number=Plur	20	nmod_poss	_	dutch=medegildeleden
