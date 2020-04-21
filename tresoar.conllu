@@ -6190,7 +6190,7 @@
 18	nij	nij	ADJ	_	_	19	obl	_	dutch=opnieuw
 19	befêstigje	befêstigje	VERB	_	VerbForm=Inf	21	xcomp	_	dutch=bevestigen
 20	te	te	ADP	_	_	21	mark	_	dutch=te
-21	litten	litte	VERB	_	VerbForm=Inf	2	root	_	dutch=laten
+21	litten	litte	VERB	_	VerbForm=Inf	0	root	_	dutch=laten
 22	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
 # sent_id = 279
