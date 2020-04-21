@@ -6596,7 +6596,7 @@
 10	wiene	wêze	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	18	cop	_	dutch=waren
 11	dat	dat	PRON	_	Person=3|PronType=Prs	18	nsubj	_	dutch=dat
 12	út	út	ADP	_	_	18	advmod	_	dutch=uiteraard
-13	soarte	soart	NOUN	_	_	18	advmod	_	dutch=uiteraard
+13	soarte	soart	NOUN	_	_	12	advmod	_	dutch=uiteraard
 14	ek	ek	ADV	_	_	18	advmod	_	dutch=ook
 15	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	18	nmod_poss	_	dutch=zijn
 16	eigen	eigen	ADJ	_	Degree=Pos	18	amod	_	dutch=eigen
