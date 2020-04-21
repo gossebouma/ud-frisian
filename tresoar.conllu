@@ -6087,7 +6087,7 @@
 20	de	de	DET	_	Definite=Def	22	det	_	dutch=de
 21	Nederlânske	Nederlânsk	ADJ	_	Degree=Pos	22	amod	_	dutch=Nederlandse
 22	troepen	troep	NOUN	_	Number=Plur	18	nmod	_	dutch=troepen
-23	ûnderstek	ûnderstek	NOUN	_	VerbForm=Inf	25	advcl	_	dutch=ondermijnen
+23	ûnderstek	ûnderstek	NOUN	_	VerbForm=Inf	25	fixed	_	dutch=ondermijnen
 24	te	te	ADP	_	_	25	mark	_	dutch=te
 25	dwaan	dwaan	VERB	_	VerbForm=Inf	15	advcl	_	dutch=ondermijnen
 26	.	.	PUNCT	_	_	7	punct	_	dutch=.
