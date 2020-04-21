@@ -6497,7 +6497,7 @@
 16	jo	jo	PRON	_	Person=2|Poss=Yes|PronType=Prs	17	nmod_poss	_	dutch=uw
 17	wurk	wurk	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=tand
 18	de	de	DET	_	Definite=Def	19	det	_	dutch=des
-19	tiid	tiid	NOUN	_	Gender=Com|Number=Sing	17	nmod	_	dutch=tijds
+19	tiid	tiid	NOUN	_	Gender=Com|Number=Sing	20	nmod	_	dutch=tijds
 20	treast	treast	NOUN	_	Gender=Com|Number=Sing	17	nmod	_	dutch=tijds
 21	west	wêze	AUX	_	Gender=Com|Number=Sing	17	nmod	_	dutch=tijds
 22	hat	hawwe	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=heeft
