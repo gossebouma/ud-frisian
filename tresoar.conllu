@@ -5914,7 +5914,7 @@
 # NOT ALIGNED
 1	Saskia	Saskia	PROPN	_	Gender=Com|Number=Sing	2	nsubj	_	dutch=Saskia
 2	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=werd
-3	wees	wees	VERB	_	Gender=Com|Number=Sing	0	root	_	dutch=leeftijd
+3	wees	wees	VERB	_	Gender=Com|Number=Sing	2	root	_	dutch=leeftijd
 4	doe’t	doe’t	ADV	_	Degree=Pos	3	amod	_	dutch=twaalfjarige
 5	se	se	PRON	_	_	7	nsubj	_	dutch=KEY-MISSING
 6	tolve	tolve	NUM	_	_	7	root	_	dutch=KEY-MISSING
