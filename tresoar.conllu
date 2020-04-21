@@ -6659,7 +6659,7 @@
 14	wurk	wurk	NOUN	_	Number=Plur	10	nmod	_	dutch=werken
 15	fan	fan	ADP	_	_	16	case	_	dutch=van
 16	Shakespeare	Shakespeare	PROPN	_	Gender=Com|Number=Sing	14	nmod	_	dutch=Shakespeare
-17	op	op	ADP	_	_	7	obl	_	dutch=op
+17	op	op	ADP	_	_	7	case	_	dutch=op
 18	skreau	skriuwe	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	6	acl_relcl	_	dutch=schreef
 19	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
