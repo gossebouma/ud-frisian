@@ -5788,7 +5788,7 @@
 18	fan	fan	ADP	_	_	19	case	_	dutch=van
 19	St.	St.	PROPN	_	Gender=Com_Neut|Number=Sing	17	nmod	_	dutch=St
 20	Anne	Anne	PROPN	_	Gender=Com|Number=Sing	19	flat	_	dutch=Annaparochie
-21	.	.	PUNCT	_	_	20	punct	_	dutch=.
+21	.	.	PUNCT	_	_	6	punct	_	dutch=.
 
 # sent_id = 259
 # text = De dûmny makke fan it houlik in oantekening yn it dêrfoar bestimde register .
