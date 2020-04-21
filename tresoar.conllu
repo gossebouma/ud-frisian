@@ -6746,7 +6746,7 @@
 14	dichterskip	dichterskip	NOUN	_	Gender=Neut|Number=Sing	8	conj	_	dutch=dichterschap
 15	,	,	PUNCT	_	_	17	punct	_	dutch=,
 16	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	17	nmod_poss	_	dutch=zijn
-17	strideraasjes	strideraasje	NOUN	_	Number=Plur	14	conj	_	dutch=twisten
+17	strideraasjes	strideraasje	NOUN	_	Number=Plur	8	conj	_	dutch=twisten
 18	en	en	CCONJ	_	_	20	cc	_	dutch=en
 19	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	20	nmod_poss	_	dutch=zijn
 20	freonskippen	freonskip	NOUN	_	Number=Plur	14	conj	_	dutch=vriendschappen
