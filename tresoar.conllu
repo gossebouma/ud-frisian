@@ -6487,7 +6487,7 @@
 6	wurde	wurde	AUX	_	VerbForm=Inf	5	aux_pass	_	dutch=worden
 7	dat	dat	SCONJ	_	_	0	root	_	dutch=dat
 8	it	it	PRON	_	_	0	root	_	dutch=KEY-MISSING
-9	op	op	ADP	_	_	12	root	_	dutch=op
+9	op	op	ADP	_	_	12	advmod	_	dutch=op
 10	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	9	fixed	_	dutch=zijn
 11	minst	min	ADV	_	Degree=Sup	9	fixed	_	dutch=minst
 12	bliken	blike	AUX	_	_	0	root	_	dutch=KEY-MISSING
