@@ -5860,7 +5860,7 @@
 18	,	,	PUNCT	_	_	19	punct	_	dutch=,
 19	Hendrik	Hendrik	PROPN	_	Gender=Com|Number=Sing	15	appos	_	dutch=Hendrik
 20	van	van	PROPN	_	_	19	flat	_	dutch=van
-21	Uylenburgh	Uylenburgh	PROPN	_	Gender=Com|Number=Sing	19	obl	_	dutch=Uylenburgh
+21	Uylenburgh	Uylenburgh	PROPN	_	Gender=Com|Number=Sing	19	flat	_	dutch=Uylenburgh
 22	,	,	PUNCT	_	_	27	punct	_	dutch=,
 23	dy’t	dy’t	PRON	_	PronType=Rel	27	nsubj	_	dutch=die
 24	yn	yn	ADP	_	_	25	case	_	dutch=in
