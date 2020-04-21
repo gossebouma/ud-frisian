@@ -5805,7 +5805,7 @@
 8	oantekening	oantekening	NOUN	_	Gender=Com|Number=Sing	3	obj	_	dutch=aantekening
 9	yn	yn	ADP	_	_	13	case	_	dutch=in
 10	it	it	DET	_	Definite=Def	13	det	_	dutch=het
-11	dêrfoar	dêrfoar	ADV	_	VerbForm=Part	12	acl	_	dutch=bestemde
+11	dêrfoar	dêrfoar	ADV	_	VerbForm=Part	12	advmod	_	dutch=bestemde
 12	bestimde	bestimme	VERB	_	VerbForm=Part	13	acl	_	dutch=bestemde
 13	register	register	NOUN	_	Gender=Neut|Number=Sing	8	nmod	_	dutch=register
 14	.	.	PUNCT	_	_	3	punct	_	dutch=.
