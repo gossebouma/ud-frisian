@@ -6067,7 +6067,7 @@
 # ALIGNED
 1	Sa	sa	ADV	_	_	7	advmod	_	dutch=Zo
 2	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	7	cop	_	dutch=zijn
-3	der	der	ADV	_	_	2	nsubj	_	dutch=er
+3	der	der	ADV	_	_	7	nsubj	_	dutch=er
 4	inkelde	inkeld	DET	_	_	5	det	_	dutch=enkele
 5	pamfletten	pamflet	NOUN	_	Number=Plur	7	xcomp	_	dutch=pamfletten
 6	bewarre	bewarje	VERB	_	VerbForm=Part	5	obl	_	dutch=bewaard
