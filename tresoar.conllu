@@ -6523,7 +6523,7 @@
 13	-	-	PUNCT	_	_	14	punct	_	dutch=(
 14	1666	1666	NUM	_	_	9	nmod	_	dutch=1666
 15	)	)	PUNCT	_	_	14	punct	_	dutch=)
-16	:	:	PUNCT	_	_	0	root	_	dutch=:
+16	:	:	PUNCT	_	_	10	root	_	dutch=:
 17	by	by	ADP	_	_	19	case	_	dutch=tijdens
 18	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	19	nmod_poss	_	dutch=zijn
 19	libben	libben	NOUN	_	Gender=Neut|Number=Sing	16	orphan	_	dutch=leven
