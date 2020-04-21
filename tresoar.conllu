@@ -6499,7 +6499,7 @@
 18	de	de	DET	_	Definite=Def	19	det	_	dutch=des
 19	tiid	tiid	NOUN	_	Gender=Com|Number=Sing	20	nmod	_	dutch=tijds
 20	treast	treast	NOUN	_	Gender=Com|Number=Sing	17	nmod	_	dutch=tijds
-21	west	wêze	AUX	_	Gender=Com|Number=Sing	20	nmod	_	dutch=tijds
+21	west	wêze	AUX	_	Gender=Com|Number=Sing	20	aux	_	dutch=tijds
 22	hat	hawwe	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	20	root	_	dutch=heeft
 23	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
