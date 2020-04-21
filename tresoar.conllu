@@ -5937,7 +5937,7 @@
 # ALIGNED
 1	Pamfletten	pamflet	NOUN	_	Number=Plur	0	root	_	dutch=Pamfletten
 2	fan	fan	ADP	_	_	6	case	_	dutch=van
-3	it	it	DET	_	Definite=Def	6	det	_	dutch=het
+3	it	it	DET	_	Definite=Def	4	det	_	dutch=het
 4	Yndysk	Yndysk	PROPN	_	Degree=Pos	6	amod	_	dutch=Indonesisch
 5	Republikeinske	Republikeinske	PROPN	_	Degree=Pos	4	amod	_	dutch=Republikeinse
 6	leger	leger	PROPN	_	Gender=Neut|Number=Sing	1	nmod	_	dutch=leger
