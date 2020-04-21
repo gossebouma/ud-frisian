@@ -6700,7 +6700,7 @@
 7	fan	fan	ADP	_	_	8	case	_	dutch=van
 8	ferstjoeren	ferstjoere	VERB	_	VerbForm=Inf	1	obl	_	dutch=verzenden
 9	en	en	CCONJ	_	_	14	cc	_	dutch=en
-10	op	op	ADP	_	_	6	case	_	dutch=op
+10	op	op	ADP	_	_	12	case	_	dutch=op
 11	alfabetyske	alfabetysk	ADJ	_	Degree=Pos	12	amod	_	dutch=alfabetische
 12	folchoarder	folchoarder	NOUN	_	Gender=Com|Number=Sing	14	obl	_	dutch=volgorde
 13	byinoar	byinoar	ADV	_	VerbForm=Part	1	conj	_	dutch=gebundeld
