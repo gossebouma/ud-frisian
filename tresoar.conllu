@@ -6071,7 +6071,7 @@
 4	inkelde	inkeld	DET	_	_	5	det	_	dutch=enkele
 5	pamfletten	pamflet	NOUN	_	Number=Plur	7	xcomp	_	dutch=pamfletten
 6	bewarre	bewarje	VERB	_	VerbForm=Part	5	obl	_	dutch=bewaard
-7	bleaun	bliuwe	VERB	_	VerbForm=Part	2	advcl	_	dutch=gebleven
+7	bleaun	bliuwe	VERB	_	VerbForm=Part	0	root	_	dutch=gebleven
 8	dy’t	dy’t	PRON	_	PronType=Rel	15	obj	_	dutch=die
 9	oanhingers	oanhinger	NOUN	_	Number=Plur	15	nsubj	_	dutch=aanhangers
 10	fan	fan	ADP	_	_	14	case	_	dutch=van
