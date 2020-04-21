@@ -5974,7 +5974,7 @@
 25	mei	mei	ADP	_	_	26	compound_prt	_	dutch=mee
 26	helpe	helpe	VERB	_	VerbForm=Inf	20	acl_relcl	_	dutch=helpen
 27	soe	sille	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	26	aux	_	dutch=zou
-28	om	om	ADP	_	VerbForm=Inf	20	acl_relcl	_	dutch=helpen
+28	om	om	ADP	_	VerbForm=Inf	31	acl_relcl	_	dutch=helpen
 29	Ynje	Ynje	PROPN	_	VerbForm=Inf	26	ccomp	_	dutch=bevrijden
 30	te	te	ADP	_	VerbForm=Inf	31	mark	_	dutch=bevrijden
 31	befrijen	befrije	VERB	_	VerbForm=Inf	26	ccomp	_	dutch=bevrijden
