@@ -6444,7 +6444,7 @@
 35	wurk	wurk	NOUN	_	Gender=Neut|Number=Sing	41	nsubj	_	dutch=werk
 36	wol	wol	ADV	_	_	41	root	_	dutch=KEY-MISSING
 37	in	in	DET	_	Definite=Ind	40	det	_	dutch=een
-38	hiel	hiel	ADJ	_	Definite=Ind	39	amod	_	dutch=een
+38	hiel	hiel	ADJ	_	Definite=Ind	39	advmod	_	dutch=een
 39	wûndere	wûnder	ADJ	_	VerbForm=Part	40	amod	_	dutch=afgelegd
 40	wei	wei	NOUN	_	Gender=Com|Number=Sing	41	obj	_	dutch=weg
 41	gien	gean	VERB	_	VerbForm=Part	0	root	_	dutch=afgelegd
