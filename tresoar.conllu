@@ -5826,7 +5826,7 @@
 9	Boargerlike	Boargerlike	PROPN	_	_	6	nmod	_	dutch=Burgerlijke
 10	Stân	Stân	PROPN	_	_	9	flat	_	dutch=Stand
 11	dy’t	dy’t	PRON	_	_	18	obj	_	dutch=door
-12	Napoleon	Napoleon	PROPN	_	Gender=Com|Number=Sing	14	nmod	_	dutch=Napoleon
+12	Napoleon	Napoleon	PROPN	_	Gender=Com|Number=Sing	18	nmod	_	dutch=Napoleon
 13	yn	yn	ADP	_	_	14	case	_	dutch=in
 14	1811	1811	NUM	_	_	18	obl	_	dutch=1811
 15	yn	yn	ADP	_	_	17	case	_	dutch=in
