@@ -5675,7 +5675,7 @@
 5	ferplichting	ferplichting	NOUN	_	Number=Plur	2	obj	_	dutch=verplichtingen
 6	ek	ek	ADV	_	_	7	advmod	_	dutch=ook
 7	oare	oare	ADJ	_	Degree=Pos	5	amod	_	dutch=andere
-8	,	,	PUNCT	_	_	2	root	_	dutch=KEY-MISSING
+8	,	,	PUNCT	_	_	2	punct	_	dutch=KEY-MISSING
 9	sa	sa	SCONJ	_	_	12	mark	_	dutch=zoals
 10	as	as	SCONJ	_	_	12	mark	_	dutch=zoals
 11	it	it	DET	_	Definite=Def	12	det	_	dutch=het
