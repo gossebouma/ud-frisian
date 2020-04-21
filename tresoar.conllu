@@ -6521,7 +6521,7 @@
 11	(	(	PUNCT	_	_	14	punct	_	dutch=(
 12	1603	1603	NUM	_	_	14	nummod	_	dutch=1603-
 13	-	-	PUNCT	_	_	14	punct	_	dutch=(
-14	1666	1666	NUM	_	_	9	obl	_	dutch=1666
+14	1666	1666	NUM	_	_	9	nmod	_	dutch=1666
 15	)	)	PUNCT	_	_	14	punct	_	dutch=)
 16	:	:	PUNCT	_	_	0	root	_	dutch=:
 17	by	by	ADP	_	_	19	case	_	dutch=tijdens
