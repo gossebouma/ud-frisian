@@ -6378,7 +6378,7 @@
 13	der	der	ADV	_	_	12	advmod	_	dutch=er
 14	hast	hast	ADV	_	_	12	advmod	_	dutch=bijna
 15	net	net	ADV	_	Person=3|PronType=Ind	12	nsubj	_	dutch=niemand
-16	ien	ien	NUM	_	Person=3|PronType=Ind	12	nsubj	_	dutch=niemand
+16	ien	ien	NUM	_	Person=3|PronType=Ind	15	nsubj	_	dutch=niemand
 17	dy’t	dy’t	PRON	_	PronType=Rel	19	nsubj	_	dutch=die
 18	it	it	DET	_	Person=3|PronType=Prs	19	obj	_	dutch=het
 19	lêze	lêze	VERB	_	VerbForm=Inf	15	acl_relcl	_	dutch=lezen
