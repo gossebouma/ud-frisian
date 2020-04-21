@@ -6624,7 +6624,7 @@
 11	yn	yn	ADP	_	_	13	case	_	dutch=in
 12	’e	’e	DET	_	Definite=Def	13	det	_	dutch=de
 13	wrâld	wrâld	NOUN	_	Gender=Com|Number=Sing	14	obl	_	dutch=wereld
-14	promovearre	promovearje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	6	parataxis	_	dutch=promoveerde
+14	promovearre	promovearje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	6	advcl	_	dutch=promoveerde
 15	op	op	ADP	_	_	22	case	_	dutch=op
 16	in	in	DET	_	Definite=Ind	22	det	_	dutch=een
 17	alhiel	alhiel	ADV	_	Degree=Pos	21	advmod	_	dutch=geheel
