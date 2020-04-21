@@ -6015,7 +6015,7 @@
 6	Friesland	Friesland	PROPN	_	_	5	flat	_	dutch=Friesland
 7	lei	lizze	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=lag
 8	by	by	ADP	_	_	11	case	_	dutch=binnen
-9	de	de	DET	_	Definite=Def	11	det	_	dutch=de
+9	de	de	DET	_	Definite=Def	10	det	_	dutch=de
 10	Binnenlandse	Binnenlandse	PROPN	_	Degree=Pos	11	amod	_	dutch=Binnenlandse
 11	Strijdkrachten	Strijdkrachten	PROPN	_	Number=Plur	7	obl	_	dutch=Strijdkrachten
 12	.	.	PUNCT	_	_	7	punct	_	dutch=.
