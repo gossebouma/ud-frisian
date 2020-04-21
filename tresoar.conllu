@@ -5736,7 +5736,7 @@
 6	Backer	Backer	PROPN	_	Gender=Com|Number=Sing	5	flat	_	dutch=Backer
 7	en	en	CCONJ	_	_	9	cc	_	dutch=en
 8	wie	wêze	AUX	_	Gender=Com|Number=Sing	9	cop	_	dutch=was
-9	bedoeld	bedoele	VERB	_	VerbForm=Part	3	root	_	dutch=bestemd
+9	bedoeld	bedoele	VERB	_	VerbForm=Part	3	conj	_	dutch=bestemd
 10	foar	foar	ADP	_	_	12	case	_	dutch=voor
 11	it	it	DET	_	Definite=Def	12	det	_	dutch=het
 12	opbergjen	opbergje	NOUN	_	VerbForm=Inf	9	obl	_	dutch=opbergen
