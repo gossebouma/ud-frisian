@@ -6437,7 +6437,7 @@
 28	nammentlik	nammentlik	ADV	_	_	29	advmod	_	dutch=VAL-MISSING
 29	Constantijn	Constantijn	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 30	Huygens	Huygens	PROPN	_	_	29	flat	_	dutch=KEY-MISSING
-31	-	-	PUNCT	_	_	11	punct	_	dutch=–
+31	-	-	PUNCT	_	_	29	punct	_	dutch=–
 32	dan	dan	ADV	_	_	0	root	_	dutch=KEY-MISSING
 33	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	41	aux	_	dutch=heeft
 34	jo	jo	PRON	_	Person=2|Poss=Yes|PronType=Prs	35	nmod_poss	_	dutch=uw
