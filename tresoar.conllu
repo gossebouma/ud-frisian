@@ -5966,7 +5966,7 @@
 17	Bernhard	Bernhard	PROPN	_	Gender=Com|Number=Sing	16	flat	_	dutch=Bernhard
 18	,	,	PUNCT	_	_	20	punct	_	dutch=,
 19	in	in	DET	_	Definite=Ind	20	det	_	dutch=een
-20	bataljon	bataljon	NOUN	_	Gender=Neut|Number=Sing	23	appos	_	dutch=bataljon
+20	bataljon	bataljon	NOUN	_	Gender=Neut|Number=Sing	23	obj	_	dutch=bataljon
 21	fan	fan	ADP	_	_	22	case	_	dutch=van
 22	frijwilligers	frijwilliger	NOUN	_	Number=Plur	20	nmod	_	dutch=vrijwilligers
 23	formearre	formearje	VERB	_	Gender=Neut|Number=Sing	0	root	_	dutch=Indonesië
