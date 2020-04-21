@@ -5760,7 +5760,7 @@
 1	Houlik	houlik	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=Huwelijk
 2	fan	fan	ADP	_	_	3	case	_	dutch=van
 3	Rembrandt	Rembrandt	PROPN	_	Gender=Com|Number=Sing	1	nmod	_	dutch=Rembrandt
-4	van	van	PROPN	_	_	3	parataxis	_	dutch=van
+4	van	van	PROPN	_	_	3	flat	_	dutch=van
 5	Rhijn	Rhijn	PROPN	_	_	3	flat	_	dutch=Rhijn
 
 # sent_id = 257
