@@ -5866,7 +5866,7 @@
 24	yn	yn	ADP	_	_	25	case	_	dutch=in
 25	Amsterdam	Amsterdam	PROPN	_	Gender=Neut|Number=Sing	27	obl	_	dutch=Amsterdam
 26	in	in	DET	_	Definite=Ind	28	det	_	dutch=een
-27	keunsthannel	keunsthannel	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	21	acl_relcl	_	dutch=dreef
+27	keunsthannel	keunsthannel	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	28	acl_relcl	_	dutch=dreef
 28	hie	hawwe	VERB	_	Gender=Com|Number=Sing	15	acl_relcl	_	dutch=kunsthandel
 29	.	.	PUNCT	_	_	4	punct	_	dutch=.
 
