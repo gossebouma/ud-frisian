@@ -5875,7 +5875,7 @@
 # source_text = Bekend is dat Rembrandt daar sinds 1632 met enige regelmaat logeerde .
 # alignment =  0-0 1-1 2-0 3-2 4-3 5-4 6-5 7-9 8-9 9-10 10-11
 # NOT ALIGNED
-1	It	it	PRON	_	Degree=Pos	3	root	_	dutch=Bekend
+1	It	it	PRON	_	Degree=Pos	3	nsubj	_	dutch=Bekend
 2	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	3	cop	_	dutch=is
 3	bekend	bekend	ADJ	_	Degree=Pos	0	root	_	dutch=Bekend
 4	dat	dat	SCONJ	_	_	10	mark	_	dutch=dat
