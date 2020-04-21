@@ -6161,7 +6161,7 @@
 7	yn	yn	ADP	_	_	10	case	_	dutch=in
 8	’e	’e	DET	_	Definite=Def	10	det	_	dutch=de
 9	alfte	alve	ADJ	_	_	10	amod	_	dutch=elfde
-10	iuw	iuw	NOUN	_	Gender=Com|Number=Sing	2	obl	_	dutch=eeuw
+10	iuw	iuw	NOUN	_	Gender=Com|Number=Sing	11	obl	_	dutch=eeuw
 11	ûntstien	ûntstean	VERB	_	_	0	root	_	dutch=elfde
 12	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
