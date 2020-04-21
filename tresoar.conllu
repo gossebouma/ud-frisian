@@ -6205,7 +6205,7 @@
 5	jout	jaan	VERB	_	_	0	root	_	dutch=1417
 6	Sigismund	Sigismund	PROPN	_	Gender=Com|Number=Sing	5	nsubj	_	dutch=Sigismund
 7	in	in	DET	_	Definite=Ind	8	det	_	dutch=een
-8	oarkonde	oarkonde	NOUN	_	Gender=Com|Number=Sing	6	parataxis	_	dutch=oorkonde
+8	oarkonde	oarkonde	NOUN	_	Gender=Com|Number=Sing	5	parataxis	_	dutch=oorkonde
 9	oan	oan	ADP	_	_	11	case	_	dutch=aan
 10	de	de	DET	_	Definite=Def	11	det	_	dutch=de
 11	Friezen	Fries	PROPN	_	Number=Plur	8	nmod	_	dutch=Friezen
