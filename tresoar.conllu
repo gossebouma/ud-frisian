@@ -5969,7 +5969,7 @@
 20	bataljon	bataljon	NOUN	_	Gender=Neut|Number=Sing	16	appos	_	dutch=bataljon
 21	fan	fan	ADP	_	_	22	case	_	dutch=van
 22	frijwilligers	frijwilliger	NOUN	_	Number=Plur	20	nmod	_	dutch=vrijwilligers
-23	formearre	formearje	VERB	_	Gender=Neut|Number=Sing	30	obj	_	dutch=Indonesië
+23	formearre	formearje	VERB	_	Gender=Neut|Number=Sing	0	root	_	dutch=Indonesië
 24	dat	dat	PRON	_	Person=3|PronType=Rel	26	nsubj	_	dutch=dat
 25	mei	mei	ADP	_	_	26	advmod	_	dutch=mee
 26	helpe	helpe	VERB	_	VerbForm=Inf	20	acl_relcl	_	dutch=helpen
