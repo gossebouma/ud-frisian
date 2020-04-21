@@ -5731,7 +5731,7 @@
 1	It	it	PRON	_	Person=3|PronType=Prs	3	nsubj_pass	_	dutch=Het
 2	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	3	aux_pass	_	dutch=werd
 3	makke	meitsje	VERB	_	VerbForm=Part	0	root	_	dutch=gemaakt
-4	troch	troch	ADP	_	_	0	root	_	dutch=door
+4	troch	troch	ADP	_	_	5	root	_	dutch=door
 5	H.	H.	PROPN	_	_	3	punct	_	dutch=.
 
 # sent_id = 254
