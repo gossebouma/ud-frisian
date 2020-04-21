@@ -5847,7 +5847,7 @@
 5	nei	nei	ADP	_	Degree=Pos	7	case	_	dutch=waarschijnlijk
 6	alle	al	DET	_	Degree=Pos	7	det	_	dutch=waarschijnlijk
 7	gedachten	gedachte	NOUN	_	Degree=Pos	11	advmod	_	dutch=waarschijnlijk
-8	mei-inoar	mei-inoar	ADV	_	Case=Acc|PronType=Rcp	12	obj	_	dutch=elkaar
+8	mei-inoar	mei-inoar	ADV	_	Case=Acc|PronType=Rcp	12	obl	_	dutch=elkaar
 9	yn	yn	ADP	_	_	11	case	_	dutch=KEY-MISSING
 10	’e	’e	DET	_	_	11	det	_	dutch=KEY-MISSING
 11	kunde	kunde	NOUN	_	VerbForm=Inf	0	root	_	dutch=kennen
