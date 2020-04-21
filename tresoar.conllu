@@ -6077,7 +6077,7 @@
 10	fan	fan	ADP	_	_	12	case	_	dutch=van
 11	it	it	DET	_	Definite=Def	12	det	_	dutch=het
 12	Yndyske	Yndyske	PROPN	_	Degree=Pos	9	nmod	_	dutch=Indonesische
-13	Republikeinske	Republikeinsk	PROPN	_	Degree=Pos	12	amod	_	dutch=Republikeinse
+13	Republikeinske	Republikeinsk	PROPN	_	Degree=Pos	12	flat	_	dutch=Republikeinse
 14	leger	leger	PROPN	_	Gender=Neut|Number=Sing	9	nmod	_	dutch=leger
 15	brûkten	brûkte	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	5	advcl	_	dutch=gebruikten
 16	om	om	ADP	_	_	25	mark	_	dutch=om
