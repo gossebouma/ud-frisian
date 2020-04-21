@@ -6438,7 +6438,7 @@
 29	Constantijn	Constantijn	PROPN	_	_	18	appos	_	dutch=VAL-MISSING
 30	Huygens	Huygens	PROPN	_	_	29	flat	_	dutch=KEY-MISSING
 31	-	-	PUNCT	_	_	29	punct	_	dutch=–
-32	dan	dan	ADV	_	_	41	root	_	dutch=KEY-MISSING
+32	dan	dan	ADV	_	_	41	advmod	_	dutch=KEY-MISSING
 33	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	41	aux	_	dutch=heeft
 34	jo	jo	PRON	_	Person=2|Poss=Yes|PronType=Prs	35	nmod_poss	_	dutch=uw
 35	wurk	wurk	NOUN	_	Gender=Neut|Number=Sing	41	nsubj	_	dutch=werk
