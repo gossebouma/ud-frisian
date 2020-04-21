@@ -6220,7 +6220,7 @@
 20	dêr’t	dêr’t	ADV	_	_	21	advmod	_	dutch=waarvan
 21	bekend	bekend	ADJ	_	Degree=Pos	15	acl_relcl	_	dutch=bekend
 22	fan	fan	ADP	_	_	20	case	_	dutch=waarvan
-23	wie	wêze	AUX	_	_	21	root	_	dutch=KEY-MISSING
+23	wie	wêze	AUX	_	_	21	case	_	dutch=KEY-MISSING
 24	dat	dat	SCONJ	_	Person=3|PronType=Dem	28	nsubj_pass	_	dutch=die
 25	se	se	PRON	_	Case=Acc|Person=3|PronType=Prs	28	iobj	_	dutch=hen
 26	oan	oan	ADP	_	_	0	root	_	dutch=KEY-MISSING
