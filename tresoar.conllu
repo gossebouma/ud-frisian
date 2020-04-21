@@ -6066,7 +6066,7 @@
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-23 23-22 24-23 25-24
 # ALIGNED
 1	Sa	sa	ADV	_	_	2	advmod	_	dutch=Zo
-2	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=zijn
+2	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	7	root	_	dutch=zijn
 3	der	der	ADV	_	_	2	nsubj	_	dutch=er
 4	inkelde	inkeld	DET	_	_	5	det	_	dutch=enkele
 5	pamfletten	pamflet	NOUN	_	Number=Plur	7	xcomp	_	dutch=pamfletten
