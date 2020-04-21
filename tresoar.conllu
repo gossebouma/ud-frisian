@@ -6486,7 +6486,7 @@
 5	sein	sizze	VERB	_	VerbForm=Part	0	root	_	dutch=opgemerkt
 6	wurde	wurde	AUX	_	VerbForm=Inf	5	aux_pass	_	dutch=worden
 7	dat	dat	SCONJ	_	_	12	mark	_	dutch=dat
-8	it	it	PRON	_	_	12	nummod	_	dutch=KEY-MISSING
+8	it	it	PRON	_	_	12	expl	_	dutch=KEY-MISSING
 9	op	op	ADP	_	_	12	advmod	_	dutch=op
 10	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	9	fixed	_	dutch=zijn
 11	minst	min	ADV	_	Degree=Sup	9	fixed	_	dutch=minst
