@@ -5982,7 +5982,7 @@
 33	de	de	DET	_	Definite=Def	35	det	_	dutch=de
 34	Japanske	Japansk	ADJ	_	Degree=Pos	35	amod	_	dutch=Japanse
 35	besetting	besetting	NOUN	_	Gender=Com|Number=Sing	31	obl	_	dutch=bezetting
-36	.	.	PUNCT	_	_	0	root	_	dutch=.
+36	.	.	PUNCT	_	_	23	root	_	dutch=.
 
 # sent_id = 268
 # text = Dy bataljons wiene saneamde O.V.W. bataljons ( O.V.W. = Oorlogsvrijwilliger ) .
