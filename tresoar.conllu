@@ -6736,7 +6736,7 @@
 4	byld	byld	NOUN	_	Gender=Neut|Number=Sing	2	obj	_	dutch=beeld
 5	fan	fan	ADP	_	_	8	case	_	dutch=van
 6	Kalma	Kalma	PROPN	_	Gender=Com|Number=Sing	8	nmod	_	dutch=Kalma
-7	syn	syn	PRON	_	Gender=Com|Number=Sing	2	obl	_	dutch=sstrijd
+7	syn	syn	PRON	_	Gender=Com|Number=Sing	8	obl	_	dutch=sstrijd
 8	striid	striid	NOUN	_	Gender=Com|Number=Sing	2	obl	_	dutch=sstrijd
 9	foar	foar	ADP	_	_	11	case	_	dutch=voor
 10	it	it	DET	_	Definite=Def	11	det	_	dutch=het
