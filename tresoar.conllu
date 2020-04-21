@@ -6720,7 +6720,7 @@
 27	Letterkundich	Letterkundich	PROPN	_	_	26	flat	_	dutch=Letterkundig
 28	Museum	Museum	PROPN	_	_	26	flat	_	dutch=VAL-MISSING
 29	en	en	PROPN	_	_	26	root	_	dutch=VAL-MISSING
-30	Dokumintaasjesintrum	Dokumintaasjesintrum	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+30	Dokumintaasjesintrum	Dokumintaasjesintrum	PROPN	_	_	26	root	_	dutch=VAL-MISSING
 31	beskreaun	beskriuwe	VERB	_	VerbForm=Part	17	acl	_	dutch=beschreven
 32	wurde	wurde	AUX	_	VerbForm=Inf	21	nmod	_	dutch=worden
 33	.	.	PUNCT	_	_	16	punct	_	dutch=.
