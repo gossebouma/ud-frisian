@@ -6185,7 +6185,7 @@
 13	Sigismund	Sigismund	PROPN	_	Gender=Com|Number=Sing	12	appos	_	dutch=Sigismund
 14	it	it	DET	_	Definite=Def	15	det	_	dutch=het
 15	privileezje	privileezje	NOUN	_	Gender=Neut|Number=Sing	19	obj	_	dutch=privilege
-16	op	op	ADP	_	_	19	advmod	_	dutch=opnieuw
+16	op	op	ADP	_	_	18	advmod	_	dutch=opnieuw
 17	‘e	‘e	DET	_	Gender=Neut|Number=Sing	18	det	_	dutch=privilege
 18	nij	nij	ADJ	_	_	19	advmod	_	dutch=opnieuw
 19	befêstigje	befêstigje	VERB	_	VerbForm=Inf	21	xcomp	_	dutch=bevestigen
