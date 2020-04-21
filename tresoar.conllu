@@ -6709,7 +6709,7 @@
 16	koene	kinne	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	dutch=konden
 17	dy	dy	DET	_	Person=3|PronType=Dem	21	det	_	dutch=die
 18	mear	folle	PRON	_	_	20	advmod	_	dutch=meer
-19	as	as	SCONJ	_	_	18	mark	_	dutch=dan
+19	as	as	SCONJ	_	_	18	fixed	_	dutch=dan
 20	fiiftûzen	fiiftûzen	NUM	_	_	21	nummod	_	dutch=vijfduizend
 21	brieven	brief	NOUN	_	Number=Plur	16	nsubj	_	dutch=brieven
 22	letter	letter	ADJ	_	Degree=Cmp	32	amod	_	dutch=later
