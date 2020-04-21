@@ -6433,7 +6433,7 @@
 24	fan	fan	ADP	_	_	26	case	_	dutch=van
 25	jo	jo	PRON	_	Person=2|Poss=Yes|PronType=Prs	26	nmod_poss	_	dutch=uw
 26	tiid	tiid	NOUN	_	Gender=Com|Number=Sing	22	nmod	_	dutch=tijd
-27	-	-	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
+27	-	-	PUNCT	_	_	29	root	_	dutch=KEY-MISSING
 28	nammentlik	nammentlik	ADV	_	_	29	advmod	_	dutch=VAL-MISSING
 29	Constantijn	Constantijn	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 30	Huygens	Huygens	PROPN	_	_	29	flat	_	dutch=KEY-MISSING
