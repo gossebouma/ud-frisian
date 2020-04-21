@@ -5882,7 +5882,7 @@
 5	Rembrandt	Rembrandt	PROPN	_	Gender=Com|Number=Sing	10	nsubj	_	dutch=Rembrandt
 6	dêr	dêr	ADV	_	_	10	advmod	_	dutch=daar
 7	sûnt	sûnt	ADP	_	_	8	root	_	dutch=sinds
-8	1632	1632	SYM	_	Gender=Com|Number=Sing	10	root	_	dutch=regelmaat
+8	1632	1632	SYM	_	Gender=Com|Number=Sing	10	obl	_	dutch=regelmaat
 9	geregeld	geregeld	ADV	_	Gender=Com|Number=Sing	10	advmod	_	dutch=regelmaat
 10	útfanhuze	útfanhûzje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	3	csubj	_	dutch=logeerde
 11	.	.	PUNCT	_	_	3	punct	_	dutch=.
