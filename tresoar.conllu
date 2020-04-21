@@ -6144,7 +6144,7 @@
 12	boppe	boppe	ADP	_	_	13	case	_	dutch=boven
 13	har	har	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	15	obl	_	dutch=zich
 14	te	te	ADP	_	_	15	mark	_	dutch=te
-15	fernearen	ferneare	VERB	_	VerbForm=Inf	5	root	_	dutch=dulden
+15	fernearen	ferneare	VERB	_	VerbForm=Inf	5	xcomp	_	dutch=dulden
 16	.	.	PUNCT	_	_	15	punct	_	dutch=.
 
 # sent_id = 277
