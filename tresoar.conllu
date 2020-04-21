@@ -6134,7 +6134,7 @@
 2	de	de	DET	_	Definite=Def	3	det	_	dutch=de
 3	keizer	keizer	NOUN	_	Gender=Com|Number=Sing	15	obl	_	dutch=keizer
 4	om	om	ADP	_	_	3	case	_	dutch=KEY-MISSING
-5	hoegden	hoege	VERB	_	Case=Nom|Person=3|PronType=Prs	15	nsubj	_	dutch=zij
+5	hoegden	hoege	VERB	_	Case=Nom|Person=3|PronType=Prs	0	root	_	dutch=zij
 6	se	se	PRON	_	Case=Nom|Person=3|PronType=Prs	15	nsubj	_	dutch=zij
 7	tenei	tenei	ADV	_	Gender=Neut|Number=Sing	15	obl	_	dutch=vervolg
 8	gjin	gjin	DET	_	_	9	det	_	dutch=geen
