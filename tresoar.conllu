@@ -5710,7 +5710,7 @@
 13	we	we	PRON	_	Case=Nom|Person=1|PronType=Prs	12	nsubj	_	dutch=we
 14	yn	yn	ADP	_	_	16	case	_	dutch=in
 15	it	it	DET	_	Definite=Def	16	det	_	dutch=het
-16	jier	jier	NOUN	_	Gender=Neut|Number=Sing	12	root	_	dutch=oprichtingsjaar
+16	jier	jier	NOUN	_	Gender=Neut|Number=Sing	12	obl	_	dutch=oprichtingsjaar
 17	fan	fan	ADP	_	_	18	case	_	dutch=KEY-MISSING
 18	oprjochtsjen	oprjochtsje	NOUN	_	Gender=Neut|Number=Sing	16	nmod	_	dutch=oprichtingsjaar
 19	in	in	DET	_	Definite=Ind	20	det	_	dutch=een
