@@ -6000,7 +6000,7 @@
 9	=	=	SYM	_	_	8	root	_	dutch==
 10	Oorlogsvrijwilliger	oorlogsvrijwilliger	NOUN	_	Gender=Com|Number=Sing	8	parataxis	_	dutch=Oorlogsvrijwilliger
 11	)	)	PUNCT	_	_	8	punct	_	dutch=)
-12	.	.	PUNCT	_	_	6	root	_	dutch=.
+12	.	.	PUNCT	_	_	6	punct	_	dutch=.
 
 # sent_id = 269
 # text = De basis fan it Bataljon Friesland lei by de Binnenlandse Strijdkrachten .
