@@ -5963,7 +5963,7 @@
 14	fersyk	fersyk	NOUN	_	Gender=Neut|Number=Sing	13	fixed	_	dutch=verzoek
 15	fan	fan	ADP	_	_	16	case	_	dutch=van
 16	Prins	Prins	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=Prins
-17	Bernhard	Bernhard	PROPN	_	Gender=Com|Number=Sing	16	appos	_	dutch=Bernhard
+17	Bernhard	Bernhard	PROPN	_	Gender=Com|Number=Sing	16	flat	_	dutch=Bernhard
 18	,	,	PUNCT	_	_	20	punct	_	dutch=,
 19	in	in	DET	_	Definite=Ind	20	det	_	dutch=een
 20	bataljon	bataljon	NOUN	_	Gender=Neut|Number=Sing	16	appos	_	dutch=bataljon
