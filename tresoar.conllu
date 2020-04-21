@@ -5778,7 +5778,7 @@
 8	22	22	NUM	_	_	6	obl	_	dutch=22
 9	juny	juny	PROPN	_	Gender=Com|Number=Sing	8	flat	_	dutch=juni
 10	1634	1634	NUM	_	_	8	flat	_	dutch=1634
-11	mei	mei	ADP	_	_	0	root	_	dutch=VAL-MISSING
+11	mei	mei	ADP	_	_	12	root	_	dutch=VAL-MISSING
 12	Saskia	Saskia	PROPN	_	_	6	obl	_	dutch=Saskia
 13	van	van	PROPN	_	_	12	root	_	dutch=VAL-MISSING
 14	Uylenburgh	Uylenburgh	PROPN	_	_	0	root	_	dutch=VAL-MISSING
