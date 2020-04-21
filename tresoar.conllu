@@ -5707,7 +5707,7 @@
 10	leit	lizze	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	acl_relcl	_	dutch=ligt
 11	,	,	PUNCT	_	_	4	punct	_	dutch=,
 12	sjogge	sjen	VERB	_	Case=Nom|Person=1|PronType=Prs	0	root	_	dutch=we
-13	we	we	PRON	_	Case=Nom|Person=1|PronType=Prs	0	root	_	dutch=we
+13	we	we	PRON	_	Case=Nom|Person=1|PronType=Prs	12	root	_	dutch=we
 14	yn	yn	ADP	_	_	16	case	_	dutch=in
 15	it	it	DET	_	Definite=Def	16	det	_	dutch=het
 16	jier	jier	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=oprichtingsjaar
