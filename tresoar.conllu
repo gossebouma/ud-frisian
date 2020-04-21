@@ -5971,7 +5971,7 @@
 22	frijwilligers	frijwilliger	NOUN	_	Number=Plur	20	nmod	_	dutch=vrijwilligers
 23	formearre	formearje	VERB	_	Gender=Neut|Number=Sing	0	root	_	dutch=Indonesië
 24	dat	dat	PRON	_	Person=3|PronType=Rel	26	nsubj	_	dutch=dat
-25	mei	mei	ADP	_	_	26	advmod	_	dutch=mee
+25	mei	mei	ADP	_	_	26	part	_	dutch=mee
 26	helpe	helpe	VERB	_	VerbForm=Inf	20	acl_relcl	_	dutch=helpen
 27	soe	sille	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	26	aux	_	dutch=zou
 28	om	om	ADP	_	VerbForm=Inf	20	acl_relcl	_	dutch=helpen
