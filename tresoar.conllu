@@ -6472,7 +6472,7 @@
 15	jo	jo	PRON	_	Person=2|Poss=Yes|PronType=Prs	17	nmod_poss	_	dutch=uw
 16	eigen	eigen	ADJ	_	Degree=Pos	17	amod	_	dutch=eigen
 17	taal	taal	NOUN	_	Gender=Com|Number=Sing	13	nmod	_	dutch=taal
-18	.	.	PUNCT	_	_	2	punct	_	dutch=.
+18	.	.	PUNCT	_	_	7	punct	_	dutch=.
 
 # sent_id = 291
 # text = Mei rjocht kin dan sein wurde dat it op syn minst bliken dien hat dat jo wurk de tiid treast west hat .
