@@ -5976,7 +5976,7 @@
 27	soe	sille	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	26	aux	_	dutch=zou
 28	om	om	ADP	_	VerbForm=Inf	20	acl_relcl	_	dutch=helpen
 29	Ynje	Ynje	PROPN	_	VerbForm=Inf	26	ccomp	_	dutch=bevrijden
-30	te	te	ADP	_	VerbForm=Inf	31	ccomp	_	dutch=bevrijden
+30	te	te	ADP	_	VerbForm=Inf	31	nmod	_	dutch=bevrijden
 31	befrijen	befrije	VERB	_	VerbForm=Inf	26	ccomp	_	dutch=bevrijden
 32	fan	fan	ADP	_	_	35	case	_	dutch=van
 33	de	de	DET	_	Definite=Def	35	det	_	dutch=de
