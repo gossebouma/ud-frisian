@@ -5673,7 +5673,7 @@
 3	neist	neist	ADP	_	_	5	case	_	dutch=naast
 4	dy	dy	PRON	_	PronType=Dem	5	det	_	dutch=deze
 5	ferplichting	ferplichting	NOUN	_	Number=Plur	2	obj	_	dutch=verplichtingen
-6	ek	ek	ADV	_	_	4	amod	_	dutch=ook
+6	ek	ek	ADV	_	_	2	amod	_	dutch=ook
 7	oare	oare	ADJ	_	Degree=Pos	5	amod	_	dutch=andere
 8	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
 9	sa	sa	SCONJ	_	_	12	mark	_	dutch=zoals
