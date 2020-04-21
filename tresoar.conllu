@@ -5954,7 +5954,7 @@
 5	de	de	DET	_	Definite=Def	6	det	_	dutch=de
 6	befrijing	befrijing	NOUN	_	Gender=Com|Number=Sing	23	obl	_	dutch=bevrijding
 7	yn	yn	ADP	_	_	8	root	_	dutch=KEY-MISSING
-8	1945	1945	NUM	_	Gender=Com|Number=Sing	6	obl	_	dutch=bevrijding
+8	1945	1945	NUM	_	Gender=Com|Number=Sing	6	nmod	_	dutch=bevrijding
 9	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=werd
 10	yn	yn	ADP	_	_	11	case	_	dutch=in
 11	Ljouwert	Ljouwert	PROPN	_	Gender=Neut|Number=Sing	0	root	_	dutch=Leeuwarden
