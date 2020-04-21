@@ -6285,7 +6285,7 @@
 7	Ryk	ryk	NOUN	_	Gender=Neut|Number=Sing	9	obl	_	dutch=Rijk
 8	te	te	ADP	_	_	9	mark	_	dutch=te
 9	beteljen	betelje	VERB	_	VerbForm=Inf	2	xcomp	_	dutch=betalen
-10	.	.	PUNCT	_	_	9	punct	_	dutch=.
+10	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
 # sent_id = 283
 # text = 1 .
