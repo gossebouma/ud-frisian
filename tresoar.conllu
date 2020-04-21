@@ -6187,7 +6187,7 @@
 15	privileezje	privileezje	NOUN	_	Gender=Neut|Number=Sing	19	obj	_	dutch=privilege
 16	op	op	ADP	_	_	18	case	_	dutch=opnieuw
 17	‘e	‘e	DET	_	Gender=Neut|Number=Sing	18	det	_	dutch=privilege
-18	nij	nij	ADJ	_	_	19	advmod	_	dutch=opnieuw
+18	nij	nij	ADJ	_	_	19	obl	_	dutch=opnieuw
 19	befêstigje	befêstigje	VERB	_	VerbForm=Inf	21	xcomp	_	dutch=bevestigen
 20	te	te	ADP	_	_	21	mark	_	dutch=te
 21	litten	litte	VERB	_	VerbForm=Inf	2	csubj	_	dutch=laten
