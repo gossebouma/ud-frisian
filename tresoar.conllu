@@ -6090,7 +6090,7 @@
 23	ûnderstek	ûnderstek	NOUN	_	VerbForm=Inf	15	advcl	_	dutch=ondermijnen
 24	te	te	ADP	_	_	25	mark	_	dutch=te
 25	dwaan	dwaan	VERB	_	VerbForm=Inf	15	advcl	_	dutch=ondermijnen
-26	.	.	PUNCT	_	_	2	punct	_	dutch=.
+26	.	.	PUNCT	_	_	7	punct	_	dutch=.
 
 # sent_id = 273
 # text = 15 .
