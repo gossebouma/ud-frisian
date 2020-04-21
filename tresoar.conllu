@@ -5714,7 +5714,7 @@
 17	fan	fan	ADP	_	_	18	case	_	dutch=KEY-MISSING
 18	oprjochtsjen	oprjochtsje	NOUN	_	Gender=Neut|Number=Sing	16	nmod	_	dutch=oprichtingsjaar
 19	in	in	DET	_	Definite=Ind	20	det	_	dutch=een
-20	útjeftepost	útjeftepost	NOUN	_	Gender=Com|Number=Sing	12	root	_	dutch=uitgavenpost
+20	útjeftepost	útjeftepost	NOUN	_	Gender=Com|Number=Sing	12	obj	_	dutch=uitgavenpost
 21	foar	foar	ADP	_	_	23	case	_	dutch=voor
 22	it	it	DET	_	Definite=Def	23	det	_	dutch=het
 23	meitsjen	meitsje	VERB	_	VerbForm=Inf	20	nmod	_	dutch=maken
