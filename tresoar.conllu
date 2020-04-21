@@ -5940,7 +5940,7 @@
 3	it	it	DET	_	Definite=Def	4	det	_	dutch=het
 4	Yndysk	Yndysk	PROPN	_	Degree=Pos	1	nmod	_	dutch=Indonesisch
 5	Republikeinske	Republikeinske	PROPN	_	Degree=Pos	4	flat	_	dutch=Republikeinse
-6	leger	leger	PROPN	_	Gender=Neut|Number=Sing	1	nmod	_	dutch=leger
+6	leger	leger	PROPN	_	Gender=Neut|Number=Sing	4	nmod	_	dutch=leger
 
 # sent_id = 267
 # text = Al ridlik gau nei de befrijing yn 1945 waard yn Ljouwert , op fersyk fan Prins Bernhard , in bataljon fan frijwilligers formearre dat mei helpe soe om Ynje te befrijen fan de Japanske besetting .
