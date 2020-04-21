@@ -5620,7 +5620,7 @@
 4	op	op	ADP	_	_	6	case	_	dutch=KEY-MISSING
 5	’e	’e	DET	_	Number=Plur|Tense=Past|VerbForm=Fin	6	det	_	dutch=waren
 6	Lemmer	Lemmer	PROPN	_	Gender=Neut|Number=Sing	15	obl	_	dutch=Lemmer
-7	en	en	CCONJ	_	_	9	cc	_	dutch=en
+7	en	en	CCONJ	_	_	10	cc	_	dutch=en
 8	op	op	ADP	_	Gender=Neut|Number=Sing	10	case	_	dutch=Lemmer
 9	‘e	‘e	DET	_	Gender=Neut|Number=Sing	10	det	_	dutch=Joure
 10	Jouwer	Jouwer	NOUN	_	Gender=Neut|Number=Sing	6	conj	_	dutch=Joure
