@@ -6154,7 +6154,7 @@
 # ALIGNED
 1	Dy	dy	DET	_	_	2	det	_	dutch=Deze
 2	sage	sage	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	11	nsubj	_	dutch=ontstond
-3	is	wêze	AUX	_	Gender=Com|Number=Sing	11	nsubj	_	dutch=sage
+3	is	wêze	AUX	_	Gender=Com|Number=Sing	11	cop	_	dutch=sage
 4	nei	nei	ADP	_	Degree=Pos	2	advmod	_	dutch=waarschijnlijk
 5	alle	al	DET	_	Degree=Pos	2	advmod	_	dutch=waarschijnlijk
 6	gedachten	gedachte	NOUN	_	Degree=Pos	2	advmod	_	dutch=waarschijnlijk
