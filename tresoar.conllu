@@ -6490,7 +6490,7 @@
 9	op	op	ADP	_	_	12	advmod	_	dutch=op
 10	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	9	fixed	_	dutch=zijn
 11	minst	min	ADV	_	Degree=Sup	9	fixed	_	dutch=minst
-12	bliken	blike	AUX	_	_	5	xcomp	_	dutch=KEY-MISSING
+12	bliken	blike	AUX	_	_	5	ccomp	_	dutch=KEY-MISSING
 13	dien	dwaan	VERB	_	_	12	aux	_	dutch=KEY-MISSING
 14	hat	hawwe	AUX	_	_	12	aux	_	dutch=KEY-MISSING
 15	dat	dat	SCONJ	_	_	20	mark	_	dutch=dat
