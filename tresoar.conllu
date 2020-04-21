@@ -6442,7 +6442,7 @@
 33	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	41	aux	_	dutch=heeft
 34	jo	jo	PRON	_	Person=2|Poss=Yes|PronType=Prs	35	nmod_poss	_	dutch=uw
 35	wurk	wurk	NOUN	_	Gender=Neut|Number=Sing	41	nsubj	_	dutch=werk
-36	wol	wol	ADV	_	_	0	root	_	dutch=KEY-MISSING
+36	wol	wol	ADV	_	_	41	root	_	dutch=KEY-MISSING
 37	in	in	DET	_	Definite=Ind	40	det	_	dutch=een
 38	hiel	hiel	ADJ	_	Definite=Ind	40	det	_	dutch=een
 39	wûndere	wûnder	ADJ	_	VerbForm=Part	0	root	_	dutch=afgelegd
