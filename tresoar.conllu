@@ -6494,7 +6494,7 @@
 13	dien	dwaan	VERB	_	_	12	aux	_	dutch=KEY-MISSING
 14	hat	hawwe	AUX	_	_	12	aux	_	dutch=KEY-MISSING
 15	dat	dat	SCONJ	_	_	0	root	_	dutch=dat
-16	jo	jo	PRON	_	Person=2|Poss=Yes|PronType=Prs	0	root	_	dutch=uw
+16	jo	jo	PRON	_	Person=2|Poss=Yes|PronType=Prs	17	root	_	dutch=uw
 17	wurk	wurk	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=tand
 18	de	de	DET	_	Definite=Def	19	det	_	dutch=des
 19	tiid	tiid	NOUN	_	Gender=Com|Number=Sing	17	nmod	_	dutch=tijds
