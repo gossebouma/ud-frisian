@@ -6491,7 +6491,7 @@
 10	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	9	fixed	_	dutch=zijn
 11	minst	min	ADV	_	Degree=Sup	9	fixed	_	dutch=minst
 12	bliken	blike	AUX	_	_	0	root	_	dutch=KEY-MISSING
-13	dien	dwaan	VERB	_	_	12	root	_	dutch=KEY-MISSING
+13	dien	dwaan	VERB	_	_	12	nummod	_	dutch=KEY-MISSING
 14	hat	hawwe	AUX	_	_	12	root	_	dutch=KEY-MISSING
 15	dat	dat	SCONJ	_	_	0	root	_	dutch=dat
 16	jo	jo	PRON	_	Person=2|Poss=Yes|PronType=Prs	0	root	_	dutch=uw
