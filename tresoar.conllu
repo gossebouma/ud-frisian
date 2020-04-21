@@ -6276,7 +6276,7 @@
 # source_text = Zij hoefden geen schatting aan het Rijk te betalen .
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9
 # ALIGNED
-1	Sy	Sy	PRON	_	Case=Nom|Person=3|PronType=Prs	9	nsubj	_	dutch=Zij
+1	Sy	Sy	PRON	_	Case=Nom|Person=3|PronType=Prs	2	nsubj	_	dutch=Zij
 2	hoegden	hoege	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	dutch=hoefden
 3	gjin	gjin	DET	_	_	4	det	_	dutch=geen
 4	skatting	skatting	NOUN	_	Gender=Com|Number=Sing	9	obj	_	dutch=schatting
