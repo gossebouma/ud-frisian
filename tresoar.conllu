@@ -5960,7 +5960,7 @@
 11	Ljouwert	Ljouwert	PROPN	_	Gender=Neut|Number=Sing	0	root	_	dutch=Leeuwarden
 12	,	,	PUNCT	_	_	11	punct	_	dutch=,
 13	op	op	ADP	_	_	16	amod	_	dutch=op
-14	fersyk	fersyk	NOUN	_	Gender=Neut|Number=Sing	23	fixed	_	dutch=verzoek
+14	fersyk	fersyk	NOUN	_	Gender=Neut|Number=Sing	23	obl	_	dutch=verzoek
 15	fan	fan	ADP	_	_	16	case	_	dutch=van
 16	Prins	Prins	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=Prins
 17	Bernhard	Bernhard	PROPN	_	Gender=Com|Number=Sing	16	flat	_	dutch=Bernhard
