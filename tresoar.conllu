@@ -6138,7 +6138,7 @@
 6	se	se	PRON	_	Case=Nom|Person=3|PronType=Prs	5	nsubj	_	dutch=zij
 7	tenei	tenei	ADV	_	Gender=Neut|Number=Sing	15	obl	_	dutch=vervolg
 8	gjin	gjin	DET	_	_	10	det	_	dutch=geen
-9	oare	oar	ADJ	_	Gender=Com|Number=Sing	15	obj	_	dutch=landsheer
+9	oare	oar	ADJ	_	Gender=Com|Number=Sing	10	obj	_	dutch=landsheer
 10	lânshear	lânshear	NOUN	_	Gender=Com|Number=Sing	15	obj	_	dutch=landsheer
 11	mear	folle	ADV	_	Gender=Com|Number=Sing	15	obj	_	dutch=landsheer
 12	boppe	boppe	ADP	_	_	13	case	_	dutch=boven
