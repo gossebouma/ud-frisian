@@ -6351,7 +6351,7 @@
 12	ien	ien	NUM	_	Person=3|PronType=Ind	13	nsubj	_	dutch=niemand
 13	wit	witte	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	csubj	_	dutch=weet
 14	hoe’t	hoe’t	ADV	_	_	17	advmod	_	dutch=hoe
-15	dy	dy	DET	_	_	16	det	_	dutch=die
+15	dy	dy	DET	_	_	12	det	_	dutch=die
 16	taal	taal	NOUN	_	Gender=Com|Number=Sing	17	nsubj_pass	_	dutch=taal
 17	skreaun	skriuwe	VERB	_	VerbForm=Part	13	ccomp	_	dutch=geschreven
 18	wurde	wurde	AUX	_	VerbForm=Inf	17	aux_pass	_	dutch=worden
