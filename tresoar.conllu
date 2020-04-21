@@ -6181,7 +6181,7 @@
 9	goed	goed	ADJ	_	VerbForm=Part	10	amod	_	dutch=gegeven
 10	momint	momint	NOUN	_	Gender=Neut|Number=Sing	19	obl	_	dutch=moment
 11	de	de	DET	_	Definite=Def	12	det	_	dutch=de
-12	Roomsk-kening	Roomsk-kening	NOUN	_	Gender=Com|Number=Sing	10	iobj	_	dutch=Rooms-koning
+12	Roomsk-kening	Roomsk-kening	NOUN	_	Gender=Com|Number=Sing	21	iobj	_	dutch=Rooms-koning
 13	Sigismund	Sigismund	PROPN	_	Gender=Com|Number=Sing	12	appos	_	dutch=Sigismund
 14	it	it	DET	_	Definite=Def	15	det	_	dutch=het
 15	privileezje	privileezje	NOUN	_	Gender=Neut|Number=Sing	19	obj	_	dutch=privilege
