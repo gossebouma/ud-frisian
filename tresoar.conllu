@@ -6075,7 +6075,7 @@
 8	dy’t	dy’t	PRON	_	PronType=Rel	15	obj	_	dutch=die
 9	oanhingers	oanhinger	NOUN	_	Number=Plur	15	nsubj	_	dutch=aanhangers
 10	fan	fan	ADP	_	_	14	case	_	dutch=van
-11	it	it	DET	_	Definite=Def	14	det	_	dutch=het
+11	it	it	DET	_	Definite=Def	12	det	_	dutch=het
 12	Yndyske	Yndyske	PROPN	_	Degree=Pos	14	amod	_	dutch=Indonesische
 13	Republikeinske	Republikeinsk	PROPN	_	Degree=Pos	14	amod	_	dutch=Republikeinse
 14	leger	leger	PROPN	_	Gender=Neut|Number=Sing	9	nmod	_	dutch=leger
