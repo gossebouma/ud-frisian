@@ -6203,7 +6203,7 @@
 3	septimber	septimber	PROPN	_	Gender=Com|Number=Sing	2	obl	_	dutch=september
 4	1417	1417	NUM	_	VerbForm=Part	6	acl	_	dutch=verstrekte
 5	jout	jaan	VERB	_	_	0	root	_	dutch=1417
-6	Sigismund	Sigismund	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Sigismund
+6	Sigismund	Sigismund	PROPN	_	Gender=Com|Number=Sing	5	root	_	dutch=Sigismund
 7	in	in	DET	_	Definite=Ind	8	det	_	dutch=een
 8	oarkonde	oarkonde	NOUN	_	Gender=Com|Number=Sing	6	parataxis	_	dutch=oorkonde
 9	oan	oan	ADP	_	_	11	case	_	dutch=aan
