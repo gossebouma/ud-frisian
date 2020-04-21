@@ -5782,7 +5782,7 @@
 12	Saskia	Saskia	PROPN	_	_	6	obl	_	dutch=Saskia
 13	van	van	PROPN	_	_	12	flat	_	dutch=VAL-MISSING
 14	Uylenburgh	Uylenburgh	PROPN	_	_	12	flat	_	dutch=VAL-MISSING
-15	yn	yn	ADP	_	_	17	root	_	dutch=KEY-MISSING
+15	yn	yn	ADP	_	_	17	case	_	dutch=KEY-MISSING
 16	’e	’e	DET	_	Definite=Def	17	det	_	dutch=de
 17	tsjerke	tsjerke	NOUN	_	Gender=Com|Number=Sing	6	obj	_	dutch=kerk
 18	fan	fan	ADP	_	_	19	case	_	dutch=van
