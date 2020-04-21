@@ -5735,7 +5735,7 @@
 5	H.	H.	PROPN	_	_	3	obl	_	dutch=.
 6	Backer	Backer	PROPN	_	Gender=Com|Number=Sing	5	flat	_	dutch=Backer
 7	en	en	CCONJ	_	_	8	cc	_	dutch=en
-8	wie	wêze	AUX	_	Gender=Com|Number=Sing	9	acl	_	dutch=was
+8	wie	wêze	AUX	_	Gender=Com|Number=Sing	9	cop	_	dutch=was
 9	bedoeld	bedoele	VERB	_	VerbForm=Part	0	root	_	dutch=bestemd
 10	foar	foar	ADP	_	_	12	case	_	dutch=voor
 11	it	it	DET	_	Definite=Def	12	det	_	dutch=het
