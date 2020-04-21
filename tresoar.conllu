@@ -6649,7 +6649,7 @@
 4	dêryn	dêryn	ADV	_	_	2	advmod	_	dutch=daarin
 5	de	de	DET	_	Definite=Def	6	det	_	dutch=de
 6	kladpapieren	kladpapier	NOUN	_	Number=Plur	2	obj	_	dutch=kladpapieren
-7	dêr’t	dêr’t	ADV	_	_	18	obj	_	dutch=waar
+7	dêr’t	dêr’t	ADV	_	_	18	obl	_	dutch=waar
 8	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	18	nsubj	_	dutch=hij
 9	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	10	nmod_poss	_	dutch=zijn
 10	oersetting	oersetting	NOUN	_	Gender=Com|Number=Sing	18	obj	_	dutch=vertaling
