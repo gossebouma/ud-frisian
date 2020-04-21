@@ -6230,7 +6230,7 @@
 30	troch	troch	ADP	_	_	32	case	_	dutch=door
 31	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	32	nmod_poss	_	dutch=zijn
 32	foargongers	foargonger	NOUN	_	Number=Plur	28	obl_agent	_	dutch=voorgangers
-33	.	.	PUNCT	_	_	6	punct	_	dutch=.
+33	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
 # sent_id = 280
 # text = Yn ’e akte wurde ek in tal geunsten oan de Friezen ferliend .
