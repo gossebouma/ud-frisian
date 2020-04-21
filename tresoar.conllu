@@ -5625,7 +5625,7 @@
 9	‘e	‘e	DET	_	Gender=Neut|Number=Sing	10	det	_	dutch=Joure
 10	Jouwer	Jouwer	NOUN	_	Gender=Neut|Number=Sing	6	conj	_	dutch=Joure
 11	ek	ek	ADV	_	Number=Plur	15	advmod	_	dutch=fondsen
-12	al	al	ADV	_	Number=Plur	0	root	_	dutch=fondsen
+12	al	al	ADV	_	Number=Plur	15	root	_	dutch=fondsen
 13	sokke	sok	DET	_	Degree=Pos	14	det	_	dutch=dergelijke
 14	fûnsen	fûns	NOUN	_	Number=Plur	15	nsubj_pass	_	dutch=fondsen
 15	oprjochte	oprjochtsje	VERB	_	VerbForm=Part	0	root	_	dutch=opgericht
