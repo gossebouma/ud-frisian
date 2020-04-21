@@ -5962,7 +5962,7 @@
 13	op	op	ADP	_	_	14	case	_	dutch=op
 14	fersyk	fersyk	NOUN	_	Gender=Neut|Number=Sing	23	obl	_	dutch=verzoek
 15	fan	fan	ADP	_	_	16	case	_	dutch=van
-16	Prins	Prins	NOUN	_	Gender=Com|Number=Sing	14	root	_	dutch=Prins
+16	Prins	Prins	NOUN	_	Gender=Com|Number=Sing	14	nmod	_	dutch=Prins
 17	Bernhard	Bernhard	PROPN	_	Gender=Com|Number=Sing	16	flat	_	dutch=Bernhard
 18	,	,	PUNCT	_	_	20	punct	_	dutch=,
 19	in	in	DET	_	Definite=Ind	20	det	_	dutch=een
