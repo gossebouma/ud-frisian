@@ -5637,7 +5637,7 @@
 # alignment =  0-0 2-1 3-2 4-3 5-4 6-5 7-6 8-7 9-8 10-10 11-11 12-12
 # NOT ALIGNED
 1	Lykwols	lykwols	ADV	_	_	9	mark	_	dutch=Echter
-2	,	,	PUNCT	_	_	9	root	_	dutch=KEY-MISSING
+2	,	,	PUNCT	_	_	9	punct	_	dutch=KEY-MISSING
 3	it	it	DET	_	Definite=Def	4	det	_	dutch=het
 4	fûns	fûns	NOUN	_	Gender=Neut|Number=Sing	9	nsubj	_	dutch=fonds
 5	fan	fan	ADP	_	_	6	case	_	dutch=van
