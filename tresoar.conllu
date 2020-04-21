@@ -6718,7 +6718,7 @@
 25	it	it	DET	_	Definite=Def	26	det	_	dutch=het
 26	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	32	nmod	_	dutch=Fries
 27	Letterkundich	Letterkundich	PROPN	_	_	26	flat	_	dutch=Letterkundig
-28	Museum	Museum	PROPN	_	_	26	root	_	dutch=VAL-MISSING
+28	Museum	Museum	PROPN	_	_	26	flat	_	dutch=VAL-MISSING
 29	en	en	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 30	Dokumintaasjesintrum	Dokumintaasjesintrum	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 31	beskreaun	beskriuwe	VERB	_	VerbForm=Part	17	acl	_	dutch=beschreven
