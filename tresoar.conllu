@@ -6708,7 +6708,7 @@
 15	,	,	PUNCT	_	_	1	punct	_	dutch=,
 16	koene	kinne	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	dutch=konden
 17	dy	dy	DET	_	Person=3|PronType=Dem	21	det	_	dutch=die
-18	mear	folle	PRON	_	_	31	advmod	_	dutch=meer
+18	mear	folle	PRON	_	_	19	advmod	_	dutch=meer
 19	as	as	SCONJ	_	_	21	mark	_	dutch=dan
 20	fiiftûzen	fiiftûzen	NUM	_	_	21	nummod	_	dutch=vijfduizend
 21	brieven	brief	NOUN	_	Number=Plur	16	nsubj	_	dutch=brieven
