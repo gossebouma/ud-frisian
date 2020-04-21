@@ -6409,7 +6409,7 @@
 # NOT ALIGNED
 1	As	as	SCONJ	_	_	11	mark	_	dutch=Als
 2	dan	dan	ADV	_	_	11	advmod	_	dutch=dan
-3	,	,	PUNCT	_	_	2	punct	_	dutch=,
+3	,	,	PUNCT	_	_	6	punct	_	dutch=,
 4	nei	nei	ADP	_	_	6	case	_	dutch=na
 5	jo	jo	PRON	_	Person=2|Poss=Yes|PronType=Prs	6	nmod_poss	_	dutch=uw
 6	dea	dea	NOUN	_	VerbForm=Inf	11	obl	_	dutch=overlijden
