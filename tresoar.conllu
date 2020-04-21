@@ -6343,7 +6343,7 @@
 4	probleem	probleem	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=probleem
 5	dêr’t	dêr’t	ADV	_	_	8	obj	_	dutch=waar
 6	jo	jo	PRON	_	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	dutch=u
-7	tsjinoan	tsjinoan	ADP	_	_	5	obl	_	dutch=tegenaan
+7	tsjinoan	tsjinoan	ADP	_	_	5	case	_	dutch=tegenaan
 8	rinne	rinne	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	acl_relcl	_	dutch=loopt
 9	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	cop	_	dutch=is
 10	dat	dat	SCONJ	_	_	13	mark	_	dutch=dat
