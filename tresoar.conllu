@@ -6712,7 +6712,7 @@
 19	as	as	SCONJ	_	_	18	fixed	_	dutch=dan
 20	fiiftûzen	fiiftûzen	NUM	_	_	21	nummod	_	dutch=vijfduizend
 21	brieven	brief	NOUN	_	Number=Plur	16	nsubj	_	dutch=brieven
-22	letter	letter	ADJ	_	Degree=Cmp	32	amod	_	dutch=later
+22	letter	letter	ADJ	_	Degree=Cmp	31	amod	_	dutch=later
 23	flot	flot	ADJ	_	Degree=Pos	32	amod	_	dutch=vlot
 24	op	op	ADP	_	_	26	case	_	dutch=op
 25	it	it	DET	_	Definite=Def	26	det	_	dutch=het
