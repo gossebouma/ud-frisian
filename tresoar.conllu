@@ -5721,7 +5721,7 @@
 24	fan	fan	ADP	_	_	26	case	_	dutch=van
 25	in	in	DET	_	Definite=Ind	26	det	_	dutch=een
 26	kistke	kiste	NOUN	_	Gender=Neut|Number=Sing	23	nmod	_	dutch=kistje
-27	.	.	PUNCT	_	_	0	root	_	dutch=.
+27	.	.	PUNCT	_	_	12	root	_	dutch=.
 
 # sent_id = 253
 # text = It waard makke troch H.
