@@ -6716,7 +6716,7 @@
 23	flot	flot	ADJ	_	Degree=Pos	31	amod	_	dutch=vlot
 24	op	op	ADP	_	_	26	case	_	dutch=op
 25	it	it	DET	_	Definite=Def	26	det	_	dutch=het
-26	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	31	nmod	_	dutch=Fries
+26	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	31	obl	_	dutch=Fries
 27	Letterkundich	Letterkundich	PROPN	_	_	26	flat	_	dutch=Letterkundig
 28	Museum	Museum	PROPN	_	_	26	flat	_	dutch=VAL-MISSING
 29	en	en	PROPN	_	_	26	flat	_	dutch=VAL-MISSING
