@@ -5624,7 +5624,7 @@
 8	op	op	ADP	_	Gender=Neut|Number=Sing	10	case	_	dutch=Lemmer
 9	‘e	‘e	DET	_	Gender=Neut|Number=Sing	10	det	_	dutch=Joure
 10	Jouwer	Jouwer	NOUN	_	Gender=Neut|Number=Sing	6	conj	_	dutch=Joure
-11	ek	ek	ADV	_	Number=Plur	15	nsubj_pass	_	dutch=fondsen
+11	ek	ek	ADV	_	Number=Plur	15	advmod	_	dutch=fondsen
 12	al	al	ADV	_	Number=Plur	15	nsubj_pass	_	dutch=fondsen
 13	sokke	sok	DET	_	Degree=Pos	12	amod	_	dutch=dergelijke
 14	fûnsen	fûns	NOUN	_	Number=Plur	15	nsubj_pass	_	dutch=fondsen
