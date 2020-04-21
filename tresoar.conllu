@@ -5617,7 +5617,7 @@
 1	Earder	earder	ADJ	_	Degree=Pos	15	advmod	_	dutch=eerder
 2	wiene	wêze	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	15	aux_pass	_	dutch=waren
 3	der	der	ADV	_	_	15	advmod	_	dutch=KEY-MISSING
-4	op	op	ADP	_	_	0	root	_	dutch=KEY-MISSING
+4	op	op	ADP	_	_	6	root	_	dutch=KEY-MISSING
 5	’e	’e	DET	_	Number=Plur|Tense=Past|VerbForm=Fin	6	det	_	dutch=waren
 6	Lemmer	Lemmer	PROPN	_	Gender=Neut|Number=Sing	15	obl	_	dutch=Lemmer
 7	en	en	CCONJ	_	_	9	cc	_	dutch=en
