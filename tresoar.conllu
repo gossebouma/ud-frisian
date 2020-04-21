@@ -5854,7 +5854,7 @@
 12	kommen	komme	VERB	_	_	0	root	_	dutch=KEY-MISSING
 13	by	by	ADP	_	_	15	case	_	dutch=bij
 14	in	in	DET	_	Definite=Ind	15	det	_	dutch=een
-15	famyljelid	famyljelid	NOUN	_	Gender=Neut|Number=Sing	11	obl	_	dutch=familielid
+15	famyljelid	famyljelid	NOUN	_	Gender=Neut|Number=Sing	12	obl	_	dutch=familielid
 16	fan	fan	ADP	_	_	17	case	_	dutch=van
 17	Saskia	Saskia	PROPN	_	Gender=Com|Number=Sing	15	nmod	_	dutch=Saskia
 18	,	,	PUNCT	_	_	19	punct	_	dutch=,
