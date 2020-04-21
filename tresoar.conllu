@@ -5682,7 +5682,7 @@
 12	bywenjen	bywenjen	VERB	_	VerbForm=Inf	7	nmod	_	dutch=bijwonen
 13	fan	fan	ADP	_	_	14	case	_	dutch=van
 14	begraffenissen	begraffenis	NOUN	_	Number=Plur	12	nmod	_	dutch=begrafenissen
-15	fan	fan	ADP	_	_	16	case	_	dutch=van
+15	fan	fan	ADP	_	_	17	case	_	dutch=van
 16	oare	oar	ADJ	_	Number=Plur	12	nmod	_	dutch=begrafenissen
 17	leden	lid	NOUN	_	Number=Plur	20	nmod	_	dutch=begrafenissen
 18	fan	fan	ADP	_	_	20	case	_	dutch=van
