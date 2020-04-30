@@ -6818,7 +6818,7 @@
 2	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	aux	_	dutch=heeft
 3	him	him	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	6	expl_pv	_	dutch=zich
 4	nea	nea	ADV	_	VerbForm=Part	6	advmod	_	dutch=ingelaten
-5	bot	bot	ADJ	_	VerbForm=Part	6	root	_	dutch=ingelaten
+5	bot	bot	ADJ	_	VerbForm=Part	6	advmod	_	dutch=ingelaten
 6	mongen	minge	VERB	_	_	0	root	_	dutch=met
 7	yn	yn	ADP	_	_	0	root	_	dutch=KEY-MISSING
 8	’e	’e	DET	_	Definite=Def	9	det	_	dutch=de
