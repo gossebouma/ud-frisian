@@ -6846,7 +6846,7 @@
 5	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
 6	hie	hawwe	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=had
 7	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	6	nsubj	_	dutch=hij
-8	syn	syn	PRON	_	_	0	root	_	dutch=KEY-MISSING
+8	syn	syn	PRON	_	_	9	root	_	dutch=KEY-MISSING
 9	niget	niget	NOUN	_	_	13	case	_	dutch=voor
 10	oan	oan	ADP	_	Gender=Com|Number=Sing	6	obj	_	dutch=belangstelling
 11	it	it	DET	_	Definite=Def	13	det	_	dutch=het
