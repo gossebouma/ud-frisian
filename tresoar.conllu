@@ -6841,7 +6841,7 @@
 # NOT ALIGNED
 1	Boeresoan	boeresoan	NOUN	_	Gender=Com|Number=Sing	6	advcl	_	dutch=boerenzoon
 2	dy’t	dy’t	PRON	_	Gender=Com|Number=Sing	6	advcl	_	dutch=boerenzoon
-3	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	6	nsubj	_	dutch=hij
+3	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	2	nsubj	_	dutch=hij
 4	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=had
 5	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
 6	hie	hawwe	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=had
