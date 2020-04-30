@@ -6915,7 +6915,7 @@
 7	lange	lang	ADJ	_	_	8	amod	_	dutch=vele
 8	jierren	jier	NOUN	_	Number=Plur	0	root	_	dutch=jaren
 9	yn	yn	ADP	_	_	10	case	_	dutch=in
-10	Grins	Grins	PROPN	_	Gender=Neut|Number=Sing	11	nmod	_	dutch=Groningen
+10	Grins	Grins	PROPN	_	Gender=Neut|Number=Sing	11	obl	_	dutch=Groningen
 11	learaar	learaar	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=leraar
 12	west	wêze	AUX	_	VerbForm=Part	11	cop	_	dutch=geweest
 13	.	.	PUNCT	_	_	0	root	_	dutch=.
