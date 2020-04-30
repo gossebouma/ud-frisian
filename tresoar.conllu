@@ -6991,7 +6991,7 @@
 15	,	,	PUNCT	_	_	14	punct	_	dutch=,
 16	ropt	roppe	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=roept
 17	Obe	Obe	PROPN	_	_	16	nsubj	_	dutch=Obe
-18	Postma	Postma	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+18	Postma	Postma	PROPN	_	_	17	root	_	dutch=VAL-MISSING
 19	de	de	DET	_	Definite=Def	20	det	_	dutch=de
 20	sensaasje	sensaasje	NOUN	_	Gender=Com|Number=Sing	16	obj	_	dutch=sensatie
 21	fan	fan	ADP	_	_	23	case	_	dutch=van
