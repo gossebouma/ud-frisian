@@ -7055,7 +7055,7 @@
 16	te	te	ADP	_	_	17	mark	_	dutch=te
 17	krijen	krije	VERB	_	VerbForm=Inf	18	compound_prt	_	dutch=maken
 18	hawwe	hawwe	VERB	_	VerbForm=Inf	19	xcomp	_	dutch=hebben
-19	woene	wolle	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	7	nmod	_	dutch=wilden
+19	woene	wolle	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	7	acl_relcl	_	dutch=wilden
 20	en	en	CCONJ	_	_	27	cc	_	dutch=en
 21	dy’t	dy’t	PRON	_	PronType=Rel	27	nsubj	_	dutch=die
 22	sels	sels	ADV	_	_	27	advmod	_	dutch=zelf
