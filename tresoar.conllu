@@ -6848,7 +6848,7 @@
 7	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	6	nsubj	_	dutch=hij
 8	syn	syn	PRON	_	_	9	nmod_poss	_	dutch=KEY-MISSING
 9	niget	niget	NOUN	_	_	6	obj	_	dutch=voor
-10	oan	oan	ADP	_	Gender=Com|Number=Sing	6	obj	_	dutch=belangstelling
+10	oan	oan	ADP	_	Gender=Com|Number=Sing	13	obj	_	dutch=belangstelling
 11	it	it	DET	_	Definite=Def	13	det	_	dutch=het
 12	Fryske	Frysk	ADJ	_	Degree=Pos	13	amod	_	dutch=Friese
 13	lân	lân	NOUN	_	Gender=Neut|Number=Sing	6	obl	_	dutch=land
