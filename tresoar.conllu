@@ -6790,7 +6790,7 @@
 12	oant	oant	ADP	_	_	15	case	_	dutch=tot
 13	op	op	ADP	_	_	15	case	_	dutch=op
 14	hege	heech	NUM	_	Degree=Pos	15	amod	_	dutch=hoge
-15	jierren	jier	NOUN	_	Gender=Com|Number=Sing	18	obl	_	dutch=leeftijd
+15	jierren	jier	NOUN	_	Gender=Com|Number=Sing	18	nmod	_	dutch=leeftijd
 16	yn	yn	ADP	_	_	17	case	_	dutch=in
 17	Ljouwert	Ljouwert	PROPN	_	Gender=Neut|Number=Sing	18	obl	_	dutch=Leeuwarden
 18	besiker	besiker	NOUN	_	Gender=Com|Number=Sing	6	conj	_	dutch=bezoeker
