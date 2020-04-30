@@ -7168,7 +7168,7 @@
 14	it	it	DET	_	Definite=Def	15	det	_	dutch=het
 15	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	10	nmod	_	dutch=Fries
 16	,	,	PUNCT	_	_	17	punct	_	dutch=,
-17	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	10	appos	_	dutch=Friesland
+17	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	15	appos	_	dutch=Friesland
 18	of	of	CCONJ	_	_	21	cc	_	dutch=of
 19	in	in	DET	_	Definite=Ind	21	det	_	dutch=een
 20	Frysk-eigen	Frysk-eigen	ADJ	_	Degree=Pos	0	root	_	dutch=specifiek
