@@ -7103,7 +7103,7 @@
 3	Sybesma	Sybesma	PROPN	_	_	1	flat	_	dutch=Sybesma
 4	(	(	PUNCT	_	_	5	punct	_	dutch=(
 5	1894	1894	NUM	_	_	1	nummod	_	dutch=1894-
-6	-	-	PUNCT	_	_	1	nmod	_	dutch=1975
+6	-	-	PUNCT	_	_	5	nmod	_	dutch=1975
 7	1975	1975	NUM	_	_	5	nmod	_	dutch=1975
 8	)	)	PUNCT	_	_	6	punct	_	dutch=)
 9	en	en	CCONJ	_	_	10	cc	_	dutch=en
