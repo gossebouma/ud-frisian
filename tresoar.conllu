@@ -7164,7 +7164,7 @@
 10	titel	titel	NOUN	_	Gender=Com|Number=Sing	8	obj	_	dutch=titel
 11	dêr’t	dêr’t	ADV	_	_	24	obl	_	dutch=die
 12	net	net	ADV	_	_	13	advmod	_	dutch=niet
-13	langer	lang	ADJ	_	_	24	root	_	dutch=meer
+13	langer	lang	ADJ	_	_	24	advmod	_	dutch=meer
 14	it	it	DET	_	Definite=Def	15	det	_	dutch=het
 15	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	10	nmod	_	dutch=Fries
 16	,	,	PUNCT	_	_	17	punct	_	dutch=,
