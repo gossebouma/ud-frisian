@@ -6863,7 +6863,7 @@
 22	op	op	ADP	_	_	24	case	_	dutch=op
 23	filosofyske	filosofysk	ADJ	_	Degree=Pos	24	amod	_	dutch=filosofische
 24	toan	toan	NOUN	_	Gender=Com|Number=Sing	25	obl	_	dutch=toon
-25	beskreau	beskriuwe	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	15	acl_relcl	_	dutch=beschreef
+25	beskreau	beskriuwe	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	13	acl_relcl	_	dutch=beschreef
 26	.	.	PUNCT	_	_	6	punct	_	dutch=.
 
 # sent_id = 307
