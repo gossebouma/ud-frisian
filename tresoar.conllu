@@ -6787,7 +6787,7 @@
 9	yn	yn	ADP	_	_	10	case	_	dutch=in
 10	1868	1868	NUM	_	_	6	obl	_	dutch=1868
 11	en	en	CCONJ	_	_	18	cc	_	dutch=en
-12	oant	oant	ADP	_	_	15	mark	_	dutch=tot
+12	oant	oant	ADP	_	_	15	case	_	dutch=tot
 13	op	op	ADP	_	_	15	case	_	dutch=op
 14	hege	heech	NUM	_	Degree=Pos	15	amod	_	dutch=hoge
 15	jierren	jier	NOUN	_	Gender=Com|Number=Sing	29	obl	_	dutch=leeftijd
