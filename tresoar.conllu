@@ -6822,7 +6822,7 @@
 6	mongen	minge	VERB	_	_	0	root	_	dutch=met
 7	yn	yn	ADP	_	_	9	case	_	dutch=KEY-MISSING
 8	’e	’e	DET	_	Definite=Def	9	det	_	dutch=de
-9	bewegingen	beweging	NOUN	_	Number=Plur	5	obl	_	dutch=bewegingen
+9	bewegingen	beweging	NOUN	_	Number=Plur	6	obl	_	dutch=bewegingen
 10	dy’t	dy’t	PRON	_	PronType=Rel	15	nsubj	_	dutch=die
 11	har	har	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	15	expl_pv	_	dutch=zich
 12	yn	yn	ADP	_	_	14	case	_	dutch=in
