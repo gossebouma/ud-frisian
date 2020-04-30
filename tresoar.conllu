@@ -7021,7 +7021,7 @@
 14	ierde	ierde	NOUN	_	Gender=Com|Number=Sing	10	nmod	_	dutch=aarde
 15	mei	mei	ADP	_	_	17	case	_	dutch=met
 16	dizze	dizze	DET	_	_	17	det	_	dutch=deze
-17	pinne	pinne	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	dutch=pen
+17	pinne	pinne	NOUN	_	Gender=Com|Number=Sing	8	obl	_	dutch=pen
 18	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
 # sent_id = 314
