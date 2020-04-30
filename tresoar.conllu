@@ -6982,7 +6982,7 @@
 6	allesomfiemjende	allesomfiemjend	VERB	_	Degree=Pos	3	nmod	_	dutch=allesomvattende
 7	en	en	CCONJ	_	_	9	cc	_	dutch=en
 8	it	it	DET	_	Definite=Def	9	det	_	dutch=het
-9	ferline	ferline	NOUN	_	Gender=Neut|Number=Sing	6	conj	_	dutch=verleden
+9	ferline	ferline	NOUN	_	Gender=Neut|Number=Sing	3	conj	_	dutch=verleden
 10	mei	mei	ADP	_	_	12	case	_	dutch=met
 11	it	it	DET	_	Definite=Def	12	det	_	dutch=het
 12	no	no	NOUN	_	Gender=Neut|Number=Sing	14	obl	_	dutch=heden
