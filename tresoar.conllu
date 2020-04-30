@@ -7075,7 +7075,7 @@
 2	wiene	wêze	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	4	cop	_	dutch=waren
 3	eins	eins	ADJ	_	Degree=Pos	4	advmod	_	dutch=eigenlijk
 4	generaasjegenoaten	generaasjegenoat	NOUN	_	Number=Plur	0	root	_	dutch=generatiegenoten
-5	,	,	PUNCT	_	PronType=Rel	20	nsubj	_	dutch=die
+5	,	,	PUNCT	_	PronType=Rel	20	punct	_	dutch=die
 6	dy’t	dy’t	PRON	_	PronType=Rel	20	nsubj	_	dutch=die
 7	har	har	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	20	expl_pv	_	dutch=zich
 8	lykwols	lykwols	ADV	_	_	20	advmod	_	dutch=echter
