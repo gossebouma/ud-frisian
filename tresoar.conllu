@@ -6806,7 +6806,7 @@
 28	,	,	PUNCT	_	_	18	punct	_	dutch=,
 29	ferstoar	ferstjerre	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=overleed
 30	yn	yn	ADP	_	_	31	case	_	dutch=in
-31	1963	1963	NUM	_	_	10	conj	_	dutch=1963
+31	1963	1963	NUM	_	_	29	conj	_	dutch=1963
 32	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
 # sent_id = 305
