@@ -7240,7 +7240,7 @@
 5	Tiental	Tiental	PROPN	_	_	4	flat	_	dutch=Tiental
 6	foar	foar	ADP	_	_	4	flat	_	dutch=voor
 7	Jelle	Jelle	PROPN	_	_	4	flat	_	dutch=Jelle
-8	Troelstra	Troelstra	PROPN	_	_	4	flat	_	dutch=Troelstra
+8	Troelstra	Troelstra	PROPN	_	_	7	flat	_	dutch=Troelstra
 
 # sent_id = 323
 # text = Yn 1903 ferskynde Afke’s tiental .
