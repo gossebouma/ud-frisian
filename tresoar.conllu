@@ -6913,7 +6913,7 @@
 5	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	11	aux	_	dutch=is
 6	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	11	nsubj	_	dutch=hij
 7	lange	lang	ADJ	_	_	8	amod	_	dutch=vele
-8	jierren	jier	NOUN	_	Number=Plur	11	root	_	dutch=jaren
+8	jierren	jier	NOUN	_	Number=Plur	11	advmod	_	dutch=jaren
 9	yn	yn	ADP	_	_	10	case	_	dutch=in
 10	Grins	Grins	PROPN	_	Gender=Neut|Number=Sing	11	obl	_	dutch=Groningen
 11	learaar	learaar	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=leraar
