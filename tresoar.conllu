@@ -7177,7 +7177,7 @@
 23	foarop	foarop	ADV	_	_	24	advmod	_	dutch=KEY-MISSING
 24	stie	stean	VERB	_	_	10	acl_relcl	_	dutch=KEY-MISSING
 25	,	,	PUNCT	_	_	37	punct	_	dutch=,
-26	mar	mar	CCONJ	_	_	28	advmod	_	dutch=maar
+26	mar	mar	CCONJ	_	_	28	cc	_	dutch=maar
 27	in	in	DET	_	Definite=Ind	28	det	_	dutch=een
 28	ynsekt	ynsekt	NOUN	_	Gender=Neut|Number=Sing	37	obl	_	dutch=insect
 29	dat	dat	PRON	_	_	37	nsubj	_	dutch=KEY-MISSING
