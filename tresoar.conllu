@@ -6908,7 +6908,7 @@
 # NOT ALIGNED
 1	As	as	ADP	_	_	2	mark	_	dutch=Als
 2	wis-	wis-	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=wis-en
-3	en	en	CCONJ	_	_	4	root	_	dutch=KEY-MISSING
+3	en	en	CCONJ	_	_	4	cc	_	dutch=KEY-MISSING
 4	natuerkundige	natuerkundige	NOUN	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=is
 5	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	11	aux	_	dutch=is
 6	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	11	nsubj	_	dutch=hij
