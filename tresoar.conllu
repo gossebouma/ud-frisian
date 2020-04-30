@@ -6941,7 +6941,7 @@
 14	ek	ek	ADV	_	_	12	advmod	_	dutch=ook
 15	as	as	ADP	_	_	16	mark	_	dutch=als
 16	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	12	advcl	_	dutch=Friesland
-17	.	.	PUNCT	_	_	12	root	_	dutch=.
+17	.	.	PUNCT	_	_	12	punct	_	dutch=.
 
 # sent_id = 311
 # text = Yn syn fersen wit er syn mominten fan lok sa subtyl te beskriuwen dat de lêzer it meifiele kin .
