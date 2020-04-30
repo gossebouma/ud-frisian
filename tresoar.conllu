@@ -6881,7 +6881,7 @@
 8	skipe	skypje	VERB	_	_	0	root	_	dutch=KEY-MISSING
 9	op	op	ADP	_	_	0	root	_	dutch=op
 10	it	it	DET	_	Definite=Def	0	root	_	dutch=het
-11	Snitser	Snitser	ADJ	_	Gender=Neut|Number=Sing	0	root	_	dutch=Sneker
+11	Snitser	Snitser	ADJ	_	Gender=Neut|Number=Sing	12	root	_	dutch=Sneker
 12	gymnasium	gymnasium	NOUN	_	VerbForm=Inf	0	root	_	dutch=VAL-MISSING
 13	.	.	PUNCT	_	_	12	punct	_	dutch=.
 
