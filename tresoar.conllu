@@ -6929,7 +6929,7 @@
 2	Grinzer	Grinzer	ADJ	_	Gender=Com|Number=Sing	0	root	_	dutch=Groninger
 3	ommelannen	ommelân	NOUN	_	_	6	advmod	_	dutch=waaraan
 4	,	,	PUNCT	_	_	6	punct	_	dutch=,
-5	dêr’t	dêr’t	ADV	_	_	6	advmod	_	dutch=waaraan
+5	dêr’t	dêr’t	ADV	_	_	10	advmod	_	dutch=waaraan
 6	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	10	nsubj	_	dutch=hij
 7	ûnderskate	ûnderskaat	ADJ	_	Degree=Pos	8	amod	_	dutch=verschillende
 8	fersen	fers	NOUN	_	Number=Plur	10	obj	_	dutch=gedichten
