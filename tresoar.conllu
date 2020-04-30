@@ -6953,7 +6953,7 @@
 3	fersen	fers	NOUN	_	Number=Plur	13	obl	_	dutch=verzen
 4	wit	wit	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=weet
 5	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	4	nsubj	_	dutch=hij
-6	syn	syn	PRON	_	_	7	nmod_poss	_	dutch=KEY-MISSING
+6	syn	syn	PRON	_	_	3	nmod_poss	_	dutch=KEY-MISSING
 7	mominten	momint	NOUN	_	Number=Plur	13	obj	_	dutch=momenten
 8	fan	fan	ADP	_	_	9	case	_	dutch=van
 9	lok	lok	NOUN	_	Gender=Neut|Number=Sing	7	nmod	_	dutch=geluk
