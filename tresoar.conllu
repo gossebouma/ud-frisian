@@ -6832,7 +6832,7 @@
 16	foar	foar	ADP	_	_	18	case	_	dutch=voor
 17	it	it	DET	_	Definite=Def	18	det	_	dutch=het
 18	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	15	obl	_	dutch=Fries
-19	.	.	PUNCT	_	_	5	punct	_	dutch=.
+19	.	.	PUNCT	_	_	6	punct	_	dutch=.
 
 # sent_id = 306
 # text = Boeresoan dy’t er wie , hie er syn niget oan it Fryske lân en libben , dat er konkreet mar ek op filosofyske toan beskreau .
