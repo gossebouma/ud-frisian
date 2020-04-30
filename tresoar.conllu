@@ -7171,7 +7171,7 @@
 17	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	15	conj	_	dutch=Friesland
 18	of	of	CCONJ	_	_	21	cc	_	dutch=of
 19	in	in	DET	_	Definite=Ind	21	det	_	dutch=een
-20	Frysk-eigen	Frysk-eigen	ADJ	_	Degree=Pos	0	root	_	dutch=specifiek
+20	Frysk-eigen	Frysk-eigen	ADJ	_	Degree=Pos	21	root	_	dutch=specifiek
 21	begryp	begryp	NOUN	_	Gender=Neut|Number=Sing	10	conj	_	dutch=begrip
 22	yn	yn	ADP	_	_	11	case	_	dutch=KEY-MISSING
 23	foarop	foarop	ADV	_	_	24	advmod	_	dutch=KEY-MISSING
