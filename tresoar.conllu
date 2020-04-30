@@ -6807,7 +6807,7 @@
 29	ferstoar	ferstjerre	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=overleed
 30	yn	yn	ADP	_	_	31	case	_	dutch=in
 31	1963	1963	NUM	_	_	29	obl	_	dutch=1963
-32	.	.	PUNCT	_	_	2	punct	_	dutch=.
+32	.	.	PUNCT	_	_	29	punct	_	dutch=.
 
 # sent_id = 305
 # text = Hy hat him nea bot mongen yn ’e bewegingen dy’t har yn syn dagen ynsetten foar it Frysk .
