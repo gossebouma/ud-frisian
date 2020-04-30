@@ -7086,7 +7086,7 @@
 13	yn	yn	ADP	_	_	16	case	_	dutch=binnen
 14	it	it	DET	_	Definite=Def	16	det	_	dutch=het
 15	literêre	literêr	ADJ	_	Degree=Pos	16	amod	_	dutch=literaire
-16	fermidden	fermidden	NOUN	_	Gender=Neut|Number=Sing	10	obl	_	dutch=milieu
+16	fermidden	fermidden	NOUN	_	Gender=Neut|Number=Sing	20	obl	_	dutch=milieu
 17	op	op	ADP	_	_	19	case	_	dutch=op
 18	’e	’e	DET	_	Definite=Def	19	det	_	dutch=de
 19	foargrûn	foargrûn	NOUN	_	Gender=Com|Number=Sing	20	obl	_	dutch=voorgrond
