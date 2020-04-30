@@ -6874,7 +6874,7 @@
 1	Hy	hy	PRON	_	_	8	nsubj	_	dutch=KEY-MISSING
 2	hie	hawwe	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	8	aux	_	dutch=had
 3	syn	syn	PRON	_	Gender=Com|Number=Sing	4	nmod	_	dutch=poëzie
-4	leafde	leafde	NOUN	_	Gender=Com|Number=Sing	8	nsubj	_	dutch=liefde
+4	leafde	leafde	NOUN	_	Gender=Com|Number=Sing	8	obj	_	dutch=liefde
 5	foar	foar	ADP	_	_	6	case	_	dutch=voor
 6	poëzy	poëzy	NOUN	_	Gender=Com|Number=Sing	4	nmod	_	dutch=poëzie
 7	al	al	ADV	_	_	8	advmod	_	dutch=al
