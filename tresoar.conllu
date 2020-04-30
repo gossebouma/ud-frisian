@@ -7210,7 +7210,7 @@
 12	Evert	Evert	PROPN	_	_	11	appos	_	dutch=Evert
 13	Caspers	Caspers	PROPN	_	_	12	flat	_	dutch=VAL-MISSING
 14	en	en	CCONJ	_	_	15	cc	_	dutch=VAL-MISSING
-15	Johannes	Johannes	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+15	Johannes	Johannes	PROPN	_	_	13	root	_	dutch=VAL-MISSING
 16	Mulders	Mulders	PROPN	_	_	15	flat	_	dutch=VAL-MISSING
 17	en	en	CCONJ	_	_	19	cc	_	dutch=en
 18	de	de	DET	_	Definite=Def	19	det	_	dutch=de
