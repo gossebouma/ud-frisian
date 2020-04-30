@@ -7144,7 +7144,7 @@
 20	de	de	DET	_	Definite=Def	22	det	_	dutch=de
 21	grafyske	grafysk	ADJ	_	Degree=Pos	22	amod	_	dutch=grafische
 22	útfiering	útfiering	NOUN	_	Gender=Com|Number=Sing	9	obl	_	dutch=uitvoering
-23	opfoel	opfalle	VERB	_	Degree=Pos	13	amod	_	dutch=grafische
+23	opfoel	opfalle	VERB	_	Degree=Pos	13	acl_relcl	_	dutch=grafische
 24	.	.	PUNCT	_	_	9	punct	_	dutch=.
 
 # sent_id = 319
