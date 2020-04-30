@@ -7110,7 +7110,7 @@
 10	Jelle	Jelle	PROPN	_	_	1	conj	_	dutch=Jelle
 11	Hindriks	Hindriks	PROPN	_	_	10	flat	_	dutch=Hendriks
 12	Brouwer	Brouwer	PROPN	_	_	10	flat	_	dutch=Brouwer
-13	(	(	PUNCT	_	_	16	punct	_	dutch=(
+13	(	(	PUNCT	_	_	14	punct	_	dutch=(
 14	1900	1900	NUM	_	_	16	nummod	_	dutch=1900-
 15	-	-	PUNCT	_	_	16	nummod	_	dutch=1900-
 16	1981	1981	NUM	_	_	10	nmod	_	dutch=1981
