@@ -6911,7 +6911,7 @@
 3	en	en	CCONJ	_	_	0	root	_	dutch=KEY-MISSING
 4	natuerkundige	natuerkundige	NOUN	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=is
 5	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	11	aux	_	dutch=is
-6	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	0	root	_	dutch=hij
+6	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	11	root	_	dutch=hij
 7	lange	lang	ADJ	_	_	8	amod	_	dutch=vele
 8	jierren	jier	NOUN	_	Number=Plur	0	root	_	dutch=jaren
 9	yn	yn	ADP	_	_	10	case	_	dutch=in
