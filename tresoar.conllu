@@ -6933,7 +6933,7 @@
 6	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	10	nsubj	_	dutch=hij
 7	ûnderskate	ûnderskaat	ADJ	_	Degree=Pos	8	amod	_	dutch=verschillende
 8	fersen	fers	NOUN	_	Number=Plur	10	obj	_	dutch=gedichten
-9	oan	oan	ADP	_	_	8	root	_	dutch=KEY-MISSING
+9	oan	oan	ADP	_	_	0	root	_	dutch=KEY-MISSING
 10	wijde	wije	VERB	_	Degree=Pos	12	obj	_	dutch=wijde
 11	,	,	PUNCT	_	_	10	punct	_	dutch=,
 12	belibbe	belibje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=beleefde
