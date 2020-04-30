@@ -7136,7 +7136,7 @@
 12	in	in	DET	_	Definite=Ind	13	det	_	dutch=een
 13	tydskrift	tydskrift	NOUN	_	Gender=Neut|Number=Sing	9	obl	_	dutch=tijdschrift
 14	foar	foar	ADP	_	Gender=Neut|Number=Sing	9	obj	_	dutch=tijdschrift
-15	it	it	DET	_	Gender=Neut|Number=Sing	9	obj	_	dutch=tijdschrift
+15	it	it	DET	_	Gender=Neut|Number=Sing	16	obj	_	dutch=tijdschrift
 16	ljocht	ljocht	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 17	dat	dat	PRON	_	Person=3|PronType=Rel	0	root	_	dutch=dat
 18	benammen	benammen	ADV	_	_	0	root	_	dutch=vooral
