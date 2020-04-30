@@ -7166,7 +7166,7 @@
 12	net	net	ADV	_	_	13	advmod	_	dutch=niet
 13	langer	lang	ADJ	_	_	24	advmod	_	dutch=meer
 14	it	it	DET	_	Definite=Def	15	det	_	dutch=het
-15	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	24	nmod	_	dutch=Fries
+15	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	24	nsubj	_	dutch=Fries
 16	,	,	PUNCT	_	_	17	punct	_	dutch=,
 17	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	15	conj	_	dutch=Friesland
 18	of	of	CCONJ	_	_	21	cc	_	dutch=of
