@@ -7139,7 +7139,7 @@
 15	it	it	DET	_	Gender=Neut|Number=Sing	16	det	_	dutch=tijdschrift
 16	ljocht	ljocht	NOUN	_	_	9	obl	_	dutch=KEY-MISSING
 17	dat	dat	PRON	_	Person=3|PronType=Rel	23	nsubj	_	dutch=dat
-18	benammen	benammen	ADV	_	_	0	root	_	dutch=vooral
+18	benammen	benammen	ADV	_	_	23	root	_	dutch=vooral
 19	troch	troch	ADP	_	_	22	case	_	dutch=door
 20	de	de	DET	_	Definite=Def	22	det	_	dutch=de
 21	grafyske	grafysk	ADJ	_	Degree=Pos	22	amod	_	dutch=grafische
