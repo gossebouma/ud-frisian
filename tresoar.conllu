@@ -6853,7 +6853,7 @@
 12	Fryske	Frysk	ADJ	_	Degree=Pos	13	amod	_	dutch=Friese
 13	lân	lân	NOUN	_	Gender=Neut|Number=Sing	6	obl	_	dutch=land
 14	en	en	CCONJ	_	_	15	cc	_	dutch=en
-15	libben	libben	NOUN	_	Gender=Neut|Number=Sing	10	conj	_	dutch=leven
+15	libben	libben	NOUN	_	Gender=Neut|Number=Sing	13	conj	_	dutch=leven
 16	,	,	PUNCT	_	_	25	punct	_	dutch=,
 17	dat	dat	PRON	_	Person=3|PronType=Rel	25	obj	_	dutch=dat
 18	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	25	nsubj	_	dutch=hij
