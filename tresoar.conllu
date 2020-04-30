@@ -7188,7 +7188,7 @@
 34	algemien	algemien	ADV	_	Degree=Pos	36	amod	_	dutch=algemeen
 35	befruchtsjende	befruchtsje	VERB	_	VerbForm=Part	36	amod	_	dutch=bevruchtende
 36	wurking	wurking	NOUN	_	Gender=Com|Number=Sing	37	obl	_	dutch=werking
-37	tsjinne	tsjinje	VERB	_	VerbForm=Part	28	xcomp	_	dutch=bevruchtende
+37	tsjinne	tsjinje	VERB	_	VerbForm=Part	28	acl_relcl	_	dutch=bevruchtende
 38	.	.	PUNCT	_	_	8	punct	_	dutch=.
 
 # sent_id = 320
