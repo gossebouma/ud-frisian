@@ -6793,7 +6793,7 @@
 15	jierren	jier	NOUN	_	Gender=Com|Number=Sing	18	obl	_	dutch=leeftijd
 16	yn	yn	ADP	_	_	17	case	_	dutch=in
 17	Ljouwert	Ljouwert	PROPN	_	Gender=Neut|Number=Sing	18	obl	_	dutch=Leeuwarden
-18	besiker	besiker	NOUN	_	Gender=Com|Number=Sing	6	nsubj	_	dutch=bezoeker
+18	besiker	besiker	NOUN	_	Gender=Com|Number=Sing	6	conj	_	dutch=bezoeker
 19	fan	fan	ADP	_	_	21	case	_	dutch=van
 20	de	de	DET	_	Definite=Def	21	det	_	dutch=de
 21	foargonger	foargonger	NOUN	_	Gender=Com|Number=Sing	18	obl	_	dutch=voorloper
