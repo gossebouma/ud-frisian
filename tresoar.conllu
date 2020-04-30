@@ -6851,7 +6851,7 @@
 10	oan	oan	ADP	_	Gender=Com|Number=Sing	6	obj	_	dutch=belangstelling
 11	it	it	DET	_	Definite=Def	13	det	_	dutch=het
 12	Fryske	Frysk	ADJ	_	Degree=Pos	13	amod	_	dutch=Friese
-13	lân	lân	NOUN	_	Gender=Neut|Number=Sing	6	nmod	_	dutch=land
+13	lân	lân	NOUN	_	Gender=Neut|Number=Sing	6	obl	_	dutch=land
 14	en	en	CCONJ	_	_	15	cc	_	dutch=en
 15	libben	libben	NOUN	_	Gender=Neut|Number=Sing	10	conj	_	dutch=leven
 16	,	,	PUNCT	_	_	25	punct	_	dutch=,
