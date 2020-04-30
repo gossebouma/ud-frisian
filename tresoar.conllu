@@ -6985,7 +6985,7 @@
 9	ferline	ferline	NOUN	_	Gender=Neut|Number=Sing	3	conj	_	dutch=verleden
 10	mei	mei	ADP	_	_	12	case	_	dutch=met
 11	it	it	DET	_	Definite=Def	12	det	_	dutch=het
-12	no	no	NOUN	_	Gender=Neut|Number=Sing	14	obl	_	dutch=heden
+12	no	no	NOUN	_	Gender=Neut|Number=Sing	9	obl	_	dutch=heden
 13	te	te	ADP	_	_	14	mark	_	dutch=te
 14	ferbinen	ferbine	VERB	_	VerbForm=Inf	16	advcl	_	dutch=verbinden
 15	,	,	PUNCT	_	_	14	punct	_	dutch=,
