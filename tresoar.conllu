@@ -7184,7 +7184,7 @@
 30	as	as	ADP	_	_	31	mark	_	dutch=als
 31	symboal	symboal	NOUN	_	Gender=Neut|Number=Sing	28	nmod	_	dutch=symbool
 32	fan	fan	ADP	_	_	34	case	_	dutch=van
-33	syn	syn	PRON	_	_	34	case	_	dutch=van
+33	syn	syn	PRON	_	_	36	case	_	dutch=van
 34	algemien	algemien	ADV	_	Degree=Pos	31	nmod	_	dutch=algemeen
 35	befruchtsjende	befruchtsje	VERB	_	VerbForm=Part	36	xcomp	_	dutch=bevruchtende
 36	wurking	wurking	NOUN	_	Gender=Com|Number=Sing	37	obj	_	dutch=werking
