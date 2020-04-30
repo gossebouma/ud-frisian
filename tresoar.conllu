@@ -7156,7 +7156,7 @@
 2	tydskrift	tydskrift	NOUN	_	Gender=Neut|Number=Sing	8	nsubj	_	dutch=tijdschrift
 3	(	(	PUNCT	_	_	4	punct	_	dutch=(
 4	1926	1926	NUM	_	_	6	nummod	_	dutch=1926-
-5	-	-	PUNCT	_	_	6	root	_	dutch=KEY-MISSING
+5	-	-	PUNCT	_	_	6	cc	_	dutch=KEY-MISSING
 6	1929	1929	NUM	_	_	2	nmod	_	dutch=1929
 7	)	)	PUNCT	_	_	4	punct	_	dutch=)
 8	krige	krije	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=kreeg
