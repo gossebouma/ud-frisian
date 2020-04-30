@@ -6820,7 +6820,7 @@
 4	nea	nea	ADV	_	VerbForm=Part	6	advmod	_	dutch=ingelaten
 5	bot	bot	ADJ	_	VerbForm=Part	6	advmod	_	dutch=ingelaten
 6	mongen	minge	VERB	_	_	0	root	_	dutch=met
-7	yn	yn	ADP	_	_	9	root	_	dutch=KEY-MISSING
+7	yn	yn	ADP	_	_	9	case	_	dutch=KEY-MISSING
 8	’e	’e	DET	_	Definite=Def	9	det	_	dutch=de
 9	bewegingen	beweging	NOUN	_	Number=Plur	5	obl	_	dutch=bewegingen
 10	dy’t	dy’t	PRON	_	PronType=Rel	15	nsubj	_	dutch=die
