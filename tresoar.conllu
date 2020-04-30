@@ -7182,7 +7182,7 @@
 28	ynsekt	ynsekt	NOUN	_	Gender=Neut|Number=Sing	24	obl	_	dutch=insect
 29	dat	dat	PRON	_	_	37	nsubj	_	dutch=KEY-MISSING
 30	as	as	ADP	_	_	31	mark	_	dutch=als
-31	symboal	symboal	NOUN	_	Gender=Neut|Number=Sing	37	nmod	_	dutch=symbool
+31	symboal	symboal	NOUN	_	Gender=Neut|Number=Sing	37	xcomp	_	dutch=symbool
 32	fan	fan	ADP	_	_	36	case	_	dutch=van
 33	syn	syn	PRON	_	_	36	det	_	dutch=van
 34	algemien	algemien	ADV	_	Degree=Pos	36	amod	_	dutch=algemeen
