@@ -6882,7 +6882,7 @@
 9	op	op	ADP	_	_	12	case	_	dutch=op
 10	it	it	DET	_	Definite=Def	12	nsubj	_	dutch=het
 11	Snitser	Snitser	ADJ	_	Gender=Neut|Number=Sing	12	amod	_	dutch=Sneker
-12	gymnasium	gymnasium	NOUN	_	VerbForm=Inf	0	root	_	dutch=VAL-MISSING
+12	gymnasium	gymnasium	NOUN	_	VerbForm=Inf	8	root	_	dutch=VAL-MISSING
 13	.	.	PUNCT	_	_	8	punct	_	dutch=.
 
 # sent_id = 308
