@@ -7112,7 +7112,7 @@
 12	Brouwer	Brouwer	PROPN	_	_	10	flat	_	dutch=Brouwer
 13	(	(	PUNCT	_	_	14	punct	_	dutch=(
 14	1900	1900	NUM	_	_	16	nummod	_	dutch=1900-
-15	-	-	PUNCT	_	_	16	nummod	_	dutch=1900-
+15	-	-	PUNCT	_	_	14	nummod	_	dutch=1900-
 16	1981	1981	NUM	_	_	10	nmod	_	dutch=1981
 17	)	)	PUNCT	_	_	16	punct	_	dutch=)
 18	.	.	PUNCT	_	_	1	punct	_	dutch=.
