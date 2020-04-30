@@ -7174,7 +7174,7 @@
 20	Frysk-eigen	Frysk-eigen	ADJ	_	Degree=Pos	0	root	_	dutch=specifiek
 21	begryp	begryp	NOUN	_	Gender=Neut|Number=Sing	10	conj	_	dutch=begrip
 22	yn	yn	ADP	_	_	11	case	_	dutch=KEY-MISSING
-23	foarop	foarop	ADV	_	_	0	root	_	dutch=KEY-MISSING
+23	foarop	foarop	ADV	_	_	24	root	_	dutch=KEY-MISSING
 24	stie	stean	VERB	_	_	0	root	_	dutch=KEY-MISSING
 25	,	,	PUNCT	_	_	37	punct	_	dutch=,
 26	mar	mar	CCONJ	_	_	37	advmod	_	dutch=maar
