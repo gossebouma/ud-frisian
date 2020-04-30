@@ -7208,7 +7208,7 @@
 10	byldzjende	byldzjend	ADJ	_	VerbForm=Part	11	amod	_	dutch=beeldende
 11	keunstners	keunstner	NOUN	_	Number=Plur	7	nmod	_	dutch=kunstenaars
 12	Evert	Evert	PROPN	_	_	11	appos	_	dutch=Evert
-13	Caspers	Caspers	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+13	Caspers	Caspers	PROPN	_	_	12	root	_	dutch=VAL-MISSING
 14	en	en	CCONJ	_	_	0	root	_	dutch=VAL-MISSING
 15	Johannes	Johannes	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 16	Mulders	Mulders	PROPN	_	_	0	root	_	dutch=VAL-MISSING
