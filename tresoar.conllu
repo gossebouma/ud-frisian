@@ -6814,7 +6814,7 @@
 # source_text = Hij heeft zich nauwelijks ingelaten met de bewegingen die zich in zijn dagen inzetten voor het Fries .
 # alignment =  0-0 1-1 2-2 3-4 4-4 5-5 7-6 8-7 9-8 10-9 11-10 12-11 13-12 14-13 15-14 16-15 17-16 18-17
 # NOT ALIGNED
-1	Hy	hy	PRON	_	Case=Nom|Person=3|PronType=Prs	5	nsubj	_	dutch=Hij
+1	Hy	hy	PRON	_	Case=Nom|Person=3|PronType=Prs	6	nsubj	_	dutch=Hij
 2	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	aux	_	dutch=heeft
 3	him	him	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	6	expl_pv	_	dutch=zich
 4	nea	nea	ADV	_	VerbForm=Part	6	advmod	_	dutch=ingelaten
