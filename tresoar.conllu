@@ -6796,7 +6796,7 @@
 18	besiker	besiker	NOUN	_	Gender=Com|Number=Sing	29	nsubj	_	dutch=bezoeker
 19	fan	fan	ADP	_	_	21	case	_	dutch=van
 20	de	de	DET	_	Definite=Def	21	det	_	dutch=de
-21	foargonger	foargonger	NOUN	_	Gender=Com|Number=Sing	18	nmod	_	dutch=voorloper
+21	foargonger	foargonger	NOUN	_	Gender=Com|Number=Sing	18	obl	_	dutch=voorloper
 22	fan	fan	ADP	_	_	23	case	_	dutch=van
 23	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	21	nmod	_	dutch=Tresoar
 24	,	,	PUNCT	_	_	27	punct	_	dutch=,
