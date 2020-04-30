@@ -6927,7 +6927,7 @@
 # NOT ALIGNED
 1	De	De	DET	_	Definite=Def	2	det	_	dutch=De
 2	Grinzer	Grinzer	ADJ	_	Gender=Com|Number=Sing	0	root	_	dutch=Groninger
-3	ommelannen	ommelân	NOUN	_	_	12	advmod	_	dutch=waaraan
+3	ommelannen	ommelân	NOUN	_	_	12	nsubj	_	dutch=waaraan
 4	,	,	PUNCT	_	_	6	punct	_	dutch=,
 5	dêr’t	dêr’t	ADV	_	_	10	obl	_	dutch=waaraan
 6	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	10	nsubj	_	dutch=hij
