@@ -6840,7 +6840,7 @@
 # alignment =  0-1 1-1 2-3 3-2 5-2 6-3 8-5 9-4 10-6 11-7 12-8 13-9 14-10 15-11 16-12 17-13 18-14 19-15 20-16 21-17 22-18 23-19 24-20 25-21
 # NOT ALIGNED
 1	Boeresoan	boeresoan	NOUN	_	Gender=Com|Number=Sing	6	advcl	_	dutch=boerenzoon
-2	dy’t	dy’t	PRON	_	Gender=Com|Number=Sing	6	advcl	_	dutch=boerenzoon
+2	dy’t	dy’t	PRON	_	Gender=Com|Number=Sing	1	advcl	_	dutch=boerenzoon
 3	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	2	nsubj	_	dutch=hij
 4	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=had
 5	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
