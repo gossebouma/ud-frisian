@@ -6877,7 +6877,7 @@
 4	leafde	leafde	NOUN	_	Gender=Com|Number=Sing	2	nsubj	_	dutch=liefde
 5	foar	foar	ADP	_	_	3	case	_	dutch=voor
 6	poëzy	poëzy	NOUN	_	Gender=Com|Number=Sing	4	nmod	_	dutch=poëzie
-7	al	al	ADV	_	_	2	advmod	_	dutch=al
+7	al	al	ADV	_	_	8	advmod	_	dutch=al
 8	skipe	skypje	VERB	_	_	0	root	_	dutch=KEY-MISSING
 9	op	op	ADP	_	_	0	root	_	dutch=op
 10	it	it	DET	_	Definite=Def	0	root	_	dutch=het
