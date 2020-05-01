@@ -7379,7 +7379,7 @@
 27	mear	folle	ADV	_	_	30	advmod	_	dutch=niet
 28	yn	yn	ADP	_	_	30	root	_	dutch=KEY-MISSING
 29	’e	’e	DET	_	_	30	root	_	dutch=KEY-MISSING
-30	hûs	hûs	NOUN	_	_	8	advmod	_	dutch=thuis
+30	hûs	hûs	NOUN	_	_	0	root	_	dutch=thuis
 31	.	.	PUNCT	_	_	8	punct	_	dutch=.
 
 # sent_id = 327
