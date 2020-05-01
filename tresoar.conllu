@@ -7836,7 +7836,7 @@
 10	yn	yn	ADP	_	_	11	case	_	dutch=VAL-MISSING
 11	Den	Den	PROPN	_	_	9	nmod	_	dutch=Den
 12	Haach	Haach	PROPN	_	_	11	flat	_	dutch=VAL-MISSING
-13	ta	ta	ADP	_	_	0	root	_	dutch=KEY-MISSING
+13	ta	ta	ADP	_	_	3	root	_	dutch=KEY-MISSING
 14	en	en	CCONJ	_	_	0	root	_	dutch=en
 15	simmers	simmer	NOUN	_	Number=Plur	3	obl	_	dutch=zomers
 16	yn	yn	ADP	_	_	17	case	_	dutch=in
