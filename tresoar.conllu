@@ -7299,7 +7299,7 @@
 1	Wylst	wylst	SCONJ	_	_	7	mark	_	dutch=Terwijl
 2	Troelstra	Troelstra	PROPN	_	Gender=Com|Number=Sing	7	nsubj	_	dutch=Troelstra
 3	in	in	DET	_	Definite=Ind	4	det	_	dutch=een
-4	moanne	moanne	NOUN	_	Gender=Com|Number=Sing	8	amod	_	dutch=maand
+4	moanne	moanne	NOUN	_	Gender=Com|Number=Sing	9	amod	_	dutch=maand
 5	yn	yn	ADP	_	_	8	case	_	dutch=in
 6	’e	’e	DET	_	Definite=Def	8	det	_	dutch=de
 7	Haarlimske	Haarlimsk	ADJ	_	Number=Sing|Tense=Past|VerbForm=Fin	8	amod	_	dutch=verbleef
