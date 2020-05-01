@@ -7748,7 +7748,7 @@
 12	de	de	DET	_	Definite=Def	13	det	_	dutch=de
 13	roman	roman	NOUN	_	Gender=Com|Number=Sing	8	appos	_	dutch=roman
 14	oer	oer	ADP	_	_	17	case	_	dutch=over
-15	de	de	DET	_	Definite=Def	16	det	_	dutch=de
+15	de	de	DET	_	Definite=Def	17	det	_	dutch=de
 16	Frânske	Frânsk	ADJ	_	Gender=Com|Number=Sing	13	nmod	_	dutch=Franse
 17	tiid	tiid	NOUN	_	Gender=Com|Number=Sing	13	nmod	_	dutch=tijd
 18	(	(	PUNCT	_	_	21	punct	_	dutch=(
