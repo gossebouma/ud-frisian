@@ -7878,7 +7878,7 @@
 9	Fabryk	Fabryk	PROPN	_	Gender=Com|Number=Sing	8	appos	_	dutch=Fabriek
 10	en	en	CCONJ	_	_	11	cc	_	dutch=KEY-MISSING
 11	krige	krije	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	3	conj	_	dutch=kreeg
-12	dêr	dêr	ADV	_	_	0	root	_	dutch=KEY-MISSING
+12	dêr	dêr	ADV	_	_	11	root	_	dutch=KEY-MISSING
 13	yn	yn	ADP	_	_	14	case	_	dutch=in
 14	1967	1967	NUM	_	_	11	obl	_	dutch=1967
 15	de	de	DET	_	Definite=Def	0	root	_	dutch=VAL-MISSING
