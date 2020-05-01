@@ -7788,7 +7788,7 @@
 4	eigensinnigens	eigensinnigen	NOUN	_	Gender=Com|Number=Sing	5	nsubj	_	dutch=eigenzinnigheid
 5	die	die	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=blijkt
 6	û.o.	û.o.	X	_	_	5	parataxis	_	dutch=a
-7	bliken	blike	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	root	_	dutch=blijkt
+7	bliken	blike	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	xcomp	_	dutch=blijkt
 8	út	út	ADP	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	parataxis	_	dutch=uit
 9	it	it	DET	_	Definite=Def	10	det	_	dutch=het
 10	feit	feit	NOUN	_	Gender=Neut|Number=Sing	8	nsubj	_	dutch=feit
