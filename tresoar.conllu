@@ -7614,7 +7614,7 @@
 34	algemien	algemien	ADJ	_	Degree=Pos	35	advcl	_	dutch=algemeen
 35	symboal	symboal	NOUN	_	Gender=Neut|Number=Sing	42	obl	_	dutch=VAL-MISSING
 36	fan	fan	ADP	_	_	37	case	_	dutch=VAL-MISSING
-37	libben	libben	NOUN	_	Gender=Neut|Number=Sing	35	root	_	dutch=VAL-MISSING
+37	libben	libben	NOUN	_	Gender=Neut|Number=Sing	35	nmod	_	dutch=VAL-MISSING
 38	,	,	PUNCT	_	_	37	punct	_	dutch=VAL-MISSING
 39	of	of	CCONJ	_	_	40	cc	_	dutch=KEY-MISSING
 40	boarne	boarne	NOUN	_	_	37	conj	_	dutch=KEY-MISSING
