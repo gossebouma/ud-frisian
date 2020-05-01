@@ -7743,7 +7743,7 @@
 7	It	it	DET	_	_	5	obl	_	dutch=It
 8	Jubeljier	jubeljier	NOUN	_	_	7	flat	_	dutch=Jubeljier
 9	(	(	PUNCT	_	_	10	punct	_	dutch=(
-10	1927	1927	NUM	_	_	5	advmod	_	dutch=1927
+10	1927	1927	NUM	_	_	8	advmod	_	dutch=1927
 11	)	)	PUNCT	_	_	10	punct	_	dutch=)
 12	de	de	DET	_	Definite=Def	13	det	_	dutch=de
 13	roman	roman	NOUN	_	Gender=Com|Number=Sing	8	appos	_	dutch=roman
