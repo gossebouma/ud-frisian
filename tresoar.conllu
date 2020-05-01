@@ -7466,7 +7466,7 @@
 2	Frisia	Frisia	PROPN	_	Gender=Com|Number=Sing	19	obl	_	dutch=Frisia
 3	,	,	PUNCT	_	_	2	punct	_	dutch=,
 4	dat	dat	PRON	_	Person=3|PronType=Dem	5	nsubj_pass	_	dutch=dat
-5	beskôge	beskôgje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	2	root	_	dutch=beschouwd
+5	beskôge	beskôgje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	2	acl_relcl	_	dutch=beschouwd
 6	wurde	wurde	AUX	_	VerbForm=Inf	5	aux	_	dutch=worden
 7	kin	kinne	AUX	_	Gender=Com|Number=Sing	5	aux	_	dutch=kan
 8	as	as	SCONJ	_	_	13	mark	_	dutch=als
