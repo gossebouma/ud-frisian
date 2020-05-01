@@ -7598,7 +7598,7 @@
 18	de	de	DET	_	Definite=Def	19	det	_	dutch=de
 19	sinne	sinne	NOUN	_	Gender=Com|Number=Sing	16	nmod	_	dutch=zon
 20	dat	dat	SCONJ	_	Person=3|PronType=Rel	42	nsubj	_	dutch=dat
-21	Dijkstra	Dijkstra	PROPN	_	Gender=Com|Number=Sing	42	obj	_	dutch=Dijkstra
+21	Dijkstra	Dijkstra	PROPN	_	Gender=Com|Number=Sing	42	nsubj	_	dutch=Dijkstra
 22	,	,	PUNCT	_	_	30	punct	_	dutch=,
 23	om	om	ADP	_	_	30	mark	_	dutch=om
 24	it	it	DET	_	Person=3|PronType=Prs	30	obj	_	dutch=het
