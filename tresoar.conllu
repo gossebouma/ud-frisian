@@ -7825,7 +7825,7 @@
 # alignment =  0-0 1-2 2-2 3-3 4-6 5-7 6-8 7-9 8-10 9-11 10-12 11-13 13-14 14-17 15-18 16-19 17-20
 # NOT ALIGNED
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
-2	skriuwster	skriuwster	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=verbleef
+2	skriuwster	skriuwster	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	3	root	_	dutch=verbleef
 3	hâlde	hâlde	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=verbleef
 4	meast	folle	ADV	_	_	3	advmod	_	dutch=meestal
 5	winters	winter	NOUN	_	Gender=Com|Number=Sing	3	obl	_	dutch=winter
