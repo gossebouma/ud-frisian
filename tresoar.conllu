@@ -7391,7 +7391,7 @@
 2	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=was
 3	yn	yn	ADP	_	_	5	case	_	dutch=in
 4	’e	’e	DET	_	Definite=Def	5	det	_	dutch=de
-5	kost	kost	NOUN	_	Gender=Com|Number=Sing	2	obl	_	dutch=kost
+5	kost	kost	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=kost
 6	by	by	ADP	_	_	7	case	_	dutch=bij
 7	kunde	kunde	NOUN	_	Number=Plur	5	nmod	_	dutch=kennissen
 8	en	en	CCONJ	_	_	9	cc	_	dutch=en
