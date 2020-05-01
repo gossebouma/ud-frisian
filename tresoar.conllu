@@ -7645,7 +7645,7 @@
 15	of	of	CCONJ	_	_	16	cc	_	dutch=of
 16	geel	geel	ADJ	_	Degree=Pos	14	conj	_	dutch=geel
 17	”	”	PUNCT	_	_	14	punct	_	dutch=”
-18	papier	papier	NOUN	_	Gender=Neut|Number=Sing	19	nmod	_	dutch=papier
+18	papier	papier	NOUN	_	Gender=Neut|Number=Sing	19	obl	_	dutch=papier
 19	ôfprinte	ôfprintsje	VERB	_	VerbForm=Part	7	ccomp	_	dutch=afgedrukt
 20	waard	wurde	AUX	_	VerbForm=Inf	19	aux_pass	_	dutch=worden
 21	om	om	ADP	_	_	29	mark	_	dutch=om
