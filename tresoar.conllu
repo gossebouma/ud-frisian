@@ -7773,7 +7773,7 @@
 37	de	de	DET	_	Definite=Def	39	det	_	dutch=de
 38	histoaryske	histoarysk	ADJ	_	Degree=Pos	39	amod	_	dutch=historische
 39	werklikheid	werklikheid	NOUN	_	Gender=Com|Number=Sing	40	nmod	_	dutch=werkelijkheid
-40	strike	strike	VERB	_	VerbForm=Inf	41	obj	_	dutch=overeenkomen
+40	strike	strike	VERB	_	VerbForm=Inf	41	xcomp	_	dutch=overeenkomen
 41	lit	litte	VERB	_	Degree=Pos	26	conj	_	dutch=laat
 42	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
