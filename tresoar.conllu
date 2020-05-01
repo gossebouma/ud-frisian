@@ -7895,7 +7895,7 @@
 1	Hy	hy	PRON	_	Case=Nom|Person=3|PronType=Prs	7	nsubj	_	dutch=Hij
 2	wie	wêze	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	7	cop	_	dutch=was
 3	by	by	ADP	_	_	5	case	_	dutch=KEY-MISSING
-4	syn	syn	PRON	_	_	5	root	_	dutch=KEY-MISSING
+4	syn	syn	PRON	_	_	5	det	_	dutch=KEY-MISSING
 5	debút	debút	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	7	root	_	dutch=debuteerde
 6	26	26	NUM	_	_	7	nummod	_	dutch=26
 7	jier	jier	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=jaar
