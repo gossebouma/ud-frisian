@@ -7789,7 +7789,7 @@
 5	die	die	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=blijkt
 6	û.o.	û.o.	X	_	_	5	advmod	_	dutch=a
 7	bliken	blike	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	xcomp	_	dutch=blijkt
-8	út	út	ADP	_	Number=Sing|Tense=Pres|VerbForm=Fin	10	parataxis	_	dutch=uit
+8	út	út	ADP	_	Number=Sing|Tense=Pres|VerbForm=Fin	10	case	_	dutch=uit
 9	it	it	DET	_	Definite=Def	10	det	_	dutch=het
 10	feit	feit	NOUN	_	Gender=Neut|Number=Sing	7	obl	_	dutch=feit
 11	dat	dat	SCONJ	_	_	29	mark	_	dutch=dat
