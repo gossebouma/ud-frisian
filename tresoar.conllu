@@ -7881,7 +7881,7 @@
 12	dêr	dêr	ADV	_	_	11	obl	_	dutch=KEY-MISSING
 13	yn	yn	ADP	_	_	14	case	_	dutch=in
 14	1967	1967	NUM	_	_	11	obl	_	dutch=1967
-15	de	de	DET	_	Definite=Def	16	root	_	dutch=VAL-MISSING
+15	de	de	DET	_	Definite=Def	16	det	_	dutch=VAL-MISSING
 16	Gysbert	Gysbert	PROPN	_	_	11	obj	_	dutch=Gysbert
 17	Japicxpriis	Japicxpriis	PROPN	_	_	16	flat	_	dutch=VAL-MISSING
 18	foar	foar	ADP	_	_	12	case	_	dutch=VAL-MISSING
