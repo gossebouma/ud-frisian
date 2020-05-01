@@ -7784,7 +7784,7 @@
 # NOT ALIGNED
 1	Simke	Simke	PROPN	_	_	4	nmod_poss	_	dutch=Simke
 2	Kloosterman	Kloosterman	PROPN	_	Number=Sing	1	flat	_	dutch=Kloostermans
-3	har	har	PRON	_	_	4	root	_	dutch=KEY-MISSING
+3	har	har	PRON	_	_	4	nmod_poss	_	dutch=KEY-MISSING
 4	eigensinnigens	eigensinnigen	NOUN	_	Gender=Com|Number=Sing	5	nsubj	_	dutch=eigenzinnigheid
 5	die	die	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=blijkt
 6	û.o.	û.o.	X	_	_	5	parataxis	_	dutch=a
