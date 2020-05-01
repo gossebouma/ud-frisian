@@ -7590,7 +7590,7 @@
 10	skeaven	skeaf	NOUN	_	Number=Plur	11	obj	_	dutch=schoven
 11	bynt	bine	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	acl_relcl	_	dutch=bindt
 12	,	,	PUNCT	_	_	13	punct	_	dutch=,
-13	donker	donker	ADJ	_	Gender=Neut|Number=Sing	4	appos	_	dutch=donker
+13	donker	donker	ADJ	_	Gender=Neut|Number=Sing	7	appos	_	dutch=donker
 14	tsjin	tsjin	ADP	_	_	16	case	_	dutch=tegen
 15	it	it	DET	_	Definite=Def	16	det	_	dutch=het
 16	ljocht	ljocht	NOUN	_	Gender=Neut|Number=Sing	13	nmod	_	dutch=licht
