@@ -7375,7 +7375,7 @@
 23	fan	fan	ADP	_	_	25	case	_	dutch=van
 24	it	it	DET	_	Definite=Def	25	det	_	dutch=het
 25	boek	boek	NOUN	_	Gender=Neut|Number=Sing	22	nmod	_	dutch=boek
-26	net	net	ADV	_	_	8	advmod	_	dutch=niet
+26	net	net	ADV	_	_	30	advmod	_	dutch=niet
 27	mear	folle	ADV	_	_	30	advmod	_	dutch=niet
 28	yn	yn	ADP	_	_	30	root	_	dutch=KEY-MISSING
 29	’e	’e	DET	_	_	30	root	_	dutch=KEY-MISSING
