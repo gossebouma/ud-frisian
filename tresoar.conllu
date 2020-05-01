@@ -7335,7 +7335,7 @@
 37	har	har	PRON	_	Person=3|Poss=Yes|PronType=Prs	38	nmod_poss	_	dutch=haar
 38	faam	faam	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 39	(	(	PUNCT	_	_	40	punct	_	dutch=(
-40	Hiltsje	Hiltsje	PROPN	_	_	0	root	_	dutch=Hiltsje
+40	Hiltsje	Hiltsje	PROPN	_	_	38	root	_	dutch=Hiltsje
 41	Feenstra	Feenstra	PROPN	_	_	40	flat	_	dutch=VAL-MISSING
 42	út	út	ADP	_	_	43	case	_	dutch=uit
 43	Wergea	Wergea	PROPN	_	Gender=Neut|Number=Sing	40	nmod	_	dutch=VAL-MISSING
