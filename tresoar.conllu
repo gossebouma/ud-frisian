@@ -7313,7 +7313,7 @@
 15	’e	’e	DET	_	Definite=Def	16	det	_	dutch=de
 16	Hogerhuis-saak	Hogerhuis-saak	NOUN	_	Gender=Com|Number=Sing	13	nmod	_	dutch=Hogerhuis-zaak
 17	misledigjende	misledigjend	VERB	_	VerbForm=Part	18	amod	_	dutch=beledigende
-18	opmerkingen	opmerking	NOUN	_	Number=Plur	19	root	_	dutch=opmerkingen
+18	opmerkingen	opmerking	NOUN	_	Number=Plur	19	obj	_	dutch=opmerkingen
 19	makke	meitsje	VERB	_	_	0	root	_	dutch=KEY-MISSING
 20	hie	hawwe	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	19	aux	_	dutch=had
 21	,	,	PUNCT	_	_	27	punct	_	dutch=,
