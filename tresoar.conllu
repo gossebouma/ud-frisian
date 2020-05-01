@@ -7302,7 +7302,7 @@
 4	moanne	moanne	NOUN	_	Gender=Com|Number=Sing	8	amod	_	dutch=maand
 5	yn	yn	ADP	_	_	8	case	_	dutch=in
 6	’e	’e	DET	_	Definite=Def	8	det	_	dutch=de
-7	Haarlimske	Haarlimsk	ADJ	_	Number=Sing|Tense=Past|VerbForm=Fin	8	root	_	dutch=verbleef
+7	Haarlimske	Haarlimsk	ADJ	_	Number=Sing|Tense=Past|VerbForm=Fin	8	amod	_	dutch=verbleef
 8	finzenis	finzenis	NOUN	_	Gender=Com|Number=Sing	9	obl	_	dutch=gevangenis
 9	siet	sitte	VERB	_	_	0	root	_	dutch=KEY-MISSING
 10	om’t	om’t	SCONJ	_	_	19	mark	_	dutch=omdat
