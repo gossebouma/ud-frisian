@@ -7808,7 +7808,7 @@
 24	eins	eins	ADJ	_	Degree=Pos	28	advmod	_	dutch=eigenlijk
 25	allinne	allinne	ADV	_	_	27	advmod	_	dutch=alleen
 26	mar	mar	ADV	_	_	25	advmod	_	dutch=maar
-27	besprekke	besprekke	VERB	_	VerbForm=Inf	28	ccomp	_	dutch=bespreken
+27	besprekke	besprekke	VERB	_	VerbForm=Inf	28	xcomp	_	dutch=bespreken
 28	litte	litte	VERB	_	VerbForm=Inf	29	xcomp	_	dutch=laten
 29	woe	wolle	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	10	acl	_	dutch=wilde
 30	troch	troch	ADP	_	_	31	case	_	dutch=door
