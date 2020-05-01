@@ -7338,7 +7338,7 @@
 40	Hiltsje	Hiltsje	PROPN	_	_	0	root	_	dutch=Hiltsje
 41	Feenstra	Feenstra	PROPN	_	_	40	flat	_	dutch=VAL-MISSING
 42	út	út	ADP	_	_	43	case	_	dutch=uit
-43	Wergea	Wergea	PROPN	_	Gender=Neut|Number=Sing	40	root	_	dutch=VAL-MISSING
+43	Wergea	Wergea	PROPN	_	Gender=Neut|Number=Sing	40	nmod	_	dutch=VAL-MISSING
 44	)	)	PUNCT	_	_	43	punct	_	dutch=)
 45	-	-	PUNCT	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=kwam
 46	te	te	ADP	_	_	47	mark	_	dutch=te
