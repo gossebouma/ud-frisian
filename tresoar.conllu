@@ -7474,7 +7474,7 @@
 10	earste	ien	ADJ	_	_	13	amod	_	dutch=eerste
 11	folslein	folslein	ADJ	_	Degree=Pos	12	advmod	_	dutch=volledig
 12	literêre	literêr	ADJ	_	Degree=Pos	13	amod	_	dutch=literaire
-13	tydskrift	tydskrift	NOUN	_	Gender=Neut|Number=Sing	5	nmod	_	dutch=tijdschrift
+13	tydskrift	tydskrift	NOUN	_	Gender=Neut|Number=Sing	5	xcomp	_	dutch=tijdschrift
 14	yn	yn	ADP	_	_	17	case	_	dutch=in
 15	’e	’e	DET	_	Definite=Def	17	det	_	dutch=de
 16	Fryske	Frysk	ADJ	_	Degree=Pos	17	amod	_	dutch=Friese
