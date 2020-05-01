@@ -7859,7 +7859,7 @@
 1	Trinus	Trinus	PROPN	_	_	0	root	_	dutch=Trinus
 2	Riemersma	Riemersma	PROPN	_	_	1	flat	_	dutch=Riemersma
 3	,	,	PUNCT	_	_	4	punct	_	dutch=,
-4	manuskript	manuskript	NOUN	_	Gender=Neut|Number=Sing	1	appos	_	dutch=manuscript
+4	manuskript	manuskript	NOUN	_	Gender=Neut|Number=Sing	1	parataxis	_	dutch=manuscript
 5	Fabryk	Fabryk	PROPN	_	Gender=Com|Number=Sing	4	appos	_	dutch=Fabryk
 
 # sent_id = 345
