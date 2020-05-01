@@ -7673,7 +7673,7 @@
 # alignment =  0-0 1-1
 # ALIGNED
 1	Simke	Simke	PROPN	_	Degree=Pos	0	root	_	dutch=Simke
-2	Kloosterman	Kloosterman	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Kloosterman
+2	Kloosterman	Kloosterman	PROPN	_	Gender=Com|Number=Sing	1	root	_	dutch=Kloosterman
 
 # sent_id = 338
 # text = Simke Kloosterman ( 1876 - 1938 ) kin sjoen wurde as de skriuwster fan de earste folweardige Fryske roman .
