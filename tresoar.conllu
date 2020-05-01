@@ -7342,7 +7342,7 @@
 44	)	)	PUNCT	_	_	40	punct	_	dutch=)
 45	-	-	PUNCT	_	Number=Sing|Tense=Past|VerbForm=Fin	32	punct	_	dutch=kwam
 46	te	te	ADP	_	_	47	mark	_	dutch=te
-47	skriuwen	skriuwe	VERB	_	VerbForm=Inf	27	advcl	_	dutch=schrijven
+47	skriuwen	skriuwe	VERB	_	VerbForm=Inf	27	xcomp	_	dutch=schrijven
 48	.	.	PUNCT	_	_	27	punct	_	dutch=.
 
 # sent_id = 326
