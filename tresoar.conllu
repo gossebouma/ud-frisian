@@ -7306,7 +7306,7 @@
 8	finzenis	finzenis	NOUN	_	Gender=Com|Number=Sing	2	nmod	_	dutch=gevangenis
 9	siet	sitte	VERB	_	_	0	root	_	dutch=KEY-MISSING
 10	om’t	om’t	SCONJ	_	_	0	root	_	dutch=omdat
-11	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	19	root	_	dutch=hij
+11	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	19	nsubj	_	dutch=hij
 12	as	as	ADP	_	_	13	mark	_	dutch=als
 13	keamerlid	keamerlid	NOUN	_	Gender=Neut|Number=Sing	19	advcl	_	dutch=kamerlid
 14	yn	yn	ADP	_	_	16	case	_	dutch=in
