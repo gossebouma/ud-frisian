@@ -7791,7 +7791,7 @@
 7	bliken	blike	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	xcomp	_	dutch=blijkt
 8	út	út	ADP	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	parataxis	_	dutch=uit
 9	it	it	DET	_	Definite=Def	10	det	_	dutch=het
-10	feit	feit	NOUN	_	Gender=Neut|Number=Sing	8	nsubj	_	dutch=feit
+10	feit	feit	NOUN	_	Gender=Neut|Number=Sing	7	nsubj	_	dutch=feit
 11	dat	dat	SCONJ	_	_	29	mark	_	dutch=dat
 12	hja	hja	PRON	_	Person=3|PronType=Prs	29	nsubj	_	dutch=ze
 13	har	har	PRON	_	Person=3|Poss=Yes|PronType=Prs	14	nmod_poss	_	dutch=haar
