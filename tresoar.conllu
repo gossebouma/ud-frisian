@@ -7288,7 +7288,7 @@
 27	steatsman	steatsman	NOUN	_	Gender=Com|Number=Sing	25	conj	_	dutch=staatsman
 28	Piter	Piter	PROPN	_	_	25	appos	_	dutch=Pieter
 29	Jelles	Jelles	PROPN	_	_	28	root	_	dutch=VAL-MISSING
-30	Troelstra	Troelstra	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+30	Troelstra	Troelstra	PROPN	_	_	28	root	_	dutch=VAL-MISSING
 31	.	.	PUNCT	_	_	30	punct	_	dutch=.
 
 # sent_id = 325
