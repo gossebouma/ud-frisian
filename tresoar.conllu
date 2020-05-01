@@ -7326,7 +7326,7 @@
 28	om	om	ADP	_	_	47	mark	_	dutch=om
 29	Afke’s	Afke’s	PROPN	_	Number=Sing	30	nmod_poss	_	dutch=Afke’s
 30	tiental	tiental	PROPN	_	Gender=Neut|Number=Sing	47	obj	_	dutch=tiental
-31	-	-	PUNCT	_	_	32	root	_	dutch=KEY-MISSING
+31	-	-	PUNCT	_	_	32	punct	_	dutch=KEY-MISSING
 32	basearre	basearje	VERB	_	VerbForm=Part	30	acl	_	dutch=gebaseerd
 33	op	op	ADP	_	_	35	case	_	dutch=op
 34	’e	’e	DET	_	_	35	det	_	dutch=KEY-MISSING
