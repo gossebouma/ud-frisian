@@ -7480,7 +7480,7 @@
 16	Fryske	Frysk	ADJ	_	Degree=Pos	17	amod	_	dutch=Friese
 17	taal	taal	NOUN	_	Gender=Com|Number=Sing	13	nmod	_	dutch=taal
 18	,	,	PUNCT	_	_	19	punct	_	dutch=,
-19	makke	meitsje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	5	parataxis	_	dutch=maakte
+19	makke	meitsje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=maakte
 20	it	it	DET	_	Definite=Def	22	det	_	dutch=het
 21	Grinzer	Grinzer	ADJ	_	Degree=Pos	22	amod	_	dutch=Groninger
 22	Ploeg-lid	Ploeg-lid	NOUN	_	Gender=Neut|Number=Sing	19	nsubj	_	dutch=Ploeg-lid
