@@ -7357,7 +7357,7 @@
 5	sûn	sûn	ADJ	_	Degree=Pos	8	advcl	_	dutch=gezond
 6	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	5	cop	_	dutch=was
 7	,	,	PUNCT	_	_	5	punct	_	dutch=,
-8	wiene	wêze	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	30	root	_	dutch=waren
+8	wiene	wêze	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	30	cop	_	dutch=waren
 9	de	de	DET	_	Definite=Def	11	det	_	dutch=de
 10	beide	beide	DET	_	_	11	det	_	dutch=beide
 11	bern	bern	NOUN	_	Number=Plur	8	nsubj	_	dutch=kinderen
