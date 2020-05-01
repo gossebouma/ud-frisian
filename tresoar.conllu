@@ -7311,7 +7311,7 @@
 13	keamerlid	keamerlid	NOUN	_	Gender=Neut|Number=Sing	19	advcl	_	dutch=kamerlid
 14	yn	yn	ADP	_	_	16	case	_	dutch=in
 15	’e	’e	DET	_	Definite=Def	16	det	_	dutch=de
-16	Hogerhuis-saak	Hogerhuis-saak	NOUN	_	Gender=Com|Number=Sing	19	nmod	_	dutch=Hogerhuis-zaak
+16	Hogerhuis-saak	Hogerhuis-saak	NOUN	_	Gender=Com|Number=Sing	19	obl	_	dutch=Hogerhuis-zaak
 17	misledigjende	misledigjend	VERB	_	VerbForm=Part	18	amod	_	dutch=beledigende
 18	opmerkingen	opmerking	NOUN	_	Number=Plur	19	obj	_	dutch=opmerkingen
 19	makke	meitsje	VERB	_	_	0	root	_	dutch=KEY-MISSING
