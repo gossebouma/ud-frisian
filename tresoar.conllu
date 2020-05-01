@@ -7485,7 +7485,7 @@
 21	Grinzer	Grinzer	ADJ	_	Degree=Pos	22	amod	_	dutch=Groninger
 22	Ploeg-lid	Ploeg-lid	NOUN	_	Gender=Neut|Number=Sing	19	nsubj	_	dutch=Ploeg-lid
 23	Johan	Johan	PROPN	_	_	22	appos	_	dutch=Johan
-24	Dijkstra	Dijkstra	PROPN	_	_	23	root	_	dutch=VAL-MISSING
+24	Dijkstra	Dijkstra	PROPN	_	_	23	flat	_	dutch=VAL-MISSING
 25	twa	twa	NUM	_	_	26	nummod	_	dutch=twee
 26	kear	kear	NOUN	_	Gender=Com_Neut|Number=Sing	19	obl	_	dutch=keer
 27	in	in	DET	_	Definite=Ind	28	det	_	dutch=een
