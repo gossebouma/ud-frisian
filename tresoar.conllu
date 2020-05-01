@@ -7608,7 +7608,7 @@
 28	wurden	wurd	NOUN	_	Number=Plur	30	obl	_	dutch=woorden
 29	te	te	ADP	_	_	30	mark	_	dutch=te
 30	sizzen	sizze	VERB	_	VerbForm=Inf	21	acl	_	dutch=zeggen
-31	,	,	PUNCT	_	_	21	punct	_	dutch=,
+31	,	,	PUNCT	_	_	30	punct	_	dutch=,
 32	as	as	ADP	_	_	0	root	_	dutch=VAL-MISSING
 33	“	“	PUNCT	_	_	34	punct	_	dutch=“
 34	algemien	algemien	ADJ	_	Degree=Pos	42	advcl	_	dutch=algemeen
