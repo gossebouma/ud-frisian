@@ -7641,7 +7641,7 @@
 11	op	op	ADP	_	_	18	case	_	dutch=op
 12	“	“	PUNCT	_	_	14	punct	_	dutch=“
 13	hel	hel	ADJ	_	Degree=Pos	14	advmod	_	dutch=hel
-14	oranje	oranje	ADJ	_	Degree=Pos	18	nmod	_	dutch=oranje
+14	oranje	oranje	ADJ	_	Degree=Pos	18	amod	_	dutch=oranje
 15	of	of	CCONJ	_	_	16	cc	_	dutch=of
 16	geel	geel	ADJ	_	Degree=Pos	14	conj	_	dutch=geel
 17	”	”	PUNCT	_	_	14	punct	_	dutch=”
