@@ -7529,7 +7529,7 @@
 24	1926	1926	NUM	_	_	23	appos	_	dutch=1926
 25	,	,	PUNCT	_	_	29	punct	_	dutch=,
 26	oant	oant	ADP	_	_	29	cc	_	dutch=tot
-27	en	en	CCONJ	_	_	0	root	_	dutch=VAL-MISSING
+27	en	en	CCONJ	_	_	26	root	_	dutch=VAL-MISSING
 28	mei	mei	ADP	_	_	0	root	_	dutch=VAL-MISSING
 29	1936	1936	NUM	_	_	17	conj	_	dutch=1936
 30	.	.	PUNCT	_	_	5	punct	_	dutch=.
