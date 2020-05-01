@@ -7519,7 +7519,7 @@
 14	Douwe	Douwe	PROPN	_	_	9	nmod	_	dutch=Douwe
 15	Kalma	Kalma	PROPN	_	_	14	flat	_	dutch=VAL-MISSING
 16	en	en	CCONJ	_	_	17	cc	_	dutch=en
-17	ferskynde	ferskine	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	1	conj	_	dutch=verscheen
+17	ferskynde	ferskine	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	5	conj	_	dutch=verscheen
 18	,	,	PUNCT	_	_	21	punct	_	dutch=,
 19	mei	mei	ADP	_	_	21	case	_	dutch=met
 20	in	in	DET	_	_	0	root	_	dutch=KEY-MISSING
