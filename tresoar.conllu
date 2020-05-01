@@ -7812,7 +7812,7 @@
 28	litte	litte	VERB	_	VerbForm=Inf	29	xcomp	_	dutch=laten
 29	woe	wolle	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	10	acl	_	dutch=wilde
 30	troch	troch	ADP	_	_	31	case	_	dutch=door
-31	resinsinten	resinsint	NOUN	_	Number=Plur	8	obl	_	dutch=recensenten
+31	resinsinten	resinsint	NOUN	_	Number=Plur	27	obl	_	dutch=recensenten
 32	dy’t	dy’t	PRON	_	PronType=Rel	35	nsubj	_	dutch=die
 33	har	har	PRON	_	Person=3|Poss=Yes|PronType=Prs	34	nmod_poss	_	dutch=haar
 34	goedkarring	goedkarring	NOUN	_	Gender=Com|Number=Sing	35	obj	_	dutch=goedkeuring
