@@ -7328,7 +7328,7 @@
 30	tiental	tiental	PROPN	_	Gender=Neut|Number=Sing	47	obj	_	dutch=tiental
 31	-	-	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
 32	basearre	basearje	VERB	_	VerbForm=Part	30	acl	_	dutch=gebaseerd
-33	op	op	ADP	_	_	0	root	_	dutch=op
+33	op	op	ADP	_	_	35	root	_	dutch=op
 34	’e	’e	DET	_	_	35	root	_	dutch=KEY-MISSING
 35	húshâlding	húshâlding	NOUN	_	_	45	advmod	_	dutch=waaruit
 36	fan	fan	ADP	_	_	0	root	_	dutch=KEY-MISSING
