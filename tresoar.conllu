@@ -7354,7 +7354,7 @@
 2	de	de	DET	_	Definite=Def	3	det	_	dutch=de
 3	skriuwster	skriuwster	NOUN	_	Gender=Com|Number=Sing	5	nsubj	_	dutch=schrijfster
 4	net	net	ADV	_	_	5	advmod	_	dutch=niet
-5	sûn	sûn	ADJ	_	Degree=Pos	8	advcl	_	dutch=gezond
+5	sûn	sûn	ADJ	_	Degree=Pos	30	advcl	_	dutch=gezond
 6	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	5	cop	_	dutch=was
 7	,	,	PUNCT	_	_	5	punct	_	dutch=,
 8	wiene	wêze	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	30	cop	_	dutch=waren
