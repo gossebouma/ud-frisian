@@ -7370,7 +7370,7 @@
 18	it	it	DET	_	Definite=Def	19	det	_	dutch=het
 19	stuit	stuit	NOUN	_	Gender=Neut|Number=Sing	8	obl	_	dutch=moment
 20	fan	fan	ADP	_	_	22	case	_	dutch=van
-21	it	it	DET	_	Definite=Def	19	det	_	dutch=het
+21	it	it	DET	_	Definite=Def	22	det	_	dutch=het
 22	ferskinen	ferskine	VERB	_	VerbForm=Inf	19	nmod	_	dutch=verschijnen
 23	fan	fan	ADP	_	_	25	case	_	dutch=van
 24	it	it	DET	_	Definite=Def	25	det	_	dutch=het
