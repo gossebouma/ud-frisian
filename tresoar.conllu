@@ -7411,7 +7411,7 @@
 22	yn	yn	ADP	_	_	24	case	_	dutch=in
 23	’e	’e	DET	_	Definite=Def	24	det	_	dutch=de
 24	Harz	Harz	PROPN	_	Gender=Com|Number=Sing	20	nmod	_	dutch=Harz
-25	.	.	PUNCT	_	_	2	punct	_	dutch=.
+25	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
 # sent_id = 328
 # text = Foar har soan skreau Sjoukje Troelstra de hjir ôfprinte opdracht : “ ‘ N. van Hichtum ’ . ” ( jk )
