@@ -7755,7 +7755,7 @@
 19	1793	1793	NUM	_	_	17	nummod	_	dutch=1793-
 20	-	-	PUNCT	_	_	21	case	_	dutch=(
 21	1812	1812	NUM	_	_	19	conj	_	dutch=1812
-22	)	)	PUNCT	_	_	21	punct	_	dutch=)
+22	)	)	PUNCT	_	_	19	punct	_	dutch=)
 23	,	,	PUNCT	_	_	27	punct	_	dutch=,
 24	dy’t	dy’t	PRON	_	PronType=Rel	27	nsubj	_	dutch=die
 25	sterk	sterk	ADJ	_	Degree=Pos	26	advmod	_	dutch=sterk
