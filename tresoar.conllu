@@ -7828,7 +7828,7 @@
 2	skriuwster	skriuwster	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	3	nsubj	_	dutch=verbleef
 3	hâlde	hâlde	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=verbleef
 4	meast	folle	ADV	_	_	3	advmod	_	dutch=meestal
-5	winters	winter	NOUN	_	Gender=Com|Number=Sing	3	obl	_	dutch=winter
+5	winters	winter	NOUN	_	Gender=Com|Number=Sing	3	advmod	_	dutch=winter
 6	yn	yn	ADP	_	_	9	case	_	dutch=in
 7	har	har	PRON	_	Person=3|Poss=Yes|PronType=Prs	9	nmod_poss	_	dutch=haar
 8	twadde	twa	ADJ	_	_	9	amod	_	dutch=tweede
