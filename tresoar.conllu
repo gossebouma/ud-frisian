@@ -7388,7 +7388,7 @@
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22 23-23 24-24
 # ALIGNED
 1	Diuwke	Diuwke	PROPN	_	Gender=Com|Number=Sing	5	nsubj	_	dutch=Dieuwke
-2	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=was
+2	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	5	root	_	dutch=was
 3	yn	yn	ADP	_	_	5	case	_	dutch=in
 4	’e	’e	DET	_	Definite=Def	5	det	_	dutch=de
 5	kost	kost	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=kost
