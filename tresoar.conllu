@@ -7433,7 +7433,7 @@
 13	‘	‘	PUNCT	_	_	12	punct	_	dutch=“
 14	N.	N.	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 15	van	van	PROPN	_	_	14	punct	_	dutch=van
-16	Hichtum	Hichtum	PROPN	_	_	18	punct	_	dutch=Hichtum
+16	Hichtum	Hichtum	PROPN	_	_	14	punct	_	dutch=Hichtum
 17	’	’	PUNCT	_	_	18	punct	_	dutch=’
 18	.	.	PUNCT	_	_	0	root	_	dutch=VAL-MISSING
 19	”	”	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
