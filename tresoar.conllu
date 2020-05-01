@@ -7331,7 +7331,7 @@
 33	op	op	ADP	_	_	35	root	_	dutch=op
 34	’e	’e	DET	_	_	35	root	_	dutch=KEY-MISSING
 35	húshâlding	húshâlding	NOUN	_	_	45	advmod	_	dutch=waaruit
-36	fan	fan	ADP	_	_	0	root	_	dutch=KEY-MISSING
+36	fan	fan	ADP	_	_	38	root	_	dutch=KEY-MISSING
 37	har	har	PRON	_	Person=3|Poss=Yes|PronType=Prs	38	root	_	dutch=haar
 38	faam	faam	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 39	(	(	PUNCT	_	_	40	punct	_	dutch=(
