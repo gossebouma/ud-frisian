@@ -7308,7 +7308,7 @@
 10	om’t	om’t	SCONJ	_	_	0	root	_	dutch=omdat
 11	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	0	root	_	dutch=hij
 12	as	as	ADP	_	_	13	mark	_	dutch=als
-13	keamerlid	keamerlid	NOUN	_	Gender=Neut|Number=Sing	17	advcl	_	dutch=kamerlid
+13	keamerlid	keamerlid	NOUN	_	Gender=Neut|Number=Sing	19	advcl	_	dutch=kamerlid
 14	yn	yn	ADP	_	_	16	case	_	dutch=in
 15	’e	’e	DET	_	Definite=Def	16	det	_	dutch=de
 16	Hogerhuis-saak	Hogerhuis-saak	NOUN	_	Gender=Com|Number=Sing	13	nmod	_	dutch=Hogerhuis-zaak
