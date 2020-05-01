@@ -7616,7 +7616,7 @@
 36	fan	fan	ADP	_	_	37	root	_	dutch=VAL-MISSING
 37	libben	libben	NOUN	_	Gender=Neut|Number=Sing	35	root	_	dutch=VAL-MISSING
 38	,	,	PUNCT	_	_	0	root	_	dutch=VAL-MISSING
-39	of	of	CCONJ	_	_	0	root	_	dutch=KEY-MISSING
+39	of	of	CCONJ	_	_	40	root	_	dutch=KEY-MISSING
 40	boarne	boarne	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 41	”	”	PUNCT	_	_	0	root	_	dutch=”
 42	tafoege	tafoegje	VERB	_	VerbForm=Part	13	acl_relcl	_	dutch=toegevoegd
