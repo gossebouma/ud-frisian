@@ -7250,7 +7250,7 @@
 1	Yn	yn	ADP	_	_	2	case	_	dutch=In
 2	1903	1903	NUM	_	_	3	obl	_	dutch=1903
 3	ferskynde	ferskine	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=verscheen
-4	Afke’s	Afke’s	PROPN	_	Number=Sing	5	nmod_poss	_	dutch=Afke’s
+4	Afke’s	Afke’s	PROPN	_	Number=Sing	3	nmod_poss	_	dutch=Afke’s
 5	tiental	tiental	PROPN	_	Gender=Neut|Number=Sing	3	nsubj	_	dutch=tiental
 6	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
