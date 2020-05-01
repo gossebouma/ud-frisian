@@ -7874,7 +7874,7 @@
 5	1964	1964	NUM	_	_	3	obl	_	dutch=1964
 6	mei	mei	ADP	_	_	8	root	_	dutch=met
 7	de	de	DET	_	Definite=Def	8	root	_	dutch=de
-8	roman	roman	NOUN	_	_	0	root	_	dutch=(
+8	roman	roman	NOUN	_	_	3	root	_	dutch=(
 9	Fabryk	Fabryk	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Fabriek
 10	en	en	CCONJ	_	_	0	root	_	dutch=KEY-MISSING
 11	krige	krije	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=kreeg
