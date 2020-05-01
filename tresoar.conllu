@@ -7569,7 +7569,7 @@
 28	in	in	DET	_	Definite=Ind	30	det	_	dutch=een
 29	Frysk	Frysk	ADJ	_	Degree=Pos	30	amod	_	dutch=Fries
 30	tydskrift	tydskrift	NOUN	_	Gender=Neut|Number=Sing	26	nmod	_	dutch=tijdschrift
-31	makke	meitsje	VERB	_	VerbForm=Part	13	root	_	dutch=gemaakt
+31	makke	meitsje	VERB	_	VerbForm=Part	13	acl_relcl	_	dutch=gemaakt
 32	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	31	aux_pass	_	dutch=werd
 33	.	.	PUNCT	_	_	11	punct	_	dutch=.
 
