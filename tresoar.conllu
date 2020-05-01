@@ -7506,7 +7506,7 @@
 1	Frisia	Frisia	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Frisia
 2	wie	wêze	AUX	_	Gender=Com|Number=Sing	5	aux	_	dutch=was
 3	yn	yn	ADP	_	_	4	case	_	dutch=in
-4	1917	1917	NUM	_	_	2	nmod	_	dutch=1917
+4	1917	1917	NUM	_	_	5	nmod	_	dutch=1917
 5	úteinset	úteinsette	VERB	_	VerbForm=Part	0	root	_	dutch=gegaan
 6	ûnder	ûnder	ADP	_	_	9	case	_	dutch=onder
 7	de	de	DET	_	Definite=Def	9	det	_	dutch=de
