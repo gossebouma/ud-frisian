@@ -7899,7 +7899,7 @@
 5	debút	debút	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	7	obl	_	dutch=debuteerde
 6	26	26	NUM	_	_	7	nummod	_	dutch=26
 7	jier	jier	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=jaar
-8	.	.	PUNCT	_	_	7	root	_	dutch=.
+8	.	.	PUNCT	_	_	7	punct	_	dutch=.
 
 # sent_id = 347
 # text = It boek rôp benammen fanwegen de iepentlike beskriuwing fan seksualiteit in protte reaksjes op .
