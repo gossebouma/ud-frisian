@@ -7277,7 +7277,7 @@
 16	Diederika	Diederika	PROPN	_	_	14	flat	_	dutch=Diederika
 17	Troelstra-Bokma	Troelstra-Bokma	PROPN	_	_	14	flat	_	dutch=VAL-MISSING
 18	de	de	PROPN	_	_	14	root	_	dutch=VAL-MISSING
-19	Boer	Boer	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+19	Boer	Boer	PROPN	_	_	14	root	_	dutch=VAL-MISSING
 20	,	,	PUNCT	_	_	19	punct	_	dutch=,
 21	frou	frou	NOUN	_	Gender=Com|Number=Sing	12	appos	_	dutch=echtgenote
 22	fan	fan	ADP	_	_	25	case	_	dutch=van
