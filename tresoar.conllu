@@ -7343,7 +7343,7 @@
 45	-	-	PUNCT	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=kwam
 46	te	te	ADP	_	_	47	mark	_	dutch=te
 47	skriuwen	skriuwe	VERB	_	VerbForm=Inf	27	advcl	_	dutch=schrijven
-48	.	.	PUNCT	_	_	7	punct	_	dutch=.
+48	.	.	PUNCT	_	_	27	punct	_	dutch=.
 
 # sent_id = 326
 # text = Om’t de skriuwster net sûn wie , wiene de beide bern , Diuwke en Jelle , op it stuit fan it ferskinen fan it boek net mear yn ’e hûs .
