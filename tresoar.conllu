@@ -7496,7 +7496,7 @@
 32	en	en	CCONJ	_	_	34	cc	_	dutch=en
 33	yn	yn	ADP	_	_	34	case	_	dutch=in
 34	1928	1928	NUM	_	_	31	conj	_	dutch=1928
-35	.	.	PUNCT	_	_	5	punct	_	dutch=.
+35	.	.	PUNCT	_	_	19	punct	_	dutch=.
 
 # sent_id = 332
 # text = Frisia wie yn 1917 úteinset ûnder de besieljende lieding fan de doe 21-jierrige Douwe Kalma en ferskynde , mei in ûnderbrekking fan jiergong 1926 , oant en mei 1936 .
