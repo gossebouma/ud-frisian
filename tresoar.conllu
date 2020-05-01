@@ -7380,7 +7380,7 @@
 28	yn	yn	ADP	_	_	30	root	_	dutch=KEY-MISSING
 29	’e	’e	DET	_	_	30	root	_	dutch=KEY-MISSING
 30	hûs	hûs	NOUN	_	_	0	root	_	dutch=thuis
-31	.	.	PUNCT	_	_	8	punct	_	dutch=.
+31	.	.	PUNCT	_	_	30	punct	_	dutch=.
 
 # sent_id = 327
 # text = Diuwke wie yn ’e kost by kunde en gyng yn Bloemendaal nei skoalle en Jelle siet yn in ‘ Landerziehungsheim ’ yn ’e Harz .
