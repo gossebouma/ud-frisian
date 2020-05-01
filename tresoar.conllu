@@ -7550,7 +7550,7 @@
 9	dy	dy	DET	_	_	10	root	_	dutch=KEY-MISSING
 10	sin	sin	NOUN	_	_	11	obl	_	dutch=KEY-MISSING
 11	bysûnder	bysûnder	ADJ	_	Degree=Pos	0	root	_	dutch=bijzonder
-12	dat	dat	SCONJ	_	_	15	root	_	dutch=KEY-MISSING
+12	dat	dat	SCONJ	_	_	15	nmod	_	dutch=KEY-MISSING
 13	it	it	PRON	_	Definite=Def	15	det	_	dutch=het
 14	it	it	DET	_	Definite=Def	15	det	_	dutch=het
 15	earste	ien	ADJ	_	_	11	advcl	_	dutch=eerste
