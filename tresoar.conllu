@@ -7672,7 +7672,7 @@
 # source_text = Simke Kloosterman
 # alignment =  0-0 1-1
 # ALIGNED
-1	Simke	Simke	PROPN	_	Degree=Pos	2	amod	_	dutch=Simke
+1	Simke	Simke	PROPN	_	Degree=Pos	0	root	_	dutch=Simke
 2	Kloosterman	Kloosterman	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Kloosterman
 
 # sent_id = 338
