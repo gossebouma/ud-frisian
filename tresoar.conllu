@@ -7876,7 +7876,7 @@
 7	de	de	DET	_	Definite=Def	8	det	_	dutch=de
 8	roman	roman	NOUN	_	_	3	obl	_	dutch=(
 9	Fabryk	Fabryk	PROPN	_	Gender=Com|Number=Sing	8	appos	_	dutch=Fabriek
-10	en	en	CCONJ	_	_	11	case	_	dutch=KEY-MISSING
+10	en	en	CCONJ	_	_	11	cc	_	dutch=KEY-MISSING
 11	krige	krije	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=kreeg
 12	dêr	dêr	ADV	_	_	0	root	_	dutch=KEY-MISSING
 13	yn	yn	ADP	_	_	14	case	_	dutch=in
