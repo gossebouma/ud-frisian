@@ -7439,7 +7439,7 @@
 19	”	”	PUNCT	_	_	14	root	_	dutch=KEY-MISSING
 20	(	(	PUNCT	_	_	21	root	_	dutch=KEY-MISSING
 21	jk	jk	X	_	_	0	root	_	dutch=VAL-MISSING
-22	)	)	PUNCT	_	_	0	root	_	dutch=VAL-MISSING
+22	)	)	PUNCT	_	_	21	root	_	dutch=VAL-MISSING
 
 # sent_id = 329
 # text = 6 .
