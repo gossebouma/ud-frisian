@@ -7734,7 +7734,7 @@
 # source_text = Zij maakte dat ook duidelijk in It Jubeljier ( 1927 ) de roman over de Franse tijd ( 1793- 1812 ) , die sterk orangistisch is en de feiten met betrekking tot haar voorouders niet altijd met de historische werkelijkheid laat overeenkomen .
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-17 20-19 21-20 22-21 23-22 24-23 25-24 26-25 27-26 28-27 29-28 30-31 31-32 32-33 33-34 34-35 35-36 36-37 37-38 38-39 39-41 40-40 41-42
 # NOT ALIGNED
-1	Hja	hja	PRON	_	Gender=Com|Number=Sing	2	xcomp	_	dutch=Zij
+1	Hja	hja	PRON	_	Gender=Com|Number=Sing	2	nsubj	_	dutch=Zij
 2	makke	meitsje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=maakte
 3	dat	dat	PRON	_	Person=3|PronType=Dem	2	nsubj	_	dutch=dat
 4	ek	ek	ADV	_	_	40	amod	_	dutch=ook
