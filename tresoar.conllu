@@ -7719,7 +7719,7 @@
 11	en	en	CCONJ	_	_	12	cc	_	dutch=en
 12	dichter	dichter	NOUN	_	Gender=Com|Number=Sing	10	conj	_	dutch=dichter
 13	Jan	Jan	PROPN	_	_	12	appos	_	dutch=Jan
-14	Ritskes	Ritskes	PROPN	_	_	13	root	_	dutch=VAL-MISSING
+14	Ritskes	Ritskes	PROPN	_	_	13	flat	_	dutch=VAL-MISSING
 15	Kloosterman	Kloosterman	PROPN	_	_	13	root	_	dutch=VAL-MISSING
 16	,	,	PUNCT	_	_	18	punct	_	dutch=,
 17	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	18	cop	_	dutch=was
