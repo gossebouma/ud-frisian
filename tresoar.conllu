@@ -7551,7 +7551,7 @@
 10	sin	sin	NOUN	_	_	11	obl	_	dutch=KEY-MISSING
 11	bysûnder	bysûnder	ADJ	_	Degree=Pos	0	root	_	dutch=bijzonder
 12	dat	dat	SCONJ	_	_	15	mark	_	dutch=KEY-MISSING
-13	it	it	PRON	_	Definite=Def	15	det	_	dutch=het
+13	it	it	PRON	_	Definite=Def	15	nsubj	_	dutch=het
 14	it	it	DET	_	Definite=Def	15	det	_	dutch=het
 15	earste	ien	ADJ	_	_	11	advcl	_	dutch=eerste
 16	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	15	cop	_	dutch=is
