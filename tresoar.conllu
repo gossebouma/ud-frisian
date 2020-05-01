@@ -7805,7 +7805,7 @@
 21	printsje	printsje	VERB	_	VerbForm=Inf	22	xcomp	_	dutch=drukken
 22	liet	litte	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	14	acl_relcl	_	dutch=liet
 23	,	,	PUNCT	_	_	22	punct	_	dutch=,
-24	eins	eins	ADJ	_	Degree=Pos	28	advmod	_	dutch=eigenlijk
+24	eins	eins	ADJ	_	Degree=Pos	27	advmod	_	dutch=eigenlijk
 25	allinne	allinne	ADV	_	_	27	advmod	_	dutch=alleen
 26	mar	mar	ADV	_	_	25	advmod	_	dutch=maar
 27	besprekke	besprekke	VERB	_	VerbForm=Inf	28	xcomp	_	dutch=bespreken
