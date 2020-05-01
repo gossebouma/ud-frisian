@@ -7279,7 +7279,7 @@
 18	de	de	PROPN	_	_	14	flat	_	dutch=VAL-MISSING
 19	Boer	Boer	PROPN	_	_	14	flat	_	dutch=VAL-MISSING
 20	,	,	PUNCT	_	_	19	punct	_	dutch=,
-21	frou	frou	NOUN	_	Gender=Com|Number=Sing	12	appos	_	dutch=echtgenote
+21	frou	frou	NOUN	_	Gender=Com|Number=Sing	14	appos	_	dutch=echtgenote
 22	fan	fan	ADP	_	_	25	case	_	dutch=van
 23	de	de	DET	_	Definite=Def	25	det	_	dutch=de
 24	bekende	bekend	ADJ	_	Degree=Pos	25	amod	_	dutch=bekende
