@@ -7838,7 +7838,7 @@
 12	Haach	Haach	PROPN	_	_	11	flat	_	dutch=VAL-MISSING
 13	ta	ta	ADP	_	_	3	compound_prt	_	dutch=KEY-MISSING
 14	en	en	CCONJ	_	_	0	root	_	dutch=en
-15	simmers	simmer	NOUN	_	Number=Plur	3	obl	_	dutch=zomers
+15	simmers	simmer	NOUN	_	Number=Plur	3	conj	_	dutch=zomers
 16	yn	yn	ADP	_	_	17	case	_	dutch=in
 17	Twizel	Twizel	PROPN	_	Gender=Neut|Number=Sing	3	obl	_	dutch=Twijzel
 18	.	.	PUNCT	_	_	0	root	_	dutch=.
