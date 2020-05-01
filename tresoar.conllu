@@ -7325,7 +7325,7 @@
 27	fûn	fine	VERB	_	VerbForm=Part	0	root	_	dutch=gevonden
 28	om	om	ADP	_	_	47	mark	_	dutch=om
 29	Afke’s	Afke’s	PROPN	_	Number=Sing	47	obj	_	dutch=Afke’s
-30	tiental	tiental	PROPN	_	Gender=Neut|Number=Sing	29	obj	_	dutch=tiental
+30	tiental	tiental	PROPN	_	Gender=Neut|Number=Sing	29	flat	_	dutch=tiental
 31	-	-	PUNCT	_	_	32	punct	_	dutch=KEY-MISSING
 32	basearre	basearje	VERB	_	VerbForm=Part	29	acl	_	dutch=gebaseerd
 33	op	op	ADP	_	_	35	case	_	dutch=op
