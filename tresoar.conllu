@@ -7515,7 +7515,7 @@
 10	fan	fan	ADP	_	_	0	root	_	dutch=VAL-MISSING
 11	de	de	DET	_	Definite=Def	0	root	_	dutch=VAL-MISSING
 12	doe	doe	ADV	_	_	13	advmod	_	dutch=toentertijd
-13	21-jierrige	jierrich	ADJ	_	Degree=Pos	14	root	_	dutch=VAL-MISSING
+13	21-jierrige	jierrich	ADJ	_	Degree=Pos	14	amod	_	dutch=VAL-MISSING
 14	Douwe	Douwe	PROPN	_	_	9	nmod	_	dutch=Douwe
 15	Kalma	Kalma	PROPN	_	_	14	flat	_	dutch=VAL-MISSING
 16	en	en	CCONJ	_	_	17	cc	_	dutch=en
