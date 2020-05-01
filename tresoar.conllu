@@ -7455,7 +7455,7 @@
 # alignment =  0-0 1-1
 # ALIGNED
 1	Omslach	omslach	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=Omslag
-2	Frisia	Frisia	PROPN	_	Gender=Com|Number=Sing	1	appos	_	dutch=Frisia
+2	Frisia	Frisia	PROPN	_	Gender=Com|Number=Sing	1	nmod	_	dutch=Frisia
 
 # sent_id = 331
 # text = Foar Frisia , dat beskôge wurde kin as it earste folslein literêre tydskrift yn ’e Fryske taal , makke it Grinzer Ploeg-lid Johan Dijkstra twa kear in omslachûntwerp , yn 1922 en yn 1928 .
