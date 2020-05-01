@@ -7833,7 +7833,7 @@
 7	har	har	PRON	_	Person=3|Poss=Yes|PronType=Prs	9	nmod_poss	_	dutch=haar
 8	twadde	twa	ADJ	_	_	9	amod	_	dutch=tweede
 9	hûs	hûs	NOUN	_	Gender=Neut|Number=Sing	3	obl	_	dutch=huis
-10	yn	yn	ADP	_	_	0	root	_	dutch=VAL-MISSING
+10	yn	yn	ADP	_	_	11	root	_	dutch=VAL-MISSING
 11	Den	Den	PROPN	_	_	9	nmod	_	dutch=Den
 12	Haach	Haach	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 13	ta	ta	ADP	_	_	0	root	_	dutch=KEY-MISSING
