@@ -7314,7 +7314,7 @@
 16	Hogerhuis-saak	Hogerhuis-saak	NOUN	_	Gender=Com|Number=Sing	19	obl	_	dutch=Hogerhuis-zaak
 17	misledigjende	misledigjend	VERB	_	VerbForm=Part	18	amod	_	dutch=beledigende
 18	opmerkingen	opmerking	NOUN	_	Number=Plur	19	obj	_	dutch=opmerkingen
-19	makke	meitsje	VERB	_	_	27	acl	_	dutch=KEY-MISSING
+19	makke	meitsje	VERB	_	_	27	advcl	_	dutch=KEY-MISSING
 20	hie	hawwe	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	19	aux	_	dutch=had
 21	,	,	PUNCT	_	_	27	punct	_	dutch=,
 22	hie	hawwe	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	27	aux	_	dutch=had
