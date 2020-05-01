@@ -7883,7 +7883,7 @@
 14	1967	1967	NUM	_	_	11	obl	_	dutch=1967
 15	de	de	DET	_	Definite=Def	0	root	_	dutch=VAL-MISSING
 16	Gysbert	Gysbert	PROPN	_	_	11	obj	_	dutch=Gysbert
-17	Japicxpriis	Japicxpriis	PROPN	_	_	16	root	_	dutch=VAL-MISSING
+17	Japicxpriis	Japicxpriis	PROPN	_	_	16	flat	_	dutch=VAL-MISSING
 18	foar	foar	ADP	_	_	12	case	_	dutch=VAL-MISSING
 19	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
