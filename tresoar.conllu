@@ -7738,7 +7738,7 @@
 2	makke	meitsje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=maakte
 3	dat	dat	PRON	_	Person=3|PronType=Dem	2	obj	_	dutch=dat
 4	ek	ek	ADV	_	_	2	advmod	_	dutch=ook
-5	dúdlik	dúdlik	ADJ	_	Degree=Pos	40	amod	_	dutch=duidelijk
+5	dúdlik	dúdlik	ADJ	_	Degree=Pos	2	amod	_	dutch=duidelijk
 6	yn	yn	ADP	_	_	7	case	_	dutch=in
 7	It	it	DET	_	_	5	obl	_	dutch=It
 8	Jubeljier	jubeljier	NOUN	_	_	7	flat	_	dutch=Jubeljier
