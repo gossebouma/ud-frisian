@@ -7610,7 +7610,7 @@
 30	sizzen	sizze	VERB	_	VerbForm=Inf	21	acl	_	dutch=zeggen
 31	,	,	PUNCT	_	_	30	punct	_	dutch=,
 32	as	as	ADP	_	_	0	root	_	dutch=VAL-MISSING
-33	“	“	PUNCT	_	_	34	punct	_	dutch=“
+33	“	“	PUNCT	_	_	35	punct	_	dutch=“
 34	algemien	algemien	ADJ	_	Degree=Pos	35	advcl	_	dutch=algemeen
 35	symboal	symboal	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=VAL-MISSING
 36	fan	fan	ADP	_	_	37	root	_	dutch=VAL-MISSING
