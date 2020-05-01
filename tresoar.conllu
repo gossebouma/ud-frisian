@@ -7315,7 +7315,7 @@
 17	misledigjende	misledigjend	VERB	_	VerbForm=Part	11	acl	_	dutch=beledigende
 18	opmerkingen	opmerking	NOUN	_	Number=Plur	0	root	_	dutch=opmerkingen
 19	makke	meitsje	VERB	_	_	0	root	_	dutch=KEY-MISSING
-20	hie	hawwe	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	19	root	_	dutch=had
+20	hie	hawwe	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	19	nummod	_	dutch=had
 21	,	,	PUNCT	_	_	27	punct	_	dutch=,
 22	hie	hawwe	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	27	aux	_	dutch=had
 23	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	24	nmod_poss	_	dutch=zijn
