@@ -7685,7 +7685,7 @@
 3	(	(	PUNCT	_	_	4	punct	_	dutch=(
 4	1876	1876	NUM	_	_	2	nummod	_	dutch=1876-
 5	-	-	PUNCT	_	_	6	cc	_	dutch=1876-
-6	1938	1938	NUM	_	_	2	conj	_	dutch=1938
+6	1938	1938	NUM	_	_	4	conj	_	dutch=1938
 7	)	)	PUNCT	_	_	6	punct	_	dutch=)
 8	kin	kin	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux	_	dutch=kan
 9	sjoen	sjen	VERB	_	VerbForm=Part	0	root	_	dutch=gezien
