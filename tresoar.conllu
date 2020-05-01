@@ -7760,7 +7760,7 @@
 24	dy’t	dy’t	PRON	_	PronType=Rel	27	nsubj	_	dutch=die
 25	sterk	sterk	ADJ	_	Degree=Pos	26	advmod	_	dutch=sterk
 26	oranzjistysk	oranzjistysk	ADJ	_	Degree=Pos	13	acl_relcl	_	dutch=orangistisch
-27	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	13	acl_relcl	_	dutch=is
+27	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	26	acl_relcl	_	dutch=is
 28	en	en	CCONJ	_	_	30	cc	_	dutch=en
 29	de	de	DET	_	Definite=Def	30	det	_	dutch=de
 30	feiten	feit	NOUN	_	Number=Plur	13	conj	_	dutch=feiten
