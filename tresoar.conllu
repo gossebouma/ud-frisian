@@ -7746,7 +7746,7 @@
 10	1927	1927	NUM	_	_	5	advmod	_	dutch=1927
 11	)	)	PUNCT	_	_	10	punct	_	dutch=)
 12	de	de	DET	_	Definite=Def	13	det	_	dutch=de
-13	roman	roman	NOUN	_	Gender=Com|Number=Sing	40	obj	_	dutch=roman
+13	roman	roman	NOUN	_	Gender=Com|Number=Sing	8	obj	_	dutch=roman
 14	oer	oer	ADP	_	_	16	case	_	dutch=over
 15	de	de	DET	_	Definite=Def	16	det	_	dutch=de
 16	Frânske	Frânsk	ADJ	_	Gender=Com|Number=Sing	13	nmod	_	dutch=Franse
