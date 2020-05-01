@@ -7763,7 +7763,7 @@
 27	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	26	cop	_	dutch=is
 28	en	en	CCONJ	_	_	41	cc	_	dutch=en
 29	de	de	DET	_	Definite=Def	30	det	_	dutch=de
-30	feiten	feit	NOUN	_	Number=Plur	13	conj	_	dutch=feiten
+30	feiten	feit	NOUN	_	Number=Plur	41	conj	_	dutch=feiten
 31	oangeande	oangeande	ADP	_	_	33	case	_	dutch=VAL-MISSING
 32	har	har	PRON	_	Person=3|Poss=Yes|PronType=Prs	33	nmod_poss	_	dutch=haar
 33	foarfaars	foarfaar	NOUN	_	Number=Plur	30	nmod	_	dutch=voorouders
