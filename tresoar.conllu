@@ -7532,7 +7532,7 @@
 27	en	en	CCONJ	_	_	0	root	_	dutch=VAL-MISSING
 28	mei	mei	ADP	_	_	0	root	_	dutch=VAL-MISSING
 29	1936	1936	NUM	_	_	17	conj	_	dutch=1936
-30	.	.	PUNCT	_	_	1	punct	_	dutch=.
+30	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
 # sent_id = 333
 # text = It hjir ôfbylde omslach fan 1922 is yn dy sin bysûnder dat it it earste is dat troch in byldzjend keunstner spesjaal foar in tal jiergongen fan in Frysk tydskrift makke waard .
