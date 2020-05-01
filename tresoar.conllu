@@ -7365,7 +7365,7 @@
 13	Diuwke	Diuwke	PROPN	_	Gender=Com|Number=Sing	11	appos	_	dutch=Dieuwke
 14	en	en	CCONJ	_	_	15	cc	_	dutch=en
 15	Jelle	Jelle	PROPN	_	Gender=Com|Number=Sing	13	conj	_	dutch=Jelle
-16	,	,	PUNCT	_	_	19	punct	_	dutch=,
+16	,	,	PUNCT	_	_	13	punct	_	dutch=,
 17	op	op	ADP	_	_	19	case	_	dutch=op
 18	it	it	DET	_	Definite=Def	19	det	_	dutch=het
 19	stuit	stuit	NOUN	_	Gender=Neut|Number=Sing	30	obl	_	dutch=moment
