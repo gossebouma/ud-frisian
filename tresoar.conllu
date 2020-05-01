@@ -7259,7 +7259,7 @@
 # source_text = Een schets uit het Friesche arbeidersleven van N . van Hichtum , pseudoniem van Sjoukje Maria Diederika Troelstra-Bokma de Boer , echtgenote van de bekende dichter en staatsman Pieter Jelles Troelstra .
 # alignment =  0-1 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-9 9-10 10-11 11-12 12-13 13-14 14-15 15-16 16-17 17-18 18-19 19-20 20-21 21-22 22-23 23-24 24-25 25-26 26-27 27-28 28-29 29-30 30-31
 # NOT ALIGNED
-1	in	in	DET	_	Gender=Com|Number=Sing	2	root	_	dutch=schets
+1	in	in	DET	_	Gender=Com|Number=Sing	2	det	_	dutch=schets
 2	skets	skets	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=schets
 3	út	út	ADP	_	_	5	case	_	dutch=uit
 4	it	it	DET	_	Definite=Def	5	det	_	dutch=het
