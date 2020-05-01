@@ -7893,7 +7893,7 @@
 # alignment =  0-0 1-1 4-7 5-2 6-3 7-8
 # NOT ALIGNED
 1	Hy	hy	PRON	_	Case=Nom|Person=3|PronType=Prs	0	root	_	dutch=Hij
-2	wie	wêze	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=was
+2	wie	wêze	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	7	root	_	dutch=was
 3	by	by	ADP	_	_	5	root	_	dutch=KEY-MISSING
 4	syn	syn	PRON	_	_	5	root	_	dutch=KEY-MISSING
 5	debút	debút	NOUN	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=debuteerde
