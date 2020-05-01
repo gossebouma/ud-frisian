@@ -7619,7 +7619,7 @@
 39	of	of	CCONJ	_	_	40	cc	_	dutch=KEY-MISSING
 40	boarne	boarne	NOUN	_	_	37	root	_	dutch=KEY-MISSING
 41	”	”	PUNCT	_	_	35	punct	_	dutch=”
-42	tafoege	tafoegje	VERB	_	VerbForm=Part	13	acl_relcl	_	dutch=toegevoegd
+42	tafoege	tafoegje	VERB	_	VerbForm=Part	7	acl_relcl	_	dutch=toegevoegd
 43	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	42	aux	_	dutch=heeft
 44	.	.	PUNCT	_	_	4	punct	_	dutch=.
 
