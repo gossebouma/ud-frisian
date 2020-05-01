@@ -7437,7 +7437,7 @@
 17	’	’	PUNCT	_	_	14	punct	_	dutch=’
 18	.	.	PUNCT	_	_	4	root	_	dutch=VAL-MISSING
 19	”	”	PUNCT	_	_	14	root	_	dutch=KEY-MISSING
-20	(	(	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
+20	(	(	PUNCT	_	_	21	root	_	dutch=KEY-MISSING
 21	jk	jk	X	_	_	0	root	_	dutch=VAL-MISSING
 22	)	)	PUNCT	_	_	0	root	_	dutch=VAL-MISSING
 
