@@ -7609,7 +7609,7 @@
 29	te	te	ADP	_	_	30	mark	_	dutch=te
 30	sizzen	sizze	VERB	_	VerbForm=Inf	21	acl	_	dutch=zeggen
 31	,	,	PUNCT	_	_	30	punct	_	dutch=,
-32	as	as	ADP	_	_	35	root	_	dutch=VAL-MISSING
+32	as	as	ADP	_	_	35	case	_	dutch=VAL-MISSING
 33	“	“	PUNCT	_	_	35	punct	_	dutch=“
 34	algemien	algemien	ADJ	_	Degree=Pos	35	advcl	_	dutch=algemeen
 35	symboal	symboal	NOUN	_	Gender=Neut|Number=Sing	42	obl	_	dutch=VAL-MISSING
