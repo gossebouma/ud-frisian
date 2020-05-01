@@ -7268,7 +7268,7 @@
 7	fan	fan	ADP	_	_	8	case	_	dutch=van
 8	N.	N.	PROPN	_	Gender=Com_Neut|Number=Sing	6	nmod	_	dutch=N
 9	van	van	PROPN	_	_	8	flat	_	dutch=van
-10	Hichtum	Hichtum	PROPN	_	Gender=Neut|Number=Sing	8	parataxis	_	dutch=Hichtum
+10	Hichtum	Hichtum	PROPN	_	Gender=Neut|Number=Sing	8	flat	_	dutch=Hichtum
 11	,	,	PUNCT	_	_	12	punct	_	dutch=,
 12	skûlnamme	skûlnamme	NOUN	_	Gender=Neut|Number=Sing	10	parataxis	_	dutch=pseudoniem
 13	fan	fan	ADP	_	_	14	case	_	dutch=van
