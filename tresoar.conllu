@@ -7531,7 +7531,7 @@
 26	oant	oant	ADP	_	_	29	case	_	dutch=tot
 27	en	en	CCONJ	_	_	26	fixed	_	dutch=VAL-MISSING
 28	mei	mei	ADP	_	_	26	fixed	_	dutch=VAL-MISSING
-29	1936	1936	NUM	_	_	17	conj	_	dutch=1936
+29	1936	1936	NUM	_	_	17	obl	_	dutch=1936
 30	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
 # sent_id = 333
