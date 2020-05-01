@@ -7275,7 +7275,7 @@
 14	Sjoukje	Sjoukje	PROPN	_	Gender=Com|Number=Sing	12	nmod	_	dutch=Sjoukje
 15	Maria	Maria	PROPN	_	Gender=Com|Number=Sing	14	flat	_	dutch=Maria
 16	Diederika	Diederika	PROPN	_	_	14	flat	_	dutch=Diederika
-17	Troelstra-Bokma	Troelstra-Bokma	PROPN	_	_	14	root	_	dutch=VAL-MISSING
+17	Troelstra-Bokma	Troelstra-Bokma	PROPN	_	_	14	flat	_	dutch=VAL-MISSING
 18	de	de	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 19	Boer	Boer	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 20	,	,	PUNCT	_	_	19	punct	_	dutch=,
