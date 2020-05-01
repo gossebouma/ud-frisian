@@ -7263,7 +7263,7 @@
 2	skets	skets	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=schets
 3	út	út	ADP	_	_	6	case	_	dutch=uit
 4	it	it	DET	_	Definite=Def	6	det	_	dutch=het
-5	Fryske	Frysk	ADJ	_	Gender=Neut|Number=Sing	2	parataxis	_	dutch=Friesche
+5	Fryske	Frysk	ADJ	_	Gender=Neut|Number=Sing	6	parataxis	_	dutch=Friesche
 6	arbeiderslibben	arbeiderslibben	NOUN	_	Gender=Neut|Number=Sing	2	parataxis	_	dutch=arbeidersleven
 7	fan	fan	ADP	_	_	8	case	_	dutch=van
 8	N.	N.	PROPN	_	Gender=Com_Neut|Number=Sing	6	nmod	_	dutch=N
