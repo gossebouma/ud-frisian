@@ -7273,7 +7273,7 @@
 12	skûlnamme	skûlnamme	NOUN	_	Gender=Neut|Number=Sing	10	parataxis	_	dutch=pseudoniem
 13	fan	fan	ADP	_	_	14	case	_	dutch=van
 14	Sjoukje	Sjoukje	PROPN	_	Gender=Com|Number=Sing	12	nmod	_	dutch=Sjoukje
-15	Maria	Maria	PROPN	_	Gender=Com|Number=Sing	12	appos	_	dutch=Maria
+15	Maria	Maria	PROPN	_	Gender=Com|Number=Sing	14	appos	_	dutch=Maria
 16	Diederika	Diederika	PROPN	_	_	12	appos	_	dutch=Diederika
 17	Troelstra-Bokma	Troelstra-Bokma	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 18	de	de	PROPN	_	_	0	root	_	dutch=VAL-MISSING
