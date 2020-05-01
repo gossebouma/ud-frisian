@@ -7753,7 +7753,7 @@
 17	tiid	tiid	NOUN	_	Gender=Com|Number=Sing	13	nmod	_	dutch=tijd
 18	(	(	PUNCT	_	_	19	punct	_	dutch=(
 19	1793	1793	NUM	_	_	17	nummod	_	dutch=1793-
-20	-	-	PUNCT	_	_	21	case	_	dutch=(
+20	-	-	PUNCT	_	_	21	cop	_	dutch=(
 21	1812	1812	NUM	_	_	19	conj	_	dutch=1812
 22	)	)	PUNCT	_	_	19	punct	_	dutch=)
 23	,	,	PUNCT	_	_	26	punct	_	dutch=,
