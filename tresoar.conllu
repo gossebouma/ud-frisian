@@ -7503,7 +7503,7 @@
 # source_text = Frisia was in 1917 van start gegaan onder de bezielende leiding van de toentertijd 21-jarige Douwe Kalma en verscheen , met onderbreking van jaargang 1926 , tot en met 1936 .
 # alignment =  0-0 1-1 2-2 3-3 4-6 5-7 6-8 7-9 8-10 9-11 10-12 11-13 12-14 13-15 14-16 15-17 16-18 17-19 18-20 20-21 21-22 22-23 23-24 24-25 25-26 26-27 27-28 28-29 29-30
 # NOT ALIGNED
-1	Frisia	Frisia	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Frisia
+1	Frisia	Frisia	PROPN	_	Gender=Com|Number=Sing	5	root	_	dutch=Frisia
 2	wie	wêze	AUX	_	Gender=Com|Number=Sing	5	aux	_	dutch=was
 3	yn	yn	ADP	_	_	4	case	_	dutch=in
 4	1917	1917	NUM	_	_	5	obl	_	dutch=1917
