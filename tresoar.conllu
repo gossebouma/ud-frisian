@@ -9368,7 +9368,7 @@
 3	de	de	PROPN	_	_	1	flat	_	dutch=de
 4	Lange	Lange	PROPN	_	_	1	flat	_	dutch=en
 5	in	in	DET	_	_	1	flat	_	dutch=KEY-MISSING
-6	Soon	Soon	NOUN	_	Gender=Com|Number=Sing	3	conj	_	dutch=zoon
+6	Soon	Soon	NOUN	_	Gender=Com|Number=Sing	1	conj	_	dutch=zoon
 7	,	,	PUNCT	_	_	10	punct	_	dutch=,
 8	oan	oan	ADP	_	_	10	case	_	dutch=aan
 9	’e	’e	DET	_	Definite=Def	10	det	_	dutch=de
