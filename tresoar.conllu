@@ -8616,7 +8616,7 @@
 # source_text = Waling Dijkstra heeft in zijn lange actieve leven veel voor elkaar gebokst op het gebied van het Fries , bijvoorbeeld het Friesch Woordenboek , een project waaraan hij van 1885 tot 1911 werkte als redacteur en opvolger van Gerben Colmjon .
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-6 6-7 7-8 8-8 9-9 10-13 11-17 12-11 13-18 14-19 15-20 16-21 17-22 18-23 19-24 20-25 21-26 22-27 23-28 24-29 25-30 26-31 28-32 29-33 30-34 31-35 32-36 33-37 34-38 35-39 36-40
 # NOT ALIGNED
-1	Waling	Waling	PROPN	_	_	3	nsubj	_	dutch=Waling
+1	Waling	Waling	PROPN	_	_	13	nsubj	_	dutch=Waling
 2	Dykstra	Dykstra	PROPN	_	_	1	flat	_	dutch=Dijkstra
 3	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	13	aux	_	dutch=heeft
 4	yn	yn	ADP	_	_	7	case	_	dutch=in
