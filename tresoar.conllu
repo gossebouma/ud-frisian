@@ -8624,7 +8624,7 @@
 6	warber	warber	ADJ	_	Degree=Pos	7	amod	_	dutch=actieve
 7	libben	libben	NOUN	_	Gender=Neut|Number=Sing	13	obl	_	dutch=leven
 8	in	in	DET	_	_	9	obl	_	dutch=veel
-9	soad	soad	PRON	_	_	31	obl	_	dutch=veel
+9	soad	soad	PRON	_	_	13	obl	_	dutch=veel
 10	foar	foar	ADP	_	_	12	case	_	dutch=voor
 11	it	it	DET	_	Definite=Def	12	det	_	dutch=het
 12	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	13	obl	_	dutch=Fries
