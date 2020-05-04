@@ -9424,7 +9424,7 @@
 4	eksimplaren	eksimplaar	NOUN	_	Number=Plur	8	nsubj_pass	_	dutch=exemplaren
 5	wiene	wêze	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	8	aux_pass	_	dutch=waren
 6	der	der	ADV	_	_	8	advmod	_	dutch=ervan
-7	fan	fan	ADP	_	_	8	advmod	_	dutch=ervan
+7	fan	fan	ADP	_	_	6	advmod	_	dutch=ervan
 8	printe	printsje	VERB	_	VerbForm=Part	0	root	_	dutch=gedrukt
 9	en	en	CCONJ	_	_	11	cc	_	dutch=en
 10	allegearre	allegearre	ADV	_	_	15	advmod	_	dutch=allemaal
