@@ -8700,7 +8700,7 @@
 4	yn	yn	ADP	_	_	5	case	_	dutch=in
 5	1986	1986	NUM	_	_	3	obl	_	dutch=1986
 6	Waling	Waling	PROPN	_	Number=Sing	10	nmod_poss	_	dutch=Dijkstra’s
-7	Dykstra	Dykstra	PROPN	_	Number=Sing	10	nmod_poss	_	dutch=Dijkstra’s
+7	Dykstra	Dykstra	PROPN	_	Number=Sing	6	nmod_poss	_	dutch=Dijkstra’s
 8	syn	syn	PRON	_	Number=Sing	10	nmod_poss	_	dutch=Dijkstra’s
 9	eigen	eigen	ADJ	_	Number=Sing	10	nmod_poss	_	dutch=Dijkstra’s
 10	eksimplaar	eksimplaar	NOUN	_	Gender=Neut|Number=Sing	3	obj	_	dutch=exemplaar
