@@ -9308,7 +9308,7 @@
 # source_text = De Lapekoer foar AEbinga van Humalda
 # alignment =  0-0 1-2 2-2 3-3 4-4 5-5
 # ALIGNED
-1	De	de	DET	_	Definite=Def	3	det	_	dutch=De
+1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
 2	Lapekoer	Lapekoer	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=foar
 3	foar	foar	ADP	_	Gender=Com|Number=Sing	4	case	_	dutch=foar
 4	AEbinga	AEbinga	PROPN	_	_	2	nmod	_	dutch=AEbinga
