@@ -8148,7 +8148,7 @@
 5	ynklusyf	ynklusyf	ADJ	_	_	6	case	_	dutch=inclusief
 6	lieten	liet	NOUN	_	_	3	nmod	_	dutch=lied-en
 7	,	,	PUNCT	_	_	6	punct	_	dutch=cabaretteksten
-8	kabaretteksten	kabarettekst	NOUN	_	_	6	flat	_	dutch=cabaretteksten
+8	kabaretteksten	kabarettekst	NOUN	_	_	6	conj	_	dutch=cabaretteksten
 9	en	en	CCONJ	_	_	10	cc	_	dutch=en
 10	gelegenheidswurk	gelegenheidswurk	NOUN	_	Gender=Neut|Number=Sing	12	nsubj	_	dutch=gelegenheidswerk
 11	,	,	PUNCT	_	_	10	punct	_	dutch=,
