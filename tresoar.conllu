@@ -9785,7 +9785,7 @@
 25	Attyske	Attysk	ADJ	_	_	21	appos	_	dutch=Attische
 26	Nachten	nacht	NOUN	_	_	25	flat	_	dutch=VAL-MISSING
 27	)	)	PUNCT	_	_	25	punct	_	dutch=)
-28	werom	werom	ADV	_	_	16	advmod	_	dutch=terug
+28	werom	werom	ADV	_	_	3	advmod	_	dutch=terug
 29	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 429
