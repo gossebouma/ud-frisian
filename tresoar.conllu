@@ -8195,7 +8195,7 @@
 # NOT ALIGNED
 1	Har	har	PRON	_	Person=3|Poss=Yes|PronType=Prs	2	nmod_poss	_	dutch=Haar
 2	dichtwurk	dichtwurk	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=dichtwerk
-3	kin	kin	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=kan
+3	kin	kin	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	root	_	dutch=kan
 4	engazjearre	engazjearje	VERB	_	VerbForm=Part	0	root	_	dutch=geëngageerd
 5	neamd	neame	VERB	_	VerbForm=Part	0	root	_	dutch=geëngageerd
 6	wurde	wurde	AUX	_	VerbForm=Inf	0	root	_	dutch=worden
