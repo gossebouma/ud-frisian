@@ -8496,7 +8496,7 @@
 14	wie	wêze	AUX	_	_	13	cop	_	dutch=KEY-MISSING
 15	op	op	ADP	_	_	17	case	_	dutch=op
 16	It	It	PROPN	_	Gender=Neut|Number=Sing	4	nmod	_	dutch=Ameland
-17	Amelân	Amelân	PROPN	_	Gender=Neut|Number=Sing	16	nmod	_	dutch=Ameland
+17	Amelân	Amelân	PROPN	_	Gender=Neut|Number=Sing	16	flat	_	dutch=Ameland
 18	en	en	CCONJ	_	_	19	cc	_	dutch=en
 19	dan	dan	ADV	_	_	4	obj	_	dutch=dan
 20	allinne	allinne	ADV	_	_	22	amod	_	dutch=alleen
