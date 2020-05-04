@@ -8524,7 +8524,7 @@
 # ALIGNED
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
 2	kladferzje	kladferzje	NOUN	_	Gender=Com|Number=Sing	5	obj	_	dutch=kladversie
-3	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	aux	_	dutch=heeft
+3	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	aux	_	dutch=heeft
 4	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	5	nsubj	_	dutch=hij
 5	dêrnei	dêrnei	ADV	_	VerbForm=Part	0	root	_	dutch=uitgetypt
 6	oertypt	oertype	VERB	_	VerbForm=Part	0	root	_	dutch=uitgetypt
