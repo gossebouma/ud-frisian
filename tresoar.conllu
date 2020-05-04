@@ -9707,7 +9707,7 @@
 11	roman	roman	NOUN	_	_	3	obl	_	dutch=(
 12	De	De	PROPN	_	_	11	appos	_	dutch=De
 13	Fûke	Fûke	PROPN	_	_	12	flat	_	dutch=)
-14	.	.	PUNCT	_	_	0	root	_	dutch=.
+14	.	.	PUNCT	_	_	3	root	_	dutch=.
 
 # sent_id = 425
 # text = Hy die dêr ûndersyk foar by de mar , brocht de omjouwing yn kaart en typte it manuskript op syn Royal .
