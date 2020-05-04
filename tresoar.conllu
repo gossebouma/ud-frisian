@@ -9827,7 +9827,7 @@
 11	kopiearje	kopiearje	VERB	_	VerbForm=Inf	5	xcomp	_	dutch=kopiëren
 12	foar	foar	ADP	_	_	14	case	_	dutch=voor
 13	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	14	nmod_poss	_	dutch=zijn
-14	biblioteek	biblioteek	NOUN	_	Gender=Com|Number=Sing	11	nmod	_	dutch=bibliotheek
+14	biblioteek	biblioteek	NOUN	_	Gender=Com|Number=Sing	11	obl	_	dutch=bibliotheek
 15	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
 # sent_id = 431
