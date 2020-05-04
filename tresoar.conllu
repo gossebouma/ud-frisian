@@ -8924,7 +8924,7 @@
 9	sei	sei	VERB	_	_	0	root	_	dutch=KEY-MISSING
 10	by	by	ADP	_	_	12	case	_	dutch=bij
 11	de	de	DET	_	Definite=Def	12	det	_	dutch=de
-12	oanbieding	oanbieding	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=aanbieding
+12	oanbieding	oanbieding	NOUN	_	Gender=Com|Number=Sing	9	root	_	dutch=aanbieding
 13	:	:	PUNCT	_	_	0	root	_	dutch=:
 14	‘	‘	PUNCT	_	_	23	punct	_	dutch=‘
 15	Dizze	dizze	DET	_	_	16	det	_	dutch=Deze
