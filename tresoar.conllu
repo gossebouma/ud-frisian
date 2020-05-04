@@ -9569,7 +9569,7 @@
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 10-8 11-9 12-11 13-10 14-11 15-12 16-13 17-14 18-15 19-16 20-17
 # NOT ALIGNED
 1	As	As	SCONJ	_	_	8	mark	_	dutch=Als
-2	letter	letter	ADJ	_	Degree=Cmp	12	advmod	_	dutch=later
+2	letter	letter	ADJ	_	Degree=Cmp	8	advmod	_	dutch=later
 3	yn	yn	ADP	_	_	5	case	_	dutch=in
 4	’e	’e	DET	_	Definite=Def	5	det	_	dutch=de
 5	nacht	nacht	NOUN	_	Gender=Com|Number=Sing	12	obl	_	dutch=nacht
