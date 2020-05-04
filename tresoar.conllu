@@ -8935,7 +8935,7 @@
 20	kin	kinne	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	23	aux	_	dutch=kan
 21	ek	ek	ADV	_	_	23	advmod	_	dutch=ook
 22	genede	genede	NOUN	_	Gender=Com|Number=Sing	23	obj	_	dutch=genade
-23	fine	fine	VERB	_	VerbForm=Inf	32	ccomp	_	dutch=vinden
+23	fine	fine	VERB	_	VerbForm=Inf	9	ccomp	_	dutch=vinden
 24	yn	yn	ADP	_	_	26	case	_	dutch=in
 25	’e	’e	DET	_	Definite=Def	26	det	_	dutch=de
 26	eagen	each	NOUN	_	Number=Plur	23	obl	_	dutch=ogen
