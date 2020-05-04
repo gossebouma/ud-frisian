@@ -9006,7 +9006,7 @@
 3	(	(	PUNCT	_	_	4	punct	_	dutch=(
 4	1896	1896	NUM	_	_	2	nummod	_	dutch=1896-
 5	–	–	PUNCT	_	_	6	nmod	_	dutch=1983
-6	1983	1983	NOUN	_	_	1	nmod	_	dutch=1983
+6	1983	1983	NOUN	_	_	4	nmod	_	dutch=1983
 7	)	)	PUNCT	_	_	4	punct	_	dutch=)
 8	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	9	cop	_	dutch=was
 9	fotograaf	fotograaf	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=fotograaf
