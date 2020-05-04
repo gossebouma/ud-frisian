@@ -9527,7 +9527,7 @@
 11	de	de	DET	_	Gender=Neut|Number=Sing	12	det	_	dutch=Tjeukemeer
 12	Tsjûkemar	Tsjûkemar	PROPN	_	Gender=Neut|Number=Sing	4	obl	_	dutch=Tjeukemeer
 13	om	om	ADP	_	_	4	root	_	dutch=op
-14	.	.	PUNCT	_	_	4	root	_	dutch=.
+14	.	.	PUNCT	_	_	4	punct	_	dutch=.
 
 # sent_id = 417
 # text = De mannen sizze dat se de fûgeltrek bestudearje wolle , mar Nederlânske plysjeminsken fertrouwe it net .
