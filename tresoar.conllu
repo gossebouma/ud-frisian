@@ -8565,7 +8565,7 @@
 # alignment =  0-0 1-1 2-3 3-4 4-6 5-7 6-7 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 20-17 21-18 22-19 23-20
 # NOT ALIGNED
 1	Yn	yn	ADP	_	_	2	case	_	dutch=In
-2	print	print	NOUN	_	VerbForm=Part	0	root	_	dutch=gedrukte
+2	print	print	NOUN	_	VerbForm=Part	3	root	_	dutch=gedrukte
 3	beslacht	beslaan	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=beslaat
 4	de	de	DET	_	Definite=Def	5	det	_	dutch=de
 5	begjinside	begjinside	NOUN	_	Gender=Com|Number=Sing	3	nsubj	_	dutch=pagina
