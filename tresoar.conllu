@@ -9524,7 +9524,7 @@
 8	as	as	SCONJ	_	_	7	det	_	dutch=enige
 9	wat	wat	PRON	_	_	7	det	_	dutch=enige
 10	by	by	ADP	_	_	0	root	_	dutch=KEY-MISSING
-11	de	de	DET	_	Gender=Neut|Number=Sing	12	root	_	dutch=Tjeukemeer
+11	de	de	DET	_	Gender=Neut|Number=Sing	12	det	_	dutch=Tjeukemeer
 12	Tsjûkemar	Tsjûkemar	PROPN	_	Gender=Neut|Number=Sing	0	root	_	dutch=Tjeukemeer
 13	om	om	ADP	_	_	0	root	_	dutch=op
 14	.	.	PUNCT	_	_	0	root	_	dutch=.
