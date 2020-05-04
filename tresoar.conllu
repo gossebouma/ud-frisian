@@ -9518,7 +9518,7 @@
 2	ploechje	ploech	NOUN	_	Gender=Neut|Number=Sing	4	nsubj	_	dutch=aantal
 3	manlju	manlju	NOUN	_	Number=Plur	2	nmod	_	dutch=mannen
 4	strúnt	strune	VERB	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	0	root	_	dutch=zich
-5	al	al	ADV	_	_	4	amod	_	dutch=al
+5	al	al	ADV	_	_	4	advmod	_	dutch=al
 6	in	in	DET	_	_	4	det	_	dutch=enige
 7	dei	dei	NOUN	_	Number=Plur	6	fixed	_	dutch=dagen
 8	as	as	SCONJ	_	_	6	fixed	_	dutch=enige
