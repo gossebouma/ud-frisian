@@ -8501,7 +8501,7 @@
 19	dan	dan	ADV	_	_	22	advmod	_	dutch=dan
 20	allinne	allinne	ADV	_	_	22	amod	_	dutch=alleen
 21	de	de	DET	_	Definite=Def	22	det	_	dutch=de
-22	jûns	jûn	NOUN	_	Number=Plur	2	nmod	_	dutch=avonduren
+22	jûns	jûn	NOUN	_	Number=Plur	2	obl	_	dutch=avonduren
 23	,	,	PUNCT	_	_	26	punct	_	dutch=,
 24	want	want	CCONJ	_	_	26	mark	_	dutch=want
 25	oerdeis	oerdeis	ADV	_	_	26	advmod	_	dutch=overdag
