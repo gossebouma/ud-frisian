@@ -9577,7 +9577,7 @@
 7	wetterfleantúch	wetterfleantúch	NOUN	_	Gender=Neut|Number=Sing	8	nsubj	_	dutch=watervliegtuig
 8	besiket	besykje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	16	advcl	_	dutch=probeert
 9	om	om	ADP	_	_	12	mark	_	dutch=te
-10	del	del	ADV	_	_	0	root	_	dutch=KEY-MISSING
+10	del	del	ADV	_	_	12	root	_	dutch=KEY-MISSING
 11	te	te	ADP	_	_	12	mark	_	dutch=te
 12	striken	strike	VERB	_	VerbForm=Inf	8	xcomp	_	dutch=landen
 13	,	,	PUNCT	_	Person=3|PronType=Dem	16	nsubj_pass	_	dutch=dat
