@@ -7982,7 +7982,7 @@
 6	en	en	CCONJ	_	_	7	cc	_	dutch=en
 7	lingte	lingte	NOUN	_	Gender=Com|Number=Sing	5	conj	_	dutch=schrijfduur
 8	fan	fan	ADP	_	Gender=Com|Number=Sing	9	case	_	dutch=schrijfduur
-9	skriuwtiid	skriuwtiid	NOUN	_	Gender=Com|Number=Sing	5	conj	_	dutch=schrijfduur
+9	skriuwtiid	skriuwtiid	NOUN	_	Gender=Com|Number=Sing	7	conj	_	dutch=schrijfduur
 10	byhâlden	byhâlde	VERB	_	VerbForm=Part	0	root	_	dutch=bijgehouden
 11	.	.	PUNCT	_	_	10	punct	_	dutch=.
 
