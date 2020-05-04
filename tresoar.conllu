@@ -8143,7 +8143,7 @@
 # ALIGNED
 1	Har	har	PRON	_	Gender=Com|Number=Sing	2	nsubj	_	dutch=Har
 2	sammele	sammelje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=verzamelde
-3	dichtwurk	dichtwurk	NOUN	_	Gender=Neut|Number=Sing	12	obj	_	dutch=dichtwerk
+3	dichtwurk	dichtwurk	NOUN	_	Gender=Neut|Number=Sing	12	nsubj	_	dutch=dichtwerk
 4	,	,	PUNCT	_	_	6	punct	_	dutch=,
 5	ynklusyf	ynklusyf	ADJ	_	_	6	mark	_	dutch=inclusief
 6	lieten	liet	NOUN	_	_	2	advcl	_	dutch=lied-en
