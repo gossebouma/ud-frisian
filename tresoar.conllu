@@ -9152,7 +9152,7 @@
 11	meast	folle	ADV	_	_	12	advmod	_	dutch=meest
 12	frjemde	frjemde	ADJ	_	Degree=Pos	14	amod	_	dutch=eigenaardige
 13	persoanlike	persoanlik	ADJ	_	Degree=Pos	14	amod	_	dutch=persoonlijke
-14	ynfallen	ynfal	NOUN	_	Number=Plur	5	obl	_	dutch=invallen
+14	ynfallen	ynfal	NOUN	_	Number=Plur	5	conj	_	dutch=invallen
 15	deryn	deryn	ADV	_	_	16	obl	_	dutch=er
 16	befrissele	befrisselje	VERB	_	VerbForm=Part	0	root	_	dutch=gevlochten
 17	.	.	PUNCT	_	_	16	punct	_	dutch=.
