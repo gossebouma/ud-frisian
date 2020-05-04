@@ -8622,7 +8622,7 @@
 4	yn	yn	ADP	_	_	7	case	_	dutch=in
 5	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	7	nmod_poss	_	dutch=zijn
 6	warber	warber	ADJ	_	Degree=Pos	7	amod	_	dutch=actieve
-7	libben	libben	NOUN	_	Gender=Neut|Number=Sing	9	obl	_	dutch=leven
+7	libben	libben	NOUN	_	Gender=Neut|Number=Sing	3	obl	_	dutch=leven
 8	in	in	DET	_	_	9	obl	_	dutch=veel
 9	soad	soad	PRON	_	_	31	obl	_	dutch=veel
 10	foar	foar	ADP	_	_	12	case	_	dutch=voor
