@@ -9597,7 +9597,7 @@
 # NOT ALIGNED
 1	Lodo	Lodo	PROPN	_	Gender=Com|Number=Sing	22	nsubj	_	dutch=Lodo
 2	van	van	PROPN	_	_	1	flat	_	dutch=van
-3	Hamel	Hamel	PROPN	_	Gender=Com|Number=Sing	1	nmod	_	dutch=Hamel
+3	Hamel	Hamel	PROPN	_	Gender=Com|Number=Sing	1	flat	_	dutch=Hamel
 4	,	,	PUNCT	_	_	5	punct	_	dutch=,
 5	ien	ien	NUM	_	_	1	appos	_	dutch=één
 6	fan	fan	ADP	_	_	8	case	_	dutch=van
