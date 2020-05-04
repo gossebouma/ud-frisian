@@ -9473,7 +9473,7 @@
 24	)	)	PUNCT	_	_	18	punct	_	dutch=)
 25	fan	fan	ADP	_	_	26	case	_	dutch=van
 26	Fryslân	Fryslân	PROPN	_	_	13	nmod	_	dutch=VAL-MISSING
-27	.	.	PUNCT	_	_	26	punct	_	dutch=.
+27	.	.	PUNCT	_	_	6	punct	_	dutch=.
 
 # sent_id = 413
 # text = 15 .
