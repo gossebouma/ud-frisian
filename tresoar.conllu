@@ -9253,7 +9253,7 @@
 9	soarge	soargje	VERB	_	VerbForm=Part	0	root	_	dutch=gezorgd
 10	dat	dat	SCONJ	_	_	18	mark	_	dutch=dat
 11	de	de	DET	_	Definite=Def	12	det	_	dutch=de
-12	foto	foto	NOUN	_	Gender=Com|Number=Sing	18	nsubj	_	dutch=foto
+12	foto	foto	NOUN	_	Gender=Com|Number=Sing	19	nsubj	_	dutch=foto
 13	yn	yn	ADP	_	_	15	case	_	dutch=in
 14	’e	’e	DET	_	Definite=Def	15	det	_	dutch=de
 15	samling	samling	NOUN	_	Gender=Com|Number=Sing	19	obl	_	dutch=collectie
