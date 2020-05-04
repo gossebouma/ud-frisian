@@ -9181,7 +9181,7 @@
 # alignment =  0-0 1-3 2-4 3-5 4-6 5-7 6-8 7-9 8-10
 # NOT ALIGNED
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
-2	measten	folle	PRON	_	Case=Acc|Person=3|PronType=Prs	3	root	_	dutch=hen
+2	measten	folle	PRON	_	Case=Acc|Person=3|PronType=Prs	3	nsubj	_	dutch=hen
 3	hawwe	hawwe	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=hebben
 4	in	in	DET	_	Definite=Ind	5	det	_	dutch=een
 5	stikje	stik	NOUN	_	Gender=Neut|Number=Sing	3	obj	_	dutch=stukje
