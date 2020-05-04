@@ -9387,7 +9387,7 @@
 2	Lapekoer	Lapekoer	PROPN	_	_	0	root	_	dutch=fen
 3	fan	fan	ADP	_	_	4	case	_	dutch=van
 4	Gabe	Gabe	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=Gabe
-5	Skroor	Skroor	PROPN	_	_	4	root	_	dutch=Skroor
+5	Skroor	Skroor	PROPN	_	_	4	flat	_	dutch=Skroor
 6	,	,	PUNCT	_	_	16	punct	_	dutch=,
 7	neffens	neffens	ADP	_	_	9	case	_	dutch=volgens
 8	it	it	DET	_	Definite=Def	9	det	_	dutch=het
