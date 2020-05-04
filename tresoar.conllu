@@ -9261,7 +9261,7 @@
 17	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	15	nmod	_	dutch=Tresoar
 18	telâne	telâne	ADJ	_	VerbForm=Part	19	advcl	_	dutch=beland
 19	kommen	komme	VERB	_	VerbForm=Part	9	advcl	_	dutch=beland
-20	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	18	aux	_	dutch=is
+20	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	19	aux	_	dutch=is
 21	.	.	PUNCT	_	_	9	punct	_	dutch=.
 
 # sent_id = 404
