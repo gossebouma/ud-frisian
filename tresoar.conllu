@@ -8861,7 +8861,7 @@
 7	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	8	aux_pass	_	dutch=werd
 8	jûn	jaan	VERB	_	VerbForm=Part	0	root	_	dutch=gegeven
 9	troch	troch	ADP	_	_	0	root	_	dutch=VAL-MISSING
-10	it	it	DET	_	Definite=Def	12	root	_	dutch=VAL-MISSING
+10	it	it	DET	_	Definite=Def	12	det	_	dutch=VAL-MISSING
 11	‘	‘	PUNCT	_	_	12	punct	_	dutch=‘
 12	Komité	Komité	PROPN	_	Gender=Com|Number=Sing	8	obl_agent	_	dutch=Komité
 13	D.	D.	PROPN	_	_	12	flat	_	dutch=VAL-MISSING
