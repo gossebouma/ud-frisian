@@ -9093,7 +9093,7 @@
 17	personeel	personeel	NOUN	_	Gender=Neut|Number=Sing	13	obl	_	dutch=personeel
 18	op	op	ADP	_	_	20	case	_	dutch=op
 19	’e	’e	DET	_	Definite=Def	20	det	_	dutch=de
-20	foto	foto	NOUN	_	VerbForm=Part	13	root	_	dutch=gezet
+20	foto	foto	NOUN	_	VerbForm=Part	13	obl	_	dutch=gezet
 21	.	.	PUNCT	_	_	20	punct	_	dutch=.
 
 # sent_id = 397
