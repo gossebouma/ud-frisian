@@ -9401,7 +9401,7 @@
 16	û.o.	û.o.	X	_	Gender=Com|Number=Sing	0	root	_	dutch=a
 17	de	de	DET	_	Definite=Def	0	root	_	dutch=VAL-MISSING
 18	Boalserter	Boalserter	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=kermis
-19	Merke	Merke	PROPN	_	_	0	root	_	dutch=”
+19	Merke	Merke	PROPN	_	_	18	root	_	dutch=”
 20	,	,	PUNCT	_	_	24	punct	_	dutch=,
 21	nei	nei	ADP	_	_	24	case	_	dutch=na
 22	omtrint	omtrint	PRON	_	_	24	amod	_	dutch=bijna
