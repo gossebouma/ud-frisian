@@ -9128,7 +9128,7 @@
 25	noch	noch	ADV	_	_	24	advmod	_	dutch=nog
 26	geregeld	regelje	VERB	_	Degree=Pos	24	advmod	_	dutch=regelmatig
 27	stikken	stik	NOUN	_	Number=Plur	24	obj	_	dutch=artikelen
-28	yn	yn	ADP	_	_	30	root	_	dutch=VAL-MISSING
+28	yn	yn	ADP	_	_	30	case	_	dutch=VAL-MISSING
 29	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	30	root	_	dutch=VAL-MISSING
 30	Burgumer	Burgumer	PROPN	_	_	27	nmod	_	dutch=Bergumer
 31	Krante	Krante	PROPN	_	_	30	root	_	dutch=VAL-MISSING
