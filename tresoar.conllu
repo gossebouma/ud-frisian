@@ -9344,7 +9344,7 @@
 # alignment =  0-0 1-4 2-5 3-6 4-7 5-8 6-9 7-10 8-11 9-12 10-13 11-14 12-15 13-16
 # ALIGNED
 1	In	in	DET	_	Definite=Ind	3	det	_	dutch=Een
-2	mânsk	mânsk	ADJ	_	VerbForm=Part	3	acl	_	dutch=gewassen
+2	mânsk	mânsk	ADJ	_	VerbForm=Part	3	amod	_	dutch=gewassen
 3	boek	boek	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=boek
 4	,	,	PUNCT	_	_	7	punct	_	dutch=,
 5	mei	mei	ADP	_	_	7	case	_	dutch=met
