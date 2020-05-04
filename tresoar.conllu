@@ -8530,7 +8530,7 @@
 6	oertypt	oertype	VERB	_	VerbForm=Part	0	root	_	dutch=uitgetypt
 7	en	en	CCONJ	_	_	8	cc	_	dutch=en
 8	omwurke	omwurkje	VERB	_	VerbForm=Part	6	conj	_	dutch=omgewerkt
-9	.	.	PUNCT	_	_	5	punct	_	dutch=.
+9	.	.	PUNCT	_	_	6	punct	_	dutch=.
 
 # sent_id = 373
 # text = Dizze earste side hat in kwarto-formaat en lit sjen dat de skriuwer de tekst mear as ien kear bywurke hat .
