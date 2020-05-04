@@ -8159,7 +8159,7 @@
 16	de	de	DET	_	Definite=Def	17	det	_	dutch=de
 17	titel	titel	NOUN	_	Gender=Com|Number=Sing	12	obl	_	dutch=titel
 18	Bitterswiet	bitterswiet	NOUN	_	Gender=Com|Number=Sing	17	appos	_	dutch=Bitterswiet
-19	.	.	PUNCT	_	_	2	punct	_	dutch=.
+19	.	.	PUNCT	_	_	12	punct	_	dutch=.
 
 # sent_id = 359
 # text = Dat is allyksa de titel fan har bekendste fers ; it waard yn 2001 yn in lytse hûndert talen oerset .
