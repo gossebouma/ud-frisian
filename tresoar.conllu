@@ -8203,7 +8203,7 @@
 8	it	it	PRON	_	Person=3|PronType=Prs	9	nsubj	_	dutch=het
 9	lit	litte	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	conj	_	dutch=toont
 10	de	de	DET	_	Definite=Def	12	det	_	dutch=de
-11	eksistinsjele	eksistinsjeel	ADJ	_	Gender=Com|Number=Sing	12	obj	_	dutch=drijfveer
+11	eksistinsjele	eksistinsjeel	ADJ	_	Gender=Com|Number=Sing	12	amod	_	dutch=drijfveer
 12	driuw	driuw	NOUN	_	Gender=Com|Number=Sing	9	obj	_	dutch=drijfveer
 13	sjen	sjen	VERB	_	_	0	root	_	dutch=KEY-MISSING
 14	om	om	ADP	_	_	20	mark	_	dutch=om
