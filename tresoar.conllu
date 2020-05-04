@@ -8895,7 +8895,7 @@
 16	de	de	DET	_	Definite=Def	17	det	_	dutch=de
 17	PB	PB	PROPN	_	Gender=Com|Number=Sing	14	nmod	_	dutch=PB
 18	op	op	ADP	_	_	19	case	_	dutch=op
-19	sneon	sneon	PROPN	_	Gender=Com|Number=Sing	6	obl	_	dutch=zaterdag
+19	sneon	sneon	PROPN	_	Gender=Com|Number=Sing	6	nmod	_	dutch=zaterdag
 20	22	22	NUM	_	_	19	appos	_	dutch=22
 21	novimber	novimber	PROPN	_	Gender=Com|Number=Sing	20	fixed	_	dutch=november
 22	1969	1969	NUM	_	_	20	fixed	_	dutch=1969
