@@ -9311,7 +9311,7 @@
 1	De	de	DET	_	Definite=Def	3	det	_	dutch=De
 2	Lapekoer	Lapekoer	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=foar
 3	foar	foar	ADP	_	Gender=Com|Number=Sing	0	root	_	dutch=foar
-4	AEbinga	AEbinga	PROPN	_	_	2	appos	_	dutch=AEbinga
+4	AEbinga	AEbinga	PROPN	_	_	2	nmod	_	dutch=AEbinga
 5	van	van	PROPN	_	_	4	flat	_	dutch=van
 6	Humalda	Humalda	PROPN	_	_	4	flat	_	dutch=Humalda
 
