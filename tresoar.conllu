@@ -8925,7 +8925,7 @@
 10	by	by	ADP	_	_	12	case	_	dutch=bij
 11	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 12	oanbieding	oanbieding	NOUN	_	Gender=Com|Number=Sing	9	obl	_	dutch=aanbieding
-13	:	:	PUNCT	_	_	0	root	_	dutch=:
+13	:	:	PUNCT	_	_	9	root	_	dutch=:
 14	‘	‘	PUNCT	_	_	23	punct	_	dutch=‘
 15	Dizze	dizze	DET	_	_	16	det	_	dutch=Deze
 16	tekening	tekening	NOUN	_	Gender=Com|Number=Sing	23	nsubj	_	dutch=tekening
