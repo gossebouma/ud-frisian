@@ -9146,7 +9146,7 @@
 5	humor	humor	NOUN	_	Gender=Com|Number=Sing	1	nmod	_	dutch=humor
 6	,	,	PUNCT	_	_	14	punct	_	dutch=,
 7	mar	mar	CCONJ	_	_	14	cc	_	dutch=maar
-8	ek	ek	ADV	_	_	16	advmod	_	dutch=ook
+8	ek	ek	ADV	_	_	14	advmod	_	dutch=ook
 9	mei	mei	ADP	_	_	14	case	_	dutch=met
 10	de	de	DET	_	Definite=Def	14	det	_	dutch=de
 11	meast	folle	ADV	_	_	12	advmod	_	dutch=meest
