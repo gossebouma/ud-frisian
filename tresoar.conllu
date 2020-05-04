@@ -8571,7 +8571,7 @@
 5	begjinside	begjinside	NOUN	_	Gender=Com|Number=Sing	3	nsubj	_	dutch=pagina
 6	net	net	ADV	_	_	12	amod	_	dutch=slechts
 7	mear	folle	ADV	_	_	6	amod	_	dutch=slechts
-8	as	as	SCONJ	_	_	12	amod	_	dutch=slechts
+8	as	as	SCONJ	_	_	6	amod	_	dutch=slechts
 9	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 10	boppeste	boppe	ADJ	_	Degree=Sup	12	amod	_	dutch=bovenste
 11	seis	seis	NUM	_	_	12	nummod	_	dutch=zes
