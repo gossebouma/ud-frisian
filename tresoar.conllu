@@ -8461,7 +8461,7 @@
 12	in	in	DET	_	Definite=Ind	13	det	_	dutch=een
 13	jier	jier	NOUN	_	Gender=Neut|Number=Sing	14	obl	_	dutch=jaar
 14	letter	letter	ADJ	_	Degree=Cmp	15	advmod	_	dutch=later
-15	ferskynde	ferskine	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	4	acl_relcl	_	dutch=verscheen
+15	ferskynde	ferskine	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	6	acl_relcl	_	dutch=verscheen
 16	,	,	PUNCT	_	_	2	punct	_	dutch=,
 17	droegen	drage	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	dutch=droegen
 18	sterk	sterk	ADJ	_	PronType=Ind	17	obj	_	dutch=veel
