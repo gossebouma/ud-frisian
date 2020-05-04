@@ -8870,7 +8870,7 @@
 16	60	60	NUM	_	Gender=Com|Number=Sing	12	flat	_	dutch=VAL-MISSING
 17	jier	jier	NOUN	_	Gender=Com|Number=Sing	12	flat	_	dutch=VAL-MISSING
 18	’	’	PUNCT	_	_	12	punct	_	dutch=’
-19	.	.	PUNCT	_	_	16	punct	_	dutch=.
+19	.	.	PUNCT	_	_	8	punct	_	dutch=.
 
 # sent_id = 389
 # text = It waard oanbean yn in huldigingsgearkomste by Tamminga syn sechtichste jierdei yn ’e aula fan de PB op sneon 22 novimber 1969 , dêr’t sa’n 300 minsken bywêzich wiene .
