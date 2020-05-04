@@ -9090,7 +9090,7 @@
 14	mei	mei	ADP	_	_	17	case	_	dutch=met
 15	it	it	DET	_	Definite=Def	17	det	_	dutch=het
 16	folsleine	folslein	ADJ	_	Degree=Pos	17	amod	_	dutch=voltallige
-17	personeel	personeel	NOUN	_	Gender=Neut|Number=Sing	20	obl	_	dutch=personeel
+17	personeel	personeel	NOUN	_	Gender=Neut|Number=Sing	13	obl	_	dutch=personeel
 18	op	op	ADP	_	_	0	root	_	dutch=op
 19	’e	’e	DET	_	Definite=Def	0	root	_	dutch=de
 20	foto	foto	NOUN	_	VerbForm=Part	0	root	_	dutch=gezet
