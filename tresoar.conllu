@@ -9858,7 +9858,7 @@
 2	oare	oar	ADJ	_	Degree=Pos	3	amod	_	dutch=andere
 3	muonts	muonts	NOUN	_	Gender=Com|Number=Sing	17	nsubj	_	dutch=monnik
 4	hat	hawwe	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	17	aux	_	dutch=heeft
-5	mei	mei	ADP	_	_	7	root	_	dutch=KEY-MISSING
+5	mei	mei	ADP	_	_	7	case	_	dutch=KEY-MISSING
 6	de	de	DET	_	Definite=Def	7	det	_	dutch=de
 7	kopy	kopy	NOUN	_	Gender=Com|Number=Sing	17	obj	_	dutch=kopie
 8	nei	nei	ADP	_	_	9	case	_	dutch=KEY-MISSING
