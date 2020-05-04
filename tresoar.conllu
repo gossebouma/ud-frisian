@@ -9769,7 +9769,7 @@
 9	Karel	Karel	PROPN	_	_	8	appos	_	dutch=Karel
 10	de	de	PROPN	_	_	9	flat	_	dutch=de
 11	Grutte	Grutte	PROPN	_	_	9	flat	_	dutch=Grote
-12	,	,	PUNCT	_	_	16	punct	_	dutch=,
+12	,	,	PUNCT	_	_	6	punct	_	dutch=,
 13	yn	yn	ADP	_	_	15	case	_	dutch=per
 14	in	in	DET	_	_	15	case	_	dutch=per
 15	brief	brief	NOUN	_	Gender=Com|Number=Sing	3	obl	_	dutch=brief
