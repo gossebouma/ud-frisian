@@ -9018,7 +9018,7 @@
 15	dosint	dosint	NOUN	_	Gender=Com|Number=Sing	9	conj	_	dutch=docent
 16	,	,	PUNCT	_	_	21	punct	_	dutch=,
 17	û.o.	û.o.	X	_	_	21	parataxis	_	dutch=a
-18	oan	oan	ADP	_	_	21	case	_	dutch=aan
+18	oan	oan	ADP	_	_	20	case	_	dutch=aan
 19	de	de	DET	_	Definite=Def	20	det	_	dutch=de
 20	Haachske	Haachske	PROPN	_	Degree=Pos	21	amod	_	dutch=Haagse
 21	keunstakademy	keunstakademy	PROPN	_	Gender=Com|Number=Sing	15	parataxis	_	dutch=kunstacademie
