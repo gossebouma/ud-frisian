@@ -8882,7 +8882,7 @@
 3	oanbean	oanbiede	VERB	_	VerbForm=Part	0	root	_	dutch=aangeboden
 4	yn	yn	ADP	_	_	6	case	_	dutch=in
 5	in	in	DET	_	_	6	det	_	dutch=een
-6	huldigingsgearkomste	huldigingsgearkomste	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=gelegenheid
+6	huldigingsgearkomste	huldigingsgearkomste	NOUN	_	Gender=Com|Number=Sing	3	root	_	dutch=gelegenheid
 7	by	by	ADP	_	Gender=Com|Number=Sing	0	root	_	dutch=gelegenheid
 8	Tamminga	Tamminga	PROPN	_	_	0	root	_	dutch=KEY-MISSING
 9	syn	syn	PRON	_	Gender=Com|Number=Sing	14	amod	_	dutch=verjaardag
