@@ -9366,7 +9366,7 @@
 1	J.	J.	PROPN	_	_	0	root	_	dutch=J.
 2	H.	H.	PROPN	_	_	1	flat	_	dutch=.
 3	de	de	PROPN	_	_	1	flat	_	dutch=de
-4	Lange	Lange	PROPN	_	_	1	cc	_	dutch=en
+4	Lange	Lange	PROPN	_	_	1	flat	_	dutch=en
 5	in	in	DET	_	_	0	root	_	dutch=KEY-MISSING
 6	Soon	Soon	NOUN	_	Gender=Com|Number=Sing	3	conj	_	dutch=zoon
 7	,	,	PUNCT	_	_	10	punct	_	dutch=,
