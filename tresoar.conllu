@@ -8230,7 +8230,7 @@
 4	fers	fers	NOUN	_	Gender=Neut|Number=Sing	11	nsubj_pass	_	dutch=gedicht
 5	‘	‘	PUNCT	_	_	6	punct	_	dutch=‘
 6	Frou	frou	NOUN	_	Gender=Com|Number=Sing	4	appos	_	dutch=Frou
-7	mei	mei	ADP	_	_	8	root	_	dutch=KEY-MISSING
+7	mei	mei	ADP	_	_	8	case	_	dutch=KEY-MISSING
 8	paraplu	paraplu	NOUN	_	Gender=Com|Number=Sing	6	fixed	_	dutch=paraplu
 9	’	’	PUNCT	_	_	6	punct	_	dutch=’
 10	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	11	aux_pass	_	dutch=is
