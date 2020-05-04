@@ -9865,7 +9865,7 @@
 9	ferrin	ferrin	NOUN	_	Degree=Pos	17	advmod	_	dutch=uiteindelijk
 10	fan	fan	ADP	_	_	11	case	_	dutch=KEY-MISSING
 11	tiid	tiid	NOUN	_	_	9	nmod	_	dutch=KEY-MISSING
-12	dien	dwaan	VERB	_	_	13	root	_	dutch=KEY-MISSING
+12	dien	dwaan	VERB	_	_	13	amod	_	dutch=KEY-MISSING
 13	wurk	wurk	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 14	makke	meitsje	VERB	_	_	0	root	_	dutch=KEY-MISSING
 15	yn	yn	ADP	_	_	18	case	_	dutch=in
