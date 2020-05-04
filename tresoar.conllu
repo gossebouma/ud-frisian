@@ -8129,7 +8129,7 @@
 9	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 10	wichtichste	wichtich	ADJ	_	Degree=Sup	12	amod	_	dutch=belangrijkste
 11	Fryske	Frysk	ADJ	_	Degree=Pos	12	amod	_	dutch=Friese
-12	auteurs	auteur	NOUN	_	Number=Plur	0	root	_	dutch=auteurs
+12	auteurs	auteur	NOUN	_	Number=Plur	7	root	_	dutch=auteurs
 13	fan	fan	ADP	_	_	16	case	_	dutch=van
 14	nei	nei	ADP	_	_	16	case	_	dutch=na
 15	de	de	DET	_	Definite=Def	16	det	_	dutch=de
