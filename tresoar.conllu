@@ -8618,7 +8618,7 @@
 # NOT ALIGNED
 1	Waling	Waling	PROPN	_	_	3	nsubj	_	dutch=Waling
 2	Dykstra	Dykstra	PROPN	_	_	1	flat	_	dutch=Dijkstra
-3	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=heeft
+3	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	13	root	_	dutch=heeft
 4	yn	yn	ADP	_	_	7	case	_	dutch=in
 5	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	7	nmod_poss	_	dutch=zijn
 6	warber	warber	ADJ	_	Degree=Pos	7	amod	_	dutch=actieve
