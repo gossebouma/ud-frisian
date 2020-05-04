@@ -9408,7 +9408,7 @@
 23	twahûndert	twahûndert	NUM	_	_	24	nummod	_	dutch=tweehonderd
 24	jier	jier	NOUN	_	Gender=Neut|Number=Sing	28	orphan	_	dutch=jaar
 25	noch	noch	ADV	_	_	26	advmod	_	dutch=nog
-26	altiten	altiten	ADV	_	_	24	parataxis	_	dutch=altijd
+26	altiten	altiten	ADV	_	_	28	parataxis	_	dutch=altijd
 27	in	in	DET	_	Definite=Ind	28	det	_	dutch=een
 28	tophit	tophit	NOUN	_	Gender=Com|Number=Sing	18	parataxis	_	dutch=tophit
 29	.	.	PUNCT	_	_	0	root	_	dutch=.
