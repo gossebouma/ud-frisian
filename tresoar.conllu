@@ -9726,7 +9726,7 @@
 10	brocht	bringe	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	2	conj	_	dutch=bracht
 11	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 12	omjouwing	omjouwing	NOUN	_	Gender=Com|Number=Sing	10	obj	_	dutch=omgeving
-13	yn	yn	ADP	_	_	10	compound_prt	_	dutch=in
+13	yn	yn	ADP	_	_	14	compound_prt	_	dutch=in
 14	kaart	kaart	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=VAL-MISSING
 15	en	en	CCONJ	_	_	16	cc	_	dutch=en
 16	typte	type	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	2	conj	_	dutch=typte
