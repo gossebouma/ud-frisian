@@ -8306,7 +8306,7 @@
 7	publisearre	publisearje	VERB	_	VerbForm=Part	2	acl	_	dutch=gepubliceerd
 8	yn	yn	ADP	_	_	9	case	_	dutch=in
 9	1960	1960	NUM	_	_	7	obl	_	dutch=1960
-10	,	,	PUNCT	_	_	2	punct	_	dutch=,
+10	,	,	PUNCT	_	_	7	punct	_	dutch=,
 11	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	14	aux	_	dutch=is
 12	hiel	hiel	ADJ	_	Degree=Pos	14	advmod	_	dutch=vaak
 13	faak	faak	ADJ	_	Degree=Pos	14	advmod	_	dutch=vaak
