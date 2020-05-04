@@ -8217,7 +8217,7 @@
 22	it	it	DET	_	Person=3|PronType=Prs	24	obj	_	dutch=het
 23	te	te	ADP	_	_	24	mark	_	dutch=te
 24	romantisearjen	romantisearje	VERB	_	VerbForm=Inf	25	advcl	_	dutch=romantiseren
-25	.	.	PUNCT	_	_	0	root	_	dutch=.
+25	.	.	PUNCT	_	_	5	root	_	dutch=.
 
 # sent_id = 361
 # text = It hjir ôfbylde fers ‘ Frou mei paraplu ’ is skreaun mei swarte balpinne op in stevich stik wyt glêd papier fan 17 by 24 sm , oan twa kanten ôfskuord út in grutter stik .
