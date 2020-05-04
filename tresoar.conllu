@@ -9944,7 +9944,7 @@
 2	oerdriuwe	oerdriuwe	VERB	_	VerbForm=Part	0	root	_	dutch=overdreven
 3	net	net	ADV	_	_	2	advmod	_	dutch=niet
 4	as	as	SCONJ	_	_	6	root	_	dutch=KEY-MISSING
-5	wy	wy	PRON	_	VerbForm=Inf	2	csubj	_	dutch=zeggen
+5	wy	wy	PRON	_	VerbForm=Inf	6	csubj	_	dutch=zeggen
 6	sizze	sizze	VERB	_	VerbForm=Inf	2	csubj	_	dutch=zeggen
 7	dat	dat	SCONJ	_	_	22	mark	_	dutch=dat
 8	de	de	DET	_	Definite=Def	9	det	_	dutch=de
