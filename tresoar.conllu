@@ -8676,7 +8676,7 @@
 # source_text = Het verscheen in drie delen ( 1900- 1911 ) .
 # alignment =  0-0 1-1 2-1 3-2 4-3 5-4 6-5 7-6 8-6 9-7 10-8 11-9
 # ALIGNED
-1	It	it	PRON	_	Person=3|PronType=Prs	3	nsubj	_	dutch=Het
+1	It	it	PRON	_	Person=3|PronType=Prs	2	nsubj	_	dutch=Het
 2	kaam	komme	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=verscheen
 3	út	út	ADP	_	Number=Sing|Tense=Past|VerbForm=Fin	2	root	_	dutch=verscheen
 4	yn	yn	ADP	_	_	6	case	_	dutch=in
