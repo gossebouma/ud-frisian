@@ -8758,7 +8758,7 @@
 9	fan	fan	ADP	_	_	12	case	_	dutch=van
 10	de	de	DET	_	Definite=Def	11	det	_	dutch=de
 11	taalman	taalman	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	dutch=taalijveraar
-12	sjen	sjen	VERB	_	Gender=Com|Number=Sing	8	nmod	_	dutch=taalijveraar
+12	sjen	sjen	VERB	_	Gender=Com|Number=Sing	6	nmod	_	dutch=taalijveraar
 13	.	.	PUNCT	_	_	6	punct	_	dutch=.
 
 # sent_id = 384
