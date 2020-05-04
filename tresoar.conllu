@@ -9003,7 +9003,7 @@
 # ALIGNED
 1	Paul	Paul	PROPN	_	_	9	nsubj	_	dutch=Paul
 2	Citroen	Citroen	PROPN	_	_	1	flat	_	dutch=Citroen
-3	(	(	PUNCT	_	_	5	punct	_	dutch=(
+3	(	(	PUNCT	_	_	4	punct	_	dutch=(
 4	1896	1896	NUM	_	_	2	nummod	_	dutch=1896-
 5	–	–	PUNCT	_	_	6	nmod	_	dutch=1983
 6	1983	1983	NOUN	_	_	1	nmod	_	dutch=1983
