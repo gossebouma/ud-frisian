@@ -9398,7 +9398,7 @@
 13	Saske	Saske	PROPN	_	Gender=Com|Number=Sing	12	appos	_	dutch=Saske
 14	,	,	PUNCT	_	_	10	root	_	dutch=,
 15	befette	befetsje	VERB	_	VerbForm=Part	0	root	_	dutch=bevatte
-16	û.o.	û.o.	X	_	Gender=Com|Number=Sing	18	root	_	dutch=a
+16	û.o.	û.o.	X	_	Gender=Com|Number=Sing	18	advmod	_	dutch=a
 17	de	de	DET	_	Definite=Def	18	det	_	dutch=VAL-MISSING
 18	Boalserter	Boalserter	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=kermis
 19	Merke	Merke	PROPN	_	_	18	flat	_	dutch=”
