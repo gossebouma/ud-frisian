@@ -8817,7 +8817,7 @@
 18	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	17	aux	_	dutch=heeft
 19	fan	fan	ADP	_	_	0	root	_	dutch=VAL-MISSING
 20	D.	D.	PROPN	_	_	17	obl	_	dutch=D.
-21	A.	A.	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+21	A.	A.	PROPN	_	_	20	root	_	dutch=VAL-MISSING
 22	Tamminga	Tamminga	PROPN	_	Gender=Com|Number=Sing	9	parataxis	_	dutch=Tamminga
 23	.	.	PUNCT	_	_	9	punct	_	dutch=.
 
