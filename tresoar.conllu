@@ -8894,7 +8894,7 @@
 15	fan	fan	ADP	_	_	17	case	_	dutch=van
 16	de	de	DET	_	Definite=Def	17	det	_	dutch=de
 17	PB	PB	PROPN	_	Gender=Com|Number=Sing	14	obl	_	dutch=PB
-18	op	op	ADP	_	_	2	xcomp	_	dutch=op
+18	op	op	ADP	_	_	6	xcomp	_	dutch=op
 19	sneon	sneon	PROPN	_	Gender=Com|Number=Sing	18	obl	_	dutch=zaterdag
 20	22	22	NUM	_	_	19	appos	_	dutch=22
 21	novimber	novimber	PROPN	_	Gender=Com|Number=Sing	20	fixed	_	dutch=november
