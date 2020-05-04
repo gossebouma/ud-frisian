@@ -8231,7 +8231,7 @@
 5	‘	‘	PUNCT	_	_	6	punct	_	dutch=‘
 6	Frou	frou	NOUN	_	Gender=Com|Number=Sing	4	appos	_	dutch=Frou
 7	mei	mei	ADP	_	_	8	case	_	dutch=KEY-MISSING
-8	paraplu	paraplu	NOUN	_	Gender=Com|Number=Sing	6	fixed	_	dutch=paraplu
+8	paraplu	paraplu	NOUN	_	Gender=Com|Number=Sing	6	nmod	_	dutch=paraplu
 9	’	’	PUNCT	_	_	6	punct	_	dutch=’
 10	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	11	aux_pass	_	dutch=is
 11	skreaun	skriuwe	VERB	_	VerbForm=Part	0	root	_	dutch=geschreven
