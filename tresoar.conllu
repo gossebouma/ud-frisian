@@ -9519,7 +9519,7 @@
 3	manlju	manlju	NOUN	_	Number=Plur	2	nmod	_	dutch=mannen
 4	strúnt	strune	VERB	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	0	root	_	dutch=zich
 5	al	al	ADV	_	_	7	amod	_	dutch=al
-6	in	in	DET	_	_	7	det	_	dutch=enige
+6	in	in	DET	_	_	4	det	_	dutch=enige
 7	dei	dei	NOUN	_	Number=Plur	0	root	_	dutch=dagen
 8	as	as	SCONJ	_	_	7	det	_	dutch=enige
 9	wat	wat	PRON	_	_	7	det	_	dutch=enige
