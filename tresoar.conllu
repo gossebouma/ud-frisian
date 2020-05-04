@@ -9290,7 +9290,7 @@
 19	op	op	ADP	_	_	21	case	_	dutch=op
 20	’e	’e	DET	_	Definite=Def	21	det	_	dutch=de
 21	pedalen	pedaal	NOUN	_	Number=Plur	18	nmod	_	dutch=pedalen
-22	,	,	PUNCT	_	_	5	punct	_	dutch=,
+22	,	,	PUNCT	_	_	16	punct	_	dutch=,
 23	set	set	VERB	_	VerbForm=Part	2	ccomp	_	dutch=gezet
 24	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	23	aux_pass	_	dutch=werd
 25	.	.	PUNCT	_	_	2	punct	_	dutch=.
