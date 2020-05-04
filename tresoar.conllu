@@ -9428,7 +9428,7 @@
 8	printe	printsje	VERB	_	VerbForm=Part	0	root	_	dutch=gedrukt
 9	en	en	CCONJ	_	_	11	cc	_	dutch=en
 10	allegearre	allegearre	ADV	_	_	15	advmod	_	dutch=allemaal
-11	waarden	wurde	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	15	conj	_	dutch=werden
+11	waarden	wurde	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	15	aux_pass	_	dutch=werden
 12	se	se	PRON	_	_	15	nsubj_pass	_	dutch=KEY-MISSING
 13	ek	ek	ADV	_	_	15	advmod	_	dutch=ook
 14	noch	noch	ADV	_	_	15	amod	_	dutch=nog
