@@ -9374,7 +9374,7 @@
 9	’e	’e	DET	_	Definite=Def	10	det	_	dutch=de
 10	Brink	Brink	PROPN	_	Gender=Com|Number=Sing	1	nmod	_	dutch=Brink
 11	te	te	ADP	_	Gender=Com|Number=Sing	12	case	_	dutch=Brink
-12	Dimter	Dimter	PROPN	_	_	1	punct	_	dutch=)
+12	Dimter	Dimter	PROPN	_	_	10	punct	_	dutch=)
 13	”	”	PUNCT	_	Gender=Neut|Number=Sing	10	nmod	_	dutch=Deventer
 14	.	.	PUNCT	_	_	1	punct	_	dutch=.
 
