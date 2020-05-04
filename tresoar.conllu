@@ -9259,7 +9259,7 @@
 15	samling	samling	NOUN	_	Gender=Com|Number=Sing	18	obl	_	dutch=collectie
 16	fan	fan	ADP	_	_	17	case	_	dutch=van
 17	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	15	nmod	_	dutch=Tresoar
-18	telâne	telâne	ADJ	_	VerbForm=Part	9	advcl	_	dutch=beland
+18	telâne	telâne	ADJ	_	VerbForm=Part	19	advcl	_	dutch=beland
 19	kommen	komme	VERB	_	VerbForm=Part	9	advcl	_	dutch=beland
 20	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	18	aux	_	dutch=is
 21	.	.	PUNCT	_	_	9	punct	_	dutch=.
