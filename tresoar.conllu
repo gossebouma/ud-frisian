@@ -8488,7 +8488,7 @@
 6	in	in	DET	_	Definite=Ind	7	det	_	dutch=een
 7	pear	pear	NOUN	_	Gender=Neut|Number=Sing	2	obl	_	dutch=paar
 8	dagen	dei	NOUN	_	VerbForm=Inf	7	amod	_	dutch=dagen
-9	,	,	PUNCT	_	_	19	punct	_	dutch=,
+9	,	,	PUNCT	_	_	13	punct	_	dutch=,
 10	doe’t	doe’t	ADV	_	_	13	advmod	_	dutch=KEY-MISSING
 11	er	er	PRON	_	_	13	nsubj	_	dutch=KEY-MISSING
 12	mei	mei	ADP	_	_	13	case	_	dutch=tijdens
