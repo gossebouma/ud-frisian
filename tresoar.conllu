@@ -9396,7 +9396,7 @@
 11	troch	troch	ADP	_	_	12	case	_	dutch=door
 12	beppe	beppe	NOUN	_	Gender=Com|Number=Sing	10	obl	_	dutch=grootmoeder
 13	Saske	Saske	PROPN	_	Gender=Com|Number=Sing	12	appos	_	dutch=Saske
-14	,	,	PUNCT	_	_	9	root	_	dutch=,
+14	,	,	PUNCT	_	_	10	root	_	dutch=,
 15	befette	befetsje	VERB	_	VerbForm=Part	0	root	_	dutch=bevatte
 16	û.o.	û.o.	X	_	Gender=Com|Number=Sing	0	root	_	dutch=a
 17	de	de	DET	_	Definite=Def	0	root	_	dutch=VAL-MISSING
