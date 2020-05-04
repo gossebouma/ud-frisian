@@ -9857,7 +9857,7 @@
 1	In	in	DET	_	Definite=Ind	3	det	_	dutch=Een
 2	oare	oar	ADJ	_	Degree=Pos	3	amod	_	dutch=andere
 3	muonts	muonts	NOUN	_	Gender=Com|Number=Sing	14	nsubj	_	dutch=monnik
-4	hat	hawwe	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	17	aux	_	dutch=heeft
+4	hat	hawwe	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	14	aux	_	dutch=heeft
 5	mei	mei	ADP	_	_	7	case	_	dutch=KEY-MISSING
 6	de	de	DET	_	Definite=Def	7	det	_	dutch=de
 7	kopy	kopy	NOUN	_	Gender=Com|Number=Sing	14	obl	_	dutch=kopie
