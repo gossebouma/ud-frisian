@@ -9471,7 +9471,7 @@
 22	de	de	DET	_	Definite=Def	23	det	_	dutch=de
 23	Keninginne	keninginne	NOUN	_	Gender=Com|Number=Sing	20	nmod	_	dutch=Koningin
 24	)	)	PUNCT	_	_	18	punct	_	dutch=)
-25	fan	fan	ADP	_	_	23	appos	_	dutch=van
+25	fan	fan	ADP	_	_	26	appos	_	dutch=van
 26	Fryslân	Fryslân	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 27	.	.	PUNCT	_	_	26	punct	_	dutch=.
 
