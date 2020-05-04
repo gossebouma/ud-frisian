@@ -9392,7 +9392,7 @@
 7	neffens	neffens	ADP	_	_	9	case	_	dutch=volgens
 8	it	it	DET	_	Definite=Def	9	det	_	dutch=het
 9	foaropwurd	foaropwurd	NOUN	_	Gender=Neut|Number=Sing	10	obl	_	dutch=voorwoord
-10	trochskodde	trochskodzje	VERB	_	VerbForm=Part	16	acl	_	dutch=dooreengeschud
+10	trochskodde	trochskodzje	VERB	_	VerbForm=Part	1	acl	_	dutch=dooreengeschud
 11	troch	troch	ADP	_	_	12	case	_	dutch=door
 12	beppe	beppe	NOUN	_	Gender=Com|Number=Sing	10	obl	_	dutch=grootmoeder
 13	Saske	Saske	PROPN	_	Gender=Com|Number=Sing	12	appos	_	dutch=Saske
