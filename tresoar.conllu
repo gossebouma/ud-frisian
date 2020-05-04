@@ -9274,7 +9274,7 @@
 3	derby	derby	ADV	_	_	2	advmod	_	dutch=erbij
 4	dat	dat	SCONJ	_	_	23	mark	_	dutch=dat
 5	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	23	nsubj_pass	_	dutch=hij
-6	thús	thús	ADV	_	_	23	amod	_	dutch=thuis
+6	thús	thús	ADV	_	_	23	advmod	_	dutch=thuis
 7	yn	yn	ADP	_	_	8	case	_	dutch=in
 8	Garyp	Garyp	PROPN	_	Gender=Neut|Number=Sing	5	nmod	_	dutch=Garijp
 9	foar	foar	ADP	_	_	10	case	_	dutch=voor
