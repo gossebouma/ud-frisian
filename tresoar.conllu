@@ -8906,7 +8906,7 @@
 27	minsken	minske	NOUN	_	Number=Plur	28	nsubj	_	dutch=mensen
 28	bywêzich	bywêzich	ADJ	_	Degree=Pos	6	advcl	_	dutch=aanwezig
 29	wiene	wêze	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	28	cop	_	dutch=waren
-30	.	.	PUNCT	_	_	2	punct	_	dutch=.
+30	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 390
 # text = Freark Bergstra , foarsitter fan it komitee , sei by de oanbieding : ‘ Dizze tekening mei swart kryt kin ek genede fine yn ’e eagen fan de boarger , want it liket . ’
