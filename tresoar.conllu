@@ -9449,7 +9449,7 @@
 # NOT ALIGNED
 1	It	it	DET	_	Definite=Def	3	det	_	dutch=Het
 2	moaiste	moai	ADJ	_	Degree=Sup	3	amod	_	dutch=mooiste
-3	eksimplaar	eksimplaar	NOUN	_	Gender=Neut|Number=Sing	13	nsubj	_	dutch=exemplaar
+3	eksimplaar	eksimplaar	NOUN	_	Gender=Neut|Number=Sing	6	nsubj	_	dutch=exemplaar
 4	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	6	cop	_	dutch=was
 5	foar	foar	ADP	_	_	6	case	_	dutch=voor
 6	jonker	jonker	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=jonkheer
