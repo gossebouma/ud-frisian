@@ -8274,7 +8274,7 @@
 6	’e	’e	DET	_	Definite=Def	7	det	_	dutch=de
 7	jierren	jier	NOUN	_	Number=Plur	24	obl	_	dutch=jaren
 8	santich	santich	NUM	_	_	7	appos	_	dutch=zeventig
-9	dien	dwaan	VERB	_	VerbForm=Part	24	obl	_	dutch=gedaan
+9	dien	dwaan	VERB	_	VerbForm=Part	0	root	_	dutch=gedaan
 10	op	op	ADP	_	_	12	case	_	dutch=tijdens
 11	in	in	DET	_	Definite=Ind	12	det	_	dutch=een
 12	Keunstbeurs	keunstbeurs	NOUN	_	Gender=Com_Neut|Number=Sing	24	obl	_	dutch=Kunstbeurs
