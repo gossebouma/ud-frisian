@@ -9220,7 +9220,7 @@
 23	skroevedraaier	skroevedraaier	NOUN	_	Gender=Com|Number=Sing	13	conj	_	dutch=schroevendraaier
 24	yn	yn	ADP	_	_	26	case	_	dutch=in
 25	’e	’e	DET	_	Person=3|Poss=Yes|PronType=Prs	26	nmod_poss	_	dutch=hun
-26	hannen	hannen	NOUN	_	Number=Plur	23	nmod	_	dutch=handen
+26	hannen	hannen	NOUN	_	Number=Plur	11	nmod	_	dutch=handen
 27	.	.	PUNCT	_	_	0	root	_	dutch=.
 
 # sent_id = 402
