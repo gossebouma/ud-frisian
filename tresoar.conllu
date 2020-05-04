@@ -9284,7 +9284,7 @@
 13	fyts	fyts	NOUN	_	Gender=Com|Number=Sing	23	obl	_	dutch=fiets
 14	,	,	PUNCT	_	_	16	punct	_	dutch=,
 15	in	in	DET	_	Definite=Ind	16	det	_	dutch=een
-16	trochtraper	trochtraper	NOUN	_	Gender=Com|Number=Sing	8	appos	_	dutch=doortrapper
+16	trochtraper	trochtraper	NOUN	_	Gender=Com|Number=Sing	13	appos	_	dutch=doortrapper
 17	mei	mei	ADP	_	_	18	case	_	dutch=met
 18	blokken	blok	NOUN	_	VerbForm=Inf	16	nmod	_	dutch=blokken
 19	op	op	ADP	_	_	21	case	_	dutch=op
