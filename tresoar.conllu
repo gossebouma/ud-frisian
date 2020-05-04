@@ -9094,7 +9094,7 @@
 18	op	op	ADP	_	_	20	case	_	dutch=op
 19	’e	’e	DET	_	Definite=Def	20	det	_	dutch=de
 20	foto	foto	NOUN	_	VerbForm=Part	13	obl	_	dutch=gezet
-21	.	.	PUNCT	_	_	20	punct	_	dutch=.
+21	.	.	PUNCT	_	_	13	punct	_	dutch=.
 
 # sent_id = 397
 # text = Tsjibbe Gearts is dan al 77 jier en hat de lieding fan de printerij al lang oerdien oan syn soan , mar hy skriuwt noch geregeld stikken yn syn Burgumer Krante .
