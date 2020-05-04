@@ -9452,7 +9452,7 @@
 3	eksimplaar	eksimplaar	NOUN	_	Gender=Neut|Number=Sing	13	nsubj	_	dutch=exemplaar
 4	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	13	cop	_	dutch=was
 5	foar	foar	ADP	_	_	6	case	_	dutch=voor
-6	jonker	jonker	NOUN	_	Gender=Com|Number=Sing	13	obl	_	dutch=jonkheer
+6	jonker	jonker	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=jonkheer
 7	Idzert	Idzert	PROPN	_	_	6	appos	_	dutch=Idzert
 8	AEbinga	AEbinga	PROPN	_	_	7	flat	_	dutch=AEbinga
 9	van	van	PROPN	_	_	7	flat	_	dutch=van
