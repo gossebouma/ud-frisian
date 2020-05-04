@@ -8146,7 +8146,7 @@
 3	dichtwurk	dichtwurk	NOUN	_	Gender=Neut|Number=Sing	12	nsubj	_	dutch=dichtwerk
 4	,	,	PUNCT	_	_	6	punct	_	dutch=,
 5	ynklusyf	ynklusyf	ADJ	_	_	6	case	_	dutch=inclusief
-6	lieten	liet	NOUN	_	_	2	advcl	_	dutch=lied-en
+6	lieten	liet	NOUN	_	_	3	advcl	_	dutch=lied-en
 7	,	,	PUNCT	_	_	6	flat	_	dutch=cabaretteksten
 8	kabaretteksten	kabarettekst	NOUN	_	_	6	flat	_	dutch=cabaretteksten
 9	en	en	CCONJ	_	_	10	cc	_	dutch=en
