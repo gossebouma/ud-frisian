@@ -8626,7 +8626,7 @@
 8	in	in	DET	_	_	9	obl	_	dutch=veel
 9	soad	soad	PRON	_	_	31	obl	_	dutch=veel
 10	foar	foar	ADP	_	_	0	root	_	dutch=voor
-11	it	it	DET	_	Definite=Def	0	root	_	dutch=het
+11	it	it	DET	_	Definite=Def	12	root	_	dutch=het
 12	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	13	obl	_	dutch=Fries
 13	beskrept	beskreppe	VERB	_	VerbForm=Part	31	advcl	_	dutch=gebokst
 14	,	,	PUNCT	_	_	13	punct	_	dutch=,
