@@ -9667,7 +9667,7 @@
 10	en	en	CCONJ	_	_	15	cc	_	dutch=en
 11	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	15	aux_pass	_	dutch=wordt
 12	ta	ta	ADP	_	_	15	compound_prt	_	dutch=ter
-13	de	de	DET	_	_	15	compound_prt	_	dutch=ter
+13	de	de	DET	_	_	14	compound_prt	_	dutch=ter
 14	dea	dea	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=VAL-MISSING
 15	feroardiele	feroardielje	VERB	_	VerbForm=Part	2	conj	_	dutch=veroordeeld
 16	.	.	PUNCT	_	_	2	punct	_	dutch=.
