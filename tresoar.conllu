@@ -9515,7 +9515,7 @@
 # alignment =  0-0 1-1 2-2 3-4 4-5 5-6 6-7 7-6 8-6 10-10 11-10 12-11 13-12
 # NOT ALIGNED
 1	In	in	DET	_	Definite=Ind	2	det	_	dutch=Een
-2	ploechje	ploech	NOUN	_	Gender=Neut|Number=Sing	4	root	_	dutch=aantal
+2	ploechje	ploech	NOUN	_	Gender=Neut|Number=Sing	4	nsubj	_	dutch=aantal
 3	manlju	manlju	NOUN	_	Number=Plur	2	nmod	_	dutch=mannen
 4	strúnt	strune	VERB	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	0	root	_	dutch=zich
 5	al	al	ADV	_	_	7	amod	_	dutch=al
