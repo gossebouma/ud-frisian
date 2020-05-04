@@ -9525,7 +9525,7 @@
 9	wat	wat	PRON	_	_	6	fixed	_	dutch=enige
 10	by	by	ADP	_	_	12	case	_	dutch=KEY-MISSING
 11	de	de	DET	_	Gender=Neut|Number=Sing	12	det	_	dutch=Tjeukemeer
-12	Tsjûkemar	Tsjûkemar	PROPN	_	Gender=Neut|Number=Sing	4	root	_	dutch=Tjeukemeer
+12	Tsjûkemar	Tsjûkemar	PROPN	_	Gender=Neut|Number=Sing	4	obl	_	dutch=Tjeukemeer
 13	om	om	ADP	_	_	4	root	_	dutch=op
 14	.	.	PUNCT	_	_	4	root	_	dutch=.
 
