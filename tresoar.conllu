@@ -8815,7 +8815,7 @@
 16	Citroen	Citroen	PROPN	_	_	15	flat	_	dutch=VAL-MISSING
 17	makke	meitsje	VERB	_	VerbForm=Part	9	acl_relcl	_	dutch=gemaakt
 18	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	17	aux	_	dutch=heeft
-19	fan	fan	ADP	_	_	20	root	_	dutch=VAL-MISSING
+19	fan	fan	ADP	_	_	20	case	_	dutch=VAL-MISSING
 20	D.	D.	PROPN	_	_	17	obl	_	dutch=D.
 21	A.	A.	PROPN	_	_	20	root	_	dutch=VAL-MISSING
 22	Tamminga	Tamminga	PROPN	_	Gender=Com|Number=Sing	9	parataxis	_	dutch=Tamminga
