@@ -9607,7 +9607,7 @@
 10	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	22	cop	_	dutch=was
 11	op	op	ADP	_	_	0	root	_	dutch=VAL-MISSING
 12	28	28	NUM	_	_	22	obl	_	dutch=28
-13	augustus	augustus	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=VAL-MISSING
+13	augustus	augustus	PROPN	_	Gender=Com|Number=Sing	12	root	_	dutch=VAL-MISSING
 14	1940	1940	NUM	_	_	0	root	_	dutch=VAL-MISSING
 15	by	by	ADP	_	_	16	case	_	dutch=bij
 16	Hillegom	Hillegom	PROPN	_	Gender=Neut|Number=Sing	22	obl	_	dutch=Hillegom
