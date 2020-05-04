@@ -8879,7 +8879,7 @@
 # NOT ALIGNED
 1	It	it	PRON	_	Person=3|PronType=Prs	2	nsubj	_	dutch=Het
 2	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=werd
-3	oanbean	oanbiede	VERB	_	VerbForm=Part	18	advcl	_	dutch=aangeboden
+3	oanbean	oanbiede	VERB	_	VerbForm=Part	0	root	_	dutch=aangeboden
 4	yn	yn	ADP	_	_	5	case	_	dutch=in
 5	in	in	DET	_	_	3	obl	_	dutch=een
 6	huldigingsgearkomste	huldigingsgearkomste	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=gelegenheid
