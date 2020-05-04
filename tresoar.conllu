@@ -9256,7 +9256,7 @@
 12	foto	foto	NOUN	_	Gender=Com|Number=Sing	18	nsubj	_	dutch=foto
 13	yn	yn	ADP	_	_	15	case	_	dutch=in
 14	’e	’e	DET	_	Definite=Def	15	det	_	dutch=de
-15	samling	samling	NOUN	_	Gender=Com|Number=Sing	18	obl	_	dutch=collectie
+15	samling	samling	NOUN	_	Gender=Com|Number=Sing	19	obl	_	dutch=collectie
 16	fan	fan	ADP	_	_	17	case	_	dutch=van
 17	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	15	nmod	_	dutch=Tresoar
 18	telâne	telâne	ADJ	_	VerbForm=Part	19	advcl	_	dutch=beland
