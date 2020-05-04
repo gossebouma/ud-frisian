@@ -8943,7 +8943,7 @@
 28	de	de	DET	_	Definite=Def	29	det	_	dutch=de
 29	boarger	boarger	NOUN	_	Gender=Com|Number=Sing	26	nmod	_	dutch=burger
 30	,	,	PUNCT	_	_	23	punct	_	dutch=,
-31	want	want	CCONJ	_	_	33	root	_	dutch=want
+31	want	want	CCONJ	_	_	33	nmod	_	dutch=want
 32	it	it	PRON	_	_	33	root	_	dutch=KEY-MISSING
 33	liket	lykje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	23	root	_	dutch=is
 34	.	.	PUNCT	_	_	23	punct	_	dutch=.
