@@ -8498,7 +8498,7 @@
 16	It	It	PROPN	_	Gender=Neut|Number=Sing	13	obl	_	dutch=Ameland
 17	Amelân	Amelân	PROPN	_	Gender=Neut|Number=Sing	16	flat	_	dutch=Ameland
 18	en	en	CCONJ	_	_	22	cc	_	dutch=en
-19	dan	dan	ADV	_	_	4	obj	_	dutch=dan
+19	dan	dan	ADV	_	_	22	obj	_	dutch=dan
 20	allinne	allinne	ADV	_	_	22	amod	_	dutch=alleen
 21	de	de	DET	_	Definite=Def	22	det	_	dutch=de
 22	jûns	jûn	NOUN	_	Number=Plur	4	nmod	_	dutch=avonduren
