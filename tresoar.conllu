@@ -8272,7 +8272,7 @@
 4	dat	dat	SCONJ	_	Person=3|PronType=Dem	9	obj	_	dutch=dat
 5	yn	yn	ADP	_	_	7	case	_	dutch=in
 6	’e	’e	DET	_	Definite=Def	7	det	_	dutch=de
-7	jierren	jier	NOUN	_	Number=Plur	24	obl	_	dutch=jaren
+7	jierren	jier	NOUN	_	Number=Plur	9	obl	_	dutch=jaren
 8	santich	santich	NUM	_	_	7	appos	_	dutch=zeventig
 9	dien	dwaan	VERB	_	VerbForm=Part	0	root	_	dutch=gedaan
 10	op	op	ADP	_	_	12	case	_	dutch=tijdens
