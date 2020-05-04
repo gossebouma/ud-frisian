@@ -8810,7 +8810,7 @@
 11	swart	swart	ADJ	_	Degree=Pos	12	amod	_	dutch=zwart
 12	kryt	kryt	NOUN	_	Gender=Neut|Number=Sing	9	nmod	_	dutch=krijt
 13	,	,	PUNCT	_	_	17	punct	_	dutch=,
-14	dy’t	dy’t	PRON	_	PronType=Rel	17	nsubj	_	dutch=die
+14	dy’t	dy’t	PRON	_	PronType=Rel	17	obj	_	dutch=die
 15	Paul	Paul	PROPN	_	_	17	nsubj	_	dutch=Paul
 16	Citroen	Citroen	PROPN	_	_	15	flat	_	dutch=VAL-MISSING
 17	makke	meitsje	VERB	_	VerbForm=Part	9	acl_relcl	_	dutch=gemaakt
