@@ -8706,7 +8706,7 @@
 10	eksimplaar	eksimplaar	NOUN	_	Gender=Neut|Number=Sing	3	obj	_	dutch=exemplaar
 11	fan	fan	ADP	_	Degree=Pos	13	case	_	dutch=persoonlijke
 12	dat	dat	DET	_	_	13	det	_	dutch=KEY-MISSING
-13	Friesch	Friesch	PROPN	_	_	10	root	_	dutch=KEY-MISSING
+13	Friesch	Friesch	PROPN	_	_	10	nmod	_	dutch=KEY-MISSING
 14	Woordenboek	Woordenboek	PROPN	_	_	13	flat	_	dutch=KEY-MISSING
 15	,	,	PUNCT	_	_	20	punct	_	dutch=,
 16	mei	mei	ADP	_	_	19	case	_	dutch=met
