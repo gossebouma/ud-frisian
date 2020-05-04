@@ -9086,7 +9086,7 @@
 10	pakesizzer	pakesizzer	NOUN	_	Gender=Com|Number=Sing	1	conj	_	dutch=kleinzoon
 11	Sophius	Sophius	PROPN	_	Gender=Com|Number=Sing	10	appos	_	dutch=Sophius
 12	,	,	PUNCT	_	_	1	punct	_	dutch=,
-13	komme	komme	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	20	aux_pass	_	dutch=worden
+13	komme	komme	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=worden
 14	mei	mei	ADP	_	_	17	case	_	dutch=met
 15	it	it	DET	_	Definite=Def	17	det	_	dutch=het
 16	folsleine	folslein	ADJ	_	Degree=Pos	17	amod	_	dutch=voltallige
