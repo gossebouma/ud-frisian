@@ -8181,7 +8181,7 @@
 13	yn	yn	ADP	_	_	14	case	_	dutch=in
 14	2001	2001	NUM	_	_	20	obl	_	dutch=2001
 15	yn	yn	ADP	_	_	19	case	_	dutch=in
-16	in	in	DET	_	Definite=Ind	17	det	_	dutch=een
+16	in	in	DET	_	Definite=Ind	19	det	_	dutch=een
 17	lytse	lyts	ADJ	_	Degree=Pos	18	nmod	_	dutch=VAL-MISSING
 18	hûndert	hûndert	NUM	_	_	19	nummod	_	dutch=honderd
 19	talen	taal	NOUN	_	Number=Plur	20	obl	_	dutch=talen
