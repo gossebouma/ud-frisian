@@ -8678,7 +8678,7 @@
 # ALIGNED
 1	It	it	PRON	_	Person=3|PronType=Prs	3	nsubj	_	dutch=Het
 2	kaam	komme	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=verscheen
-3	út	út	ADP	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=verscheen
+3	út	út	ADP	_	Number=Sing|Tense=Past|VerbForm=Fin	2	root	_	dutch=verscheen
 4	yn	yn	ADP	_	_	6	case	_	dutch=in
 5	trije	trije	NUM	_	_	6	nummod	_	dutch=drie
 6	dielen	diel	NOUN	_	Number=Plur	3	obl	_	dutch=delen
