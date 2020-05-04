@@ -8290,7 +8290,7 @@
 22	eksimplaar	eksimplaar	NOUN	_	Gender=Neut|Number=Sing	24	advcl	_	dutch=exemplaar
 23	te	te	ADP	_	_	24	mark	_	dutch=te
 24	ferkeapjen	ferkeapjen	VERB	_	VerbForm=Inf	3	xcomp	_	dutch=verkopen
-25	.	.	PUNCT	_	_	3	punct	_	dutch=.
+25	.	.	PUNCT	_	_	9	punct	_	dutch=.
 
 # sent_id = 363
 # text = Dit fers , foar it earst publisearre yn 1960 , is hiel faak ferskynd .
