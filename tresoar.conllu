@@ -9221,7 +9221,7 @@
 24	yn	yn	ADP	_	_	26	case	_	dutch=in
 25	’e	’e	DET	_	Person=3|Poss=Yes|PronType=Prs	26	det	_	dutch=hun
 26	hannen	hannen	NOUN	_	Number=Plur	11	obl	_	dutch=handen
-27	.	.	PUNCT	_	_	11	root	_	dutch=.
+27	.	.	PUNCT	_	_	11	punct	_	dutch=.
 
 # sent_id = 402
 # text = Sels lytse Sophius hat syn trompet meinommen .
