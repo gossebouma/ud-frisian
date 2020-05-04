@@ -9720,7 +9720,7 @@
 4	ûndersyk	ûndersyk	NOUN	_	Gender=Neut|Number=Sing	2	obj	_	dutch=onderzoek
 5	foar	foar	ADP	_	_	3	case	_	dutch=daarvoor
 6	by	by	ADP	_	_	8	case	_	dutch=bij
-7	de	de	DET	_	_	0	root	_	dutch=KEY-MISSING
+7	de	de	DET	_	_	8	root	_	dutch=KEY-MISSING
 8	mar	mar	NOUN	_	Gender=Neut|Number=Sing	2	obl	_	dutch=meer
 9	,	,	PUNCT	_	_	10	punct	_	dutch=,
 10	brocht	bringe	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	2	conj	_	dutch=bracht
