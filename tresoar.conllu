@@ -9131,7 +9131,7 @@
 28	yn	yn	ADP	_	_	30	case	_	dutch=VAL-MISSING
 29	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	30	det	_	dutch=VAL-MISSING
 30	Burgumer	Burgumer	PROPN	_	_	27	nmod	_	dutch=Bergumer
-31	Krante	Krante	PROPN	_	_	30	root	_	dutch=VAL-MISSING
+31	Krante	Krante	PROPN	_	_	30	flat	_	dutch=VAL-MISSING
 32	.	.	PUNCT	_	_	31	punct	_	dutch=.
 
 # sent_id = 398
