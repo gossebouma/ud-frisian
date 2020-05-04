@@ -8628,7 +8628,7 @@
 10	foar	foar	ADP	_	_	12	case	_	dutch=voor
 11	it	it	DET	_	Definite=Def	12	det	_	dutch=het
 12	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	13	obl	_	dutch=Fries
-13	beskrept	beskreppe	VERB	_	VerbForm=Part	31	advcl	_	dutch=gebokst
+13	beskrept	beskreppe	VERB	_	VerbForm=Part	0	root	_	dutch=gebokst
 14	,	,	PUNCT	_	_	13	punct	_	dutch=,
 15	lykas	lykas	SCONJ	_	_	31	advmod	_	dutch=bijvoorbeeld
 16	it	it	DET	_	Definite=Def	0	root	_	dutch=VAL-MISSING
