@@ -9522,7 +9522,7 @@
 6	in	in	DET	_	_	4	det	_	dutch=enige
 7	dei	dei	NOUN	_	Number=Plur	6	root	_	dutch=dagen
 8	as	as	SCONJ	_	_	6	det	_	dutch=enige
-9	wat	wat	PRON	_	_	7	det	_	dutch=enige
+9	wat	wat	PRON	_	_	6	det	_	dutch=enige
 10	by	by	ADP	_	_	12	case	_	dutch=KEY-MISSING
 11	de	de	DET	_	Gender=Neut|Number=Sing	12	det	_	dutch=Tjeukemeer
 12	Tsjûkemar	Tsjûkemar	PROPN	_	Gender=Neut|Number=Sing	0	root	_	dutch=Tjeukemeer
