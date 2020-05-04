@@ -8376,7 +8376,7 @@
 10	fan	fan	ADP	_	_	14	case	_	dutch=van
 11	de	de	DET	_	Definite=Def	14	det	_	dutch=de
 12	meast	folle	ADV	_	_	13	root	_	dutch=meest
-13	ynfloedrike	ynfloedrik	ADJ	_	Number=Plur	9	nmod	_	dutch=personen
+13	ynfloedrike	ynfloedrik	ADJ	_	Number=Plur	14	nmod	_	dutch=personen
 14	minsken	minske	NOUN	_	Number=Plur	9	nmod	_	dutch=personen
 15	yn	yn	ADP	_	_	18	case	_	dutch=in
 16	’e	’e	DET	_	Definite=Def	18	det	_	dutch=de
