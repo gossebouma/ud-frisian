@@ -8649,7 +8649,7 @@
 31	redakteur	redakteur	NOUN	_	Gender=Com|Number=Sing	3	xcomp	_	dutch=redacteur
 32	en	en	CCONJ	_	_	33	cc	_	dutch=en
 33	opfolger	opfolger	NOUN	_	Gender=Com|Number=Sing	31	conj	_	dutch=opvolger
-34	fan	fan	ADP	_	_	0	root	_	dutch=VAL-MISSING
+34	fan	fan	ADP	_	_	35	root	_	dutch=VAL-MISSING
 35	Gerben	Gerben	PROPN	_	_	31	nmod	_	dutch=Gerben
 36	Colmjon	Colmjon	PROPN	_	_	35	flat	_	dutch=VAL-MISSING
 37	.	.	PUNCT	_	_	13	punct	_	dutch=.
