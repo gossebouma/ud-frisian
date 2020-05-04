@@ -8070,7 +8070,7 @@
 18	letter	letter	ADJ	_	Degree=Cmp	20	advmod	_	dutch=later
 19	‘	‘	PUNCT	_	_	20	punct	_	dutch=‘
 20	Hotel	hotel	NOUN	_	Gender=Neut|Number=Sing	24	xcomp	_	dutch=Hotel
-21	De	De	PROPN	_	_	20	appos	_	dutch=De
+21	De	De	PROPN	_	_	20	flat	_	dutch=De
 22	Graaf	Graaf	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 23	’	’	PUNCT	_	_	22	punct	_	dutch=’
 24	wurden	wurde	AUX	_	VerbForm=Part	12	ccomp	_	dutch=geworden
