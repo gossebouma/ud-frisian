@@ -8726,7 +8726,7 @@
 # ALIGNED
 1	Bysûnder	bysûnder	ADJ	_	Degree=Pos	0	root	_	dutch=Bijzonder
 2	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	1	cop	_	dutch=is
-3	it	it	DET	_	Gender=Neut|Number=Sing	5	nsubj	_	dutch=kwatrijn
+3	it	it	DET	_	Gender=Neut|Number=Sing	5	det	_	dutch=kwatrijn
 4	hânskreaune	hânskreaun	ADJ	_	_	5	punct	_	dutch=(
 5	kwatryn	kwatryn	NOUN	_	Gender=Com|Number=Sing	1	parataxis	_	dutch=vertaling
 6	foaryn	foaryn	ADV	_	_	1	punct	_	dutch=:
