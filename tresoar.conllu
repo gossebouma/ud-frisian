@@ -7996,7 +7996,7 @@
 3	tsien	tsien	NUM	_	_	4	nummod	_	dutch=tien
 4	siden	side	NOUN	_	Number=Plur	5	obj	_	dutch=pagina’s
 5	skreau	skriuwe	VERB	_	Gender=Com|Number=Sing	0	root	_	dutch=schreef
-6	Riemersma	Riemersma	PROPN	_	Gender=Com|Number=Sing	5	appos	_	dutch=Riemersma
+6	Riemersma	Riemersma	PROPN	_	Gender=Com|Number=Sing	5	nsubj	_	dutch=Riemersma
 7	yn	yn	ADP	_	_	11	case	_	dutch=in
 8	in	in	DET	_	Definite=Ind	11	det	_	dutch=een
 9	tige	tige	ADJ	_	Degree=Pos	11	amod	_	dutch=leesbaar
