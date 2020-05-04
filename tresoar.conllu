@@ -8737,7 +8737,7 @@
 # source_text = W. Dykstra sept. 1900
 # alignment =  0-0 1-1 2-2 3-3
 # ALIGNED
-1	W.	W.	PROPN	_	_	3	nmod	_	dutch=W.
+1	W.	W.	PROPN	_	_	0	root	_	dutch=W.
 2	Dykstra	Dykstra	PROPN	_	_	1	flat	_	dutch=Dykstra
 3	sept.	sept.	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=sept.
 4	1900	1900	NUM	_	_	3	appos	_	dutch=1900
