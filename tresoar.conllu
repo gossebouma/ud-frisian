@@ -9434,7 +9434,7 @@
 14	noch	noch	ADV	_	_	15	amod	_	dutch=nog
 15	weijûn	weijaan	VERB	_	VerbForm=Inf	8	conj	_	dutch=weggeven
 16	oan	oan	ADP	_	_	17	case	_	dutch=aan
-17	freonen	freon	NOUN	_	Number=Plur	15	nmod	_	dutch=vrienden
+17	freonen	freon	NOUN	_	Number=Plur	15	obl	_	dutch=vrienden
 18	en	en	CCONJ	_	_	19	cc	_	dutch=en
 19	bekenden	bekende	NOUN	_	Degree=Pos	17	conj	_	dutch=bekenden
 20	fan	fan	ADP	_	_	22	case	_	dutch=van
