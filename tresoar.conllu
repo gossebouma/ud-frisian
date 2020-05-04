@@ -8704,7 +8704,7 @@
 8	syn	syn	PRON	_	Number=Sing	10	nmod_poss	_	dutch=Dijkstra’s
 9	eigen	eigen	ADJ	_	Number=Sing	10	nmod_poss	_	dutch=Dijkstra’s
 10	eksimplaar	eksimplaar	NOUN	_	Gender=Neut|Number=Sing	3	obj	_	dutch=exemplaar
-11	fan	fan	ADP	_	Degree=Pos	10	amod	_	dutch=persoonlijke
+11	fan	fan	ADP	_	Degree=Pos	13	amod	_	dutch=persoonlijke
 12	dat	dat	DET	_	_	13	det	_	dutch=KEY-MISSING
 13	Friesch	Friesch	PROPN	_	_	0	root	_	dutch=KEY-MISSING
 14	Woordenboek	Woordenboek	PROPN	_	_	13	flat	_	dutch=KEY-MISSING
