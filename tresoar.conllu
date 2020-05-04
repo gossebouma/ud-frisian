@@ -8134,7 +8134,7 @@
 14	nei	nei	ADP	_	_	16	case	_	dutch=na
 15	de	de	DET	_	Definite=Def	16	det	_	dutch=de
 16	oarloch	oarloch	NOUN	_	Gender=Com|Number=Sing	12	nmod	_	dutch=oorlog
-17	.	.	PUNCT	_	_	4	punct	_	dutch=.
+17	.	.	PUNCT	_	_	7	punct	_	dutch=.
 
 # sent_id = 358
 # text = Har sammele dichtwurk , ynklusyf lieten , kabaretteksten en gelegenheidswurk , ferskynde yn 2001 ûnder de titel Bitterswiet .
