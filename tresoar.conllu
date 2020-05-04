@@ -9429,7 +9429,7 @@
 9	en	en	CCONJ	_	_	11	cc	_	dutch=en
 10	allegearre	allegearre	ADV	_	_	15	advmod	_	dutch=allemaal
 11	waarden	wurde	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	8	conj	_	dutch=werden
-12	se	se	PRON	_	_	0	root	_	dutch=KEY-MISSING
+12	se	se	PRON	_	_	15	root	_	dutch=KEY-MISSING
 13	ek	ek	ADV	_	_	15	advmod	_	dutch=ook
 14	noch	noch	ADV	_	_	15	amod	_	dutch=nog
 15	weijûn	weijaan	VERB	_	VerbForm=Inf	11	xcomp	_	dutch=weggeven
