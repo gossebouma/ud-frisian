@@ -8010,7 +8010,7 @@
 17	seis	seis	NUM	_	_	18	nummod	_	dutch=VAL-MISSING
 18	oeren	oer	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=VAL-MISSING
 19	tiid	tiid	NOUN	_	Gender=Com|Number=Sing	18	nmod	_	dutch=VAL-MISSING
-20	.	.	PUNCT	_	_	19	punct	_	dutch=.
+20	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
 # sent_id = 352
 # text = De fjouwer skriften foarmje de earste ferzje fan de tekst .
