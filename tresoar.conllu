@@ -8898,7 +8898,7 @@
 19	sneon	sneon	PROPN	_	Gender=Com|Number=Sing	18	obl	_	dutch=zaterdag
 20	22	22	NUM	_	_	19	appos	_	dutch=22
 21	novimber	novimber	PROPN	_	Gender=Com|Number=Sing	20	fixed	_	dutch=november
-22	1969	1969	NUM	_	_	20	nummod	_	dutch=1969
+22	1969	1969	NUM	_	_	20	fixed	_	dutch=1969
 23	,	,	PUNCT	_	_	28	punct	_	dutch=,
 24	dêr’t	dêr’t	ADV	_	_	28	advmod	_	dutch=waar
 25	sa’n	sa’n	DET	_	_	26	amod	_	dutch=zo’n
