@@ -8494,7 +8494,7 @@
 12	mei	mei	ADP	_	_	13	case	_	dutch=tijdens
 13	fakânsje	fakânsje	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=vakantie
 14	wie	wêze	AUX	_	_	13	cop	_	dutch=KEY-MISSING
-15	op	op	ADP	_	_	17	case	_	dutch=op
+15	op	op	ADP	_	_	16	case	_	dutch=op
 16	It	It	PROPN	_	Gender=Neut|Number=Sing	4	nmod	_	dutch=Ameland
 17	Amelân	Amelân	PROPN	_	Gender=Neut|Number=Sing	16	flat	_	dutch=Ameland
 18	en	en	CCONJ	_	_	19	cc	_	dutch=en
