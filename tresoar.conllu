@@ -8509,7 +8509,7 @@
 27	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	30	nsubj	_	dutch=hij
 28	op	op	ADP	_	_	30	case	_	dutch=op
 29	it	it	DET	_	Definite=Def	30	det	_	dutch=het
-30	strân	strân	NOUN	_	Gender=Neut|Number=Sing	2	obl	_	dutch=strand
+30	strân	strân	NOUN	_	Gender=Neut|Number=Sing	2	advcl	_	dutch=strand
 31	,	,	PUNCT	_	_	35	punct	_	dutch=,
 32	lykas	lykas	SCONJ	_	_	35	mark	_	dutch=zoals
 33	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	35	nsubj	_	dutch=hij
