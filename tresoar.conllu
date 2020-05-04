@@ -9201,7 +9201,7 @@
 4	?	?	SYM	_	_	2	nmod	_	dutch=?
 5	)	)	PUNCT	_	_	4	punct	_	dutch=)
 6	rjochts	rjochts	ADJ	_	Degree=Pos	2	amod	_	dutch=rechts
-7	net	net	ADV	_	Person=3|PronType=Ind	0	root	_	dutch=niets
+7	net	net	ADV	_	Person=3|PronType=Ind	2	root	_	dutch=niets
 8	,	,	PUNCT	_	_	11	punct	_	dutch=,
 9	mar	mar	CCONJ	_	_	11	cc	_	dutch=maar
 10	oaren	oar	ADJ	_	Degree=Pos	11	nsubj	_	dutch=anderen
