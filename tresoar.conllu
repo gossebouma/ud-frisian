@@ -8837,7 +8837,7 @@
 9	en	en	CCONJ	_	_	10	cc	_	dutch=en
 10	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	conj	_	dutch=heeft
 11	in	in	DET	_	Degree=Pos	13	amod	_	dutch=royale
-12	moai	moai	ADJ	_	Degree=Pos	13	amod	_	dutch=royale
+12	moai	moai	ADJ	_	Degree=Pos	14	amod	_	dutch=royale
 13	grut	grut	ADJ	_	Gender=Neut|Number=Sing	14	obj	_	dutch=formaat
 14	formaat	formaat	NOUN	_	Gender=Neut|Number=Sing	10	obj	_	dutch=formaat
 15	fan	fan	ADP	_	_	19	case	_	dutch=van
