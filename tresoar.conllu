@@ -9281,7 +9281,7 @@
 10	hûs	hûs	NOUN	_	Gender=Neut|Number=Sing	8	nmod	_	dutch=huis
 11	op	op	ADP	_	_	13	case	_	dutch=op
 12	’e	’e	DET	_	Definite=Def	13	det	_	dutch=de
-13	fyts	fyts	NOUN	_	Gender=Com|Number=Sing	23	nmod	_	dutch=fiets
+13	fyts	fyts	NOUN	_	Gender=Com|Number=Sing	23	obl	_	dutch=fiets
 14	,	,	PUNCT	_	_	16	punct	_	dutch=,
 15	in	in	DET	_	Definite=Ind	16	det	_	dutch=een
 16	trochtraper	trochtraper	NOUN	_	Gender=Com|Number=Sing	8	appos	_	dutch=doortrapper
