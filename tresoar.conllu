@@ -8483,7 +8483,7 @@
 1	Wadman	Wadman	PROPN	_	Gender=Com|Number=Sing	2	nsubj	_	dutch=Wadman
 2	skreau	skriuwe	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=schreef
 3	De	De	PROPN	_	Definite=Def	2	obj	_	dutch=De
-4	smearlappen	smearlappen	PROPN	_	VerbForm=Inf	2	conj	_	dutch=smearlappen
+4	smearlappen	smearlappen	PROPN	_	VerbForm=Inf	3	conj	_	dutch=smearlappen
 5	yn	yn	ADP	_	_	7	case	_	dutch=in
 6	in	in	DET	_	Definite=Ind	7	det	_	dutch=een
 7	pear	pear	NOUN	_	Gender=Neut|Number=Sing	4	nmod	_	dutch=paar
