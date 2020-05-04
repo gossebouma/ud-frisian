@@ -8864,7 +8864,7 @@
 10	it	it	DET	_	Definite=Def	0	root	_	dutch=VAL-MISSING
 11	‘	‘	PUNCT	_	_	12	punct	_	dutch=‘
 12	Komité	Komité	PROPN	_	Gender=Com|Number=Sing	8	obl_agent	_	dutch=Komité
-13	D.	D.	PROPN	_	_	12	root	_	dutch=VAL-MISSING
+13	D.	D.	PROPN	_	_	12	flat	_	dutch=VAL-MISSING
 14	A.	A.	PROPN	_	_	12	root	_	dutch=VAL-MISSING
 15	Tamminga	Tamminga	PROPN	_	_	12	root	_	dutch=VAL-MISSING
 16	60	60	NUM	_	Gender=Com|Number=Sing	12	root	_	dutch=VAL-MISSING
