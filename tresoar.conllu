@@ -8007,7 +8007,7 @@
 14	26	26	NUM	_	_	15	nummod	_	dutch=26
 15	maaie	maaie	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=VAL-MISSING
 16	yn	yn	ADP	_	_	18	case	_	dutch=VAL-MISSING
-17	seis	seis	NUM	_	_	18	root	_	dutch=VAL-MISSING
+17	seis	seis	NUM	_	_	18	nummod	_	dutch=VAL-MISSING
 18	oeren	oer	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=VAL-MISSING
 19	tiid	tiid	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=VAL-MISSING
 20	.	.	PUNCT	_	_	19	punct	_	dutch=.
