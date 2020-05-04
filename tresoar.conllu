@@ -9459,7 +9459,7 @@
 10	Humalda	Humalda	PROPN	_	_	7	flat	_	dutch=Humalda
 11	,	,	PUNCT	_	_	13	punct	_	dutch=,
 12	de	de	DET	_	Definite=Def	13	det	_	dutch=de
-13	gûverneur	gûverneur	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=gouverneur
+13	gûverneur	gûverneur	NOUN	_	Gender=Com|Number=Sing	6	root	_	dutch=gouverneur
 14	(	(	PUNCT	_	_	18	punct	_	dutch=(
 15	wy	wy	PRON	_	Case=Nom|Person=1|PronType=Prs	18	nsubj	_	dutch=wij
 16	soene	sille	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	18	aux	_	dutch=zouden
