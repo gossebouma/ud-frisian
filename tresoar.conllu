@@ -8633,7 +8633,7 @@
 15	lykas	lykas	SCONJ	_	_	31	advmod	_	dutch=bijvoorbeeld
 16	it	it	DET	_	Definite=Def	0	root	_	dutch=VAL-MISSING
 17	Friesch	Friesch	PROPN	_	_	3	obj	_	dutch=Friesch
-18	Woordenboek	Woordenboek	PROPN	_	_	17	root	_	dutch=VAL-MISSING
+18	Woordenboek	Woordenboek	PROPN	_	_	17	flat	_	dutch=VAL-MISSING
 19	,	,	PUNCT	_	_	18	punct	_	dutch=,
 20	in	in	DET	_	Definite=Ind	21	det	_	dutch=een
 21	projekt	projekt	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=VAL-MISSING
