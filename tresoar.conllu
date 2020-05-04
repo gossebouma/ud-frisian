@@ -9701,7 +9701,7 @@
 5	van	van	PROPN	_	_	4	flat	_	dutch=der
 6	der	der	PROPN	_	_	4	flat	_	dutch=der
 7	Velde	Velde	PROPN	_	_	4	flat	_	dutch=Velde
-8	yn	yn	ADP	_	_	11	root	_	dutch=in
+8	yn	yn	ADP	_	_	11	case	_	dutch=in
 9	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	11	det	_	dutch=zijn
 10	koarte	koart	ADJ	_	Degree=Pos	11	amod	_	dutch=korte
 11	roman	roman	NOUN	_	_	12	punct	_	dutch=(
