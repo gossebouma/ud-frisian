@@ -8643,7 +8643,7 @@
 25	1885	1885	NUM	_	_	29	obl	_	dutch=1885
 26	oant	oant	ADP	_	_	27	cc	_	dutch=tot
 27	1911	1911	NUM	_	_	25	conj	_	dutch=1911
-28	oan	oan	ADP	_	_	22	compound_prt	_	dutch=KEY-MISSING
+28	oan	oan	ADP	_	_	22	case	_	dutch=KEY-MISSING
 29	wurke	wurkje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	21	acl_relcl	_	dutch=werkte
 30	as	as	SCONJ	_	_	31	mark	_	dutch=als
 31	redakteur	redakteur	NOUN	_	Gender=Com|Number=Sing	3	xcomp	_	dutch=redacteur
