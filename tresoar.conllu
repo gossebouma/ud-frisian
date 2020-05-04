@@ -8357,7 +8357,7 @@
 6	side	side	NOUN	_	Gender=Com|Number=Sing	4	parataxis	_	dutch=pagina
 7	fan	fan	ADP	_	_	8	case	_	dutch=van
 8	De	De	PROPN	_	Definite=Def	6	det	_	dutch=De
-9	smearlappen	smearlappen	PROPN	_	Gender=Com|Number=Sing	8	nmod	_	dutch=smearlappen
+9	smearlappen	smearlappen	PROPN	_	Gender=Com|Number=Sing	8	flat	_	dutch=smearlappen
 
 # sent_id = 367
 # text = Anne Wadman ( 1919 - 1997 ) is ien fan de meast ynfloedrike minsken yn ’e Fryske literatuer fan nei de oarloch .
