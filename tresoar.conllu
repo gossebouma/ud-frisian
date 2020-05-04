@@ -9702,7 +9702,7 @@
 6	der	der	PROPN	_	_	4	flat	_	dutch=der
 7	Velde	Velde	PROPN	_	_	4	flat	_	dutch=Velde
 8	yn	yn	ADP	_	_	0	root	_	dutch=in
-9	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	0	root	_	dutch=zijn
+9	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	11	root	_	dutch=zijn
 10	koarte	koart	ADJ	_	Degree=Pos	0	root	_	dutch=korte
 11	roman	roman	NOUN	_	_	12	punct	_	dutch=(
 12	De	De	PROPN	_	_	0	root	_	dutch=De
