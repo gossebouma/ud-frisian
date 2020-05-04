@@ -9775,7 +9775,7 @@
 15	brief	brief	NOUN	_	Gender=Com|Number=Sing	16	obl	_	dutch=brief
 16	syn	syn	PRON	_	Number=Plur|Tense=Pres|VerbForm=Fin	3	parataxis	_	dutch=zijn
 17	hânskrift	hânskrift	NOUN	_	Gender=Neut|Number=Sing	16	nsubj	_	dutch=handschrift
-18	fan	fan	ADP	_	_	0	root	_	dutch=VAL-MISSING
+18	fan	fan	ADP	_	_	21	root	_	dutch=VAL-MISSING
 19	Gellius	Gellius	PROPN	_	Number=Sing	0	root	_	dutch=VAL-MISSING
 20	’	’	PUNCT	_	_	19	punct	_	dutch=’
 21	Noctes	Noctes	PROPN	_	_	17	nmod	_	dutch=Noctes
