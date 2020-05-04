@@ -8687,7 +8687,7 @@
 9	-	-	PUNCT	_	_	10	nummod	_	dutch=1900-
 10	1911	1911	NUM	_	_	6	nmod	_	dutch=1911
 11	)	)	PUNCT	_	_	10	punct	_	dutch=)
-12	.	.	PUNCT	_	_	3	punct	_	dutch=.
+12	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
 # sent_id = 380
 # text = It FLMD krige yn 1986 Waling Dykstra syn eigen eksimplaar fan dat Friesch Woordenboek , mei de trije dielen ynbûn yn ien bân .
