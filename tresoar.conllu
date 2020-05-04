@@ -7994,7 +7994,7 @@
 1	De	de	DET	_	Definite=Def	4	det	_	dutch=De
 2	earste	ien	ADJ	_	_	4	amod	_	dutch=eerste
 3	tsien	tsien	NUM	_	_	4	nummod	_	dutch=tien
-4	siden	side	NOUN	_	Number=Plur	0	root	_	dutch=pagina’s
+4	siden	side	NOUN	_	Number=Plur	5	root	_	dutch=pagina’s
 5	skreau	skriuwe	VERB	_	Gender=Com|Number=Sing	0	root	_	dutch=schreef
 6	Riemersma	Riemersma	PROPN	_	Gender=Com|Number=Sing	5	appos	_	dutch=Riemersma
 7	yn	yn	ADP	_	_	11	case	_	dutch=in
