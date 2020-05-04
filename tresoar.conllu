@@ -8904,7 +8904,7 @@
 25	sa’n	sa’n	DET	_	_	26	amod	_	dutch=zo’n
 26	300	300	NUM	_	_	27	nummod	_	dutch=300
 27	minsken	minske	NOUN	_	Number=Plur	28	nsubj	_	dutch=mensen
-28	bywêzich	bywêzich	ADJ	_	Degree=Pos	18	advcl	_	dutch=aanwezig
+28	bywêzich	bywêzich	ADJ	_	Degree=Pos	6	advcl	_	dutch=aanwezig
 29	wiene	wêze	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	28	cop	_	dutch=waren
 30	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
