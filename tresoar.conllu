@@ -8552,7 +8552,7 @@
 13	de	de	DET	_	Definite=Def	14	det	_	dutch=de
 14	tekst	tekst	NOUN	_	Gender=Com|Number=Sing	19	obj	_	dutch=tekst
 15	mear	folle	PRON	_	PronType=Ind	17	amod	_	dutch=meer
-16	as	as	SCONJ	_	_	15	root	_	dutch=VAL-MISSING
+16	as	as	SCONJ	_	_	15	fixed	_	dutch=VAL-MISSING
 17	ien	ien	NUM	_	_	18	nummod	_	dutch=een
 18	kear	kear	NOUN	_	Gender=Com_Neut|Number=Sing	19	obl	_	dutch=keer
 19	bywurke	bywurkje	VERB	_	VerbForm=Part	8	ccomp	_	dutch=bijgewerkt
