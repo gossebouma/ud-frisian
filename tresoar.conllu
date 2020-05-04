@@ -8201,7 +8201,7 @@
 6	wurde	wurde	AUX	_	VerbForm=Inf	5	aux_pass	_	dutch=worden
 7	en	en	CCONJ	_	_	9	cc	_	dutch=en
 8	it	it	PRON	_	Person=3|PronType=Prs	9	nsubj	_	dutch=het
-9	lit	litte	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=toont
+9	lit	litte	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	root	_	dutch=toont
 10	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 11	eksistinsjele	eksistinsjeel	ADJ	_	Gender=Com|Number=Sing	9	obj	_	dutch=drijfveer
 12	driuw	driuw	NOUN	_	Gender=Com|Number=Sing	9	obj	_	dutch=drijfveer
