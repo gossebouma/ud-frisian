@@ -9643,7 +9643,7 @@
 17	lieding	lieding	NOUN	_	Gender=Com|Number=Sing	24	obj	_	dutch=leiding
 18	fan	fan	ADP	_	_	20	case	_	dutch=van
 19	de	de	DET	_	Definite=Def	20	det	_	dutch=de
-20	spionaazjetsjinst	spionaazjetsjinst	NOUN	_	Gender=Com|Number=Sing	24	obl	_	dutch=spionagedienst
+20	spionaazjetsjinst	spionaazjetsjinst	NOUN	_	Gender=Com|Number=Sing	17	obl	_	dutch=spionagedienst
 21	op	op	ADP	_	_	22	case	_	dutch=op
 22	him	him	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	24	expl_pv	_	dutch=zich
 23	te	te	ADP	_	_	24	mark	_	dutch=te
