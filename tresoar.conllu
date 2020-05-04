@@ -8887,7 +8887,7 @@
 8	Tamminga	Tamminga	PROPN	_	_	11	nmod_poss	_	dutch=KEY-MISSING
 9	syn	syn	PRON	_	Gender=Com|Number=Sing	11	nmod_poss	_	dutch=verjaardag
 10	sechtichste	sechtich	ADJ	_	_	11	amod	_	dutch=zestigste
-11	jierdei	jierdei	NOUN	_	Gender=Com|Number=Sing	6	amod	_	dutch=verjaardag
+11	jierdei	jierdei	NOUN	_	Gender=Com|Number=Sing	6	nmod	_	dutch=verjaardag
 12	yn	yn	ADP	_	_	14	case	_	dutch=in
 13	’e	’e	DET	_	Definite=Def	14	det	_	dutch=de
 14	aula	aula	NOUN	_	Gender=Com|Number=Sing	6	nmod	_	dutch=aula
