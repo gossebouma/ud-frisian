@@ -8630,7 +8630,7 @@
 12	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	13	obl	_	dutch=Fries
 13	beskrept	beskreppe	VERB	_	VerbForm=Part	0	root	_	dutch=gebokst
 14	,	,	PUNCT	_	_	13	punct	_	dutch=,
-15	lykas	lykas	SCONJ	_	_	17	nmod	_	dutch=bijvoorbeeld
+15	lykas	lykas	SCONJ	_	_	17	mark	_	dutch=bijvoorbeeld
 16	it	it	DET	_	Definite=Def	17	det	_	dutch=VAL-MISSING
 17	Friesch	Friesch	PROPN	_	_	3	obj	_	dutch=Friesch
 18	Woordenboek	Woordenboek	PROPN	_	_	17	flat	_	dutch=VAL-MISSING
