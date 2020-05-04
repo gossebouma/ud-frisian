@@ -9063,7 +9063,7 @@
 11	der	der	PROPN	_	_	8	flat	_	dutch=der
 12	Meulen	Meulen	PROPN	_	_	8	flat	_	dutch=Meulen
 13	yn	yn	ADP	_	_	14	case	_	dutch=in
-14	Burgum	Burgum	PROPN	_	Gender=Neut|Number=Sing	6	root	_	dutch=Burgum
+14	Burgum	Burgum	PROPN	_	Gender=Neut|Number=Sing	6	nmod	_	dutch=Burgum
 15	bestiet	bestean	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	3	parataxis	_	dutch=bestaat
 16	25	25	NUM	_	_	17	nummod	_	dutch=25
 17	jier	jier	NOUN	_	Gender=Neut|Number=Sing	15	obl	_	dutch=jaar
