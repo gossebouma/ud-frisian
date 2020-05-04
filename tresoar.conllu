@@ -8001,7 +8001,7 @@
 8	in	in	DET	_	Definite=Ind	11	det	_	dutch=een
 9	tige	tige	ADJ	_	Degree=Pos	11	amod	_	dutch=leesbaar
 10	lêsber	lêsber	ADJ	_	Degree=Pos	11	amod	_	dutch=leesbaar
-11	hânskrift	hânskrift	NOUN	_	Gender=Neut|Number=Sing	4	nmod	_	dutch=handschrift
+11	hânskrift	hânskrift	NOUN	_	Gender=Neut|Number=Sing	5	nmod	_	dutch=handschrift
 12	op	op	ADP	_	_	13	case	_	dutch=op
 13	snein	snein	PROPN	_	Gender=Com|Number=Sing	11	nmod	_	dutch=zondag
 14	26	26	NUM	_	_	15	nummod	_	dutch=26
