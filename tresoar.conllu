@@ -9245,7 +9245,7 @@
 1	Ien	ien	NUM	_	_	9	nsubj	_	dutch=Eén
 2	fan	fan	ADP	_	_	5	case	_	dutch=van
 3	de	de	DET	_	Definite=Def	5	det	_	dutch=de
-4	jonge	jong	ADJ	_	Number=Plur	1	nmod	_	dutch=jongens
+4	jonge	jong	ADJ	_	Number=Plur	5	nmod	_	dutch=jongens
 5	jonges	jonge	NOUN	_	Number=Plur	1	nmod	_	dutch=jongens
 6	foaroan	foaroan	ADV	_	_	5	amod	_	dutch=vooraan
 7	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux	_	dutch=heeft
