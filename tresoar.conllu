@@ -9219,7 +9219,7 @@
 22	in	in	DET	_	Definite=Ind	23	det	_	dutch=een
 23	skroevedraaier	skroevedraaier	NOUN	_	Gender=Com|Number=Sing	13	conj	_	dutch=schroevendraaier
 24	yn	yn	ADP	_	_	26	case	_	dutch=in
-25	’e	’e	DET	_	Person=3|Poss=Yes|PronType=Prs	26	nmod_poss	_	dutch=hun
+25	’e	’e	DET	_	Person=3|Poss=Yes|PronType=Prs	26	det	_	dutch=hun
 26	hannen	hannen	NOUN	_	Number=Plur	11	obl	_	dutch=handen
 27	.	.	PUNCT	_	_	0	root	_	dutch=.
 
