@@ -9822,7 +9822,7 @@
 6	it	it	PRON	_	Definite=Def	11	det	_	dutch=het
 7	noch	noch	ADV	_	_	11	amod	_	dutch=nog
 8	yn	yn	ADP	_	_	9	case	_	dutch=in
-9	836	836	NUM	_	_	11	nmod	_	dutch=836
+9	836	836	NUM	_	_	11	obj	_	dutch=836
 10	hastich	hastich	ADJ	_	Degree=Pos	11	advmod	_	dutch=haastig
 11	kopiearje	kopiearje	VERB	_	VerbForm=Inf	5	xcomp	_	dutch=kopiëren
 12	foar	foar	ADP	_	_	14	case	_	dutch=voor
