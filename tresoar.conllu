@@ -8754,7 +8754,7 @@
 5	Wurdboek	wurdboek	NOUN	_	Gender=Neut|Number=Sing	2	nmod	_	dutch=Woordenboek
 6	lit	litte	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=toont
 7	de	de	DET	_	Definite=Def	8	det	_	dutch=de
-8	warberens	warberens	NOUN	_	Gender=Com|Number=Sing	6	obj	_	dutch=activiteit
+8	warberens	warberens	NOUN	_	Gender=Com|Number=Sing	12	obj	_	dutch=activiteit
 9	fan	fan	ADP	_	_	11	case	_	dutch=van
 10	de	de	DET	_	Definite=Def	11	det	_	dutch=de
 11	taalman	taalman	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	dutch=taalijveraar
