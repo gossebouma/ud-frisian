@@ -9132,7 +9132,7 @@
 29	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	30	det	_	dutch=VAL-MISSING
 30	Burgumer	Burgumer	PROPN	_	_	27	nmod	_	dutch=Bergumer
 31	Krante	Krante	PROPN	_	_	30	flat	_	dutch=VAL-MISSING
-32	.	.	PUNCT	_	_	31	punct	_	dutch=.
+32	.	.	PUNCT	_	_	7	punct	_	dutch=.
 
 # sent_id = 398
 # text = Stikken mei in soad humor , mar ek mei de meast frjemde persoanlike ynfallen deryn befrissele .
