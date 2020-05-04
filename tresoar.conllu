@@ -8883,7 +8883,7 @@
 4	yn	yn	ADP	_	_	6	case	_	dutch=in
 5	in	in	DET	_	_	6	det	_	dutch=een
 6	huldigingsgearkomste	huldigingsgearkomste	NOUN	_	Gender=Com|Number=Sing	3	obl	_	dutch=gelegenheid
-7	by	by	ADP	_	Gender=Com|Number=Sing	0	root	_	dutch=gelegenheid
+7	by	by	ADP	_	Gender=Com|Number=Sing	11	root	_	dutch=gelegenheid
 8	Tamminga	Tamminga	PROPN	_	_	11	nmod_poss	_	dutch=KEY-MISSING
 9	syn	syn	PRON	_	Gender=Com|Number=Sing	11	nmod_poss	_	dutch=verjaardag
 10	sechtichste	sechtich	ADJ	_	_	11	amod	_	dutch=zestigste
