@@ -8216,7 +8216,7 @@
 21	sûnder	sûnder	ADP	_	_	24	mark	_	dutch=zonder
 22	it	it	DET	_	Person=3|PronType=Prs	24	obj	_	dutch=het
 23	te	te	ADP	_	_	24	mark	_	dutch=te
-24	romantisearjen	romantisearje	VERB	_	VerbForm=Inf	15	advcl	_	dutch=romantiseren
+24	romantisearjen	romantisearje	VERB	_	VerbForm=Inf	20	advcl	_	dutch=romantiseren
 25	.	.	PUNCT	_	_	0	root	_	dutch=.
 
 # sent_id = 361
