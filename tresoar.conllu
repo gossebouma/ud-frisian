@@ -8812,7 +8812,7 @@
 13	,	,	PUNCT	_	_	17	punct	_	dutch=,
 14	dy’t	dy’t	PRON	_	PronType=Rel	17	nsubj	_	dutch=die
 15	Paul	Paul	PROPN	_	_	17	obj	_	dutch=Paul
-16	Citroen	Citroen	PROPN	_	_	15	root	_	dutch=VAL-MISSING
+16	Citroen	Citroen	PROPN	_	_	15	flat	_	dutch=VAL-MISSING
 17	makke	meitsje	VERB	_	VerbForm=Part	9	acl_relcl	_	dutch=gemaakt
 18	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	17	aux	_	dutch=heeft
 19	fan	fan	ADP	_	_	0	root	_	dutch=VAL-MISSING
