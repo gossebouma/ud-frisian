@@ -9021,7 +9021,7 @@
 18	oan	oan	ADP	_	_	20	case	_	dutch=aan
 19	de	de	DET	_	Definite=Def	20	det	_	dutch=de
 20	Haachske	Haachske	PROPN	_	Degree=Pos	15	amod	_	dutch=Haagse
-21	keunstakademy	keunstakademy	PROPN	_	Gender=Com|Number=Sing	15	parataxis	_	dutch=kunstacademie
+21	keunstakademy	keunstakademy	PROPN	_	Gender=Com|Number=Sing	20	parataxis	_	dutch=kunstacademie
 22	.	.	PUNCT	_	_	9	punct	_	dutch=.
 
 # sent_id = 393
