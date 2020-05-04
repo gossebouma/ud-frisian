@@ -8945,7 +8945,7 @@
 30	,	,	PUNCT	_	_	23	punct	_	dutch=,
 31	want	want	CCONJ	_	_	0	root	_	dutch=want
 32	it	it	PRON	_	_	0	root	_	dutch=KEY-MISSING
-33	liket	lykje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	32	root	_	dutch=is
+33	liket	lykje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	23	root	_	dutch=is
 34	.	.	PUNCT	_	_	23	punct	_	dutch=.
 35	’	’	PUNCT	_	_	23	punct	_	dutch=’
 
