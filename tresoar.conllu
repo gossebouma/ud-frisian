@@ -9402,7 +9402,7 @@
 17	de	de	DET	_	Definite=Def	18	det	_	dutch=VAL-MISSING
 18	Boalserter	Boalserter	PROPN	_	Gender=Com|Number=Sing	15	obj	_	dutch=kermis
 19	Merke	Merke	PROPN	_	_	18	flat	_	dutch=”
-20	,	,	PUNCT	_	_	24	punct	_	dutch=,
+20	,	,	PUNCT	_	_	28	punct	_	dutch=,
 21	nei	nei	ADP	_	_	24	case	_	dutch=na
 22	omtrint	omtrint	PRON	_	_	24	amod	_	dutch=bijna
 23	twahûndert	twahûndert	NUM	_	_	24	nummod	_	dutch=tweehonderd
