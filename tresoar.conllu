@@ -8152,7 +8152,7 @@
 9	en	en	CCONJ	_	_	12	cc	_	dutch=en
 10	gelegenheidswurk	gelegenheidswurk	NOUN	_	Gender=Neut|Number=Sing	12	nsubj	_	dutch=gelegenheidswerk
 11	,	,	PUNCT	_	_	10	punct	_	dutch=,
-12	ferskynde	ferskine	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	2	conj	_	dutch=verscheen
+12	ferskynde	ferskine	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=verscheen
 13	yn	yn	ADP	_	_	14	case	_	dutch=in
 14	2001	2001	NUM	_	_	12	obl	_	dutch=2001
 15	ûnder	ûnder	ADP	_	_	17	case	_	dutch=onder
