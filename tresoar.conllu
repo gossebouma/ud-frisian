@@ -9820,7 +9820,7 @@
 4	Fulda	Fulda	PROPN	_	Gender=Neut|Number=Sing	2	nmod	_	dutch=Fulda
 5	liet	litte	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=liet
 6	it	it	PRON	_	Definite=Def	11	det	_	dutch=het
-7	noch	noch	ADV	_	_	11	amod	_	dutch=nog
+7	noch	noch	ADV	_	_	11	advmod	_	dutch=nog
 8	yn	yn	ADP	_	_	9	case	_	dutch=in
 9	836	836	NUM	_	_	11	obj	_	dutch=836
 10	hastich	hastich	ADJ	_	Degree=Pos	11	advmod	_	dutch=haastig
