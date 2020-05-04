@@ -8369,7 +8369,7 @@
 3	(	(	PUNCT	_	_	4	punct	_	dutch=(
 4	1919	1919	NUM	_	_	2	nummod	_	dutch=1919-
 5	-	-	PUNCT	_	_	6	punct	_	dutch=(
-6	1997	1997	NUM	_	_	1	nmod	_	dutch=1997
+6	1997	1997	NUM	_	_	4	nmod	_	dutch=1997
 7	)	)	PUNCT	_	_	4	punct	_	dutch=)
 8	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	cop	_	dutch=is
 9	ien	ien	NUM	_	_	0	root	_	dutch=een
