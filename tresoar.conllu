@@ -8151,7 +8151,7 @@
 8	kabaretteksten	kabarettekst	NOUN	_	_	6	conj	_	dutch=cabaretteksten
 9	en	en	CCONJ	_	_	10	cc	_	dutch=en
 10	gelegenheidswurk	gelegenheidswurk	NOUN	_	Gender=Neut|Number=Sing	6	conj	_	dutch=gelegenheidswerk
-11	,	,	PUNCT	_	_	10	punct	_	dutch=,
+11	,	,	PUNCT	_	_	6	punct	_	dutch=,
 12	ferskynde	ferskine	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=verscheen
 13	yn	yn	ADP	_	_	14	case	_	dutch=in
 14	2001	2001	NUM	_	_	12	obl	_	dutch=2001
