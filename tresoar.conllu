@@ -9706,7 +9706,7 @@
 10	koarte	koart	ADJ	_	Degree=Pos	0	root	_	dutch=korte
 11	roman	roman	NOUN	_	_	12	punct	_	dutch=(
 12	De	De	PROPN	_	_	0	root	_	dutch=De
-13	Fûke	Fûke	PROPN	_	_	0	root	_	dutch=)
+13	Fûke	Fûke	PROPN	_	_	12	root	_	dutch=)
 14	.	.	PUNCT	_	_	0	root	_	dutch=.
 
 # sent_id = 425
