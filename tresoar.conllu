@@ -9603,7 +9603,7 @@
 6	fan	fan	ADP	_	_	8	case	_	dutch=van
 7	de	de	DET	_	Definite=Def	8	det	_	dutch=de
 8	mannen	man	NOUN	_	Number=Plur	5	nmod	_	dutch=mannen
-9	,	,	PUNCT	_	_	5	punct	_	dutch=,
+9	,	,	PUNCT	_	_	1	punct	_	dutch=,
 10	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	22	cop	_	dutch=was
 11	op	op	ADP	_	_	0	root	_	dutch=VAL-MISSING
 12	28	28	NUM	_	_	22	obl	_	dutch=28
