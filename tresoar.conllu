@@ -9705,7 +9705,7 @@
 9	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	11	det	_	dutch=zijn
 10	koarte	koart	ADJ	_	Degree=Pos	11	amod	_	dutch=korte
 11	roman	roman	NOUN	_	_	3	obl	_	dutch=(
-12	De	De	PROPN	_	_	0	root	_	dutch=De
+12	De	De	PROPN	_	_	11	root	_	dutch=De
 13	Fûke	Fûke	PROPN	_	_	12	flat	_	dutch=)
 14	.	.	PUNCT	_	_	0	root	_	dutch=.
 
