@@ -8490,7 +8490,7 @@
 8	dagen	dei	NOUN	_	VerbForm=Inf	7	amod	_	dutch=dagen
 9	,	,	PUNCT	_	_	19	punct	_	dutch=,
 10	doe’t	doe’t	ADV	_	_	0	root	_	dutch=KEY-MISSING
-11	er	er	PRON	_	_	0	root	_	dutch=KEY-MISSING
+11	er	er	PRON	_	_	13	root	_	dutch=KEY-MISSING
 12	mei	mei	ADP	_	_	13	case	_	dutch=tijdens
 13	fakânsje	fakânsje	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=vakantie
 14	wie	wêze	AUX	_	_	0	root	_	dutch=KEY-MISSING
