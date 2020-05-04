@@ -8197,7 +8197,7 @@
 2	dichtwurk	dichtwurk	NOUN	_	Gender=Neut|Number=Sing	5	nsubj_pass	_	dutch=dichtwerk
 3	kin	kin	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	aux	_	dutch=kan
 4	engazjearre	engazjearje	VERB	_	VerbForm=Part	5	xcomp	_	dutch=geëngageerd
-5	neamd	neame	VERB	_	VerbForm=Part	0	root	_	dutch=geëngageerd
+5	neamd	neame	VERB	_	VerbForm=Part	25	root	_	dutch=geëngageerd
 6	wurde	wurde	AUX	_	VerbForm=Inf	5	aux_pass	_	dutch=worden
 7	en	en	CCONJ	_	_	9	cc	_	dutch=en
 8	it	it	PRON	_	Person=3|PronType=Prs	9	nsubj	_	dutch=het
