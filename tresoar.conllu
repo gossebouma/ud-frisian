@@ -9780,7 +9780,7 @@
 20	’	’	PUNCT	_	_	19	punct	_	dutch=’
 21	Noctes	Noctes	PROPN	_	_	17	nmod	_	dutch=Noctes
 22	Atticae	Atticae	PROPN	_	_	21	flat	_	dutch=VAL-MISSING
-23	(	(	PUNCT	_	_	24	punct	_	dutch=(
+23	(	(	PUNCT	_	_	25	punct	_	dutch=(
 24	de	de	DET	_	_	25	det	_	dutch=VAL-MISSING
 25	Attyske	Attysk	ADJ	_	_	17	conj	_	dutch=Attische
 26	Nachten	nacht	NOUN	_	_	0	root	_	dutch=VAL-MISSING
