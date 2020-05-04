@@ -9782,7 +9782,7 @@
 22	Atticae	Atticae	PROPN	_	_	21	flat	_	dutch=VAL-MISSING
 23	(	(	PUNCT	_	_	25	punct	_	dutch=(
 24	de	de	DET	_	_	25	det	_	dutch=VAL-MISSING
-25	Attyske	Attysk	ADJ	_	_	17	conj	_	dutch=Attische
+25	Attyske	Attysk	ADJ	_	_	21	conj	_	dutch=Attische
 26	Nachten	nacht	NOUN	_	_	25	flat	_	dutch=VAL-MISSING
 27	)	)	PUNCT	_	_	25	punct	_	dutch=)
 28	werom	werom	ADV	_	_	16	advmod	_	dutch=terug
