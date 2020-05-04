@@ -9171,7 +9171,7 @@
 7	sa	sa	ADV	_	_	10	amod	_	dutch=zo
 8	út	út	ADP	_	_	10	case	_	dutch=uit
 9	it	it	DET	_	Definite=Def	10	det	_	dutch=het
-10	wurk	wurk	NOUN	_	Gender=Neut|Number=Sing	11	nmod	_	dutch=werk
+10	wurk	wurk	NOUN	_	Gender=Neut|Number=Sing	11	obl	_	dutch=werk
 11	weirûn	weirinne	VERB	_	VerbForm=Part	0	root	_	dutch=weggelopen
 12	.	.	PUNCT	_	_	11	punct	_	dutch=.
 
