@@ -9797,7 +9797,7 @@
 2	hie	hawwe	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	10	aux	_	dutch=had
 3	it	it	PRON	_	Person=3|PronType=Prs	10	obj	_	dutch=het
 4	nammentlik	nammentlik	ADV	_	_	10	advmod	_	dutch=namelijk
-5	al	al	ADV	_	_	8	amod	_	dutch=al
+5	al	al	ADV	_	_	8	advmod	_	dutch=al
 6	sa’n	sa’n	PRON	_	_	7	amod	_	dutch=zo’n
 7	seis	seis	NUM	_	_	8	nummod	_	dutch=zes
 8	jier	jier	NOUN	_	Gender=Neut|Number=Sing	10	obl	_	dutch=jaar
