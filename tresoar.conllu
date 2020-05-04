@@ -9870,7 +9870,7 @@
 14	makke	meitsje	VERB	_	_	0	root	_	dutch=KEY-MISSING
 15	yn	yn	ADP	_	_	18	case	_	dutch=in
 16	in	in	DET	_	Definite=Ind	18	det	_	dutch=een
-17	ôfwikende	ôfwike	VERB	_	VerbForm=Part	14	root	_	dutch=voltooid
+17	ôfwikende	ôfwike	VERB	_	VerbForm=Part	18	root	_	dutch=voltooid
 18	letter	letter	NOUN	_	Gender=Com|Number=Sing	14	obl	_	dutch=schrijfletter
 19	.	.	PUNCT	_	_	14	punct	_	dutch=.
 
