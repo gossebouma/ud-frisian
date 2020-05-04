@@ -8857,7 +8857,7 @@
 3	ta	ta	ADP	_	_	5	case	_	dutch=tot
 4	it	it	DET	_	Definite=Def	5	det	_	dutch=het
 5	meitsjen	meitsje	VERB	_	VerbForm=Inf	2	nmod	_	dutch=maken
-6	derfan	derfan	ADV	_	_	5	amod	_	dutch=ervan
+6	derfan	derfan	ADV	_	_	5	advmod	_	dutch=ervan
 7	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	8	aux_pass	_	dutch=werd
 8	jûn	jaan	VERB	_	VerbForm=Part	0	root	_	dutch=gegeven
 9	troch	troch	ADP	_	_	0	root	_	dutch=VAL-MISSING
