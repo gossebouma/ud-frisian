@@ -9411,7 +9411,7 @@
 26	altiten	altiten	ADV	_	_	28	advmod	_	dutch=altijd
 27	in	in	DET	_	Definite=Ind	28	det	_	dutch=een
 28	tophit	tophit	NOUN	_	Gender=Com|Number=Sing	18	parataxis	_	dutch=tophit
-29	.	.	PUNCT	_	_	15	root	_	dutch=.
+29	.	.	PUNCT	_	_	15	punct	_	dutch=.
 
 # sent_id = 411
 # text = Mar goed twahûndert eksimplaren wiene der fan printe en allegearre waarden se ek noch weijûn oan freonen en bekenden fan de skriuwers .
