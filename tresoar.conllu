@@ -8367,7 +8367,7 @@
 1	Anne	Anne	PROPN	_	_	9	nsubj	_	dutch=Anne
 2	Wadman	Wadman	PROPN	_	_	1	flat	_	dutch=Wadman
 3	(	(	PUNCT	_	_	4	punct	_	dutch=(
-4	1919	1919	NUM	_	_	6	nummod	_	dutch=1919-
+4	1919	1919	NUM	_	_	2	nummod	_	dutch=1919-
 5	-	-	PUNCT	_	_	6	punct	_	dutch=(
 6	1997	1997	NUM	_	_	1	nmod	_	dutch=1997
 7	)	)	PUNCT	_	_	4	punct	_	dutch=)
