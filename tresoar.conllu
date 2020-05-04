@@ -9572,7 +9572,7 @@
 2	letter	letter	ADJ	_	Degree=Cmp	8	advmod	_	dutch=later
 3	yn	yn	ADP	_	_	5	case	_	dutch=in
 4	’e	’e	DET	_	Definite=Def	5	det	_	dutch=de
-5	nacht	nacht	NOUN	_	Gender=Com|Number=Sing	12	obl	_	dutch=nacht
+5	nacht	nacht	NOUN	_	Gender=Com|Number=Sing	8	obl	_	dutch=nacht
 6	in	in	DET	_	Definite=Ind	7	det	_	dutch=een
 7	wetterfleantúch	wetterfleantúch	NOUN	_	Gender=Neut|Number=Sing	8	nsubj	_	dutch=watervliegtuig
 8	besiket	besykje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	16	advcl	_	dutch=probeert
