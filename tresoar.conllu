@@ -8289,7 +8289,7 @@
 21	unyk	unyk	ADJ	_	Degree=Pos	22	amod	_	dutch=uniek
 22	eksimplaar	eksimplaar	NOUN	_	Gender=Neut|Number=Sing	24	advcl	_	dutch=exemplaar
 23	te	te	ADP	_	_	24	mark	_	dutch=te
-24	ferkeapjen	ferkeapjen	VERB	_	VerbForm=Inf	3	xcomp	_	dutch=verkopen
+24	ferkeapjen	ferkeapjen	VERB	_	VerbForm=Inf	9	xcomp	_	dutch=verkopen
 25	.	.	PUNCT	_	_	9	punct	_	dutch=.
 
 # sent_id = 363
