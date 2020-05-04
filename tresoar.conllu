@@ -8355,7 +8355,7 @@
 4	hânskrift	hânskrift	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=handschrift
 5	earste	ien	ADJ	_	_	6	amod	_	dutch=eerste
 6	side	side	NOUN	_	Gender=Com|Number=Sing	4	parataxis	_	dutch=pagina
-7	fan	fan	ADP	_	_	9	case	_	dutch=van
+7	fan	fan	ADP	_	_	8	case	_	dutch=van
 8	De	De	PROPN	_	Definite=Def	9	det	_	dutch=De
 9	smearlappen	smearlappen	PROPN	_	Gender=Com|Number=Sing	6	nmod	_	dutch=smearlappen
 
