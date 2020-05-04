@@ -8125,7 +8125,7 @@
 5	)	)	PUNCT	_	_	0	root	_	dutch=)
 6	wurdt	wurde	AUX	_	_	0	root	_	dutch=KEY-MISSING
 7	rekkene	rekkenje	VERB	_	_	0	root	_	dutch=KEY-MISSING
-8	ûnder	ûnder	ADP	_	_	12	root	_	dutch=KEY-MISSING
+8	ûnder	ûnder	ADP	_	_	12	case	_	dutch=KEY-MISSING
 9	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 10	wichtichste	wichtich	ADJ	_	Degree=Sup	12	amod	_	dutch=belangrijkste
 11	Fryske	Frysk	ADJ	_	Degree=Pos	12	amod	_	dutch=Friese
