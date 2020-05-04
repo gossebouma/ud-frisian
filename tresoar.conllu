@@ -9506,7 +9506,7 @@
 # ALIGNED
 1	Mids	mids	ADV	_	Gender=Neut|Number=Sing	0	root	_	dutch=Midden
 2	oktober	oktober	PROPN	_	Gender=Com|Number=Sing	1	obl	_	dutch=oktober
-3	1940	1940	NUM	_	_	2	nummod	_	dutch=1940
+3	1940	1940	NUM	_	_	2	fixed	_	dutch=1940
 4	.	.	PUNCT	_	_	1	punct	_	dutch=.
 
 # sent_id = 416
