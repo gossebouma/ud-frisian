@@ -8003,7 +8003,7 @@
 10	lêsber	lêsber	ADJ	_	Degree=Pos	11	amod	_	dutch=leesbaar
 11	hânskrift	hânskrift	NOUN	_	Gender=Neut|Number=Sing	5	obl	_	dutch=handschrift
 12	op	op	ADP	_	_	13	case	_	dutch=op
-13	snein	snein	PROPN	_	Gender=Com|Number=Sing	5	nmod	_	dutch=zondag
+13	snein	snein	PROPN	_	Gender=Com|Number=Sing	5	obl	_	dutch=zondag
 14	26	26	NUM	_	_	15	nummod	_	dutch=26
 15	maaie	maaie	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=VAL-MISSING
 16	yn	yn	ADP	_	_	18	case	_	dutch=VAL-MISSING
