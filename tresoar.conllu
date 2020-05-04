@@ -8529,7 +8529,7 @@
 5	dêrnei	dêrnei	ADV	_	VerbForm=Part	6	root	_	dutch=uitgetypt
 6	oertypt	oertype	VERB	_	VerbForm=Part	0	root	_	dutch=uitgetypt
 7	en	en	CCONJ	_	_	8	cc	_	dutch=en
-8	omwurke	omwurkje	VERB	_	VerbForm=Part	5	conj	_	dutch=omgewerkt
+8	omwurke	omwurkje	VERB	_	VerbForm=Part	6	conj	_	dutch=omgewerkt
 9	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
 # sent_id = 373
