@@ -9276,7 +9276,7 @@
 5	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	23	nsubj_pass	_	dutch=hij
 6	thús	thús	ADV	_	_	23	advmod	_	dutch=thuis
 7	yn	yn	ADP	_	_	8	case	_	dutch=in
-8	Garyp	Garyp	PROPN	_	Gender=Neut|Number=Sing	23	nmod	_	dutch=Garijp
+8	Garyp	Garyp	PROPN	_	Gender=Neut|Number=Sing	23	obl	_	dutch=Garijp
 9	foar	foar	ADP	_	_	10	case	_	dutch=voor
 10	hûs	hûs	NOUN	_	Gender=Neut|Number=Sing	8	nmod	_	dutch=huis
 11	op	op	ADP	_	_	13	case	_	dutch=op
