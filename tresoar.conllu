@@ -8122,7 +8122,7 @@
 2	Mulder	Mulder	PROPN	_	_	1	flat	_	dutch=Mulder
 3	(	(	PUNCT	_	_	4	root	_	dutch=(
 4	1921	1921	NUM	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=geldt
-5	)	)	PUNCT	_	_	0	root	_	dutch=)
+5	)	)	PUNCT	_	_	4	root	_	dutch=)
 6	wurdt	wurde	AUX	_	_	0	root	_	dutch=KEY-MISSING
 7	rekkene	rekkenje	VERB	_	_	0	root	_	dutch=KEY-MISSING
 8	ûnder	ûnder	ADP	_	_	12	case	_	dutch=KEY-MISSING
