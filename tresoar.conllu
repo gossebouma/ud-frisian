@@ -8749,7 +8749,7 @@
 # ALIGNED
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
 2	ferwizing	ferwizing	NOUN	_	Gender=Com|Number=Sing	6	nsubj	_	dutch=verwijzing
-3	nei	nei	ADP	_	_	10	case	_	dutch=naar
+3	nei	nei	ADP	_	_	5	case	_	dutch=naar
 4	it	it	DET	_	Definite=Def	5	det	_	dutch=het
 5	Wurdboek	wurdboek	NOUN	_	Gender=Neut|Number=Sing	2	nmod	_	dutch=Woordenboek
 6	lit	litte	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=toont
