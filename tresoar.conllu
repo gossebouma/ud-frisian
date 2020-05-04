@@ -8990,7 +8990,7 @@
 34	dêr’t	dêr’t	ADV	_	_	39	advmod	_	dutch=waar
 35	it	it	PRON	_	Person=3|PronType=Prs	39	nsubj	_	dutch=het
 36	sûnt	sûnt	ADP	_	_	39	advmod	_	dutch=sindsdien
-37	dy	dy	DET	_	_	39	advmod	_	dutch=sindsdien
+37	dy	dy	DET	_	_	38	advmod	_	dutch=sindsdien
 38	tiid	tiid	NOUN	_	_	39	advmod	_	dutch=sindsdien
 39	hongen	hingje	NOUN	_	VerbForm=Part	32	acl_relcl	_	dutch=gehangen
 40	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	39	aux	_	dutch=heeft
