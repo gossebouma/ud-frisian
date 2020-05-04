@@ -9198,7 +9198,7 @@
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
 2	boekhâlder	boekhâlder	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=boekhouder
 3	(	(	PUNCT	_	_	4	punct	_	dutch=(
-4	?	?	SYM	_	_	0	root	_	dutch=?
+4	?	?	SYM	_	_	2	root	_	dutch=?
 5	)	)	PUNCT	_	_	4	punct	_	dutch=)
 6	rjochts	rjochts	ADJ	_	Degree=Pos	2	amod	_	dutch=rechts
 7	net	net	ADV	_	Person=3|PronType=Ind	0	root	_	dutch=niets
