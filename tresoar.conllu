@@ -10193,7 +10193,7 @@
 18	1577	1577	NUM	_	_	19	obl	_	dutch=1577
 19	professor	professor	NOUN	_	Gender=Com|Number=Sing	14	acl_relcl	_	dutch=professor
 20	wurden	wurde	AUX	_	VerbForm=Part	19	aux_pass	_	dutch=geworden
-21	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	20	aux	_	dutch=was
+21	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	19	aux	_	dutch=was
 22	yn	yn	ADP	_	_	23	case	_	dutch=in
 23	Leien	Leien	PROPN	_	Gender=Neut|Number=Sing	19	nmod	_	dutch=Leiden
 24	,	,	PUNCT	_	_	35	punct	_	dutch=,
