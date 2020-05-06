@@ -9964,7 +9964,7 @@
 22	troch	troch	ADP	_	Gender=Com|Number=Sing	5	ccomp	_	dutch=wereldatlas
 23	alle	al	DET	_	Definite=Def	24	det	_	dutch=aller
 24	tiden	tiid	NOUN	_	Number=Plur	22	nmod	_	dutch=tijden
-25	hinne	hinne	ADP	_	_	0	root	_	dutch=KEY-MISSING
+25	hinne	hinne	ADP	_	_	24	root	_	dutch=KEY-MISSING
 26	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
 # sent_id = 438
