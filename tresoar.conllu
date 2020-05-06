@@ -10252,7 +10252,7 @@
 13	Rade	Rade	PROPN	_	_	10	flat	_	dutch=Rade
 14	of	of	CCONJ	_	_	15	cc	_	dutch=VAL-MISSING
 15	Aegidius	Aegidius	PROPN	_	_	10	conj	_	dutch=Aegidius
-16	Radaeus	Radaeus	PROPN	_	_	15	root	_	dutch=VAL-MISSING
+16	Radaeus	Radaeus	PROPN	_	_	15	flat	_	dutch=VAL-MISSING
 17	,	,	PUNCT	_	_	20	punct	_	dutch=,
 18	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	20	cop	_	dutch=was
 19	in	in	DET	_	Definite=Ind	20	det	_	dutch=een
