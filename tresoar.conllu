@@ -10136,7 +10136,7 @@
 6	ûnderdiel	ûnderdiel	NOUN	_	_	0	root	_	dutch=uit
 7	fan	fan	ADP	_	_	9	case	_	dutch=van
 8	de	de	DET	_	Definite=Def	9	det	_	dutch=de
-9	samling	samling	NOUN	_	Gender=Com|Number=Sing	6	root	_	dutch=collectie
+9	samling	samling	NOUN	_	Gender=Com|Number=Sing	6	nmod	_	dutch=collectie
 10	fan	fan	ADP	_	_	0	root	_	dutch=van
 11	de	de	DET	_	Definite=Def	0	root	_	dutch=de
 12	eardere	earder	ADJ	_	Degree=Pos	0	root	_	dutch=voormalige
