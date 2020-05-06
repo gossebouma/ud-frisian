@@ -10133,7 +10133,7 @@
 3	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=maakt
 4	de	de	DET	_	Definite=Def	5	det	_	dutch=de
 5	atlas	atlas	NOUN	_	Gender=Com|Number=Sing	3	nsubj	_	dutch=atlas
-6	ûnderdiel	ûnderdiel	NOUN	_	_	3	compound_prt	_	dutch=uit
+6	ûnderdiel	ûnderdiel	NOUN	_	_	0	root	_	dutch=uit
 7	fan	fan	ADP	_	_	9	case	_	dutch=van
 8	de	de	DET	_	Definite=Def	9	det	_	dutch=de
 9	samling	samling	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=collectie
