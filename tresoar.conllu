@@ -10021,7 +10021,7 @@
 14	fan	fan	ADP	_	_	16	case	_	dutch=van
 15	45.000	45.000	NUM	_	_	16	det	_	dutch=45.
 16	florinen	floryn	NOUN	_	Number=Plur	13	nmod	_	dutch=florijnen
-17	opbringe	opbringe	VERB	_	Number=Plur	13	nmod	_	dutch=florijnen
+17	opbringe	opbringe	VERB	_	Number=Plur	5	nmod	_	dutch=florijnen
 18	koene	kinne	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	17	aux	_	dutch=konden
 19	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
