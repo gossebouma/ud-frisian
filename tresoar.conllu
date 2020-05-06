@@ -10098,7 +10098,7 @@
 7	1661	1661	NUM	_	_	2	nmod	_	dutch=1661
 8	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	16	aux_pass	_	dutch=is
 9	as	as	SCONJ	_	_	11	case	_	dutch=als
-10	tolfte	tolve	ADJ	_	Gender=Com|Number=Sing	11	advcl	_	dutch=band
+10	tolfte	tolve	ADJ	_	Gender=Com|Number=Sing	11	amod	_	dutch=band
 11	diel	diel	NOUN	_	_	16	xcomp	_	dutch=twaalfde
 12	oan	oan	ADP	_	_	14	case	_	dutch=VAL-MISSING
 13	de	de	DET	_	Definite=Def	14	det	_	dutch=VAL-MISSING
