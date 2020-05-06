@@ -9959,7 +9959,7 @@
 17	moaiste	moai	ADJ	_	Degree=Sup	20	nmod	_	dutch=mooiste
 18	en	en	CCONJ	_	_	19	cc	_	dutch=en
 19	grutste	grut	ADJ	_	Degree=Sup	17	conj	_	dutch=grootste
-20	wrâldatlas	wrâldatlas	NOUN	_	Definite=Def	6	det	_	dutch=aller
+20	wrâldatlas	wrâldatlas	NOUN	_	Definite=Def	6	advcl	_	dutch=aller
 21	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	20	cop	_	dutch=is
 22	troch	troch	ADP	_	Gender=Com|Number=Sing	5	ccomp	_	dutch=wereldatlas
 23	alle	al	DET	_	Definite=Def	24	det	_	dutch=aller
