@@ -10181,7 +10181,7 @@
 6	den	den	PROPN	_	_	4	flat	_	dutch=den
 7	Driesche	Driesche	PROPN	_	_	4	flat	_	dutch=Driesche
 8	,	,	PUNCT	_	_	4	punct	_	dutch=,
-9	of	of	CCONJ	_	_	0	root	_	dutch=VAL-MISSING
+9	of	of	CCONJ	_	_	10	root	_	dutch=VAL-MISSING
 10	Joannes	Joannes	PROPN	_	_	4	conj	_	dutch=Joannes
 11	Drusius	Drusius	PROPN	_	_	10	flat	_	dutch=VAL-MISSING
 12	,	,	PUNCT	_	_	4	punct	_	dutch=,
