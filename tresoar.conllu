@@ -10082,7 +10082,7 @@
 22	meubelmakker	meubelmakker	NOUN	_	Gender=Com|Number=Sing	9	obl_agent	_	dutch=schrijnwerker
 23	Johannes	Johannes	PROPN	_	_	22	appos	_	dutch=Johannes
 24	Schrinerii	Schrinerii	PROPN	_	_	23	flat	_	dutch=VAL-MISSING
-25	.	.	PUNCT	_	_	24	punct	_	dutch=.
+25	.	.	PUNCT	_	_	9	punct	_	dutch=.
 
 # sent_id = 442
 # text = De himelatlas fan Andreas Cellarius út 1661 is as tolfte diel oan de Grutte Blaeu-atlas tafoege .
