@@ -10099,7 +10099,7 @@
 8	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	16	aux_pass	_	dutch=is
 9	as	as	SCONJ	_	_	11	case	_	dutch=als
 10	tolfte	tolve	ADJ	_	Gender=Com|Number=Sing	16	advcl	_	dutch=band
-11	diel	diel	NOUN	_	_	16	amod	_	dutch=twaalfde
+11	diel	diel	NOUN	_	_	16	xcomp	_	dutch=twaalfde
 12	oan	oan	ADP	_	_	14	case	_	dutch=VAL-MISSING
 13	de	de	DET	_	Definite=Def	14	det	_	dutch=VAL-MISSING
 14	Grutte	Grutte	ADJ	_	_	16	obl	_	dutch=Grote
