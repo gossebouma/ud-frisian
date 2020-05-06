@@ -9997,7 +9997,7 @@
 23	bûtengewoan	bûtengewoan	ADJ	_	Degree=Pos	24	amod	_	dutch=buitengewoon
 24	keunstsinnich	keunstsinnich	ADJ	_	Degree=Pos	0	root	_	dutch=nauwkeurig
 25	en	en	CCONJ	_	_	26	cc	_	dutch=en
-26	krekt	krekt	ADJ	_	Degree=Pos	24	root	_	dutch=nauwkeurig
+26	krekt	krekt	ADJ	_	Degree=Pos	24	conj	_	dutch=nauwkeurig
 27	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 439
