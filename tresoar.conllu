@@ -10304,7 +10304,7 @@
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7
 # ALIGNED
 1	Yn	yn	ADP	_	_	2	case	_	dutch=In
-2	Frjentsjer	Frjentsjer	PROPN	_	Gender=Neut|Number=Sing	7	obl	_	dutch=Franeker
+2	Frjentsjer	Frjentsjer	PROPN	_	Gender=Neut|Number=Sing	3	obl	_	dutch=Franeker
 3	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=werd
 4	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	3	nsubj	_	dutch=hij
 5	de	de	DET	_	Definite=Def	7	det	_	dutch=de
