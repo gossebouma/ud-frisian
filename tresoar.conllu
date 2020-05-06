@@ -10013,7 +10013,7 @@
 6	,	,	PUNCT	_	_	5	punct	_	dutch=,
 7	dat	dat	PRON	_	_	17	mark	_	dutch=dat
 8	allinne	allinne	ADV	_	_	9	amod	_	dutch=slechts
-9	keningen	kening	NOUN	_	Number=Plur	0	root	_	dutch=vorsten
+9	keningen	kening	NOUN	_	Number=Plur	17	root	_	dutch=vorsten
 10	en	en	CCONJ	_	_	11	cc	_	dutch=en
 11	oerheden	oerheid	NOUN	_	Number=Plur	9	conj	_	dutch=overheden
 12	de	de	DET	_	Definite=Def	13	det	_	dutch=de
