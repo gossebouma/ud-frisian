@@ -10102,7 +10102,7 @@
 11	diel	diel	NOUN	_	_	10	amod	_	dutch=twaalfde
 12	oan	oan	ADP	_	_	0	root	_	dutch=VAL-MISSING
 13	de	de	DET	_	Definite=Def	0	root	_	dutch=VAL-MISSING
-14	Grutte	Grutte	ADJ	_	_	16	obl	_	dutch=Grote
+14	Grutte	Grutte	ADJ	_	_	15	obl	_	dutch=Grote
 15	Blaeu-atlas	Blaeu-atlas	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=VAL-MISSING
 16	tafoege	tafoegje	VERB	_	VerbForm=Part	0	root	_	dutch=toegevoegd
 17	.	.	PUNCT	_	_	16	punct	_	dutch=.
