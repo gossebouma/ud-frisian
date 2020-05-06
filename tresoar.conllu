@@ -9987,7 +9987,7 @@
 13	op	op	ADP	_	_	15	case	_	dutch=op
 14	dûbele	dûbel	ADJ	_	Degree=Pos	15	amod	_	dutch=dubbele
 15	bledsiden	bledside	NOUN	_	Number=Plur	11	nmod	_	dutch=bladzijden
-16	–	–	PUNCT	_	_	0	root	_	dutch=–
+16	–	–	PUNCT	_	_	15	root	_	dutch=–
 17	en	en	CCONJ	_	_	0	root	_	dutch=en
 18	3000	3000	NUM	_	_	19	nummod	_	dutch=3000
 19	pagina’s	pagina	NOUN	_	Number=Plur	0	root	_	dutch=pagina’s
