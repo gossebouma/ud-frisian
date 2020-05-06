@@ -9950,7 +9950,7 @@
 8	de	de	DET	_	Definite=Def	9	det	_	dutch=de
 9	Atlas	Atlas	PROPN	_	_	22	nsubj	_	dutch=Atlas
 10	Major	Major	PROPN	_	_	9	flat	_	dutch=Major
-11	fan	fan	ADP	_	_	12	root	_	dutch=VAL-MISSING
+11	fan	fan	ADP	_	_	12	case	_	dutch=VAL-MISSING
 12	Joan	Joan	PROPN	_	_	9	nmod	_	dutch=Joan
 13	Blaeu	Blaeu	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 14	út	út	ADP	_	_	15	case	_	dutch=uit
