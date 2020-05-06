@@ -10191,7 +10191,7 @@
 16	dy’t	dy’t	PRON	_	PronType=Rel	19	nsubj	_	dutch=die
 17	yn	yn	ADP	_	_	18	case	_	dutch=in
 18	1577	1577	NUM	_	_	19	obl	_	dutch=1577
-19	professor	professor	NOUN	_	Gender=Com|Number=Sing	14	xcomp	_	dutch=professor
+19	professor	professor	NOUN	_	Gender=Com|Number=Sing	14	acl_relcl	_	dutch=professor
 20	wurden	wurde	AUX	_	VerbForm=Part	14	acl_relcl	_	dutch=geworden
 21	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	20	aux	_	dutch=was
 22	yn	yn	ADP	_	_	23	case	_	dutch=in
