@@ -10183,7 +10183,7 @@
 8	,	,	PUNCT	_	_	4	punct	_	dutch=,
 9	of	of	CCONJ	_	_	0	root	_	dutch=VAL-MISSING
 10	Joannes	Joannes	PROPN	_	_	4	conj	_	dutch=Joannes
-11	Drusius	Drusius	PROPN	_	_	10	root	_	dutch=VAL-MISSING
+11	Drusius	Drusius	PROPN	_	_	10	flat	_	dutch=VAL-MISSING
 12	,	,	PUNCT	_	_	4	punct	_	dutch=,
 13	in	in	DET	_	Definite=Ind	14	det	_	dutch=een
 14	Flaming	Flaming	NOUN	_	Gender=Com|Number=Sing	4	appos	_	dutch=Vlaming
