@@ -9954,7 +9954,7 @@
 12	Joan	Joan	PROPN	_	_	9	nmod	_	dutch=Joan
 13	Blaeu	Blaeu	PROPN	_	_	12	flat	_	dutch=VAL-MISSING
 14	út	út	ADP	_	_	15	case	_	dutch=uit
-15	1662	1662	NUM	_	_	9	obl	_	dutch=1662
+15	1662	1662	NUM	_	_	9	nmod	_	dutch=1662
 16	de	de	DET	_	Definite=Def	22	det	_	dutch=de
 17	moaiste	moai	ADJ	_	Degree=Sup	22	nmod	_	dutch=mooiste
 18	en	en	CCONJ	_	_	19	cc	_	dutch=en
