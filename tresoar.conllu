@@ -10130,7 +10130,7 @@
 # NOT ALIGNED
 1	Sûnt	sûnt	ADP	_	_	2	case	_	dutch=Sinds
 2	1852	1852	NUM	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=maakt
-3	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=maakt
+3	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	root	_	dutch=maakt
 4	de	de	DET	_	Definite=Def	5	det	_	dutch=de
 5	atlas	atlas	NOUN	_	Gender=Com|Number=Sing	3	nsubj	_	dutch=atlas
 6	ûnderdiel	ûnderdiel	NOUN	_	_	0	root	_	dutch=uit
