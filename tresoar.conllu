@@ -10188,7 +10188,7 @@
 13	in	in	DET	_	Definite=Ind	14	det	_	dutch=een
 14	Flaming	Flaming	NOUN	_	Gender=Com|Number=Sing	4	appos	_	dutch=Vlaming
 15	,	,	PUNCT	_	_	20	punct	_	dutch=,
-16	dy’t	dy’t	PRON	_	PronType=Rel	19	nsubj	_	dutch=die
+16	dy’t	dy’t	PRON	_	PronType=Rel	19	nsubj_pass	_	dutch=die
 17	yn	yn	ADP	_	_	18	case	_	dutch=in
 18	1577	1577	NUM	_	_	19	obl	_	dutch=1577
 19	professor	professor	NOUN	_	Gender=Com|Number=Sing	14	acl_relcl	_	dutch=professor
