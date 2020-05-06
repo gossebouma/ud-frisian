@@ -10229,7 +10229,7 @@
 12	ferneamd	ferneamd	ADJ	_	Degree=Pos	3	conj	_	dutch=beroemd
 13	yn	yn	ADP	_	_	15	case	_	dutch=in
 14	hiel	hiel	ADJ	_	Degree=Pos	15	amod	_	dutch=heel
-15	Europa	Europa	PROPN	_	Gender=Neut|Number=Sing	12	nmod	_	dutch=Europa
+15	Europa	Europa	PROPN	_	Gender=Neut|Number=Sing	12	obl	_	dutch=Europa
 16	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 449
