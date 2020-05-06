@@ -9940,7 +9940,7 @@
 # source_text = Het is niet overdreven om te zeggen dat de Atlas Major van Joan Blaeu uit 1662 de mooiste en grootste wereldatlas aller tijden is .
 # alignment =  1-3 2-2 4-6 5-6 6-7 7-8 8-9 9-10 10-11 11-12 12-13 13-14 14-15 15-16 16-17 17-18 18-19 19-21 20-23 21-20 22-21 23-22 25-24
 # NOT ALIGNED
-1	Wy	wy	PRON	_	_	2	root	_	dutch=KEY-MISSING
+1	Wy	wy	PRON	_	_	2	nsubj	_	dutch=KEY-MISSING
 2	oerdriuwe	oerdriuwe	VERB	_	VerbForm=Part	0	root	_	dutch=overdreven
 3	net	net	ADV	_	_	2	advmod	_	dutch=niet
 4	as	as	SCONJ	_	_	6	mark	_	dutch=KEY-MISSING
