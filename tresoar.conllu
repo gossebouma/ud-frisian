@@ -10036,7 +10036,7 @@
 4	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	2	nmod	_	dutch=Tresoar
 5	waard	wurde	AUX	_	_	8	aux_pass	_	dutch=KEY-MISSING
 6	yn	yn	ADP	_	_	7	case	_	dutch=in
-7	1711	1711	NUM	_	VerbForm=Part	0	root	_	dutch=geschonken
+7	1711	1711	NUM	_	VerbForm=Part	8	root	_	dutch=geschonken
 8	skonken	skinke	NOUN	_	VerbForm=Part	0	root	_	dutch=geschonken
 9	troch	troch	ADP	_	_	12	case	_	dutch=door
 10	de	de	DET	_	Definite=Def	12	det	_	dutch=de
