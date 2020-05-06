@@ -10141,7 +10141,7 @@
 11	de	de	DET	_	Definite=Def	0	root	_	dutch=de
 12	eardere	earder	ADJ	_	Degree=Pos	0	root	_	dutch=voormalige
 13	Provinsjale	Provinsjale	PROPN	_	Degree=Pos	0	root	_	dutch=Provinsjale
-14	Biblioteek	Biblioteek	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=fan
+14	Biblioteek	Biblioteek	PROPN	_	Gender=Com|Number=Sing	13	root	_	dutch=fan
 15	fan	fan	PROPN	_	Gender=Com|Number=Sing	0	root	_	dutch=fan
 16	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	15	appos	_	dutch=Fryslân
 17	,	,	PUNCT	_	_	19	punct	_	dutch=,
