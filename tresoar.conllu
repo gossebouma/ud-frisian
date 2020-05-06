@@ -10069,7 +10069,7 @@
 9	makke	meitsje	VERB	_	VerbForm=Part	0	root	_	dutch=gemaakt
 10	,	,	PUNCT	_	_	12	punct	_	dutch=,
 11	rynsk	rynsk	ADJ	_	Degree=Pos	12	advmod	_	dutch=rijkelijk
-12	opgnist	opgnisse	VERB	_	VerbForm=Part	4	advcl	_	dutch=voorzien
+12	opgnist	opgnisse	VERB	_	VerbForm=Part	8	advcl	_	dutch=voorzien
 13	mei	mei	ADP	_	VerbForm=Part	17	nmod	_	dutch=verguld
 14	fergulde	ferguld	ADJ	_	VerbForm=Part	17	nmod	_	dutch=verguld
 15	en	en	CCONJ	_	_	16	cc	_	dutch=en
