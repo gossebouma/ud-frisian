@@ -10048,7 +10048,7 @@
 16	fan	fan	PROPN	_	_	13	flat	_	dutch=van
 17	Oranje	Oranje	PROPN	_	Gender=Neut|Number=Sing	13	flat	_	dutch=Oranje
 18	oan	oan	ADP	_	_	0	root	_	dutch=VAL-MISSING
-19	de	de	DET	_	Definite=Def	0	root	_	dutch=VAL-MISSING
+19	de	de	DET	_	Definite=Def	20	root	_	dutch=VAL-MISSING
 20	Frjentsjerter	Frjentsjerter	PROPN	_	_	8	obl	_	dutch=Franeker
 21	Akadeemje	Akadeemje	PROPN	_	_	20	flat	_	dutch=VAL-MISSING
 22	.	.	PUNCT	_	_	21	punct	_	dutch=.
