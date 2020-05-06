@@ -9993,7 +9993,7 @@
 19	pagina’s	pagina	NOUN	_	Number=Plur	0	root	_	dutch=pagina’s
 20	tekst	tekst	NOUN	_	Gender=Com|Number=Sing	19	nmod	_	dutch=tekst
 21	,	,	PUNCT	_	_	19	punct	_	dutch=,
-22	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	24	cc	_	dutch=zijn
+22	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	24	cop	_	dutch=zijn
 23	bûtengewoan	bûtengewoan	ADJ	_	Degree=Pos	24	root	_	dutch=buitengewoon
 24	keunstsinnich	keunstsinnich	ADJ	_	Degree=Pos	0	root	_	dutch=nauwkeurig
 25	en	en	CCONJ	_	_	26	cc	_	dutch=en
