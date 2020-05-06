@@ -10017,7 +10017,7 @@
 10	en	en	CCONJ	_	_	11	cc	_	dutch=en
 11	oerheden	oerheid	NOUN	_	Number=Plur	9	conj	_	dutch=overheden
 12	de	de	DET	_	Definite=Def	13	det	_	dutch=de
-13	priis	priis	NOUN	_	Gender=Com|Number=Sing	17	root	_	dutch=prijs
+13	priis	priis	NOUN	_	Gender=Com|Number=Sing	17	obj	_	dutch=prijs
 14	fan	fan	ADP	_	_	16	case	_	dutch=van
 15	45.000	45.000	NUM	_	_	16	det	_	dutch=45.
 16	florinen	floryn	NOUN	_	Number=Plur	13	nmod	_	dutch=florijnen
