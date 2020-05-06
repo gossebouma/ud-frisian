@@ -10041,7 +10041,7 @@
 9	troch	troch	ADP	_	_	12	case	_	dutch=door
 10	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 11	Fryske	Frysk	ADJ	_	Degree=Pos	12	amod	_	dutch=Friese
-12	steedhâlder	steedhâlder	NOUN	_	Gender=Com|Number=Sing	8	obl	_	dutch=stadhouder
+12	steedhâlder	steedhâlder	NOUN	_	Gender=Com|Number=Sing	8	obl_agent	_	dutch=stadhouder
 13	Johan	Johan	PROPN	_	_	12	appos	_	dutch=Johan
 14	Willem	Willem	PROPN	_	_	13	flat	_	dutch=VAL-MISSING
 15	Friso	Friso	PROPN	_	_	13	flat	_	dutch=VAL-MISSING
