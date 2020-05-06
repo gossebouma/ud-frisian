@@ -10140,7 +10140,7 @@
 10	fan	fan	ADP	_	_	13	case	_	dutch=van
 11	de	de	DET	_	Definite=Def	13	det	_	dutch=de
 12	eardere	earder	ADJ	_	Degree=Pos	13	amod	_	dutch=voormalige
-13	Provinsjale	Provinsjale	PROPN	_	Degree=Pos	9	root	_	dutch=Provinsjale
+13	Provinsjale	Provinsjale	PROPN	_	Degree=Pos	9	nmod	_	dutch=Provinsjale
 14	Biblioteek	Biblioteek	PROPN	_	Gender=Com|Number=Sing	13	flat	_	dutch=fan
 15	fan	fan	PROPN	_	Gender=Com|Number=Sing	13	flat	_	dutch=fan
 16	Fryslân	Fryslân	PROPN	_	Gender=Neut|Number=Sing	13	flat	_	dutch=Fryslân
