@@ -10080,7 +10080,7 @@
 20	de	de	DET	_	Definite=Def	22	det	_	dutch=de
 21	Ljouwerter	Ljouwerter	ADJ	_	Degree=Pos	22	amod	_	dutch=Leeuwarder
 22	meubelmakker	meubelmakker	NOUN	_	Gender=Com|Number=Sing	9	obl_agent	_	dutch=schrijnwerker
-23	Johannes	Johannes	PROPN	_	_	22	appos	_	dutch=Johannes
+23	Johannes	Johannes	PROPN	_	_	22	flat	_	dutch=Johannes
 24	Schrinerii	Schrinerii	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 25	.	.	PUNCT	_	_	24	punct	_	dutch=.
 
