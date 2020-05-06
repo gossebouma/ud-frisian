@@ -10061,7 +10061,7 @@
 1	Foar	foar	ADP	_	_	3	case	_	dutch=Voor
 2	de	de	DET	_	Definite=Def	3	det	_	dutch=de
 3	boekbannen	boekbân	NOUN	_	Number=Plur	9	obl	_	dutch=boekbanden
-4	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	root	_	dutch=is
+4	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux_pass	_	dutch=is
 5	in	in	DET	_	Definite=Ind	8	det	_	dutch=een
 6	spesjale	spesjaal	ADJ	_	Degree=Pos	8	amod	_	dutch=speciale
 7	nutebeamshouten	nutebeamshouten	ADJ	_	Degree=Pos	8	amod	_	dutch=notenhouten
