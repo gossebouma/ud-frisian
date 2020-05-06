@@ -10267,7 +10267,7 @@
 1	Hy	Hy	PRON	_	Case=Nom|Person=3|PronType=Prs	6	nsubj	_	dutch=Hij
 2	hie	hawwe	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	6	aux	_	dutch=had
 3	yn	yn	ADP	_	_	4	case	_	dutch=in
-4	Antwerpen	Antwerpen	PROPN	_	Gender=Neut|Number=Sing	8	obl	_	dutch=Antwerpen
+4	Antwerpen	Antwerpen	PROPN	_	Gender=Neut|Number=Sing	6	obl	_	dutch=Antwerpen
 5	namme	namme	NOUN	_	Gender=Com|Number=Sing	6	compound_prt	_	dutch=naam
 6	makke	meitsje	VERB	_	VerbForm=Part	0	root	_	dutch=gemaakt
 7	as	as	ADP	_	_	8	mark	_	dutch=als
