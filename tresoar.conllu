@@ -10045,7 +10045,7 @@
 13	Johan	Johan	PROPN	_	_	12	appos	_	dutch=Johan
 14	Willem	Willem	PROPN	_	_	13	flat	_	dutch=VAL-MISSING
 15	Friso	Friso	PROPN	_	_	13	flat	_	dutch=VAL-MISSING
-16	fan	fan	PROPN	_	_	13	case	_	dutch=van
+16	fan	fan	PROPN	_	_	13	flat	_	dutch=van
 17	Oranje	Oranje	PROPN	_	Gender=Neut|Number=Sing	12	nmod	_	dutch=Oranje
 18	oan	oan	ADP	_	_	0	root	_	dutch=VAL-MISSING
 19	de	de	DET	_	Definite=Def	0	root	_	dutch=VAL-MISSING
