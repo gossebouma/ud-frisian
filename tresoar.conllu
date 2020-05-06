@@ -9988,7 +9988,7 @@
 14	dûbele	dûbel	ADJ	_	Degree=Pos	15	amod	_	dutch=dubbele
 15	bledsiden	bledside	NOUN	_	Number=Plur	11	nmod	_	dutch=bladzijden
 16	–	–	PUNCT	_	_	15	punct	_	dutch=–
-17	en	en	CCONJ	_	_	19	root	_	dutch=en
+17	en	en	CCONJ	_	_	19	cc	_	dutch=en
 18	3000	3000	NUM	_	_	19	nummod	_	dutch=3000
 19	pagina’s	pagina	NOUN	_	Number=Plur	0	root	_	dutch=pagina’s
 20	tekst	tekst	NOUN	_	Gender=Com|Number=Sing	19	nmod	_	dutch=tekst
