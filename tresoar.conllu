@@ -10137,7 +10137,7 @@
 7	fan	fan	ADP	_	_	9	case	_	dutch=van
 8	de	de	DET	_	Definite=Def	9	det	_	dutch=de
 9	samling	samling	NOUN	_	Gender=Com|Number=Sing	6	nmod	_	dutch=collectie
-10	fan	fan	ADP	_	_	13	root	_	dutch=van
+10	fan	fan	ADP	_	_	13	case	_	dutch=van
 11	de	de	DET	_	Definite=Def	13	det	_	dutch=de
 12	eardere	earder	ADJ	_	Degree=Pos	13	amod	_	dutch=voormalige
 13	Provinsjale	Provinsjale	PROPN	_	Degree=Pos	0	root	_	dutch=Provinsjale
