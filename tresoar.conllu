@@ -10292,7 +10292,7 @@
 11	moast	moatte	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	13	aux	_	dutch=moest
 12	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	13	nsubj	_	dutch=hij
 13	flechtsje	flechtsje	VERB	_	VerbForm=Inf	0	root	_	dutch=vluchten
-14	,	,	PUNCT	_	_	16	punct	_	dutch=,
+14	,	,	PUNCT	_	_	17	punct	_	dutch=,
 15	lykas	lykas	SCONJ	_	_	17	mark	_	dutch=als
 16	safolle	safolle	NUM	_	Degree=Pos	17	det	_	dutch=zovelen
 17	oaren	oar	ADJ	_	Degree=Pos	13	advcl	_	dutch=zovelen
