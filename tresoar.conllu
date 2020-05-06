@@ -8581,7 +8581,7 @@
 15	manuskript	manuskript	NOUN	_	Gender=Neut|Number=Sing	12	nmod	_	dutch=manuscript
 16	,	,	PUNCT	_	_	18	punct	_	dutch=,
 17	mei	mei	ADP	_	_	18	case	_	dutch=KEY-MISSING
-18	ynbegryp	ynbegryp	NOUN	_	_	12	root	_	dutch=KEY-MISSING
+18	ynbegryp	ynbegryp	NOUN	_	_	12	nmod	_	dutch=KEY-MISSING
 19	fan	fan	ADP	_	_	21	case	_	dutch=KEY-MISSING
 20	de	de	DET	_	_	21	det	_	dutch=KEY-MISSING
 21	tuskenfoegingen	tuskenfoeging	NOUN	_	Number=Plur	18	nmod	_	dutch=tussenvoegingen
