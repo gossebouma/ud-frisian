@@ -10250,7 +10250,7 @@
 11	van	van	PROPN	_	_	10	flat	_	dutch=van
 12	den	den	PROPN	_	_	10	flat	_	dutch=den
 13	Rade	Rade	PROPN	_	_	10	flat	_	dutch=Rade
-14	of	of	CCONJ	_	_	0	root	_	dutch=VAL-MISSING
+14	of	of	CCONJ	_	_	15	root	_	dutch=VAL-MISSING
 15	Aegidius	Aegidius	PROPN	_	_	10	conj	_	dutch=Aegidius
 16	Radaeus	Radaeus	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 17	,	,	PUNCT	_	_	20	punct	_	dutch=,
