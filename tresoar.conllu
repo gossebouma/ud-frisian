@@ -9990,7 +9990,7 @@
 16	–	–	PUNCT	_	_	15	punct	_	dutch=–
 17	en	en	CCONJ	_	_	19	cc	_	dutch=en
 18	3000	3000	NUM	_	_	19	nummod	_	dutch=3000
-19	pagina’s	pagina	NOUN	_	Number=Plur	3	root	_	dutch=pagina’s
+19	pagina’s	pagina	NOUN	_	Number=Plur	3	nmod	_	dutch=pagina’s
 20	tekst	tekst	NOUN	_	Gender=Com|Number=Sing	19	nmod	_	dutch=tekst
 21	,	,	PUNCT	_	_	19	punct	_	dutch=,
 22	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	24	cop	_	dutch=zijn
