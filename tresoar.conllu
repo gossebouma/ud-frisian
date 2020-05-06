@@ -9998,7 +9998,7 @@
 24	keunstsinnich	keunstsinnich	ADJ	_	Degree=Pos	0	root	_	dutch=nauwkeurig
 25	en	en	CCONJ	_	_	26	cc	_	dutch=en
 26	krekt	krekt	ADJ	_	Degree=Pos	24	conj	_	dutch=nauwkeurig
-27	.	.	PUNCT	_	_	3	punct	_	dutch=.
+27	.	.	PUNCT	_	_	24	punct	_	dutch=.
 
 # sent_id = 439
 # text = De boeken wiene sa djoer , dat allinne keningen en oerheden de priis fan 45.000 florinen opbringe koene .
