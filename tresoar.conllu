@@ -9974,7 +9974,7 @@
 # NOT ALIGNED
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
 2	alve	alve	NUM	_	_	3	nsubj	_	dutch=elf
-3	boeken	boek	NOUN	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=boeken
+3	boeken	boek	NOUN	_	Number=Plur|Tense=Pres|VerbForm=Fin	24	root	_	dutch=boeken
 4	mei	mei	ADP	_	_	11	case	_	dutch=met
 5	hast	hast	ADV	_	_	11	amod	_	dutch=bijna
 6	600	600	NUM	_	_	11	nummod	_	dutch=600
