@@ -10392,7 +10392,7 @@
 13	fizioen	fizioen	NOUN	_	Gender=Neut|Number=Sing	7	appos	_	dutch=visioen
 14	út	út	ADP	_	_	15	case	_	dutch=KEY-MISSING
 15	Ezechiël	Ezechiël	PROPN	_	Gender=Com|Number=Sing	13	nmod	_	dutch=Ezechiël
-16	dêr’t	dêr’t	ADV	_	_	22	advmod	_	dutch=waarin
+16	dêr’t	dêr’t	ADV	_	_	21	advmod	_	dutch=waarin
 17	wêzens	wêzen	NOUN	_	Number=Plur	22	nsubj	_	dutch=wezens
 18	mei	mei	ADP	_	_	19	case	_	dutch=met
 19	rêden	rêd	NOUN	_	Number=Plur	21	obl	_	dutch=raderen
