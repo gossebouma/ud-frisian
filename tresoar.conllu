@@ -10395,7 +10395,7 @@
 16	dêr’t	dêr’t	ADV	_	_	21	advmod	_	dutch=waarin
 17	wêzens	wêzen	NOUN	_	Number=Plur	21	nsubj	_	dutch=wezens
 18	mei	mei	ADP	_	_	19	case	_	dutch=met
-19	rêden	rêd	NOUN	_	Number=Plur	17	obl	_	dutch=raderen
+19	rêden	rêd	NOUN	_	Number=Plur	17	nmod	_	dutch=raderen
 20	yn	yn	ADP	_	_	16	case	_	dutch=KEY-MISSING
 21	beskreaun	beskriuwe	VERB	_	Number=Plur	13	obl	_	dutch=raderen
 22	wurde	wurde	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	21	aux_pass	_	dutch=voorkomen
