@@ -10370,7 +10370,7 @@
 3	om	om	ADP	_	Gender=Neut|Number=Sing	5	root	_	dutch=drukwerk
 4	te	te	ADP	_	Gender=Neut|Number=Sing	0	root	_	dutch=drukwerk
 5	printsjen	printsjen	VERB	_	Gender=Neut|Number=Sing	4	root	_	dutch=drukwerk
-6	!	!	PUNCT	_	_	5	punct	_	dutch=!
+6	!	!	PUNCT	_	_	2	punct	_	dutch=!
 
 # sent_id = 456
 # text = Op ’e titelside stiet ek it printersmerk fan Radaeus , nei in fizioen út Ezechiël dêr’t wêzens mei rêden yn beskreaun wurde , en syn devys “ Consilio numinis ” , troch Gods ried .
