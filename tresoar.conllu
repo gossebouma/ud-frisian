@@ -10366,7 +10366,7 @@
 # alignment =  0-0 1-0 2-1 3-1 4-1 5-2
 # ALIGNED
 1	In	in	DET	_	Degree=Pos	5	amod	_	dutch=Ingewikkeld
-2	toer	toer	NOUN	_	Degree=Pos	3	amod	_	dutch=Ingewikkeld
+2	toer	toer	NOUN	_	Degree=Pos	0	root	_	dutch=Ingewikkeld
 3	om	om	ADP	_	Gender=Neut|Number=Sing	0	root	_	dutch=drukwerk
 4	te	te	ADP	_	Gender=Neut|Number=Sing	0	root	_	dutch=drukwerk
 5	printsjen	printsjen	VERB	_	Gender=Neut|Number=Sing	0	root	_	dutch=drukwerk
