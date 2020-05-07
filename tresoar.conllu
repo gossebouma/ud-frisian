@@ -10470,7 +10470,7 @@
 2	augustus	augustus	PROPN	_	Gender=Com|Number=Sing	1	obl	_	dutch=augustus
 3	1939	1939	NUM	_	Number=Plur	2	fixed	_	dutch=boech
 4	kaam	komme	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=kwam
-5	It	it	DET	_	Gender=Com|Number=Sing	6	nsubj	_	dutch=Dos
+5	It	it	DET	_	Gender=Com|Number=Sing	6	det	_	dutch=Dos
 6	boek	boek	NOUN	_	Gender=Com|Number=Sing	4	nsubj	_	dutch=Dos
 7	fan	fan	ADP	_	Number=Plur	9	case	_	dutch=boech
 8	it	it	DET	_	Number=Plur	9	det	_	dutch=fun
