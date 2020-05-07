@@ -10346,7 +10346,7 @@
 # NOT ALIGNED
 1	Yn	yn	ADP	_	_	3	case	_	dutch=In
 2	in	in	DET	_	Definite=Ind	3	det	_	dutch=een
-3	kommentaar	kommentaar	NOUN	_	VerbForm=Part	10	root	_	dutch=doorspekt
+3	kommentaar	kommentaar	NOUN	_	VerbForm=Part	10	obl	_	dutch=doorspekt
 4	mei	mei	ADP	_	_	9	case	_	dutch=met
 5	gâns	gâns	DET	_	VerbForm=Part	9	det	_	dutch=doorspekt
 6	Hebriuwske	Hebriuwsk	ADJ	_	Degree=Pos	9	amod	_	dutch=Hebreeuwse
