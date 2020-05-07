@@ -10368,7 +10368,7 @@
 1	In	in	DET	_	Degree=Pos	5	amod	_	dutch=Ingewikkeld
 2	toer	toer	NOUN	_	Degree=Pos	0	root	_	dutch=Ingewikkeld
 3	om	om	ADP	_	Gender=Neut|Number=Sing	5	root	_	dutch=drukwerk
-4	te	te	ADP	_	Gender=Neut|Number=Sing	5	root	_	dutch=drukwerk
+4	te	te	ADP	_	Gender=Neut|Number=Sing	5	mark	_	dutch=drukwerk
 5	printsjen	printsjen	VERB	_	Gender=Neut|Number=Sing	2	root	_	dutch=drukwerk
 6	!	!	PUNCT	_	_	2	punct	_	dutch=!
 
