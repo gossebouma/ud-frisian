@@ -10345,7 +10345,7 @@
 # alignment =  0-0 1-1 2-3 3-4 4-3 5-5 6-6 7-8 8-8 9-9 10-10 11-11 12-12 13-13 14-14
 # NOT ALIGNED
 1	Yn	yn	ADP	_	_	0	root	_	dutch=In
-2	in	in	DET	_	Definite=Ind	3	root	_	dutch=een
+2	in	in	DET	_	Definite=Ind	3	det	_	dutch=een
 3	kommentaar	kommentaar	NOUN	_	VerbForm=Part	0	root	_	dutch=doorspekt
 4	mei	mei	ADP	_	_	8	case	_	dutch=met
 5	gâns	gâns	NOUN	_	VerbForm=Part	0	root	_	dutch=doorspekt
