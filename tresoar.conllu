@@ -10484,7 +10484,7 @@
 16	Abbe	Abbe	PROPN	_	_	15	flat	_	dutch=Abbe
 17	Aberwo	Aberwo	PROPN	_	_	15	flat	_	dutch=)
 18	yn	yn	ADP	_	_	19	case	_	dutch=in
-19	Warschau	Warschau	PROPN	_	Gender=Neut|Number=Sing	13	nmod	_	dutch=Warschau
+19	Warschau	Warschau	PROPN	_	Gender=Neut|Number=Sing	4	nmod	_	dutch=Warschau
 20	fan	fan	ADP	_	_	22	case	_	dutch=van
 21	de	de	DET	_	Definite=Def	22	det	_	dutch=de
 22	parse	parse	NOUN	_	Gender=Com|Number=Sing	19	nmod	_	dutch=pers
