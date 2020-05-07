@@ -10474,7 +10474,7 @@
 6	boek	boek	NOUN	_	Gender=Com|Number=Sing	4	nsubj	_	dutch=Dos
 7	fan	fan	ADP	_	Number=Plur	4	parataxis	_	dutch=boech
 8	it	it	DET	_	Number=Plur	9	det	_	dutch=fun
-9	Paradys	paradys	NOUN	_	Number=Plur	6	fixed	_	dutch=gan-eden
+9	Paradys	paradys	NOUN	_	Number=Plur	6	nmod	_	dutch=gan-eden
 10	:	:	PUNCT	_	_	4	punct	_	dutch=:
 
 # sent_id = 462
