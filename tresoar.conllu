@@ -10405,7 +10405,7 @@
 26	devys	devys	NOUN	_	Gender=Com|Number=Sing	7	conj	_	dutch=zinspreuk
 27	“	“	PUNCT	_	_	28	punct	_	dutch=“
 28	Consilio	Consilio	X	_	_	26	appos	_	dutch=Consilio
-29	numinis	numinis	X	_	_	28	root	_	dutch=VAL-MISSING
+29	numinis	numinis	X	_	_	28	flat	_	dutch=VAL-MISSING
 30	”	”	PUNCT	_	_	29	punct	_	dutch=”
 31	,	,	PUNCT	_	_	29	punct	_	dutch=,
 32	troch	troch	ADP	_	_	34	case	_	dutch=door
