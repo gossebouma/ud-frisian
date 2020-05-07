@@ -10478,7 +10478,7 @@
 10	:	:	PUNCT	_	_	6	punct	_	dutch=:
 11	It	it	DET	_	Definite=Def	13	det	_	dutch=Het
 12	wûnderlike	wûnderlike	ADJ	_	Degree=Pos	13	amod	_	dutch=wonderlijke
-13	libbensferhaal	libbensferhaal	NOUN	_	Gender=Neut|Number=Sing	6	root	_	dutch=levensverhaal
+13	libbensferhaal	libbensferhaal	NOUN	_	Gender=Neut|Number=Sing	6	appos	_	dutch=levensverhaal
 14	fan	fan	ADP	_	_	15	case	_	dutch=van
 15	Sjmoel	Sjmoel	PROPN	_	_	13	nmod	_	dutch=Sjmoel
 16	Abbe	Abbe	PROPN	_	_	15	flat	_	dutch=Abbe
