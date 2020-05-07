@@ -10351,7 +10351,7 @@
 5	gâns	gâns	NOUN	_	VerbForm=Part	6	amod	_	dutch=doorspekt
 6	Hebriuwske	Hebriuwsk	ADJ	_	Degree=Pos	3	nmod	_	dutch=Hebreeuwse
 7	en	en	CCONJ	_	_	8	root	_	dutch=en
-8	Grykske	Gryksk	ADJ	_	Number=Plur	0	root	_	dutch=termen
+8	Grykske	Gryksk	ADJ	_	Number=Plur	9	root	_	dutch=termen
 9	wurden	wurd	NOUN	_	Number=Plur	5	obl	_	dutch=termen
 10	jout	jout	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=geeft
 11	Drusius	Drusius	PROPN	_	Gender=Com|Number=Sing	10	nsubj	_	dutch=Drusius
