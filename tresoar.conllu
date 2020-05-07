@@ -10347,7 +10347,7 @@
 1	Yn	yn	ADP	_	_	3	case	_	dutch=In
 2	in	in	DET	_	Definite=Ind	3	det	_	dutch=een
 3	kommentaar	kommentaar	NOUN	_	VerbForm=Part	0	root	_	dutch=doorspekt
-4	mei	mei	ADP	_	_	6	case	_	dutch=met
+4	mei	mei	ADP	_	_	9	case	_	dutch=met
 5	gâns	gâns	NOUN	_	VerbForm=Part	6	amod	_	dutch=doorspekt
 6	Hebriuwske	Hebriuwsk	ADJ	_	Degree=Pos	3	nmod	_	dutch=Hebreeuwse
 7	en	en	CCONJ	_	_	8	root	_	dutch=en
