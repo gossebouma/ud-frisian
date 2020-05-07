@@ -10350,7 +10350,7 @@
 4	mei	mei	ADP	_	_	6	case	_	dutch=met
 5	gâns	gâns	NOUN	_	VerbForm=Part	6	amod	_	dutch=doorspekt
 6	Hebriuwske	Hebriuwsk	ADJ	_	Degree=Pos	3	nmod	_	dutch=Hebreeuwse
-7	en	en	CCONJ	_	_	0	root	_	dutch=en
+7	en	en	CCONJ	_	_	8	root	_	dutch=en
 8	Grykske	Gryksk	ADJ	_	Number=Plur	5	obl	_	dutch=termen
 9	wurden	wurd	NOUN	_	Number=Plur	5	obl	_	dutch=termen
 10	jout	jout	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=geeft
