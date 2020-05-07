@@ -10390,7 +10390,7 @@
 11	nei	nei	ADP	_	Degree=Pos	13	amod	_	dutch=naar
 12	in	in	DET	_	Definite=Ind	13	det	_	dutch=een
 13	fizioen	fizioen	NOUN	_	Gender=Neut|Number=Sing	7	appos	_	dutch=visioen
-14	út	út	ADP	_	_	0	root	_	dutch=KEY-MISSING
+14	út	út	ADP	_	_	15	root	_	dutch=KEY-MISSING
 15	Ezechiël	Ezechiël	PROPN	_	Gender=Com|Number=Sing	13	nmod	_	dutch=Ezechiël
 16	dêr’t	dêr’t	ADV	_	_	22	advmod	_	dutch=waarin
 17	wêzens	wêzen	NOUN	_	Number=Plur	22	nsubj	_	dutch=wezens
