@@ -10396,7 +10396,7 @@
 17	wêzens	wêzen	NOUN	_	Number=Plur	22	nsubj	_	dutch=wezens
 18	mei	mei	ADP	_	_	19	case	_	dutch=met
 19	rêden	rêd	NOUN	_	Number=Plur	22	obl	_	dutch=raderen
-20	yn	yn	ADP	_	_	16	root	_	dutch=KEY-MISSING
+20	yn	yn	ADP	_	_	16	case	_	dutch=KEY-MISSING
 21	beskreaun	beskriuwe	VERB	_	Number=Plur	22	obl	_	dutch=raderen
 22	wurde	wurde	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	15	acl_relcl	_	dutch=voorkomen
 23	,	,	PUNCT	_	_	26	punct	_	dutch=,
