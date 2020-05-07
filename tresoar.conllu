@@ -10330,7 +10330,7 @@
 11	oerset	oersette	VERB	_	VerbForm=Part	0	root	_	dutch=vertaald
 12	,	,	PUNCT	_	_	19	punct	_	dutch=,
 13	wylst	wylst	SCONJ	_	_	19	mark	_	dutch=terwijl
-14	der	der	ADV	_	_	19	root	_	dutch=KEY-MISSING
+14	der	der	ADV	_	_	19	advmod	_	dutch=KEY-MISSING
 15	ek	ek	ADV	_	_	19	advmod	_	dutch=ook
 16	in	in	DET	_	Definite=Ind	18	det	_	dutch=een
 17	Grykske	Gryksk	ADJ	_	Degree=Pos	18	amod	_	dutch=Griekse
