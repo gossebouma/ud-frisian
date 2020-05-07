@@ -10349,7 +10349,7 @@
 3	kommentaar	kommentaar	NOUN	_	VerbForm=Part	0	root	_	dutch=doorspekt
 4	mei	mei	ADP	_	_	8	case	_	dutch=met
 5	gâns	gâns	NOUN	_	VerbForm=Part	0	root	_	dutch=doorspekt
-6	Hebriuwske	Hebriuwsk	ADJ	_	Degree=Pos	8	nmod	_	dutch=Hebreeuwse
+6	Hebriuwske	Hebriuwsk	ADJ	_	Degree=Pos	3	nmod	_	dutch=Hebreeuwse
 7	en	en	CCONJ	_	_	0	root	_	dutch=en
 8	Grykske	Gryksk	ADJ	_	Number=Plur	5	obl	_	dutch=termen
 9	wurden	wurd	NOUN	_	Number=Plur	5	obl	_	dutch=termen
