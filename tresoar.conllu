@@ -10398,7 +10398,7 @@
 19	rêden	rêd	NOUN	_	Number=Plur	21	obl	_	dutch=raderen
 20	yn	yn	ADP	_	_	16	case	_	dutch=KEY-MISSING
 21	beskreaun	beskriuwe	VERB	_	Number=Plur	13	obl	_	dutch=raderen
-22	wurde	wurde	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	21	acl_relcl	_	dutch=voorkomen
+22	wurde	wurde	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	21	aux_pass	_	dutch=voorkomen
 23	,	,	PUNCT	_	_	26	punct	_	dutch=,
 24	en	en	CCONJ	_	_	26	cc	_	dutch=en
 25	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	26	nmod_poss	_	dutch=zijn
