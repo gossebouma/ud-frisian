@@ -10410,7 +10410,7 @@
 31	,	,	PUNCT	_	_	34	punct	_	dutch=,
 32	troch	troch	ADP	_	_	34	case	_	dutch=door
 33	Gods	God	PROPN	_	Number=Sing	34	nmod_poss	_	dutch=Gods
-34	ried	ried	NOUN	_	Gender=Com|Number=Sing	28	obl	_	dutch=raad
+34	ried	ried	NOUN	_	Gender=Com|Number=Sing	28	appos	_	dutch=raad
 35	.	.	PUNCT	_	_	4	punct	_	dutch=.
 
 # sent_id = 457
