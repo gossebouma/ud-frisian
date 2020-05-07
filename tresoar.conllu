@@ -10475,7 +10475,7 @@
 7	fan	fan	ADP	_	Number=Plur	9	case	_	dutch=boech
 8	it	it	DET	_	Number=Plur	9	det	_	dutch=fun
 9	Paradys	paradys	NOUN	_	Number=Plur	6	nmod	_	dutch=gan-eden
-10	:	:	PUNCT	_	_	4	punct	_	dutch=:
+10	:	:	PUNCT	_	_	6	punct	_	dutch=:
 11	It	it	DET	_	Definite=Def	13	det	_	dutch=Het
 12	wûnderlike	wûnderlike	ADJ	_	Degree=Pos	13	amod	_	dutch=wonderlijke
 13	libbensferhaal	libbensferhaal	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=levensverhaal
