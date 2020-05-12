@@ -10633,7 +10633,7 @@
 4	satiryske	satirysk	ADJ	_	Degree=Pos	5	amod	_	dutch=satirische
 5	poëzy	poëzy	NOUN	_	Gender=Com|Number=Sing	2	obj	_	dutch=poëzie
 6	,	,	PUNCT	_	_	9	punct	_	dutch=,
-7	op	op	ADP	_	_	0	root	_	dutch=KEY-MISSING
+7	op	op	ADP	_	_	9	root	_	dutch=KEY-MISSING
 8	folksaardige	folksaardich	ADJ	_	Gender=Com|Number=Sing	9	obl	_	dutch=trant
 9	wize	wize	NOUN	_	Gender=Com|Number=Sing	2	obl	_	dutch=trant
 10	,	,	PUNCT	_	_	12	punct	_	dutch=,
