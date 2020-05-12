@@ -10580,7 +10580,7 @@
 10	fan	fan	ADP	_	_	11	case	_	dutch=van
 11	Dútslân	Dútslân	PROPN	_	Gender=Neut|Number=Sing	9	nmod	_	dutch=Duitsland
 12	en	en	CCONJ	_	_	16	root	_	dutch=KEY-MISSING
-13	waard	wurde	AUX	_	_	0	root	_	dutch=KEY-MISSING
+13	waard	wurde	AUX	_	_	16	root	_	dutch=KEY-MISSING
 14	yn	yn	ADP	_	Degree=Pos	9	amod	_	dutch=hoofdzakelijk
 15	haadsaak	haadsaak	NOUN	_	Degree=Pos	9	amod	_	dutch=hoofdzakelijk
 16	foarme	foarmje	VERB	_	Degree=Pos	19	amod	_	dutch=Middelhoogduitse
