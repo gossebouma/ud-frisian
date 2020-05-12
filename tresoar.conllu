@@ -10583,7 +10583,7 @@
 13	waard	wurde	AUX	_	_	16	aux_pass	_	dutch=KEY-MISSING
 14	yn	yn	ADP	_	Degree=Pos	15	case	_	dutch=hoofdzakelijk
 15	haadsaak	haadsaak	NOUN	_	Degree=Pos	16	obl	_	dutch=hoofdzakelijk
-16	foarme	foarmje	VERB	_	Degree=Pos	3	amod	_	dutch=Middelhoogduitse
+16	foarme	foarmje	VERB	_	Degree=Pos	3	conj	_	dutch=Middelhoogduitse
 17	út	út	ADP	_	_	19	case	_	dutch=uit
 18	Middelheechdútske	Middelheechdútsk	ADJ	_	Degree=Pos	19	amod	_	dutch=Middelhoogduitse
 19	dialekten	dialekt	NOUN	_	Number=Plur	27	obl	_	dutch=dialecten
