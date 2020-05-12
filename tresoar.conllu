@@ -10871,7 +10871,7 @@
 34	klassyk	klassyk	ADJ	_	Degree=Pos	36	amod	_	dutch=geworden
 35	Hebriuwsk	Hebriuwsk	ADJ	_	VerbForm=Part	36	amod	_	dutch=VAL-MISSING
 36	bibelkommentaar	bibelkommentaar	NOUN	_	_	31	appos	_	dutch=bijbelcommentaar
-37	.	.	PUNCT	_	_	5	root	_	dutch=VAL-MISSING
+37	.	.	PUNCT	_	_	5	nsubj	_	dutch=VAL-MISSING
 
 # sent_id = 480
 # text = Kimchi wie in gelearde dy’t útsein dit bibelkommentaar ek in Hebriuwske grammatika en in Hebriuwsk wurdboek skreau , wurken dy’t iuwenlang gesachhawwend bliuwe soene .
