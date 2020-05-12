@@ -10852,7 +10852,7 @@
 15	David	David	PROPN	_	_	13	nmod	_	dutch=VAL-MISSING
 16	Kimchi	Kimchi	PROPN	_	_	15	flat	_	dutch=Kimchi
 17	,	,	PUNCT	_	_	19	root	_	dutch=VAL-MISSING
-18	ek	ek	ADV	_	_	17	punct	_	dutch=ook
+18	ek	ek	ADV	_	_	19	punct	_	dutch=ook
 19	bekend	bekend	ADJ	_	_	20	advmod	_	dutch=bekend
 20	as	as	SCONJ	_	Degree=Pos	0	root	_	dutch=VAL-MISSING
 21	Radak	Radak	PROPN	_	_	22	mark	_	dutch=Radak
