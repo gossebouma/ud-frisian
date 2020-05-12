@@ -10581,7 +10581,7 @@
 11	Dútslân	Dútslân	PROPN	_	Gender=Neut|Number=Sing	9	nmod	_	dutch=Duitsland
 12	en	en	CCONJ	_	_	16	cc	_	dutch=KEY-MISSING
 13	waard	wurde	AUX	_	_	16	aux_pass	_	dutch=KEY-MISSING
-14	yn	yn	ADP	_	Degree=Pos	9	amod	_	dutch=hoofdzakelijk
+14	yn	yn	ADP	_	Degree=Pos	15	amod	_	dutch=hoofdzakelijk
 15	haadsaak	haadsaak	NOUN	_	Degree=Pos	9	amod	_	dutch=hoofdzakelijk
 16	foarme	foarmje	VERB	_	Degree=Pos	19	amod	_	dutch=Middelhoogduitse
 17	út	út	ADP	_	_	19	case	_	dutch=uit
