@@ -10547,7 +10547,7 @@
 3	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	aux_pass	_	dutch=is
 4	skreaun	skriuwe	VERB	_	VerbForm=Part	0	root	_	dutch=geschreven
 5	troch	troch	ADP	_	_	6	case	_	dutch=door
-6	Itzik	Itzik	PROPN	_	_	4	obl	_	dutch=Itzik
+6	Itzik	Itzik	PROPN	_	_	4	obl_agent	_	dutch=Itzik
 7	Manger	Manger	PROPN	_	_	6	flat	_	dutch=Manger
 8	(	(	PUNCT	_	_	9	punct	_	dutch=(
 9	Czernowitz	Czernowitz	PROPN	_	Gender=Neut|Number=Sing	2	nsubj	_	dutch=Czernowitz
