@@ -10576,7 +10576,7 @@
 6	Midsiuwen	Midsiuwen	PROPN	_	Gender=Com_Neut|Number=Sing	3	obl	_	dutch=Middeleeuwen
 7	yn	yn	ADP	_	_	9	case	_	dutch=in
 8	’e	’e	DET	_	Definite=Def	9	det	_	dutch=de
-9	Rynstreken	Rynstreek	NOUN	_	Number=Plur	27	obl	_	dutch=Rijnstreken
+9	Rynstreken	Rynstreek	NOUN	_	Number=Plur	3	obl	_	dutch=Rijnstreken
 10	fan	fan	ADP	_	_	11	case	_	dutch=van
 11	Dútslân	Dútslân	PROPN	_	Gender=Neut|Number=Sing	9	nmod	_	dutch=Duitsland
 12	en	en	CCONJ	_	_	0	root	_	dutch=KEY-MISSING
