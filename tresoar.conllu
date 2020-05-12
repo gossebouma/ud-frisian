@@ -10673,7 +10673,7 @@
 12	yn	yn	ADP	_	_	15	case	_	dutch=in
 13	it	it	DET	_	Definite=Def	15	det	_	dutch=het
 14	Nederlânsk	Nederlânsk	PROPN	_	Gender=Neut|Number=Sing	5	obl	_	dutch=Nederlands
-15	oerset	oersette	VERB	_	Gender=Neut|Number=Sing	5	obl	_	dutch=Nederlands
+15	oerset	oersette	VERB	_	Gender=Neut|Number=Sing	0	root	_	dutch=Nederlands
 16	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
 # sent_id = 470
