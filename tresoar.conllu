@@ -10841,7 +10841,7 @@
 4	ôfbylding	ôfbylding	NOUN	_	Gender=Com|Number=Sing	5	nsubj	_	dutch=afbeelding
 5	lit	litte	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=laat
 6	de	de	DET	_	Definite=Def	11	det	_	dutch=de
-7	troch	troch	ADP	_	_	0	root	_	dutch=KEY-MISSING
+7	troch	troch	ADP	_	_	9	root	_	dutch=KEY-MISSING
 8	Joshua’s	Joshua’s	PROPN	_	_	9	case	_	dutch=doorJoshua’s
 9	printe	printsje	VERB	_	Number=Plur	10	obl	_	dutch=gedrukte
 10	ynkunabel	ynkunabel	NOUN	_	VerbForm=Part	11	acl	_	dutch=incunabel
