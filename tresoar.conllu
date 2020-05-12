@@ -10857,7 +10857,7 @@
 20	as	as	SCONJ	_	Degree=Pos	0	root	_	dutch=VAL-MISSING
 21	Radak	Radak	PROPN	_	_	19	xcomp	_	dutch=Radak
 22	(	(	PUNCT	_	Gender=Com|Number=Sing	20	advcl	_	dutch=(
-23	Narbonne	Narbonne	PROPN	_	_	24	punct	_	dutch=Narbonne
+23	Narbonne	Narbonne	PROPN	_	_	21	punct	_	dutch=Narbonne
 24	1160	1160	NUM	_	Gender=Neut|Number=Sing	22	acl	_	dutch=1160
 25	-	-	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
 26	dêre	dêre	ADV	_	_	27	punct	_	dutch=aldaar
