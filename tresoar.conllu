@@ -10554,7 +10554,7 @@
 10	1901	1901	NUM	_	_	9	nummod	_	dutch=1901
 11	–	–	PUNCT	_	_	12	punct	_	dutch=–
 12	Israel	Israel	PROPN	_	_	9	conj	_	dutch=Israel
-13	1969	1969	NUM	_	_	12	root	_	dutch=VAL-MISSING
+13	1969	1969	NUM	_	_	12	nummod	_	dutch=VAL-MISSING
 14	)	)	PUNCT	_	_	9	punct	_	dutch=)
 15	in	in	DET	_	Definite=Ind	17	det	_	dutch=een
 16	Jiddysk	Jiddysk	ADJ	_	Gender=Com|Number=Sing	17	nmod	_	dutch=Jiddisch
