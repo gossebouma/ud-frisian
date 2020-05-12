@@ -10866,7 +10866,7 @@
 29	,	,	PUNCT	_	_	24	punct	_	dutch=,
 30	sjen	sjen	VERB	_	_	5	xcomp	_	dutch=zien
 31	,	,	PUNCT	_	VerbForm=Inf	5	obj	_	dutch=,
-32	letter	letter	ADJ	_	Definite=Ind	36	root	_	dutch=VAL-MISSING
+32	letter	letter	ADJ	_	Definite=Ind	36	punct	_	dutch=VAL-MISSING
 33	in	in	DET	_	_	36	det	_	dutch=een
 34	klassyk	klassyk	ADJ	_	Degree=Pos	36	amod	_	dutch=geworden
 35	Hebriuwsk	Hebriuwsk	ADJ	_	VerbForm=Part	36	amod	_	dutch=VAL-MISSING
