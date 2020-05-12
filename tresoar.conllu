@@ -10609,7 +10609,7 @@
 4	en	en	CCONJ	_	_	7	cc	_	dutch=en
 5	de	de	DET	_	_	7	det	_	dutch=KEY-MISSING
 6	fyftjinde	fyftjinde	ADJ	_	_	7	case	_	dutch=vijftiende
-7	iu	iu	NOUN	_	Gender=Com|Number=Sing	3	obl	_	dutch=eeuw
+7	iu	iu	NOUN	_	Gender=Com|Number=Sing	3	conj	_	dutch=eeuw
 8	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	13	aux_pass	_	dutch=werd
 9	it	it	PRON	_	Person=3|PronType=Prs	13	nsubj_pass	_	dutch=het
 10	troch	troch	ADP	_	_	12	case	_	dutch=door
