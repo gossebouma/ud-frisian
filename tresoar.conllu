@@ -10573,7 +10573,7 @@
 3	ûntstie	ûntstean	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=ontstond
 4	yn	yn	ADP	_	_	6	case	_	dutch=in
 5	’e	’e	DET	_	Definite=Def	6	det	_	dutch=de
-6	Midsiuwen	Midsiuwen	PROPN	_	Gender=Com_Neut|Number=Sing	27	obl	_	dutch=Middeleeuwen
+6	Midsiuwen	Midsiuwen	PROPN	_	Gender=Com_Neut|Number=Sing	3	obl	_	dutch=Middeleeuwen
 7	yn	yn	ADP	_	_	9	case	_	dutch=in
 8	’e	’e	DET	_	Definite=Def	9	det	_	dutch=de
 9	Rynstreken	Rynstreek	NOUN	_	Number=Plur	27	obl	_	dutch=Rijnstreken
