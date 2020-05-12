@@ -10607,7 +10607,7 @@
 2	’e	’e	DET	_	Definite=Def	7	det	_	dutch=de
 3	fjirtjinde	fjirtjinde	ADJ	_	_	7	nmod	_	dutch=veertiende
 4	en	en	CCONJ	_	_	6	cc	_	dutch=en
-5	de	de	DET	_	_	0	root	_	dutch=KEY-MISSING
+5	de	de	DET	_	_	6	root	_	dutch=KEY-MISSING
 6	fyftjinde	fyftjinde	ADJ	_	_	3	conj	_	dutch=vijftiende
 7	iu	iu	NOUN	_	Gender=Com|Number=Sing	13	obl	_	dutch=eeuw
 8	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	13	aux_pass	_	dutch=werd
