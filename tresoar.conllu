@@ -10861,7 +10861,7 @@
 24	1160	1160	NUM	_	Gender=Neut|Number=Sing	23	nmod	_	dutch=1160
 25	-	-	PUNCT	_	_	26	root	_	dutch=KEY-MISSING
 26	dêre	dêre	ADV	_	_	23	punct	_	dutch=aldaar
-27	1235	1235	NUM	_	_	26	parataxis	_	dutch=1235
+27	1235	1235	NUM	_	_	26	nmod	_	dutch=1235
 28	)	)	PUNCT	_	_	23	punct	_	dutch=)
 29	,	,	PUNCT	_	_	24	punct	_	dutch=,
 30	sjen	sjen	VERB	_	_	5	xcomp	_	dutch=zien
