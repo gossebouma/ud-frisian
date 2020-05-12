@@ -10758,7 +10758,7 @@
 18	generaasjes	generaasje	NOUN	_	Number=Plur	19	obl	_	dutch=generaties
 19	lang	lang	ADJ	_	Degree=Pos	20	amod	_	dutch=lang
 20	boeken	boek	NOUN	_	VerbForm=Inf	21	obj	_	dutch=boeken
-21	produsearre	produseajre	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	12	acl_relcl	_	dutch=produceerde
+21	produsearre	produseajre	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	13	acl_relcl	_	dutch=produceerde
 22	,	,	PUNCT	_	_	23	punct	_	dutch=,
 23	opmerklik	opmerklik	ADJ	_	Degree=Pos	9	parataxis	_	dutch=opmerkelijk
 24	yn	yn	ADP	_	_	25	case	_	dutch=in
