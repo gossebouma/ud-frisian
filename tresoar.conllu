@@ -10847,7 +10847,7 @@
 10	ynkunabel	ynkunabel	NOUN	_	VerbForm=Part	5	nsubj	_	dutch=incunabel
 11	fan	fan	ADP	_	Gender=Com|Number=Sing	13	case	_	dutch=van
 12	de	de	DET	_	_	13	det	_	dutch=de
-13	hân	hân	NOUN	_	Definite=Def	10	advmod	_	dutch=hand
+13	hân	hân	NOUN	_	Definite=Def	10	nmod	_	dutch=hand
 14	fan	fan	ADP	_	Gender=Com|Number=Sing	15	case	_	dutch=van
 15	David	David	PROPN	_	_	13	nmod	_	dutch=VAL-MISSING
 16	Kimchi	Kimchi	PROPN	_	_	15	flat	_	dutch=Kimchi
