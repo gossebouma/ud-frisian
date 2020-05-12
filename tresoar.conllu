@@ -10898,7 +10898,7 @@
 18	,	,	PUNCT	_	_	19	punct	_	dutch=,
 19	wurken	wurk	NOUN	_	Number=Plur	12	appos	_	dutch=werken
 20	dy’t	dy’t	PRON	_	PronType=Rel	22	nsubj	_	dutch=die
-21	iuwenlang	iuwenlang	ADJ	_	Degree=Pos	24	advmod	_	dutch=eeuwenlang
+21	iuwenlang	iuwenlang	ADJ	_	Degree=Pos	22	advmod	_	dutch=eeuwenlang
 22	gesachhawwend	gesachhawwend	ADJ	_	Number=Plur|Tense=Past|VerbForm=Fin	19	acl_relcl	_	dutch=golden
 23	bliuwe	bliuwe	VERB	_	Degree=Pos	22	xcomp	_	dutch=gezaghebbend
 24	soene	sille	AUX	_	Degree=Pos	22	xcomp	_	dutch=gezaghebbend
