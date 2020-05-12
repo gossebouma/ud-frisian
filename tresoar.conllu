@@ -10838,7 +10838,7 @@
 1	De	de	DET	_	Definite=Def	4	det	_	dutch=De
 2	hjir	hjir	ADV	_	_	3	advmod	_	dutch=hier
 3	ôfprinte	ôfprintsje	VERB	_	VerbForm=Part	4	acl	_	dutch=afgedrukte
-4	ôfbylding	ôfbylding	NOUN	_	Gender=Com|Number=Sing	5	xcomp	_	dutch=afbeelding
+4	ôfbylding	ôfbylding	NOUN	_	Gender=Com|Number=Sing	5	nsubj	_	dutch=afbeelding
 5	lit	litte	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=laat
 6	de	de	DET	_	Definite=Def	11	det	_	dutch=de
 7	troch	troch	ADP	_	_	0	root	_	dutch=KEY-MISSING
