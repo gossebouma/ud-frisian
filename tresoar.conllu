@@ -10868,7 +10868,7 @@
 31	,	,	PUNCT	_	VerbForm=Inf	5	obj	_	dutch=,
 32	letter	letter	ADJ	_	Definite=Ind	0	root	_	dutch=VAL-MISSING
 33	in	in	DET	_	_	36	det	_	dutch=een
-34	klassyk	klassyk	ADJ	_	Degree=Pos	35	advmod	_	dutch=geworden
+34	klassyk	klassyk	ADJ	_	Degree=Pos	36	advmod	_	dutch=geworden
 35	Hebriuwsk	Hebriuwsk	NOUN	_	VerbForm=Part	0	root	_	dutch=VAL-MISSING
 36	bibelkommentaar	bibelkommentaar	NOUN	_	_	31	appos	_	dutch=bijbelcommentaar
 37	.	.	PUNCT	_	_	0	root	_	dutch=VAL-MISSING
