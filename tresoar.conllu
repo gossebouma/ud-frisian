@@ -10544,7 +10544,7 @@
 # NOT ALIGNED
 1	It	it	DET	_	Definite=Def	2	det	_	dutch=Het
 2	boek	boek	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=boek
-3	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	cop	_	dutch=is
+3	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	aux	_	dutch=is
 4	skreaun	skriuwe	VERB	_	VerbForm=Part	0	root	_	dutch=geschreven
 5	troch	troch	ADP	_	_	6	case	_	dutch=door
 6	Itzik	Itzik	PROPN	_	_	4	obl	_	dutch=Itzik
