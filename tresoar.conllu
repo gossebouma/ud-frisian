@@ -10858,7 +10858,7 @@
 21	Radak	Radak	PROPN	_	_	19	xcomp	_	dutch=Radak
 22	(	(	PUNCT	_	Gender=Com|Number=Sing	23	punct	_	dutch=(
 23	Narbonne	Narbonne	PROPN	_	_	21	punct	_	dutch=Narbonne
-24	1160	1160	NUM	_	Gender=Neut|Number=Sing	23	acl	_	dutch=1160
+24	1160	1160	NUM	_	Gender=Neut|Number=Sing	23	nmod	_	dutch=1160
 25	-	-	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
 26	dêre	dêre	ADV	_	_	27	punct	_	dutch=aldaar
 27	1235	1235	NUM	_	_	24	parataxis	_	dutch=1235
