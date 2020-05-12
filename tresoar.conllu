@@ -10756,7 +10756,7 @@
 16	dy’t	dy’t	PRON	_	PronType=Rel	21	nsubj	_	dutch=die
 17	trije	trije	NUM	_	_	18	nummod	_	dutch=drie
 18	generaasjes	generaasje	NOUN	_	Number=Plur	19	obl	_	dutch=generaties
-19	lang	lang	ADJ	_	Degree=Pos	20	amod	_	dutch=lang
+19	lang	lang	ADJ	_	Degree=Pos	21	amod	_	dutch=lang
 20	boeken	boek	NOUN	_	VerbForm=Inf	21	obj	_	dutch=boeken
 21	produsearre	produseajre	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	13	acl_relcl	_	dutch=produceerde
 22	,	,	PUNCT	_	_	23	punct	_	dutch=,
