@@ -10591,7 +10591,7 @@
 21	dêr’t	dêr’t	ADV	_	_	25	advmod	_	dutch=waaraan
 22	Romaanske	Romaansk	ADJ	_	_	28	nsubj	_	dutch=Romaanse
 23	en	en	CCONJ	_	_	25	root	_	dutch=VAL-MISSING
-24	Hebriuwsk-Arameeske	Hebriuwsk-Arameesk	ADJ	_	_	25	root	_	dutch=VAL-MISSING
+24	Hebriuwsk-Arameeske	Hebriuwsk-Arameesk	ADJ	_	_	25	amod	_	dutch=VAL-MISSING
 25	eleminten	elemint	NOUN	_	Number=Plur	28	xcomp	_	dutch=elementen
 26	oan	oan	ADP	_	_	0	root	_	dutch=KEY-MISSING
 27	tafoege	tafoegje	VERB	_	VerbForm=Part	3	advcl	_	dutch=toegevoegd
