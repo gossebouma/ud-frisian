@@ -10558,7 +10558,7 @@
 14	)	)	PUNCT	_	_	9	punct	_	dutch=)
 15	in	in	DET	_	Definite=Ind	17	det	_	dutch=een
 16	Jiddysk	Jiddysk	ADJ	_	Gender=Com|Number=Sing	17	nmod	_	dutch=Jiddisch
-17	dichter	dichter	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=VAL-MISSING
+17	dichter	dichter	NOUN	_	Gender=Com|Number=Sing	6	root	_	dutch=VAL-MISSING
 18	en	en	CCONJ	_	_	19	cc	_	dutch=en
 19	proazaskriuwer	proazaskriuwer	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=VAL-MISSING
 20	.	.	PUNCT	_	_	19	punct	_	dutch=.
