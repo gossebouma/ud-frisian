@@ -10663,7 +10663,7 @@
 2	1958	1958	NUM	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	dutch=vertaalden
 3	waard	wurde	AUX	_	_	15	aux_pass	_	dutch=1958
 4	it	it	DET	_	Number=Plur|Tense=Past|VerbForm=Fin	5	det	_	dutch=vertaalden
-5	boek	boek	NOUN	_	Number=Plur|Tense=Past|VerbForm=Fin	15	root	_	dutch=vertaalden
+5	boek	boek	NOUN	_	Number=Plur|Tense=Past|VerbForm=Fin	15	nsubj_pass	_	dutch=vertaalden
 6	troch	troch	ADP	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	dutch=vertaalden
 7	L.	L.	PROPN	_	_	5	nsubj	_	dutch=L.
 8	Fuks	Fuks	PROPN	_	_	7	flat	_	dutch=Fuks
