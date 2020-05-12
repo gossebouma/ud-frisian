@@ -10649,7 +10649,7 @@
 20	,	,	PUNCT	_	_	22	punct	_	dutch=,
 21	fol	fol	ADJ	_	Degree=Pos	22	amod	_	dutch=fantasierijk
 22	fantasy	fantasy	NOUN	_	Degree=Pos	2	parataxis	_	dutch=fantasierijk
-23	en	en	CCONJ	_	_	24	cc	_	dutch=en
+23	en	en	CCONJ	_	_	25	cc	_	dutch=en
 24	tagelyk	tagelyk	ADV	_	_	21	conj	_	dutch=tegelijkertijd
 25	oangripend	oangripe	VERB	_	Degree=Pos	21	parataxis	_	dutch=aangrijpend
 26	.	.	PUNCT	_	_	2	punct	_	dutch=.
