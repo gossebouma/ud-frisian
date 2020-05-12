@@ -10749,7 +10749,7 @@
 9	oprjochter	oprjochter	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=oprichter
 10	fan	fan	ADP	_	_	12	case	_	dutch=van
 11	de	de	DET	_	Definite=Def	13	det	_	dutch=de
-12	liedende	liedend	VERB	_	Gender=Com|Number=Sing	13	nmod	_	dutch=familiedrukkerij
+12	liedende	liedend	VERB	_	Gender=Com|Number=Sing	13	amod	_	dutch=familiedrukkerij
 13	famyljeprinterij	famyljeprinterij	NOUN	_	Gender=Com|Number=Sing	9	nmod	_	dutch=familiedrukkerij
 14	Soncino	Soncino	PROPN	_	Gender=Com|Number=Sing	12	appos	_	dutch=Soncino
 15	,	,	PUNCT	_	_	21	punct	_	dutch=,
