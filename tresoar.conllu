@@ -10848,7 +10848,7 @@
 11	fan	fan	ADP	_	Gender=Com|Number=Sing	5	nsubj	_	dutch=van
 12	de	de	DET	_	_	13	det	_	dutch=de
 13	hân	hân	NOUN	_	Definite=Def	10	det	_	dutch=hand
-14	fan	fan	ADP	_	Gender=Com|Number=Sing	11	nmod	_	dutch=van
+14	fan	fan	ADP	_	Gender=Com|Number=Sing	15	nmod	_	dutch=van
 15	David	David	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 16	Kimchi	Kimchi	PROPN	_	_	14	nmod	_	dutch=Kimchi
 17	,	,	PUNCT	_	_	0	root	_	dutch=VAL-MISSING
