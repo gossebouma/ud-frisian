@@ -10870,7 +10870,7 @@
 33	in	in	DET	_	_	36	det	_	dutch=een
 34	klassyk	klassyk	ADJ	_	Degree=Pos	36	amod	_	dutch=geworden
 35	Hebriuwsk	Hebriuwsk	ADJ	_	VerbForm=Part	36	amod	_	dutch=VAL-MISSING
-36	bibelkommentaar	bibelkommentaar	NOUN	_	_	31	appos	_	dutch=bijbelcommentaar
+36	bibelkommentaar	bibelkommentaar	NOUN	_	_	10	appos	_	dutch=bijbelcommentaar
 37	.	.	PUNCT	_	_	5	punct	_	dutch=VAL-MISSING
 
 # sent_id = 480
