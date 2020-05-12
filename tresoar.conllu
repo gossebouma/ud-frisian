@@ -10840,7 +10840,7 @@
 3	ôfprinte	ôfprintsje	VERB	_	VerbForm=Part	4	acl	_	dutch=afgedrukte
 4	ôfbylding	ôfbylding	NOUN	_	Gender=Com|Number=Sing	5	nsubj	_	dutch=afbeelding
 5	lit	litte	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=laat
-6	de	de	DET	_	Definite=Def	11	det	_	dutch=de
+6	de	de	DET	_	Definite=Def	10	det	_	dutch=de
 7	troch	troch	ADP	_	_	8	case	_	dutch=KEY-MISSING
 8	Joshua’s	Joshua’s	PROPN	_	_	9	obl_agent	_	dutch=doorJoshua’s
 9	printe	printsje	VERB	_	Number=Plur	10	obl	_	dutch=gedrukte
