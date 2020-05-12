@@ -10589,7 +10589,7 @@
 19	dialekten	dialekt	NOUN	_	Number=Plur	16	obl	_	dutch=dialecten
 20	,	,	PUNCT	_	_	28	punct	_	dutch=,
 21	dêr’t	dêr’t	ADV	_	_	27	obl	_	dutch=waaraan
-22	Romaanske	Romaansk	ADJ	_	_	28	nsubj	_	dutch=Romaanse
+22	Romaanske	Romaansk	ADJ	_	_	28	nsubj_pass	_	dutch=Romaanse
 23	en	en	CCONJ	_	_	25	cc	_	dutch=VAL-MISSING
 24	Hebriuwsk-Arameeske	Hebriuwsk-Arameesk	ADJ	_	_	25	amod	_	dutch=VAL-MISSING
 25	eleminten	elemint	NOUN	_	Number=Plur	22	conj	_	dutch=elementen
