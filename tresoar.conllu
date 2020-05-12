@@ -10604,7 +10604,7 @@
 # alignment =  0-0 1-1 2-2 3-3 5-4 6-5 7-6 8-7 9-8 10-9 11-10 12-11 13-12 14-13 15-14 16-15 17-16
 # NOT ALIGNED
 1	Yn	yn	ADP	_	_	7	case	_	dutch=In
-2	’e	’e	DET	_	Definite=Def	7	det	_	dutch=de
+2	’e	’e	DET	_	Definite=Def	3	det	_	dutch=de
 3	fjirtjinde	fjirtjinde	ADJ	_	_	7	nmod	_	dutch=veertiende
 4	en	en	CCONJ	_	_	6	cc	_	dutch=en
 5	de	de	DET	_	_	6	det	_	dutch=KEY-MISSING
