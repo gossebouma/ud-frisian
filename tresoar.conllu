@@ -10586,7 +10586,7 @@
 16	foarme	foarmje	VERB	_	Degree=Pos	3	conj	_	dutch=Middelhoogduitse
 17	út	út	ADP	_	_	19	case	_	dutch=uit
 18	Middelheechdútske	Middelheechdútsk	ADJ	_	Degree=Pos	19	amod	_	dutch=Middelhoogduitse
-19	dialekten	dialekt	NOUN	_	Number=Plur	27	obl	_	dutch=dialecten
+19	dialekten	dialekt	NOUN	_	Number=Plur	16	obl	_	dutch=dialecten
 20	,	,	PUNCT	_	_	28	punct	_	dutch=,
 21	dêr’t	dêr’t	ADV	_	_	25	advmod	_	dutch=waaraan
 22	Romaanske	Romaansk	ADJ	_	_	28	nsubj	_	dutch=Romaanse
