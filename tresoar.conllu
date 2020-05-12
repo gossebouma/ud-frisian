@@ -10659,7 +10659,7 @@
 # source_text = In 1958 vertaalden L. Fuks en Fri Jolles het in het Nederlands .
 # alignment =  0-0 1-2 2-1 3-2 4-2 5-2 6-3 7-4 8-6 9-7 10-8 11-9 12-10 13-11 14-11 15-12
 # ALIGNED
-1	Yn	yn	ADP	_	_	3	case	_	dutch=In
+1	Yn	yn	ADP	_	_	2	case	_	dutch=In
 2	1958	1958	NUM	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	dutch=vertaalden
 3	waard	wurde	AUX	_	_	5	obl	_	dutch=1958
 4	it	it	DET	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	dutch=vertaalden
