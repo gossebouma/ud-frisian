@@ -10550,7 +10550,7 @@
 6	Itzik	Itzik	PROPN	_	_	4	obl_agent	_	dutch=Itzik
 7	Manger	Manger	PROPN	_	_	6	flat	_	dutch=Manger
 8	(	(	PUNCT	_	_	9	punct	_	dutch=(
-9	Czernowitz	Czernowitz	PROPN	_	Gender=Neut|Number=Sing	6	nsubj	_	dutch=Czernowitz
+9	Czernowitz	Czernowitz	PROPN	_	Gender=Neut|Number=Sing	6	nmod	_	dutch=Czernowitz
 10	1901	1901	NUM	_	_	9	nummod	_	dutch=1901
 11	–	–	PUNCT	_	_	12	punct	_	dutch=–
 12	Israel	Israel	PROPN	_	_	2	parataxis	_	dutch=Israel
