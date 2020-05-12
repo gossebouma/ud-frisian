@@ -10751,7 +10751,7 @@
 11	de	de	DET	_	Definite=Def	13	det	_	dutch=de
 12	liedende	liedend	VERB	_	Gender=Com|Number=Sing	13	amod	_	dutch=familiedrukkerij
 13	famyljeprinterij	famyljeprinterij	NOUN	_	Gender=Com|Number=Sing	9	nmod	_	dutch=familiedrukkerij
-14	Soncino	Soncino	PROPN	_	Gender=Com|Number=Sing	12	appos	_	dutch=Soncino
+14	Soncino	Soncino	PROPN	_	Gender=Com|Number=Sing	13	appos	_	dutch=Soncino
 15	,	,	PUNCT	_	_	21	punct	_	dutch=,
 16	dy’t	dy’t	PRON	_	PronType=Rel	21	nsubj	_	dutch=die
 17	trije	trije	NUM	_	_	18	nummod	_	dutch=drie
