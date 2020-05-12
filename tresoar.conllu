@@ -10595,7 +10595,7 @@
 25	eleminten	elemint	NOUN	_	Number=Plur	22	conj	_	dutch=elementen
 26	oan	oan	ADP	_	_	21	case	_	dutch=KEY-MISSING
 27	tafoege	tafoegje	VERB	_	VerbForm=Part	19	advcl	_	dutch=toegevoegd
-28	waarden	wurde	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	27	acl_relcl	_	dutch=werden
+28	waarden	wurde	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	27	aux_pass	_	dutch=werden
 29	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 467
