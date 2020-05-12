@@ -10668,7 +10668,7 @@
 7	L.	L.	PROPN	_	_	5	nsubj	_	dutch=L.
 8	Fuks	Fuks	PROPN	_	_	7	flat	_	dutch=Fuks
 9	en	en	CCONJ	_	_	10	cc	_	dutch=Fri
-10	Fri	Fri	PROPN	_	_	7	flat	_	dutch=Jolles
+10	Fri	Fri	PROPN	_	_	7	conj	_	dutch=Jolles
 11	Jolles	Jolles	PROPN	_	Person=3|PronType=Prs	10	obj	_	dutch=het
 12	yn	yn	ADP	_	_	15	case	_	dutch=in
 13	it	it	DET	_	Definite=Def	15	det	_	dutch=het
