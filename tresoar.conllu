@@ -10855,7 +10855,7 @@
 18	ek	ek	ADV	_	_	19	advmod	_	dutch=ook
 19	bekend	bekend	ADJ	_	_	20	advmod	_	dutch=bekend
 20	as	as	SCONJ	_	Degree=Pos	0	root	_	dutch=VAL-MISSING
-21	Radak	Radak	PROPN	_	_	19	mark	_	dutch=Radak
+21	Radak	Radak	PROPN	_	_	19	xcomp	_	dutch=Radak
 22	(	(	PUNCT	_	Gender=Com|Number=Sing	20	advcl	_	dutch=(
 23	Narbonne	Narbonne	PROPN	_	_	24	punct	_	dutch=Narbonne
 24	1160	1160	NUM	_	Gender=Neut|Number=Sing	22	acl	_	dutch=1160
