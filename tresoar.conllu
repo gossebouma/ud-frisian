@@ -10560,7 +10560,7 @@
 16	Jiddysk	Jiddysk	ADJ	_	Gender=Com|Number=Sing	17	nmod	_	dutch=Jiddisch
 17	dichter	dichter	NOUN	_	Gender=Com|Number=Sing	6	appos	_	dutch=VAL-MISSING
 18	en	en	CCONJ	_	_	19	cc	_	dutch=en
-19	proazaskriuwer	proazaskriuwer	NOUN	_	Gender=Com|Number=Sing	17	root	_	dutch=VAL-MISSING
+19	proazaskriuwer	proazaskriuwer	NOUN	_	Gender=Com|Number=Sing	17	conj	_	dutch=VAL-MISSING
 20	.	.	PUNCT	_	_	19	punct	_	dutch=.
 
 # sent_id = 466
