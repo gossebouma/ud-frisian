@@ -10647,7 +10647,7 @@
 18	deistich	deistich	ADJ	_	Degree=Pos	19	amod	_	dutch=dagelijks
 19	libben	libben	NOUN	_	Gender=Neut|Number=Sing	15	conj	_	dutch=leven
 20	,	,	PUNCT	_	_	21	punct	_	dutch=,
-21	fol	fol	ADP	_	Degree=Pos	2	parataxis	_	dutch=fantasierijk
+21	fol	fol	ADP	_	Degree=Pos	22	parataxis	_	dutch=fantasierijk
 22	fantasy	fantasy	NOUN	_	Degree=Pos	2	parataxis	_	dutch=fantasierijk
 23	en	en	CCONJ	_	_	24	cc	_	dutch=en
 24	tagelyk	tagelyk	ADV	_	_	21	conj	_	dutch=tegelijkertijd
