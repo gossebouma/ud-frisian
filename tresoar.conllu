@@ -10849,7 +10849,7 @@
 12	de	de	DET	_	_	13	det	_	dutch=de
 13	hân	hân	NOUN	_	Definite=Def	10	det	_	dutch=hand
 14	fan	fan	ADP	_	Gender=Com|Number=Sing	15	case	_	dutch=van
-15	David	David	PROPN	_	_	13	root	_	dutch=VAL-MISSING
+15	David	David	PROPN	_	_	13	nmod	_	dutch=VAL-MISSING
 16	Kimchi	Kimchi	PROPN	_	_	15	flat	_	dutch=Kimchi
 17	,	,	PUNCT	_	_	0	root	_	dutch=VAL-MISSING
 18	ek	ek	ADV	_	_	17	punct	_	dutch=ook
