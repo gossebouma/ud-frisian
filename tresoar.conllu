@@ -10588,7 +10588,7 @@
 18	Middelheechdútske	Middelheechdútsk	ADJ	_	Degree=Pos	19	amod	_	dutch=Middelhoogduitse
 19	dialekten	dialekt	NOUN	_	Number=Plur	16	obl	_	dutch=dialecten
 20	,	,	PUNCT	_	_	28	punct	_	dutch=,
-21	dêr’t	dêr’t	ADV	_	_	27	advmod	_	dutch=waaraan
+21	dêr’t	dêr’t	ADV	_	_	27	obl	_	dutch=waaraan
 22	Romaanske	Romaansk	ADJ	_	_	28	nsubj	_	dutch=Romaanse
 23	en	en	CCONJ	_	_	25	cc	_	dutch=VAL-MISSING
 24	Hebriuwsk-Arameeske	Hebriuwsk-Arameesk	ADJ	_	_	25	amod	_	dutch=VAL-MISSING
