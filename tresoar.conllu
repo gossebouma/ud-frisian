@@ -10845,7 +10845,7 @@
 8	Joshua’s	Joshua’s	PROPN	_	_	9	obl_agent	_	dutch=doorJoshua’s
 9	printe	printsje	VERB	_	Number=Plur	10	obl	_	dutch=gedrukte
 10	ynkunabel	ynkunabel	NOUN	_	VerbForm=Part	5	nsubj	_	dutch=incunabel
-11	fan	fan	ADP	_	Gender=Com|Number=Sing	5	nsubj	_	dutch=van
+11	fan	fan	ADP	_	Gender=Com|Number=Sing	13	nsubj	_	dutch=van
 12	de	de	DET	_	_	13	det	_	dutch=de
 13	hân	hân	NOUN	_	Definite=Def	10	det	_	dutch=hand
 14	fan	fan	ADP	_	Gender=Com|Number=Sing	15	case	_	dutch=van
