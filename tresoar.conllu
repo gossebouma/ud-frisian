@@ -10968,7 +10968,7 @@
 # NOT ALIGNED
 1	In	in	DET	_	Definite=Ind	2	root	_	dutch=Een
 2	ynkunabel	ynkunabel	NOUN	_	_	0	root	_	dutch=(
-3	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	root	_	dutch=is
+3	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	_	dutch=is
 4	in	in	DET	_	Definite=Ind	5	det	_	dutch=een
 5	boek	boek	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=boek
 6	dat	dat	PRON	_	Person=3|PronType=Rel	10	nsubj_pass	_	dutch=dat
