@@ -11165,7 +11165,7 @@
 22	in	in	DET	_	Definite=Ind	23	det	_	dutch=een
 23	taal	taal	NOUN	_	Gender=Com|Number=Sing	17	nmod	_	dutch=taal
 24	mooglik	mooglik	ADJ	_	Degree=Pos	25	advmod	_	dutch=mogelijk
-25	suverder	suver	ADJ	_	Degree=Cmp	23	amod	_	dutch=zuiverder
+25	suverder	suver	ADJ	_	Degree=Cmp	23	acl	_	dutch=zuiverder
 26	as	as	SCONJ	_	_	0	root	_	dutch=VAL-MISSING
 27	it	it	DET	_	Definite=Def	30	det	_	dutch=het
 28	âldst	âld	ADJ	_	Degree=Sup	23	root	_	dutch=VAL-MISSING
