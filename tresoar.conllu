@@ -11172,7 +11172,7 @@
 29	bekende	bekend	ADJ	_	Degree=Pos	30	amod	_	dutch=bekende
 30	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	25	xcomp	_	dutch=Fries
 31	,	,	PUNCT	_	_	32	punct	_	dutch=,
-32	ferheljend	ferhelje	VERB	_	VerbForm=Part	3	advcl	_	dutch=verhalend
+32	ferheljend	ferhelje	VERB	_	VerbForm=Part	8	advcl	_	dutch=verhalend
 33	oer	oer	ADP	_	_	37	case	_	dutch=over
 34	in	in	DET	_	Definite=Ind	37	det	_	dutch=een
 35	oerâlde	oerâld	ADJ	_	Degree=Pos	37	amod	_	dutch=oeroude
