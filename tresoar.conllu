@@ -11044,7 +11044,7 @@
 14	eigen	eigen	ADJ	_	Degree=Pos	15	amod	_	dutch=eigen
 15	oantekeningen	oantekening	NOUN	_	Number=Plur	17	obj	_	dutch=aantekeningen
 16	te	te	ADP	_	_	17	mark	_	dutch=te
-17	meitsjen	meitsje	VERB	_	VerbForm=Inf	4	csubj	_	dutch=maken
+17	meitsjen	meitsje	VERB	_	VerbForm=Inf	4	acl	_	dutch=maken
 18	(	(	PUNCT	_	_	21	punct	_	dutch=(
 19	lykas	lykas	SCONJ	_	_	21	mark	_	dutch=zoals
 20	hjir	hjir	ADV	_	_	21	advmod	_	dutch=hier
