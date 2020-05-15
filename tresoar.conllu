@@ -11170,7 +11170,7 @@
 27	it	it	DET	_	Definite=Def	30	det	_	dutch=het
 28	âldst	âld	ADJ	_	Degree=Sup	30	amod	_	dutch=VAL-MISSING
 29	bekende	bekend	ADJ	_	Degree=Pos	30	amod	_	dutch=bekende
-30	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	3	nsubj	_	dutch=Fries
+30	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	25	nsubj	_	dutch=Fries
 31	,	,	PUNCT	_	_	32	punct	_	dutch=,
 32	ferheljend	ferhelje	VERB	_	VerbForm=Part	3	advcl	_	dutch=verhalend
 33	oer	oer	ADP	_	_	37	case	_	dutch=over
