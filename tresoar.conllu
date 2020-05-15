@@ -11301,7 +11301,7 @@
 7	beneaming	beneaming	NOUN	_	VerbForm=Part	4	obl	_	dutch=geschoven
 8	,	,	PUNCT	_	_	10	punct	_	dutch=,
 9	ûnder	ûnder	ADP	_	_	11	case	_	dutch=onder
-10	oaren	oar	ADJ	_	Gender=Neut|Number=Sing	9	nmod	_	dutch=meer
+10	oaren	oar	ADJ	_	Gender=Neut|Number=Sing	9	fixed	_	dutch=meer
 11	Over	Over	PROPN	_	_	4	case	_	dutch=Over
 12	de	de	PROPN	_	Definite=Def	11	flat	_	dutch=de
 13	Linden	Linden	PROPN	_	Gender=Neut|Number=Sing	11	flat	_	dutch=Linden
