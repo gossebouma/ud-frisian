@@ -11329,7 +11329,7 @@
 4	in	in	DET	_	Definite=Ind	6	det	_	dutch=een
 5	oertsjûgjend	oertsjûgje	VERB	_	VerbForm=Part	6	amod	_	dutch=overtuigend
 6	bewiis	bewiis	NOUN	_	Gender=Neut|Number=Sing	2	conj	_	dutch=bewijs
-7	is	wêze	VERB	_	VerbForm=Part	6	amod	_	dutch=overtuigend
+7	is	wêze	VERB	_	VerbForm=Part	0	root	_	dutch=overtuigend
 8	der	der	ADV	_	VerbForm=Part	6	amod	_	dutch=overtuigend
 9	oant	oant	ADP	_	_	13	case	_	dutch=tot
 10	hjoed	hjoed	ADV	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=ontbreekt
