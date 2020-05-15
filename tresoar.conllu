@@ -11113,7 +11113,7 @@
 # ALIGNED
 1	In	in	DET	_	Definite=Ind	3	det	_	dutch=Een
 2	prominint	prominint	ADJ	_	Degree=Pos	3	amod	_	dutch=prominent
-3	lid	lid	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=lid
+3	lid	lid	NOUN	_	Gender=Neut|Number=Sing	14	root	_	dutch=lid
 4	fan	fan	ADP	_	_	6	case	_	dutch=van
 5	it	it	DET	_	Definite=Def	6	det	_	dutch=het
 6	Frysk	Frysk	PROPN	_	_	3	nmod	_	dutch=Friesch
