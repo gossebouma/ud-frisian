@@ -11347,7 +11347,7 @@
 # ALIGNED
 1	(	(	PUNCT	_	_	2	root	_	dutch=8
 2	jvs	jvs	X	_	_	0	root	_	dutch=8
-3	)	)	PUNCT	_	_	1	punct	_	dutch=.
+3	)	)	PUNCT	_	_	2	punct	_	dutch=.
 
 # sent_id = 503
 # text = Yn 1995 kocht de Ottema-Kingma Stichting by in Dútske antikêr in prachtich fersierd gebedeboekje fan mar 14,5 by 10 sm . dat sûnt yn brûklien by Tresoar bewarre wurdt .
