@@ -10987,7 +10987,7 @@
 19	de	de	DET	_	Definite=Def	20	det	_	dutch=de
 20	tiid	tiid	NOUN	_	Gender=Com|Number=Sing	14	nmod	_	dutch=boekdrukkunst
 21	tusken	tusken	ADP	_	_	22	case	_	dutch=tussen
-22	1450	1450	NUM	_	_	0	root	_	dutch=1450
+22	1450	1450	NUM	_	_	20	root	_	dutch=1450
 23	en	en	CCONJ	_	_	24	cc	_	dutch=en
 24	1501	1501	NUM	_	_	22	conj	_	dutch=1501
 25	.	.	PUNCT	_	_	0	root	_	dutch=.
