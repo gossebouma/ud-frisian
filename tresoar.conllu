@@ -11151,7 +11151,7 @@
 8	kronyk	kronyk	NOUN	_	Gender=Com|Number=Sing	3	obj	_	dutch=kroniek
 9	,	,	PUNCT	_	_	10	punct	_	dutch=,
 10	skreaun	skriuwe	VERB	_	VerbForm=Part	8	acl	_	dutch=geschreven
-11	yn	yn	ADP	_	_	12	case	_	dutch=in
+11	yn	yn	ADP	_	_	17	case	_	dutch=in
 12	in	in	DET	_	_	10	obl	_	dutch=een
 13	oant	oant	ADP	_	_	14	case	_	dutch=tot
 14	dan	dan	ADV	_	_	10	obl	_	dutch=dan
