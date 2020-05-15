@@ -10990,7 +10990,7 @@
 22	1450	1450	NUM	_	_	20	nmod	_	dutch=1450
 23	en	en	CCONJ	_	_	24	cc	_	dutch=en
 24	1501	1501	NUM	_	_	22	conj	_	dutch=1501
-25	.	.	PUNCT	_	_	5	root	_	dutch=.
+25	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
 # sent_id = 486
 # text = By it meitsjen fan dizze útjefte hat de printer , Martin Landsberg fan Leipzig , de regelôfstân en de marzjes mei sin rom hâlden .
