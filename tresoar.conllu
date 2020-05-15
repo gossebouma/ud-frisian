@@ -11034,7 +11034,7 @@
 4	mooglikheid	mooglikheid	NOUN	_	Degree=Pos	2	nsubj	_	dutch=mogelijk
 5	om	om	ADP	_	_	17	mark	_	dutch=om
 6	tusken	tusken	ADP	_	_	17	obl	_	dutch=tussen
-7	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
+7	,	,	PUNCT	_	_	11	root	_	dutch=KEY-MISSING
 8	en	en	CCONJ	_	_	11	cc	_	dutch=en
 9	om	om	ADP	_	_	11	case	_	dutch=rond
 10	de	de	DET	_	Definite=Def	11	det	_	dutch=de
