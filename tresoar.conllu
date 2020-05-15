@@ -10999,7 +10999,7 @@
 # ALIGNED
 1	By	by	ADP	_	_	3	case	_	dutch=Bij
 2	it	it	DET	_	Definite=Def	3	det	_	dutch=het
-3	meitsjen	meitsje	VERB	_	VerbForm=Inf	23	obl	_	dutch=vervaardigen
+3	meitsjen	meitsje	VERB	_	VerbForm=Inf	24	obl	_	dutch=vervaardigen
 4	fan	fan	ADP	_	_	6	case	_	dutch=van
 5	dizze	dizze	DET	_	_	6	det	_	dutch=deze
 6	útjefte	útjefte	NOUN	_	Gender=Com|Number=Sing	3	nmod	_	dutch=uitgave
