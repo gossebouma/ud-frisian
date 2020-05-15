@@ -11364,7 +11364,7 @@
 8	in	in	DET	_	Definite=Ind	10	det	_	dutch=een
 9	Dútske	Dútsk	ADJ	_	Degree=Pos	10	amod	_	dutch=Duitse
 10	antikêr	antikêr	NOUN	_	Gender=Com|Number=Sing	3	obl	_	dutch=antiquair
-11	in	in	DET	_	_	3	obj	_	dutch=een
+11	in	in	DET	_	_	14	obj	_	dutch=een
 12	prachtich	prachtich	ADJ	_	Degree=Pos	14	advmod	_	dutch=prachtig
 13	fersierd	fersierd	ADJ	_	Number=Sing|Tense=Pres|VerbForm=Fin	14	parataxis	_	dutch=verlucht
 14	gebedeboekje	gebedeboek	NOUN	_	_	0	root	_	dutch=14,
