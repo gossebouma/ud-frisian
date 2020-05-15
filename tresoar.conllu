@@ -11267,7 +11267,7 @@
 10	fan	fan	ADP	_	_	12	case	_	dutch=van
 11	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 12	echtheid	echtheid	NOUN	_	Gender=Com|Number=Sing	8	obl	_	dutch=echtheid
-13	fan	fan	ADP	_	_	15	root	_	dutch=VAL-MISSING
+13	fan	fan	ADP	_	_	15	case	_	dutch=VAL-MISSING
 14	it	it	DET	_	Definite=Def	15	det	_	dutch=VAL-MISSING
 15	Oera	Oera	PROPN	_	_	12	nmod	_	dutch=Oera
 16	Linda-boek	Linda-boek	PROPN	_	Gender=Neut|Number=Sing	15	flat	_	dutch=VAL-MISSING
