@@ -11154,7 +11154,7 @@
 11	yn	yn	ADP	_	_	17	case	_	dutch=in
 12	in	in	DET	_	_	17	det	_	dutch=een
 13	oant	oant	ADP	_	_	14	case	_	dutch=tot
-14	dan	dan	ADV	_	_	10	obl	_	dutch=dan
+14	dan	dan	ADV	_	_	16	obl	_	dutch=dan
 15	ta	ta	ADP	_	_	14	case	_	dutch=toe
 16	ûnbekend	ûnbekend	ADJ	_	Degree=Pos	17	amod	_	dutch=onbekend
 17	skrift	skrift	NOUN	_	Gender=Neut|Number=Sing	10	parataxis	_	dutch=schrift
