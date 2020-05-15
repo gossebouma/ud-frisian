@@ -11121,7 +11121,7 @@
 8	,	,	PUNCT	_	_	9	punct	_	dutch=,
 9	J.	J.	PROPN	_	_	3	appos	_	dutch=J.
 10	G.	G.	PROPN	_	_	9	flat	_	dutch=.
-11	Ottema	Ottema	NOUN	_	Gender=Com|Number=Sing	9	nsubj	_	dutch=Ottema
+11	Ottema	Ottema	NOUN	_	Gender=Com|Number=Sing	9	flat	_	dutch=Ottema
 12	,	,	PUNCT	_	_	11	punct	_	dutch=,
 13	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	14	cop	_	dutch=was
 14	oertsjûge	oertsjûgje	VERB	_	VerbForm=Part	0	root	_	dutch=overtuigd
