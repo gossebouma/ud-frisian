@@ -11197,7 +11197,7 @@
 1	Mar	mar	CCONJ	_	_	0	root	_	dutch=Maar
 2	al	al	ADV	_	_	3	advmod	_	dutch=al
 3	gau	gau	ADJ	_	Degree=Pos	0	root	_	dutch=snel
-4	ûntstie	ûntstean	VERB	_	Definite=Def	5	det	_	dutch=de
+4	ûntstie	ûntstean	VERB	_	Definite=Def	0	root	_	dutch=de
 5	der	der	ADV	_	Gender=Com|Number=Sing	0	root	_	dutch=twijfel
 6	twifel	twifel	NOUN	_	_	0	root	_	dutch=toe
 7	.	.	PUNCT	_	_	0	root	_	dutch=.
