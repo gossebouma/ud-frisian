@@ -11333,7 +11333,7 @@
 8	der	der	ADV	_	VerbForm=Part	7	amod	_	dutch=overtuigend
 9	oant	oant	ADP	_	_	10	case	_	dutch=tot
 10	hjoed	hjoed	ADV	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=ontbreekt
-11	de	de	DET	_	_	10	root	_	dutch=KEY-MISSING
+11	de	de	DET	_	_	10	fixed	_	dutch=KEY-MISSING
 12	dei	dei	NOUN	_	_	10	root	_	dutch=KEY-MISSING
 13	noch	noch	ADV	_	Gender=Neut|Number=Sing	10	obl	_	dutch=heden
 14	altyd	altyd	ADV	_	_	0	root	_	dutch=KEY-MISSING
