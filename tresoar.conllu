@@ -11324,7 +11324,7 @@
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-4 7-4 8-7 9-6 12-9 15-10
 # NOT ALIGNED
 1	Mar	mar	CCONJ	_	_	10	mark	_	dutch=Maar
-2	oerienstimming	oerienstimming	NOUN	_	Gender=Com|Number=Sing	10	nsubj	_	dutch=overeenstemming
+2	oerienstimming	oerienstimming	NOUN	_	Gender=Com|Number=Sing	7	nsubj	_	dutch=overeenstemming
 3	of	of	CCONJ	_	_	6	cc	_	dutch=of
 4	in	in	DET	_	Definite=Ind	6	det	_	dutch=een
 5	oertsjûgjend	oertsjûgje	VERB	_	VerbForm=Part	6	amod	_	dutch=overtuigend
