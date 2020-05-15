@@ -11313,7 +11313,7 @@
 19	,	,	PUNCT	_	_	18	punct	_	dutch=,
 20	Eelco	Eelco	PROPN	_	_	10	conj	_	dutch=Eelco
 21	Verwijs	Verwijs	PROPN	_	_	20	flat	_	dutch=VAL-MISSING
-22	en	en	CCONJ	_	_	23	appos	_	dutch=VAL-MISSING
+22	en	en	CCONJ	_	_	23	cc	_	dutch=VAL-MISSING
 23	François	François	PROPN	_	_	10	conj	_	dutch=François
 24	HaverSchmidt	HaverSchmidt	PROPN	_	_	23	flat	_	dutch=VAL-MISSING
 25	.	.	PUNCT	_	_	4	punct	_	dutch=.
