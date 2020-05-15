@@ -11102,7 +11102,7 @@
 15	de	de	DET	_	Definite=Def	16	det	_	dutch=de
 16	titel	titel	NOUN	_	Gender=Com|Number=Sing	19	obj	_	dutch=titel
 17	Oera	Oera	PROPN	_	_	16	appos	_	dutch=Oera
-18	Linda-boek	Linda-boek	PROPN	_	Gender=Neut|Number=Sing	17	root	_	dutch=VAL-MISSING
+18	Linda-boek	Linda-boek	PROPN	_	Gender=Neut|Number=Sing	17	flat	_	dutch=VAL-MISSING
 19	meikrige	meikrije	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	10	acl_relcl	_	dutch=meekreeg
 20	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
