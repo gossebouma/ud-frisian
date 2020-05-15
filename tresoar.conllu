@@ -11146,7 +11146,7 @@
 3	gyng	gean	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=ging
 4	it	it	PRON	_	Definite=Def	3	nsubj	_	dutch=het
 5	om	om	ADP	_	_	8	case	_	dutch=om
-6	in	in	DET	_	_	7	obl	_	dutch=een
+6	in	in	DET	_	_	8	obl	_	dutch=een
 7	iuwenâlde	iuwenâld	ADJ	_	Degree=Pos	8	amod	_	dutch=eeuwenoude
 8	kronyk	kronyk	NOUN	_	Gender=Com|Number=Sing	29	iobj	_	dutch=kroniek
 9	,	,	PUNCT	_	_	10	punct	_	dutch=,
