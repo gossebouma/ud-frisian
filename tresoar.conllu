@@ -10967,7 +10967,7 @@
 # alignment =  0-0 1-2 2-6 3-7 4-8 5-9 6-10 7-11 8-12 9-14 10-13 11-15 12-16 13-17 14-18 15-16 16-20 17-21 18-19 19-20 20-22 21-23 22-24 23-25 24-26
 # NOT ALIGNED
 1	In	in	DET	_	Definite=Ind	2	root	_	dutch=Een
-2	ynkunabel	ynkunabel	NOUN	_	_	0	root	_	dutch=(
+2	ynkunabel	ynkunabel	NOUN	_	_	5	root	_	dutch=(
 3	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	_	dutch=is
 4	in	in	DET	_	Definite=Ind	5	det	_	dutch=een
 5	boek	boek	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=boek
