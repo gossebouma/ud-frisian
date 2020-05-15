@@ -11198,7 +11198,7 @@
 2	al	al	ADV	_	_	3	advmod	_	dutch=al
 3	gau	gau	ADJ	_	Degree=Pos	4	obl	_	dutch=snel
 4	ûntstie	ûntstean	VERB	_	Definite=Def	0	root	_	dutch=de
-5	der	der	ADV	_	Gender=Com|Number=Sing	4	cop	_	dutch=twijfel
+5	der	der	ADV	_	Gender=Com|Number=Sing	4	aux	_	dutch=twijfel
 6	twifel	twifel	NOUN	_	_	4	nsubj	_	dutch=toe
 7	.	.	PUNCT	_	_	0	root	_	dutch=.
 
