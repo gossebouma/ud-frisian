@@ -11090,7 +11090,7 @@
 3	brocht	bringe	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=bracht
 4	hellingbaas	hellingbaas	NOUN	_	Gender=Com|Number=Sing	3	nsubj	_	dutch=hellingbaas
 5	Cornelis	Cornelis	PROPN	_	Gender=Com|Number=Sing	4	appos	_	dutch=Cornelis
-6	over	over	PROPN	_	_	8	case	_	dutch=over
+6	over	over	PROPN	_	_	5	case	_	dutch=over
 7	de	de	PROPN	_	Definite=Def	8	det	_	dutch=de
 8	Linden	Linden	PROPN	_	Gender=Neut|Number=Sing	4	nmod	_	dutch=Linden
 9	in	in	DET	_	Definite=Ind	10	det	_	dutch=een
