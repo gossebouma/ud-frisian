@@ -11298,7 +11298,7 @@
 4	kamen	komme	VERB	_	_	0	root	_	dutch=KEY-MISSING
 5	yn	yn	ADP	_	_	7	case	_	dutch=KEY-MISSING
 6	’e	’e	DET	_	_	7	det	_	dutch=naar
-7	beneaming	beneaming	NOUN	_	VerbForm=Part	1	acl	_	dutch=geschoven
+7	beneaming	beneaming	NOUN	_	VerbForm=Part	4	acl	_	dutch=geschoven
 8	,	,	PUNCT	_	_	10	punct	_	dutch=,
 9	ûnder	ûnder	ADP	_	_	10	case	_	dutch=onder
 10	oaren	oar	ADJ	_	Gender=Neut|Number=Sing	1	nmod	_	dutch=meer
