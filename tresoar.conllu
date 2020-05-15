@@ -11374,7 +11374,7 @@
 18	by	by	ADP	_	_	19	cc	_	dutch=bij
 19	10	10	NUM	_	_	17	conj	_	dutch=10
 20	sm	sm	NOUN	_	Gender=Com|Number=Sing	14	nmod	_	dutch=cm
-21	.	.	PUNCT	_	Gender=Com|Number=Sing	0	root	_	dutch=VAL-MISSING
+21	.	.	PUNCT	_	Gender=Com|Number=Sing	3	root	_	dutch=VAL-MISSING
 22	dat	dat	PRON	_	Person=3|PronType=Rel	28	nsubj_pass	_	dutch=dat
 23	sûnt	sûnt	ADV	_	_	28	advmod	_	dutch=sindsdien
 24	yn	yn	ADP	_	_	25	case	_	dutch=in
