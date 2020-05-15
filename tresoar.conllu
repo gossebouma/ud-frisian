@@ -11163,7 +11163,7 @@
 20	,	,	PUNCT	_	_	23	punct	_	dutch=,
 21	yn	yn	ADP	_	_	23	case	_	dutch=in
 22	in	in	DET	_	Definite=Ind	23	det	_	dutch=een
-23	taal	taal	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	dutch=taal
+23	taal	taal	NOUN	_	Gender=Com|Number=Sing	17	nmod	_	dutch=taal
 24	mooglik	mooglik	ADJ	_	Degree=Pos	25	advmod	_	dutch=mogelijk
 25	suverder	suver	ADJ	_	Degree=Cmp	8	amod	_	dutch=zuiverder
 26	as	as	SCONJ	_	_	0	root	_	dutch=VAL-MISSING
