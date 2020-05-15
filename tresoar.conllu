@@ -11336,7 +11336,7 @@
 11	de	de	DET	_	_	10	fixed	_	dutch=KEY-MISSING
 12	dei	dei	NOUN	_	_	10	fixed	_	dutch=KEY-MISSING
 13	noch	noch	ADV	_	Gender=Neut|Number=Sing	7	obl	_	dutch=heden
-14	altyd	altyd	ADV	_	_	0	root	_	dutch=KEY-MISSING
+14	altyd	altyd	ADV	_	_	7	root	_	dutch=KEY-MISSING
 15	net	net	ADV	_	_	0	root	_	dutch=KEY-MISSING
 16	.	.	PUNCT	_	_	7	punct	_	dutch=.
 
