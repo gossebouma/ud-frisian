@@ -11312,7 +11312,7 @@
 18	Halbertsma	Halbertsma	PROPN	_	_	16	flat	_	dutch=VAL-MISSING
 19	,	,	PUNCT	_	_	18	punct	_	dutch=,
 20	Eelco	Eelco	PROPN	_	_	10	conj	_	dutch=Eelco
-21	Verwijs	Verwijs	PROPN	_	_	20	root	_	dutch=VAL-MISSING
+21	Verwijs	Verwijs	PROPN	_	_	20	flat	_	dutch=VAL-MISSING
 22	en	en	CCONJ	_	_	0	root	_	dutch=VAL-MISSING
 23	François	François	PROPN	_	_	10	conj	_	dutch=François
 24	HaverSchmidt	HaverSchmidt	PROPN	_	_	0	root	_	dutch=VAL-MISSING
