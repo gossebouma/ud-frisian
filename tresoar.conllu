@@ -11167,7 +11167,7 @@
 24	mooglik	mooglik	ADJ	_	Degree=Pos	25	advmod	_	dutch=mogelijk
 25	suverder	suver	ADJ	_	Degree=Cmp	8	amod	_	dutch=zuiverder
 26	as	as	SCONJ	_	_	0	root	_	dutch=VAL-MISSING
-27	it	it	DET	_	Definite=Def	25	advcl	_	dutch=het
+27	it	it	DET	_	Definite=Def	30	advcl	_	dutch=het
 28	âldst	âld	ADJ	_	Degree=Sup	0	root	_	dutch=VAL-MISSING
 29	bekende	bekend	ADJ	_	Degree=Pos	30	amod	_	dutch=bekende
 30	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	3	nsubj	_	dutch=Fries
