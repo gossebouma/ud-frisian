@@ -11309,7 +11309,7 @@
 15	,	,	PUNCT	_	_	16	punct	_	dutch=,
 16	Joast	Joast	PROPN	_	_	10	conj	_	dutch=Joost
 17	Hiddes	Hiddes	PROPN	_	_	16	root	_	dutch=VAL-MISSING
-18	Halbertsma	Halbertsma	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+18	Halbertsma	Halbertsma	PROPN	_	_	16	root	_	dutch=VAL-MISSING
 19	,	,	PUNCT	_	_	18	punct	_	dutch=,
 20	Eelco	Eelco	PROPN	_	_	10	conj	_	dutch=Eelco
 21	Verwijs	Verwijs	PROPN	_	_	0	root	_	dutch=VAL-MISSING
