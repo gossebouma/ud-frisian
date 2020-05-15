@@ -11030,7 +11030,7 @@
 # NOT ALIGNED
 1	Sa	sa	ADV	_	Number=Sing|Tense=Pres|VerbForm=Fin	2	advmod	_	dutch=is
 2	ûntstie	ûntstean	VERB	_	_	4	advmod	_	dutch=Daardoor
-3	de	de	DET	_	_	0	root	_	dutch=KEY-MISSING
+3	de	de	DET	_	_	4	root	_	dutch=KEY-MISSING
 4	mooglikheid	mooglikheid	NOUN	_	Degree=Pos	0	root	_	dutch=mogelijk
 5	om	om	ADP	_	_	17	mark	_	dutch=om
 6	tusken	tusken	ADP	_	_	17	obl	_	dutch=tussen
