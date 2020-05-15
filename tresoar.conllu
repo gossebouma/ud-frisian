@@ -11370,7 +11370,7 @@
 14	gebedeboekje	gebedeboek	NOUN	_	_	0	root	_	dutch=14,
 15	fan	fan	ADP	_	_	20	case	_	dutch=van
 16	mar	mar	ADV	_	_	17	root	_	dutch=KEY-MISSING
-17	14,5	14,5	NUM	_	_	0	root	_	dutch=KEY-MISSING
+17	14,5	14,5	NUM	_	_	20	root	_	dutch=KEY-MISSING
 18	by	by	ADP	_	_	19	cc	_	dutch=bij
 19	10	10	NUM	_	_	0	root	_	dutch=10
 20	sm	sm	NOUN	_	Gender=Com|Number=Sing	13	obj	_	dutch=cm
