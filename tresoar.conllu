@@ -11092,7 +11092,7 @@
 5	Cornelis	Cornelis	PROPN	_	Gender=Com|Number=Sing	4	appos	_	dutch=Cornelis
 6	over	over	PROPN	_	_	5	flat	_	dutch=over
 7	de	de	PROPN	_	Definite=Def	5	flat	_	dutch=de
-8	Linden	Linden	PROPN	_	Gender=Neut|Number=Sing	5	nmod	_	dutch=Linden
+8	Linden	Linden	PROPN	_	Gender=Neut|Number=Sing	5	flat	_	dutch=Linden
 9	in	in	DET	_	Definite=Ind	10	det	_	dutch=een
 10	hânskrift	hânskrift	NOUN	_	Gender=Neut|Number=Sing	3	obj	_	dutch=handschrift
 11	út	út	ADP	_	_	0	root	_	dutch=VAL-MISSING
