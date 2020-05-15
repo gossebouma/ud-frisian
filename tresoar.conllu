@@ -11381,7 +11381,7 @@
 25	brûklien	brûklien	NOUN	_	Gender=Com|Number=Sing	28	obl	_	dutch=bruikleen
 26	by	by	ADP	_	_	27	case	_	dutch=bij
 27	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	25	nmod	_	dutch=Tresoar
-28	bewarre	bewarje	VERB	_	VerbForm=Part	0	root	_	dutch=bewaard
+28	bewarre	bewarje	VERB	_	VerbForm=Part	14	root	_	dutch=bewaard
 29	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	28	aux_pass	_	dutch=wordt
 30	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
