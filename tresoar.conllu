@@ -11144,7 +11144,7 @@
 1	Neffens	neffens	ADP	_	_	2	case	_	dutch=Volgens
 2	him	him	PRON	_	Case=Acc|Person=3|PronType=Prs	3	obl	_	dutch=hem
 3	gyng	gean	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=ging
-4	it	it	PRON	_	Definite=Def	3	root	_	dutch=het
+4	it	it	PRON	_	Definite=Def	3	expl	_	dutch=het
 5	om	om	ADP	_	_	6	case	_	dutch=om
 6	in	in	DET	_	_	7	obl	_	dutch=een
 7	iuwenâlde	iuwenâld	ADJ	_	Degree=Pos	8	amod	_	dutch=eeuwenoude
