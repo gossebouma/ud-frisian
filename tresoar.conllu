@@ -11039,7 +11039,7 @@
 9	om	om	ADP	_	_	11	case	_	dutch=rond
 10	de	de	DET	_	Definite=Def	11	det	_	dutch=de
 11	tekst	tekst	NOUN	_	Gender=Com|Number=Sing	6	conj	_	dutch=tekst
-12	hinne	hinne	ADP	_	_	11	root	_	dutch=KEY-MISSING
+12	hinne	hinne	ADP	_	_	11	case	_	dutch=KEY-MISSING
 13	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
 14	eigen	eigen	ADJ	_	Degree=Pos	15	amod	_	dutch=eigen
 15	oantekeningen	oantekening	NOUN	_	Number=Plur	17	obj	_	dutch=aantekeningen
