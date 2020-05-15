@@ -11157,7 +11157,7 @@
 14	dan	dan	ADV	_	_	16	obl	_	dutch=dan
 15	ta	ta	ADP	_	_	14	case	_	dutch=toe
 16	ûnbekend	ûnbekend	ADJ	_	Degree=Pos	17	amod	_	dutch=onbekend
-17	skrift	skrift	NOUN	_	Gender=Neut|Number=Sing	10	parataxis	_	dutch=schrift
+17	skrift	skrift	NOUN	_	Gender=Neut|Number=Sing	10	obl	_	dutch=schrift
 18	fan	fan	ADP	_	_	19	case	_	dutch=van
 19	runetekens	runeteken	NOUN	_	Gender=Com|Number=Sing	17	nmod	_	dutch=runentekens
 20	,	,	PUNCT	_	_	23	punct	_	dutch=,
