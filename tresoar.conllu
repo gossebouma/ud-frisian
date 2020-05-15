@@ -11028,7 +11028,7 @@
 # source_text = Daardoor is het mogelijk om tussen en rond de tekst eigen aantekeningen te maken ( zoals hier aangebracht in bruine inkt ) .
 # alignment =  0-1 1-0 3-3 4-4 5-5 7-6 8-7 9-8 10-9 13-10 14-11 15-12 16-13 17-14 18-15 19-16 20-17 21-18 22-19 23-20 24-21 25-22
 # NOT ALIGNED
-1	Sa	sa	ADV	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	cop	_	dutch=is
+1	Sa	sa	ADV	_	Number=Sing|Tense=Pres|VerbForm=Fin	2	cop	_	dutch=is
 2	ûntstie	ûntstean	VERB	_	_	4	advmod	_	dutch=Daardoor
 3	de	de	DET	_	_	0	root	_	dutch=KEY-MISSING
 4	mooglikheid	mooglikheid	NOUN	_	Degree=Pos	0	root	_	dutch=mogelijk
