@@ -11621,7 +11621,7 @@
 # NOT ALIGNED
 1	It	it	PRON	_	_	2	nsubj	_	dutch=KEY-MISSING
 2	slagge	slagje	VERB	_	_	0	root	_	dutch=Richthofen
-3	Von	Von	PROPN	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=wist
+3	Von	Von	PROPN	_	Number=Sing|Tense=Past|VerbForm=Fin	2	root	_	dutch=wist
 4	Richthofen	Richthofen	PROPN	_	_	3	flat	_	dutch=Richthofen
 5	en	en	CCONJ	_	_	0	root	_	dutch=KEY-MISSING
 6	krij	krije	VERB	_	Degree=Pos	9	amod	_	dutch=unieke
