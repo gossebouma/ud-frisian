@@ -11646,7 +11646,7 @@
 25	of	of	CCONJ	_	_	27	cc	_	dutch=of
 26	op	op	ADP	_	_	0	root	_	dutch=KEY-MISSING
 27	papier	papier	NOUN	_	Gender=Neut|Number=Sing	24	conj	_	dutch=papier
-28	.	.	PUNCT	_	_	3	punct	_	dutch=.
+28	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
 # sent_id = 514
 # text = Nei syn ferstjerren koe tanksij in opmerklike ynsammelaksje yn 1922 dy kolleksje foar Fryslân oankocht wurde .
