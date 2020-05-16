@@ -11738,7 +11738,7 @@
 8	printe	printsje	VERB	_	VerbForm=Part	0	root	_	dutch=gedrukt
 9	om	om	ADP	_	_	10	case	_	dutch=omstreeks
 10	1480	1480	NUM	_	_	8	obl	_	dutch=1480
-11	hinne	hinne	ADP	_	_	8	obl	_	dutch=1480
+11	hinne	hinne	ADP	_	_	10	obl	_	dutch=1480
 12	.	.	PUNCT	_	_	8	punct	_	dutch=.
 
 # sent_id = 518
