@@ -11611,7 +11611,7 @@
 41	fan	fan	ADP	_	_	44	root	_	dutch=KEY-MISSING
 42	de	de	DET	_	_	44	root	_	dutch=KEY-MISSING
 43	sechstjinde	sechstjinde	ADJ	_	_	44	nmod	_	dutch=zestiende
-44	iu	iu	NOUN	_	Gender=Com|Number=Sing	40	obl	_	dutch=eeuw
+44	iu	iu	NOUN	_	Gender=Com|Number=Sing	40	nmod	_	dutch=eeuw
 45	.	.	PUNCT	_	_	12	punct	_	dutch=.
 
 # sent_id = 513
