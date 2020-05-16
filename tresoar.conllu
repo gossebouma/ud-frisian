@@ -11623,7 +11623,7 @@
 2	slagge	slagje	VERB	_	_	0	root	_	dutch=Richthofen
 3	Von	Von	PROPN	_	Number=Sing|Tense=Past|VerbForm=Fin	2	obj	_	dutch=wist
 4	Richthofen	Richthofen	PROPN	_	_	3	flat	_	dutch=Richthofen
-5	en	en	CCONJ	_	_	6	flat	_	dutch=KEY-MISSING
+5	en	en	CCONJ	_	_	6	appos	_	dutch=KEY-MISSING
 6	krij	krije	VERB	_	Degree=Pos	9	amod	_	dutch=unieke
 7	in	in	DET	_	_	0	root	_	dutch=een
 8	unike	unyk	ADJ	_	Degree=Pos	9	amod	_	dutch=unieke
