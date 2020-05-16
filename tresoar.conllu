@@ -11575,7 +11575,7 @@
 5	von	von	PROPN	_	_	4	flat	_	dutch=von
 6	Richthofen	Richthofen	PROPN	_	_	4	flat	_	dutch=Richthofen
 7	(	(	PUNCT	_	_	10	punct	_	dutch=(
-8	1811	1811	NUM	_	_	10	nummod	_	dutch=1811-
+8	1811	1811	NUM	_	_	3	nummod	_	dutch=1811-
 9	-	-	PUNCT	_	_	3	nmod	_	dutch=1888
 10	1888	1888	NUM	_	_	3	nmod	_	dutch=1888
 11	)	)	PUNCT	_	_	10	punct	_	dutch=)
