@@ -11463,7 +11463,7 @@
 39	fan	fan	ADP	_	_	40	case	_	dutch=VAL-MISSING
 40	frouwe	frouwe	NOUN	_	Gender=Com|Number=Sing	38	nmod	_	dutch=vrouwe
 41	Webbetien	Webbetien	PROPN	_	_	40	appos	_	dutch=Webbetien
-42	Wolters	Wolters	PROPN	_	_	41	root	_	dutch=VAL-MISSING
+42	Wolters	Wolters	PROPN	_	_	41	flat	_	dutch=VAL-MISSING
 43	,	,	PUNCT	_	_	42	punct	_	dutch=,
 44	begeunstichster	begeunstichster	NOUN	_	Gender=Com|Number=Sing	40	appos	_	dutch=begunstigster
 45	fan	fan	ADP	_	_	47	case	_	dutch=van
