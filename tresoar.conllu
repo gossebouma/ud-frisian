@@ -11485,7 +11485,7 @@
 5	meitsje	meitsje	VERB	_	VerbForm=Inf	6	ccomp	_	dutch=vervaardigen
 6	litten	litte	VERB	_	VerbForm=Inf	0	root	_	dutch=laten
 7	foar	foar	ADP	_	_	12	case	_	dutch=voor
-8	in	in	DET	_	Definite=Ind	12	det	_	dutch=een
+8	in	in	DET	_	Definite=Ind	9	det	_	dutch=een
 9	frou	frou	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 10	mei	mei	ADP	_	_	0	root	_	dutch=KEY-MISSING
 11	de	de	DET	_	_	0	root	_	dutch=KEY-MISSING
