@@ -11608,7 +11608,7 @@
 38	yn	yn	ADP	_	_	40	case	_	dutch=KEY-MISSING
 39	it	it	DET	_	Definite=Def	40	det	_	dutch=het
 40	begjin	begjin	NOUN	_	Gender=Neut|Number=Sing	43	nmod	_	dutch=begin
-41	fan	fan	ADP	_	_	0	root	_	dutch=KEY-MISSING
+41	fan	fan	ADP	_	_	44	root	_	dutch=KEY-MISSING
 42	de	de	DET	_	_	44	root	_	dutch=KEY-MISSING
 43	sechstjinde	sechstjinde	ADJ	_	_	44	nmod	_	dutch=zestiende
 44	iu	iu	NOUN	_	Gender=Com|Number=Sing	12	obl	_	dutch=eeuw
