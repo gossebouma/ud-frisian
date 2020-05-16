@@ -11488,7 +11488,7 @@
 8	in	in	DET	_	Definite=Ind	9	det	_	dutch=een
 9	frou	frou	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 10	mei	mei	ADP	_	_	12	root	_	dutch=KEY-MISSING
-11	de	de	DET	_	_	0	root	_	dutch=KEY-MISSING
+11	de	de	DET	_	_	12	root	_	dutch=KEY-MISSING
 12	namme	namme	NOUN	_	Gender=Com|Number=Sing	5	obl	_	dutch=Alijt
 13	Alijt	Alijt	PROPN	_	Gender=Com|Number=Sing	5	obl	_	dutch=Alijt
 14	,	,	PUNCT	_	_	26	punct	_	dutch=,
