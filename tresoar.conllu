@@ -11496,7 +11496,7 @@
 16	sjoen	sjen	VERB	_	_	18	case	_	dutch=gezien
 17	de	de	DET	_	Definite=Def	18	det	_	dutch=de
 18	ynhâld	ynhâld	NOUN	_	Gender=Com|Number=Sing	26	obl	_	dutch=inhoud
-19	fan	fan	ADP	_	_	0	root	_	dutch=KEY-MISSING
+19	fan	fan	ADP	_	_	21	root	_	dutch=KEY-MISSING
 20	it	it	DET	_	_	0	root	_	dutch=KEY-MISSING
 21	boek	boek	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 22	nei	nei	ADP	_	Degree=Pos	26	advmod	_	dutch=waarschijnlijk
