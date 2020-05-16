@@ -11430,7 +11430,7 @@
 6	kolofon	kolofon	NOUN	_	Gender=Neut|Number=Sing	2	obj	_	dutch=colofon
 7	dêr’t	dêr’t	ADV	_	_	0	root	_	dutch=waarin
 8	dúdlik	dúdlik	ADJ	_	Degree=Pos	0	root	_	dutch=duidelijk
-9	yn	yn	ADP	_	_	0	root	_	dutch=waarin
+9	yn	yn	ADP	_	_	7	root	_	dutch=waarin
 10	stiet	stean	NOUN	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	acl_relcl	_	dutch=staat
 11	hoe’t	hoe’t	ADV	_	_	15	advmod	_	dutch=hoe
 12	it	it	PRON	_	Person=3|PronType=Prs	15	nsubj	_	dutch=het
