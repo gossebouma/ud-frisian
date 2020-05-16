@@ -11489,7 +11489,7 @@
 9	frou	frou	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 10	mei	mei	ADP	_	_	12	case	_	dutch=KEY-MISSING
 11	de	de	DET	_	_	12	det	_	dutch=KEY-MISSING
-12	namme	namme	NOUN	_	Gender=Com|Number=Sing	5	obl	_	dutch=Alijt
+12	namme	namme	NOUN	_	Gender=Com|Number=Sing	9	obl	_	dutch=Alijt
 13	Alijt	Alijt	PROPN	_	Gender=Com|Number=Sing	12	appos	_	dutch=Alijt
 14	,	,	PUNCT	_	_	26	punct	_	dutch=,
 15	dy’t	dy’t	PRON	_	PronType=Rel	26	nsubj	_	dutch=die
