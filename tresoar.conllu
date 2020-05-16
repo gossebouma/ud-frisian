@@ -11589,7 +11589,7 @@
 19	it	it	DET	_	Definite=Def	21	det	_	dutch=het
 20	Âldfrysk	Âldfrysk	ADJ	_	Gender=Neut|Number=Sing	21	nmod	_	dutch=Oudfriese
 21	rjocht	rjocht	NOUN	_	Gender=Neut|Number=Sing	17	nmod	_	dutch=recht
-22	,	,	PUNCT	_	_	30	punct	_	dutch=,
+22	,	,	PUNCT	_	_	26	punct	_	dutch=,
 23	sa	sa	SCONJ	_	_	30	mark	_	dutch=zoals
 24	as	as	SCONJ	_	_	23	fixed	_	dutch=zoals
 25	dat	dat	PRON	_	_	26	nsubj	_	dutch=dat
