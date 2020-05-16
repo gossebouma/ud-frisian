@@ -11720,7 +11720,7 @@
 19	de	de	DET	_	_	20	det	_	dutch=KEY-MISSING
 20	titel	titel	NOUN	_	VerbForm=Part	10	acl	_	dutch=getiteld
 21	Freeske	Freesk	ADJ	_	Degree=Pos	20	amod	_	dutch=Freeske
-22	Landriucht	Landriucht	NOUN	_	Gender=Com_Neut|Number=Sing	21	obj	_	dutch=Landriucht
+22	Landriucht	Landriucht	NOUN	_	Gender=Com_Neut|Number=Sing	21	flat	_	dutch=Landriucht
 23	.	.	PUNCT	_	_	1	punct	_	dutch=.
 
 # sent_id = 517
