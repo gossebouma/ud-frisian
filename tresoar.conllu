@@ -11603,7 +11603,7 @@
 33	ynfiering	ynfiering	NOUN	_	Gender=Com|Number=Sing	30	nmod	_	dutch=invoering
 34	fan	fan	ADP	_	_	43	case	_	dutch=van
 35	it	it	DET	_	Definite=Def	43	det	_	dutch=het
-36	Romeinske	Romeinsk	ADJ	_	Degree=Pos	40	amod	_	dutch=Romeins
+36	Romeinske	Romeinsk	ADJ	_	Degree=Pos	37	amod	_	dutch=Romeins
 37	rjocht	rjocht	NOUN	_	Degree=Pos	40	amod	_	dutch=recht
 38	yn	yn	ADP	_	_	0	root	_	dutch=KEY-MISSING
 39	it	it	DET	_	Definite=Def	43	det	_	dutch=het
