@@ -11461,7 +11461,7 @@
 37	yn	yn	ADP	_	_	38	case	_	dutch=in
 38	opdracht	opdracht	NOUN	_	Gender=Com|Number=Sing	28	obl	_	dutch=VAL-MISSING
 39	fan	fan	ADP	_	_	40	case	_	dutch=VAL-MISSING
-40	frouwe	frouwe	NOUN	_	Gender=Com|Number=Sing	28	obl	_	dutch=vrouwe
+40	frouwe	frouwe	NOUN	_	Gender=Com|Number=Sing	38	obl	_	dutch=vrouwe
 41	Webbetien	Webbetien	PROPN	_	_	40	appos	_	dutch=Webbetien
 42	Wolters	Wolters	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 43	,	,	PUNCT	_	_	42	punct	_	dutch=,
