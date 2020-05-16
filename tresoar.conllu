@@ -11719,7 +11719,7 @@
 18	mei	mei	ADP	_	VerbForm=Part	20	case	_	dutch=getiteld
 19	de	de	DET	_	_	20	det	_	dutch=KEY-MISSING
 20	titel	titel	NOUN	_	VerbForm=Part	10	acl	_	dutch=getiteld
-21	Freeske	Freesk	ADJ	_	Degree=Pos	20	advcl	_	dutch=Freeske
+21	Freeske	Freesk	ADJ	_	Degree=Pos	20	appos	_	dutch=Freeske
 22	Landriucht	Landriucht	NOUN	_	Gender=Com_Neut|Number=Sing	21	flat	_	dutch=Landriucht
 23	.	.	PUNCT	_	_	1	punct	_	dutch=.
 
