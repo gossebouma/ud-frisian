@@ -11500,7 +11500,7 @@
 20	it	it	DET	_	_	21	det	_	dutch=KEY-MISSING
 21	boek	boek	NOUN	_	_	18	nmod	_	dutch=KEY-MISSING
 22	nei	nei	ADP	_	Degree=Pos	24	case	_	dutch=waarschijnlijk
-23	alle	al	DET	_	Degree=Pos	24	advmod	_	dutch=waarschijnlijk
+23	alle	al	DET	_	Degree=Pos	24	det	_	dutch=waarschijnlijk
 24	gedachten	gedachte	NOUN	_	Degree=Pos	26	advmod	_	dutch=waarschijnlijk
 25	in	in	DET	_	Definite=Ind	26	det	_	dutch=een
 26	semi-religiuze	semi-religieus	ADJ	_	Gender=Com|Number=Sing	12	acl_relcl	_	dutch=semi-religieuze
