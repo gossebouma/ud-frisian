@@ -11644,7 +11644,7 @@
 23	op	op	ADP	_	_	24	case	_	dutch=op
 24	perkamint	perkamint	NOUN	_	Gender=Neut|Number=Sing	22	obl	_	dutch=perkament
 25	of	of	CCONJ	_	_	27	cc	_	dutch=of
-26	op	op	ADP	_	_	0	root	_	dutch=KEY-MISSING
+26	op	op	ADP	_	_	27	root	_	dutch=KEY-MISSING
 27	papier	papier	NOUN	_	Gender=Neut|Number=Sing	24	conj	_	dutch=papier
 28	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
