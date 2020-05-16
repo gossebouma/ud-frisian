@@ -11498,7 +11498,7 @@
 18	ynhâld	ynhâld	NOUN	_	Gender=Com|Number=Sing	26	obl	_	dutch=inhoud
 19	fan	fan	ADP	_	_	21	case	_	dutch=KEY-MISSING
 20	it	it	DET	_	_	21	det	_	dutch=KEY-MISSING
-21	boek	boek	NOUN	_	_	0	root	_	dutch=KEY-MISSING
+21	boek	boek	NOUN	_	_	18	root	_	dutch=KEY-MISSING
 22	nei	nei	ADP	_	Degree=Pos	26	advmod	_	dutch=waarschijnlijk
 23	alle	al	DET	_	Degree=Pos	26	advmod	_	dutch=waarschijnlijk
 24	gedachten	gedachte	NOUN	_	Degree=Pos	26	advmod	_	dutch=waarschijnlijk
