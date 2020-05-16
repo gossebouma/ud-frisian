@@ -11687,7 +11687,7 @@
 9	noch	noch	ADV	_	_	6	advmod	_	dutch=KEY-MISSING
 10	oare	oar	ADJ	_	Degree=Pos	12	amod	_	dutch=andere
 11	wichtige	wichtich	ADJ	_	Degree=Pos	12	amod	_	dutch=belangrijke
-12	geskriften	geskrift	NOUN	_	Number=Plur	5	obj	_	dutch=geschriften
+12	geskriften	geskrift	NOUN	_	Number=Plur	6	obj	_	dutch=geschriften
 13	foar	foar	ADP	_	_	16	case	_	dutch=voor
 14	it	it	DET	_	Definite=Def	16	det	_	dutch=het
 15	Âldfrysk	Âldfrysk	ADJ	_	Degree=Pos	16	amod	_	dutch=Oudfriese
