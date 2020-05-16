@@ -11404,7 +11404,7 @@
 # alignment =  0-0 1-2 2-3 3-1 4-2 5-6 6-7 7-8 8-9 9-10 10-11 11-12 12-13
 # NOT ALIGNED
 1	Oant	oant	ADP	_	_	12	advmod	_	dutch=Zo
-2	no	no	ADV	_	_	1	advmod	_	dutch=er
+2	no	no	ADV	_	_	1	fixed	_	dutch=er
 3	ta	ta	ADP	_	_	0	root	_	dutch=tot
 4	wiene	wêze	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	12	cop	_	dutch=waren
 5	der	der	ADV	_	_	12	advmod	_	dutch=er
