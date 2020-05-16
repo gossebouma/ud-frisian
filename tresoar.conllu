@@ -11436,7 +11436,7 @@
 12	it	it	PRON	_	Person=3|PronType=Prs	15	nsubj	_	dutch=het
 13	ta	ta	ADP	_	_	14	case	_	dutch=tot
 14	stân	stân	NOUN	_	Gender=Com|Number=Sing	15	obl	_	dutch=stand
-15	kommen	komme	VERB	_	VerbForm=Part	10	root	_	dutch=gekomen
+15	kommen	komme	VERB	_	VerbForm=Part	10	acl	_	dutch=gekomen
 16	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	15	cop	_	dutch=is
 17	:	:	PUNCT	_	_	28	punct	_	dutch=:
 18	broer	broer	NOUN	_	Gender=Com|Number=Sing	28	nsubj	_	dutch=broeder
