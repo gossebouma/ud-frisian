@@ -11445,7 +11445,7 @@
 21	Boalsert	Boalsert	PROPN	_	Gender=Neut|Number=Sing	18	nmod	_	dutch=Bolsward
 22	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	28	aux	_	dutch=heeft
 23	it	it	PRON	_	Person=3|PronType=Prs	28	obj	_	dutch=het
-24	op	op	ADP	_	_	25	root	_	dutch=VAL-MISSING
+24	op	op	ADP	_	_	25	case	_	dutch=VAL-MISSING
 25	22	22	NUM	_	_	28	obl	_	dutch=22
 26	desimber	desimber	PROPN	_	Gender=Com|Number=Sing	25	fixed	_	dutch=VAL-MISSING
 27	1488	1488	NUM	_	_	25	fixed	_	dutch=VAL-MISSING
