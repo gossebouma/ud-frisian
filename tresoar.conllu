@@ -11448,7 +11448,7 @@
 24	op	op	ADP	_	_	0	root	_	dutch=VAL-MISSING
 25	22	22	NUM	_	_	28	obl	_	dutch=22
 26	desimber	desimber	PROPN	_	Gender=Com|Number=Sing	25	fixed	_	dutch=VAL-MISSING
-27	1488	1488	NUM	_	_	25	root	_	dutch=VAL-MISSING
+27	1488	1488	NUM	_	_	25	fixed	_	dutch=VAL-MISSING
 28	ôfmakke	ôfmeitsje	VERB	_	VerbForm=Part	2	parataxis	_	dutch=voltooid
 29	yn	yn	ADP	_	_	31	case	_	dutch=in
 30	it	it	DET	_	Definite=Def	31	det	_	dutch=het
