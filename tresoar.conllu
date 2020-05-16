@@ -11484,7 +11484,7 @@
 4	boekje	boek	NOUN	_	Gender=Neut|Number=Sing	5	obj	_	dutch=boekje
 5	meitsje	meitsje	VERB	_	VerbForm=Inf	6	ccomp	_	dutch=vervaardigen
 6	litten	litte	VERB	_	VerbForm=Inf	0	root	_	dutch=laten
-7	foar	foar	ADP	_	_	12	case	_	dutch=voor
+7	foar	foar	ADP	_	_	9	case	_	dutch=voor
 8	in	in	DET	_	Definite=Ind	9	det	_	dutch=een
 9	frou	frou	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 10	mei	mei	ADP	_	_	0	root	_	dutch=KEY-MISSING
