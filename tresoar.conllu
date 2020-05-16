@@ -11631,7 +11631,7 @@
 10	fan	fan	ADP	_	_	12	case	_	dutch=van
 11	tsien	tsien	NUM	_	_	12	nummod	_	dutch=tien
 12	hânskriften	hânskrift	NOUN	_	Number=Plur	9	nmod	_	dutch=handschriften
-13	byinoar	byinoar	ADV	_	_	0	root	_	dutch=bijeen
+13	byinoar	byinoar	ADV	_	_	6	root	_	dutch=bijeen
 14	út	út	ADP	_	_	20	case	_	dutch=uit
 15	’e	’e	DET	_	Definite=Def	20	det	_	dutch=de
 16	trettjinde	trettjinde	VERB	_	_	20	nmod	_	dutch=dertiende
