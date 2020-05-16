@@ -11405,7 +11405,7 @@
 # NOT ALIGNED
 1	Oant	oant	ADP	_	_	12	advmod	_	dutch=Zo
 2	no	no	ADV	_	_	1	fixed	_	dutch=er
-3	ta	ta	ADP	_	_	0	root	_	dutch=tot
+3	ta	ta	ADP	_	_	1	root	_	dutch=tot
 4	wiene	wêze	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	12	cop	_	dutch=waren
 5	der	der	ADV	_	_	12	advmod	_	dutch=er
 6	gjin	gjin	PRON	_	_	9	det	_	dutch=geen
