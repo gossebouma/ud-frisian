@@ -11682,7 +11682,7 @@
 4	Von	Von	PROPN	_	_	3	appos	_	dutch=Von
 5	Richthofen	Richthofen	PROPN	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	flat	_	dutch=bezit
 6	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=bezit
-7	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	5	nsubj	_	dutch=Tresoar
+7	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	6	nsubj	_	dutch=Tresoar
 8	ek	ek	ADV	_	_	0	root	_	dutch=KEY-MISSING
 9	noch	noch	ADV	_	_	0	root	_	dutch=KEY-MISSING
 10	oare	oar	ADJ	_	Degree=Pos	12	amod	_	dutch=andere
