@@ -11522,7 +11522,7 @@
 8	dêrneist	dêrneist	ADV	_	_	11	amod	_	dutch=daarnaast
 9	oare	oar	ADJ	_	Degree=Pos	11	amod	_	dutch=andere
 10	stichtlike	stichtlik	ADJ	_	Degree=Pos	11	amod	_	dutch=stichtelijke
-11	teksten	tekst	NOUN	_	Number=Plur	6	obl	_	dutch=teksten
+11	teksten	tekst	NOUN	_	Number=Plur	6	nmod	_	dutch=teksten
 12	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 509
