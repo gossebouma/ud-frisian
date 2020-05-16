@@ -11732,7 +11732,7 @@
 2	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	8	aux_pass	_	dutch=is
 3	nei	nei	ADP	_	Degree=Pos	5	case	_	dutch=waarschijnlijk
 4	alle	al	DET	_	Degree=Pos	5	det	_	dutch=waarschijnlijk
-5	gedachten	gedachte	NOUN	_	Degree=Pos	8	advmod	_	dutch=waarschijnlijk
+5	gedachten	gedachte	NOUN	_	Degree=Pos	8	obl	_	dutch=waarschijnlijk
 6	bûten	bûten	ADP	_	_	7	case	_	dutch=buiten
 7	Fryslân	Fryslân	NOUN	_	Gender=Neut|Number=Sing	8	obl	_	dutch=Friesland
 8	printe	printsje	VERB	_	VerbForm=Part	0	root	_	dutch=gedrukt
