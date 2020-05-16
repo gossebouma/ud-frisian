@@ -11593,7 +11593,7 @@
 23	sa	sa	SCONJ	_	_	30	mark	_	dutch=zoals
 24	as	as	SCONJ	_	_	23	fixed	_	dutch=zoals
 25	dat	dat	PRON	_	_	26	nsubj	_	dutch=dat
-26	gou	jilde	VERB	_	_	30	obj	_	dutch=gold
+26	gou	jilde	VERB	_	_	21	obj	_	dutch=gold
 27	yn	yn	ADP	_	_	30	case	_	dutch=VAL-MISSING
 28	’e	’e	DET	_	_	30	det	_	dutch=VAL-MISSING
 29	Fryske	Frysk	ADJ	_	_	30	amod	_	dutch=VAL-MISSING
