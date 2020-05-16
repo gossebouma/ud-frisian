@@ -11369,7 +11369,7 @@
 13	fersierd	fersierd	ADJ	_	Number=Sing|Tense=Pres|VerbForm=Fin	14	amod	_	dutch=verlucht
 14	gebedeboekje	gebedeboek	NOUN	_	_	3	obj	_	dutch=14,
 15	fan	fan	ADP	_	_	20	case	_	dutch=van
-16	mar	mar	ADV	_	_	17	root	_	dutch=KEY-MISSING
+16	mar	mar	ADV	_	_	17	advmod	_	dutch=KEY-MISSING
 17	14,5	14,5	NUM	_	_	20	nummod	_	dutch=KEY-MISSING
 18	by	by	ADP	_	_	19	cc	_	dutch=bij
 19	10	10	NUM	_	_	17	conj	_	dutch=10
