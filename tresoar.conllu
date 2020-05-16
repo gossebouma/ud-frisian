@@ -11638,7 +11638,7 @@
 17	oant	oant	ADP	_	_	19	cc	_	dutch=tot
 18	de	de	DET	_	_	19	det	_	dutch=KEY-MISSING
 19	sechstjinde	sechstjinde	VERB	_	_	16	conj	_	dutch=zestiende
-20	iu	iu	NOUN	_	Gender=Com|Number=Sing	3	obl	_	dutch=eeuw
+20	iu	iu	NOUN	_	Gender=Com|Number=Sing	12	obl	_	dutch=eeuw
 21	,	,	PUNCT	_	_	22	punct	_	dutch=,
 22	skreaun	skriuwe	VERB	_	VerbForm=Part	20	acl	_	dutch=geschreven
 23	op	op	ADP	_	_	24	case	_	dutch=op
