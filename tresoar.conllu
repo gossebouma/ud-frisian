@@ -11627,7 +11627,7 @@
 6	krij	krije	VERB	_	Degree=Pos	2	conj	_	dutch=unieke
 7	in	in	DET	_	_	9	det	_	dutch=een
 8	unike	unyk	ADJ	_	Degree=Pos	9	amod	_	dutch=unieke
-9	kolleksje	kolleksje	NOUN	_	Gender=Com|Number=Sing	6	root	_	dutch=collectie
+9	kolleksje	kolleksje	NOUN	_	Gender=Com|Number=Sing	6	obj	_	dutch=collectie
 10	fan	fan	ADP	_	_	12	case	_	dutch=van
 11	tsien	tsien	NUM	_	_	12	nummod	_	dutch=tien
 12	hânskriften	hânskrift	NOUN	_	Number=Plur	9	nmod	_	dutch=handschriften
