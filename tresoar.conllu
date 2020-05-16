@@ -11597,7 +11597,7 @@
 27	yn	yn	ADP	_	_	30	case	_	dutch=VAL-MISSING
 28	’e	’e	DET	_	_	30	det	_	dutch=VAL-MISSING
 29	Fryske	Frysk	ADJ	_	_	30	amod	_	dutch=VAL-MISSING
-30	lannen	lân	NOUN	_	VerbForm=Inf	12	advcl	_	dutch=landen
+30	lannen	lân	NOUN	_	VerbForm=Inf	12	obl	_	dutch=landen
 31	foar	foar	ADP	_	_	33	case	_	dutch=voor
 32	de	de	DET	_	Definite=Def	33	det	_	dutch=de
 33	ynfiering	ynfiering	NOUN	_	Gender=Com|Number=Sing	30	nmod	_	dutch=invoering
