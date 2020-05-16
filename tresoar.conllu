@@ -11684,7 +11684,7 @@
 6	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=bezit
 7	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	6	nsubj	_	dutch=Tresoar
 8	ek	ek	ADV	_	_	6	root	_	dutch=KEY-MISSING
-9	noch	noch	ADV	_	_	6	root	_	dutch=KEY-MISSING
+9	noch	noch	ADV	_	_	6	advmod	_	dutch=KEY-MISSING
 10	oare	oar	ADJ	_	Degree=Pos	12	amod	_	dutch=andere
 11	wichtige	wichtich	ADJ	_	Degree=Pos	12	amod	_	dutch=belangrijke
 12	geskriften	geskrift	NOUN	_	Number=Plur	5	obj	_	dutch=geschriften
