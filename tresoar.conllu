@@ -11636,7 +11636,7 @@
 15	’e	’e	DET	_	Definite=Def	20	det	_	dutch=de
 16	trettjinde	trettjinde	VERB	_	_	20	nmod	_	dutch=dertiende
 17	oant	oant	ADP	_	_	19	cc	_	dutch=tot
-18	de	de	DET	_	_	0	root	_	dutch=KEY-MISSING
+18	de	de	DET	_	_	19	root	_	dutch=KEY-MISSING
 19	sechstjinde	sechstjinde	VERB	_	_	16	conj	_	dutch=zestiende
 20	iu	iu	NOUN	_	Gender=Com|Number=Sing	3	obl	_	dutch=eeuw
 21	,	,	PUNCT	_	_	22	punct	_	dutch=,
