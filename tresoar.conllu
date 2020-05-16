@@ -11716,7 +11716,7 @@
 15	de	de	DET	_	Definite=Def	16	det	_	dutch=de
 16	boekdrukkeunst	boekdrukkeunst	NOUN	_	Gender=Com|Number=Sing	13	nmod	_	dutch=boekdrukkunst
 17	,	,	PUNCT	_	_	20	punct	_	dutch=,
-18	mei	mei	ADP	_	VerbForm=Part	10	acl	_	dutch=getiteld
+18	mei	mei	ADP	_	VerbForm=Part	20	acl	_	dutch=getiteld
 19	de	de	DET	_	_	0	root	_	dutch=KEY-MISSING
 20	titel	titel	NOUN	_	VerbForm=Part	10	acl	_	dutch=getiteld
 21	Freeske	Freesk	ADJ	_	Degree=Pos	22	amod	_	dutch=Freeske
