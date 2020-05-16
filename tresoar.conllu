@@ -11464,7 +11464,7 @@
 40	frouwe	frouwe	NOUN	_	Gender=Com|Number=Sing	38	nmod	_	dutch=vrouwe
 41	Webbetien	Webbetien	PROPN	_	_	40	appos	_	dutch=Webbetien
 42	Wolters	Wolters	PROPN	_	_	41	flat	_	dutch=VAL-MISSING
-43	,	,	PUNCT	_	_	41	punct	_	dutch=,
+43	,	,	PUNCT	_	_	44	punct	_	dutch=,
 44	begeunstichster	begeunstichster	NOUN	_	Gender=Com|Number=Sing	40	appos	_	dutch=begunstigster
 45	fan	fan	ADP	_	_	47	case	_	dutch=van
 46	de	de	DET	_	Definite=Def	47	det	_	dutch=de
