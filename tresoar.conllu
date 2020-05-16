@@ -11605,7 +11605,7 @@
 35	it	it	DET	_	Definite=Def	43	det	_	dutch=het
 36	Romeinske	Romeinsk	ADJ	_	Degree=Pos	37	amod	_	dutch=Romeins
 37	rjocht	rjocht	NOUN	_	Degree=Pos	40	amod	_	dutch=recht
-38	yn	yn	ADP	_	_	0	root	_	dutch=KEY-MISSING
+38	yn	yn	ADP	_	_	40	root	_	dutch=KEY-MISSING
 39	it	it	DET	_	Definite=Def	43	det	_	dutch=het
 40	begjin	begjin	NOUN	_	Gender=Neut|Number=Sing	43	nmod	_	dutch=begin
 41	fan	fan	ADP	_	_	0	root	_	dutch=KEY-MISSING
