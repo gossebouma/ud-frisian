@@ -11943,7 +11943,7 @@
 16	fûn	fine	VERB	_	VerbForm=Part	0	root	_	dutch=teruggevonden
 17	en	en	CCONJ	_	_	18	cc	_	dutch=en
 18	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	16	conj	_	dutch=heeft
-19	de	de	DET	_	Definite=Def	0	root	_	dutch=de
+19	de	de	DET	_	Definite=Def	21	root	_	dutch=de
 20	Grinzer	grinzer	ADJ	_	Degree=Pos	0	root	_	dutch=Groningse
 21	heechlearaar	heechlearaar	NOUN	_	Gender=Com_Neut|Number=Sing	0	root	_	dutch=D
 22	D.	D.	PROPN	_	_	15	punct	_	dutch=.
