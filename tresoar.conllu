@@ -11974,7 +11974,7 @@
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-3 6-5 7-6 8-7 9-8 10-9 11-11 13-11 14-12 15-13 16-14 18-16 19-16 20-18 21-19 22-20
 # NOT ALIGNED
 1	Erasmus	Erasmus	PROPN	_	Gender=Com|Number=Sing	16	nsubj	_	dutch=Erasmus
-2	fan	fan	PROPN	_	_	1	root	_	dutch=van
+2	fan	fan	PROPN	_	_	1	flat	_	dutch=van
 3	Rotterdam	Rotterdam	PROPN	_	Gender=Neut|Number=Sing	1	nmod	_	dutch=Rotterdam
 4	(	(	PUNCT	_	_	7	punct	_	dutch=(
 5	1467	1467	NUM	_	_	7	nummod	_	dutch=1467-
