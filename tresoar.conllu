@@ -11945,7 +11945,7 @@
 18	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	16	conj	_	dutch=heeft
 19	de	de	DET	_	Definite=Def	21	det	_	dutch=de
 20	Grinzer	grinzer	ADJ	_	Degree=Pos	21	amod	_	dutch=Groningse
-21	heechlearaar	heechlearaar	NOUN	_	Gender=Com_Neut|Number=Sing	0	root	_	dutch=D
+21	heechlearaar	heechlearaar	NOUN	_	Gender=Com_Neut|Number=Sing	18	root	_	dutch=D
 22	D.	D.	PROPN	_	_	21	appos	_	dutch=.
 
 # sent_id = 526
