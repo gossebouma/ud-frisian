@@ -11925,7 +11925,7 @@
 # source_text = Begin jaren negentig van de vorige eeuw is het teruggevonden en heeft de Groningse hoogleraar D .
 # alignment =  2-2 3-3 4-4 5-1 7-2 8-3 9-4 10-5 11-6 12-7 13-8 14-9 15-9 16-10 17-11 18-12 19-13 20-15 21-16
 # NOT ALIGNED
-1	Yn	Yn	ADP	_	_	0	root	_	dutch=KEY-MISSING
+1	Yn	Yn	ADP	_	_	3	root	_	dutch=KEY-MISSING
 2	it	it	DET	_	_	0	root	_	dutch=KEY-MISSING
 3	begjin	begjin	NOUN	_	_	6	appos	_	dutch=negentig
 4	fan	fan	ADP	_	_	12	case	_	dutch=van
