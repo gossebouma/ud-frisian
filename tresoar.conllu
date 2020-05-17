@@ -11877,7 +11877,7 @@
 5	1904	1904	NUM	_	_	6	obl	_	dutch=1904
 6	ferlern	ferlieze	VERB	_	VerbForm=Part	7	xcomp	_	dutch=verloren
 7	gien	gean	VERB	_	VerbForm=Part	0	root	_	dutch=gegaan
-8	by	by	ADP	_	_	10	root	_	dutch=KEY-MISSING
+8	by	by	ADP	_	_	10	case	_	dutch=KEY-MISSING
 9	in	in	DET	_	Definite=Ind	10	det	_	dutch=een
 10	brân	brân	NOUN	_	Gender=Com|Number=Sing	6	obl	_	dutch=brand
 11	dy’t	dy’t	PRON	_	PronType=Rel	16	nsubj	_	dutch=die
