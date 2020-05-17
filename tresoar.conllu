@@ -11938,7 +11938,7 @@
 11	foarige	foarich	ADJ	_	Degree=Pos	12	amod	_	dutch=vorige
 12	iu	iu	NOUN	_	Gender=Com|Number=Sing	6	nmod	_	dutch=eeuw
 13	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	16	aux_pass	_	dutch=is
-14	it	it	PRON	_	Person=3|PronType=Prs	15	nsubj_pass	_	dutch=het
+14	it	it	PRON	_	Person=3|PronType=Prs	16	nsubj_pass	_	dutch=het
 15	wer	wer	ADV	_	VerbForm=Part	0	root	_	dutch=teruggevonden
 16	fûn	fine	VERB	_	VerbForm=Part	0	root	_	dutch=teruggevonden
 17	en	en	CCONJ	_	_	18	cc	_	dutch=en
