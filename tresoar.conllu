@@ -11815,7 +11815,7 @@
 1	Scholia	scholion	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=Scholia
 2	binne	wêze	VERB	_	Person=3|Poss=Yes|PronType=Prs	4	nmod_poss	_	dutch=zijn
 3	gelearde	geleard	ADJ	_	VerbForm=Part	4	amod	_	dutch=geleerde
-4	oantekeningen	oantekening	NOUN	_	Number=Plur	1	parataxis	_	dutch=aantekeningen
+4	oantekeningen	oantekening	NOUN	_	Number=Plur	1	nsubj	_	dutch=aantekeningen
 5	yn	yn	ADP	_	_	7	case	_	dutch=in
 6	’e	’e	DET	_	Definite=Def	7	det	_	dutch=de
 7	marzje	marzje	NOUN	_	Gender=Com|Number=Sing	4	nmod	_	dutch=marge
