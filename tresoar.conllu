@@ -11931,7 +11931,7 @@
 4	fan	fan	ADP	_	_	12	case	_	dutch=van
 5	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 6	jierren	jier	NOUN	_	Number=Plur	0	root	_	dutch=jaren
-7	’	’	PUNCT	_	_	8	root	_	dutch=KEY-MISSING
+7	’	’	PUNCT	_	_	8	punct	_	dutch=KEY-MISSING
 8	90	90	NUM	_	_	6	appos	_	dutch=negentig
 9	fan	fan	ADP	_	_	12	case	_	dutch=van
 10	de	de	DET	_	Definite=Def	12	det	_	dutch=de
