@@ -11980,7 +11980,7 @@
 5	1467	1467	NUM	_	_	7	nummod	_	dutch=1467-
 6	-	-	PUNCT	_	_	7	punct	_	dutch=(
 7	1536	1536	NUM	_	_	3	nmod	_	dutch=1536
-8	)	)	PUNCT	_	_	7	punct	_	dutch=)
+8	)	)	PUNCT	_	_	5	punct	_	dutch=)
 9	,	,	PUNCT	_	_	12	punct	_	dutch=,
 10	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 11	grutste	grut	ADJ	_	Degree=Sup	12	amod	_	dutch=grootste
