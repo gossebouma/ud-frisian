@@ -11977,7 +11977,7 @@
 2	fan	fan	PROPN	_	_	1	flat	_	dutch=van
 3	Rotterdam	Rotterdam	PROPN	_	Gender=Neut|Number=Sing	1	flat	_	dutch=Rotterdam
 4	(	(	PUNCT	_	_	7	punct	_	dutch=(
-5	1467	1467	NUM	_	_	1	nummod	_	dutch=1467-
+5	1467	1467	NUM	_	_	1	nmod	_	dutch=1467-
 6	-	-	PUNCT	_	_	7	punct	_	dutch=(
 7	1536	1536	NUM	_	_	3	nmod	_	dutch=1536
 8	)	)	PUNCT	_	_	5	punct	_	dutch=)
