@@ -11870,7 +11870,7 @@
 # source_text = Het manuscript zelf is in 1904 verloren gegaan in een brand die de bibliotheek van Turijn verwoest heeft .
 # alignment =  0-0 1-2 2-3 3-4 4-5 5-6 6-7 8-9 9-10 10-11 11-12 12-13 13-14 14-15 15-16 16-17 17-18
 # NOT ALIGNED
-1	It	it	DET	_	Definite=Def	2	root	_	dutch=Het
+1	It	it	DET	_	Definite=Def	2	det	_	dutch=Het
 2	manuskript	manuskript	NOUN	_	_	0	root	_	dutch=zelf
 3	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	aux	_	dutch=is
 4	yn	yn	ADP	_	_	5	case	_	dutch=in
