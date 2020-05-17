@@ -11812,7 +11812,7 @@
 # source_text = Scholia zijn geleerde aantekeningen in de marge of tussen de regels van een manuscript van een tekst uit de Griekse of Latijnse letterkunde .
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22 23-23
 # ALIGNED
-1	Scholia	scholion	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=Scholia
+1	Scholia	scholion	NOUN	_	Gender=Com|Number=Sing	4	root	_	dutch=Scholia
 2	binne	wêze	VERB	_	Person=3|Poss=Yes|PronType=Prs	4	nmod_poss	_	dutch=zijn
 3	gelearde	geleard	ADJ	_	VerbForm=Part	4	amod	_	dutch=geleerde
 4	oantekeningen	oantekening	NOUN	_	Number=Plur	0	root	_	dutch=aantekeningen
