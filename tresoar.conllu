@@ -11848,7 +11848,7 @@
 4	professor	professor	NOUN	_	Gender=Com|Number=Sing	2	nmod	_	dutch=professor
 5	K.	K.	PROPN	_	_	4	appos	_	dutch=K.
 6	Zacher	Zacher	PROPN	_	_	5	flat	_	dutch=Zacher
-7	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	9	aux_pass	_	dutch=zijn
+7	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	10	aux_pass	_	dutch=zijn
 8	dizze	dizze	DET	_	_	9	det	_	dutch=deze
 9	scholia	scholion	NOUN	_	VerbForm=Part	0	root	_	dutch=afgeschreven
 10	oerskreaun	oerskriuwe	VERB	_	Number=Plur	9	nsubj_pass	_	dutch=scholia
