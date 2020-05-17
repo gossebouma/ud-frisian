@@ -11825,7 +11825,7 @@
 11	rigels	rigel	NOUN	_	Number=Plur	7	conj	_	dutch=regels
 12	fan	fan	ADP	_	_	14	case	_	dutch=van
 13	in	in	DET	_	Definite=Ind	14	det	_	dutch=een
-14	hânskrift	hânskrift	NOUN	_	Gender=Neut|Number=Sing	4	nmod	_	dutch=manuscript
+14	hânskrift	hânskrift	NOUN	_	Gender=Neut|Number=Sing	7	nmod	_	dutch=manuscript
 15	fan	fan	ADP	_	_	17	case	_	dutch=van
 16	in	in	DET	_	Definite=Ind	17	det	_	dutch=een
 17	tekst	tekst	NOUN	_	Gender=Com|Number=Sing	14	nmod	_	dutch=tekst
