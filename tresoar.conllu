@@ -11798,7 +11798,7 @@
 8	en	en	CCONJ	_	_	10	cc	_	dutch=en
 9	losse	losse	ADJ	_	Degree=Pos	10	amod	_	dutch=losse
 10	bledsjes	blêd	NOUN	_	Number=Plur	7	conj	_	dutch=blaadjes
-11	mei	mei	ADP	_	_	12	root	_	dutch=KEY-MISSING
+11	mei	mei	ADP	_	_	12	case	_	dutch=KEY-MISSING
 12	oantekeningen	oantekening	NOUN	_	Number=Plur	10	nmod	_	dutch=aantekeningen
 13	lei	lei	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=lag
 14	ûnopfallend	ûnopfallend	ADJ	_	Degree=Pos	13	advmod	_	dutch=onopvallend
