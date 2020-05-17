@@ -11916,7 +11916,7 @@
 20	de	de	DET	_	Definite=Def	0	root	_	dutch=VAL-MISSING
 21	Buma	Buma	PROPN	_	_	18	nmod	_	dutch=Buma
 22	Biblioteek	Biblioteek	PROPN	_	_	0	root	_	dutch=VAL-MISSING
-23	telâne	telâne	ADJ	_	VerbForm=Part	0	root	_	dutch=terechtgekomen
+23	telâne	telâne	ADJ	_	VerbForm=Part	24	root	_	dutch=terechtgekomen
 24	kommen	komme	VERB	_	VerbForm=Part	0	root	_	dutch=terechtgekomen
 25	.	.	PUNCT	_	_	24	punct	_	dutch=.
 
