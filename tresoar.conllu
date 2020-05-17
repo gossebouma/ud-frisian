@@ -11777,7 +11777,7 @@
 # ALIGNED
 1	Oantekeningen	oantekening	NOUN	_	Number=Plur	0	root	_	dutch=Aantekeningen
 2	by	by	ADP	_	_	3	case	_	dutch=bij
-3	de	de	DET	_	Gender=Com|Number=Sing	1	nmod	_	dutch=komedie
+3	de	de	DET	_	Gender=Com|Number=Sing	4	nmod	_	dutch=komedie
 4	komeedzje	komeedzje	NOUN	_	Gender=Com|Number=Sing	1	nmod	_	dutch=komedie
 5	Aves	Aves	PROPN	_	_	3	appos	_	dutch=Aves
 6	fan	fan	PROPN	_	_	5	flat	_	dutch=van
