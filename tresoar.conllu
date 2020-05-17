@@ -11768,7 +11768,7 @@
 20	neilittenskip	neilittenskip	NOUN	_	Gender=Com|Number=Sing	17	obl	_	dutch=nalatenschap
 21	fan	fan	ADP	_	_	0	root	_	dutch=VAL-MISSING
 22	P.	P.	PROPN	_	_	20	nmod	_	dutch=P.
-23	H.	H.	PROPN	_	_	0	root	_	dutch=.
+23	H.	H.	PROPN	_	_	22	root	_	dutch=.
 
 # sent_id = 519
 # text = Oantekeningen by de komeedzje Aves fan Aristophanes
