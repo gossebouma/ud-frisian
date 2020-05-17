@@ -11863,7 +11863,7 @@
 19	Turyn	Turyn	PROPN	_	Gender=Neut|Number=Sing	20	obl	_	dutch=Turijn
 20	bewarre	bewarje	VERB	_	VerbForm=Part	13	acl_relcl	_	dutch=bewaard
 21	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	20	aux_pass	_	dutch=werd
-22	.	.	PUNCT	_	_	9	punct	_	dutch=.
+22	.	.	PUNCT	_	_	10	punct	_	dutch=.
 
 # sent_id = 523
 # text = It manuskript is yn 1904 ferlern gien by in brân dy’t de biblioteek fan Turyn ferwoaste hat .
