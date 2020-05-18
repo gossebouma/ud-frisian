@@ -12269,7 +12269,7 @@
 10	dêr’t	dêr’t	ADV	_	_	14	advmod	_	dutch=waarop
 11	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 12	boeken	boek	NOUN	_	Number=Plur	14	nsubj	_	dutch=boeken
-13	op	op	ADP	_	_	14	root	_	dutch=KEY-MISSING
+13	op	op	ADP	_	_	10	root	_	dutch=KEY-MISSING
 14	stean	stean	VERB	_	VerbForm=Inf	9	acl_relcl	_	dutch=staan
 15	koenen	kinne	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	14	aux	_	dutch=konden
 16	.	.	PUNCT	_	_	7	punct	_	dutch=.
