@@ -12698,7 +12698,7 @@
 14	,	,	PUNCT	_	_	17	punct	_	dutch=,
 15	syn	syn	PRON	_	_	16	root	_	dutch=KEY-MISSING
 16	produksje	produksje	NOUN	_	_	17	nsubj	_	dutch=KEY-MISSING
-17	giet	gean	VERB	_	_	0	root	_	dutch=KEY-MISSING
+17	giet	gean	VERB	_	_	13	root	_	dutch=KEY-MISSING
 18	dan	dan	ADV	_	_	20	advmod	_	dutch=dan
 19	hielendal	hielendal	ADV	_	_	20	advmod	_	dutch=alleen
 20	sitten	sitte	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	17	xcomp	_	dutch=produceert
