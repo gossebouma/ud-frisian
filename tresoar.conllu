@@ -12299,7 +12299,7 @@
 18	type	type	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=type
 19	boekekast	boekekast	NOUN	_	Gender=Com|Number=Sing	18	nmod	_	dutch=boekenkast
 20	pleatst	pleatse	VERB	_	Gender=Com|Number=Sing	0	root	_	dutch=boekenkast
-21	.	.	PUNCT	_	_	0	root	_	dutch=.
+21	.	.	PUNCT	_	_	20	root	_	dutch=.
 
 # sent_id = 543
 # text = Sa waard yn ’e Frjentsjerter Universiteitsbiblioteek yn 1683 de midsiuwske opstelling feroare yn in saneamde sealbiblioteek .
