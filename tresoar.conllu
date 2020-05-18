@@ -12560,7 +12560,7 @@
 10	fersierd	fersiere	VERB	_	VerbForm=Part	3	conj	_	dutch=versierd
 11	mei	mei	ADP	_	_	15	case	_	dutch=met
 12	yn	yn	ADP	_	_	13	case	_	dutch=KEY-MISSING
-13	goud	goud	NOUN	_	Degree=Pos	14	amod	_	dutch=gouden
+13	goud	goud	NOUN	_	Degree=Pos	14	obl	_	dutch=gouden
 14	útfierde	útfiere	VERB	_	Degree=Pos	15	amod	_	dutch=gouden
 15	inisjalen	inisjaal	NOUN	_	Number=Plur	10	obl	_	dutch=initialen
 16	.	.	PUNCT	_	_	3	punct	_	dutch=.
