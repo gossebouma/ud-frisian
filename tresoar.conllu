@@ -12623,7 +12623,7 @@
 19	altyd	altyd	ADV	_	_	23	advmod	_	dutch=steeds
 20	tige	tige	ADJ	_	_	23	advmod	_	dutch=KEY-MISSING
 21	de	de	DET	_	_	22	root	_	dutch=KEY-MISSING
-22	muoite	muoite	NOUN	_	VerbForm=Part	30	amod	_	dutch=handgeschreven
+22	muoite	muoite	NOUN	_	VerbForm=Part	23	amod	_	dutch=handgeschreven
 23	wurdich	wurdich	ADJ	_	Degree=Pos	0	root	_	dutch=begeerlijk
 24	om	om	ADP	_	_	32	mark	_	dutch=om
 25	in	in	DET	_	Definite=Ind	30	det	_	dutch=een
