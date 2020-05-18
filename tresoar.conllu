@@ -12379,7 +12379,7 @@
 15	en	en	CCONJ	_	_	22	cc	_	dutch=en
 16	waarden	wurde	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	22	aux_pass	_	dutch=werden
 17	de	de	DET	_	Definite=Def	18	det	_	dutch=de
-18	titels	titel	NOUN	_	Number=Plur	22	iobj	_	dutch=titels
+18	titels	titel	NOUN	_	Number=Plur	22	obj	_	dutch=titels
 19	op	op	ADP	_	_	21	case	_	dutch=op
 20	’e	’e	DET	_	Definite=Def	21	det	_	dutch=de
 21	snee	snee	NOUN	_	Gender=Com|Number=Sing	18	nmod	_	dutch=snee
