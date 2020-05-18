@@ -12067,7 +12067,7 @@
 5	Erasmus	Erasmus	PROPN	_	Gender=Com|Number=Sing	8	nsubj	_	dutch=Erasmus
 6	dat	dat	DET	_	_	7	det	_	dutch=dit
 7	boek	boek	NOUN	_	Gender=Neut|Number=Sing	8	obj	_	dutch=werk
-8	brûkt	brûkt	VERB	_	VerbForm=Part	1	ccomp	_	dutch=gebruikt
+8	brûkt	brûkt	VERB	_	VerbForm=Part	3	ccomp	_	dutch=gebruikt
 9	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	8	aux	_	dutch=heeft
 10	om	om	ADP	_	_	15	mark	_	dutch=om
 11	mear	folle	ADV	_	PronType=Ind	15	obj	_	dutch=meer
