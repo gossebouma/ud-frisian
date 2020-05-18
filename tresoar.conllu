@@ -12188,7 +12188,7 @@
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
 2	eksimplaren	eksimplaar	NOUN	_	Number=Plur	9	nsubj	_	dutch=exemplaren
 3	dy’t	dy’t	PRON	_	_	0	root	_	dutch=KEY-MISSING
-4	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	5	nmod	_	dutch=Tresoar
+4	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	7	nmod	_	dutch=Tresoar
 5	yn	yn	ADP	_	Gender=Neut|Number=Sing	6	nmod	_	dutch=bezit
 6	besit	besit	NOUN	_	Gender=Neut|Number=Sing	2	nmod	_	dutch=bezit
 7	hat	hawwe	VERB	_	Gender=Neut|Number=Sing	2	nmod	_	dutch=bezit
