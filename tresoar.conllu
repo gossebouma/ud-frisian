@@ -12469,7 +12469,7 @@
 # alignment =  0-0 1-1 6-2 10-3 11-4 12-6 13-7 14-8 15-9 16-10 17-11
 # NOT ALIGNED
 1	Dit	dit	DET	_	_	2	det	_	dutch=Dit
-2	boek	boek	NOUN	_	Gender=Neut|Number=Sing	17	nsubj	_	dutch=boek
+2	boek	boek	NOUN	_	Gender=Neut|Number=Sing	17	nsubj_pass	_	dutch=boek
 3	,	,	PUNCT	_	_	7	punct	_	dutch=KEY-MISSING
 4	dat	dat	SCONJ	_	_	7	nsubj	_	dutch=KEY-MISSING
 5	der	der	ADV	_	_	7	obl	_	dutch=KEY-MISSING
