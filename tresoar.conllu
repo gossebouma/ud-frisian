@@ -12028,7 +12028,7 @@
 24	hat	hawwe	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	13	acl_relcl	_	dutch=heeft
 25	út	út	ADP	_	_	0	root	_	dutch=uit
 26	Erasmus	Erasmus	PROPN	_	Gender=Com|Number=Sing	28	root	_	dutch=Erasmus
-27	syn	syn	PRON	_	_	28	punct	_	dutch=van
+27	syn	syn	PRON	_	_	28	nmod_poss	_	dutch=van
 28	boekesamling	boekesamling	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=Erasmus
 29	as	as	SCONJ	_	_	30	mark	_	dutch=als
 30	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	20	advcl	_	dutch=Tresoar
