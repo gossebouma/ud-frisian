@@ -12007,7 +12007,7 @@
 3	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	6	cop	_	dutch=zijn
 4	it	it	PRON	_	Person=3|PronType=Prs	6	nsubj	_	dutch=het
 5	mar	mar	ADV	_	_	6	advmod	_	dutch=maar
-6	fiif	fiif	NUM	_	_	9	advcl	_	dutch=vijf
+6	fiif	fiif	NUM	_	_	18	advcl	_	dutch=vijf
 7	,	,	PUNCT	_	_	6	punct	_	dutch=,
 8	der	der	ADV	_	_	9	expl	_	dutch=er
 9	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	18	aux	_	dutch=is
