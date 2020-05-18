@@ -12705,7 +12705,7 @@
 21	yn	yn	ADP	_	_	23	root	_	dutch=KEY-MISSING
 22	it	it	DET	_	_	23	root	_	dutch=KEY-MISSING
 23	brevier	brevier	NOUN	_	_	0	root	_	dutch=KEY-MISSING
-24	en	en	CCONJ	_	_	0	root	_	dutch=KEY-MISSING
+24	en	en	CCONJ	_	_	26	root	_	dutch=KEY-MISSING
 25	de	de	DET	_	_	0	root	_	dutch=KEY-MISSING
 26	gebedeboeken	gebedeboek	NOUN	_	_	0	root	_	dutch=VAL-MISSING
 27	.	.	PUNCT	_	_	26	punct	_	dutch=.
