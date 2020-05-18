@@ -12162,7 +12162,7 @@
 2	safier’t	safier’t	ADV	_	Degree=Pos	4	advmod	_	dutch=bekend
 3	wy	wy	PRON	_	_	4	nsubj	_	dutch=KEY-MISSING
 4	witte	witte	VERB	_	_	0	root	_	dutch=KEY-MISSING
-5	binne	wêze	AUX	_	_	9	aux	_	dutch=er
+5	binne	wêze	AUX	_	_	9	aux_pass	_	dutch=er
 6	sa’n	sa’n	PRON	_	_	7	advmod	_	dutch=ongeveer
 7	20	20	NUM	_	_	8	nummod	_	dutch=20
 8	titels	titel	NOUN	_	Number=Plur	9	nsubj	_	dutch=titels
