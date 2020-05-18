@@ -12517,7 +12517,7 @@
 12	en	en	CCONJ	_	_	13	cc	_	dutch=en
 13	skriuwer	skriuwer	NOUN	_	Gender=Com|Number=Sing	11	conj	_	dutch=schrijver
 14	Cicero	Cicero	PROPN	_	Gender=Com|Number=Sing	11	appos	_	dutch=Cicero
-15	(	(	PUNCT	_	_	16	root	_	dutch=(
+15	(	(	PUNCT	_	_	16	punct	_	dutch=(
 16	106	106	NUM	_	_	0	root	_	dutch=106-
 17	-	-	SYM	_	_	0	root	_	dutch=VAL-MISSING
 18	43	43	NUM	_	_	0	root	_	dutch=VAL-MISSING
