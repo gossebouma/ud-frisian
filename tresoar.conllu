@@ -12074,7 +12074,7 @@
 12	te	te	ADP	_	_	15	compound_prt	_	dutch=te
 13	witten	witte	VERB	_	VerbForm=Inf	12	fixed	_	dutch=weten
 14	te	te	ADP	_	_	15	mark	_	dutch=te
-15	kommen	komme	VERB	_	VerbForm=Inf	5	acl	_	dutch=komen
+15	kommen	komme	VERB	_	VerbForm=Inf	8	acl	_	dutch=komen
 16	oangeande	oangeande	ADP	_	_	18	case	_	dutch=over
 17	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	18	nmod_poss	_	dutch=zijn
 18	krupsje	krupsje	NOUN	_	Gender=Com|Number=Sing	15	obl	_	dutch=kwaal
