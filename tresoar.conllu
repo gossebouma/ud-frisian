@@ -12631,7 +12631,7 @@
 27	de	de	DET	_	_	28	root	_	dutch=KEY-MISSING
 28	hân	hân	NOUN	_	_	29	obl	_	dutch=KEY-MISSING
 29	skreaun	skriuwe	VERB	_	VerbForm=Part	30	amod	_	dutch=handgeschreven
-30	boek	boek	NOUN	_	Gender=Neut|Number=Sing	32	obj	_	dutch=boek
+30	boek	boek	NOUN	_	Gender=Neut|Number=Sing	34	obj	_	dutch=boek
 31	yn	yn	ADP	_	_	32	case	_	dutch=KEY-MISSING
 32	besit	besit	NOUN	_	VerbForm=Inf	34	xcomp	_	dutch=bezitten
 33	te	te	ADP	_	_	34	mark	_	dutch=te
