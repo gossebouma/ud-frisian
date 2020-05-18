@@ -12416,7 +12416,7 @@
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 7-7 8-8 9-9 10-10 11-11 12-12 14-13 15-14 16-15 17-15 18-15 19-16 20-17 21-18 22-19 23-20 24-21 25-22 26-23
 # NOT ALIGNED
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
-2	boekbiner	boekbiner	NOUN	_	Gender=Com|Number=Sing	9	nsubj	_	dutch=boekbinder
+2	boekbiner	boekbiner	NOUN	_	Gender=Com|Number=Sing	14	nsubj	_	dutch=boekbinder
 3	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	14	aux	_	dutch=heeft
 4	dêrnei	dêrnei	ADV	_	_	9	advmod	_	dutch=daarna
 5	alle	al	DET	_	_	6	det	_	dutch=alle
