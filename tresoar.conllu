@@ -12015,7 +12015,7 @@
 11	in	in	DET	_	Definite=Ind	13	det	_	dutch=een
 12	twadde	twa	ADJ	_	_	13	amod	_	dutch=tweede
 13	biblioteek	biblioteek	NOUN	_	Gender=Com|Number=Sing	9	nsubj	_	dutch=bibliotheek
-14	yn	yn	ADP	_	_	16	root	_	dutch=KEY-MISSING
+14	yn	yn	ADP	_	_	16	case	_	dutch=KEY-MISSING
 15	’e	’e	DET	_	Gender=Com|Number=Sing	13	nmod	_	dutch=wereld
 16	wrâld	wrâld	NOUN	_	Gender=Com|Number=Sing	13	nmod	_	dutch=wereld
 17	te	te	ADP	_	_	15	case	_	dutch=ter
