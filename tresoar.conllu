@@ -12700,7 +12700,7 @@
 16	produksje	produksje	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 17	giet	gean	VERB	_	_	0	root	_	dutch=KEY-MISSING
 18	dan	dan	ADV	_	_	20	advmod	_	dutch=dan
-19	hielendal	hielendal	ADV	_	_	20	root	_	dutch=alleen
+19	hielendal	hielendal	ADV	_	_	20	advmod	_	dutch=alleen
 20	sitten	sitte	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	13	parataxis	_	dutch=produceert
 21	yn	yn	ADP	_	_	0	root	_	dutch=KEY-MISSING
 22	it	it	DET	_	_	0	root	_	dutch=KEY-MISSING
