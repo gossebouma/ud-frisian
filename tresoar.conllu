@@ -12570,7 +12570,7 @@
 # source_text = Waarschijnlijk is het boek gemaakt voor een rijke bibliofiel .
 # alignment =  0-0 1-0 2-0 3-1 4-2 5-3 6-4 7-5 8-6 9-8 10-8 11-9
 # ALIGNED
-1	Nei	nei	ADP	_	Degree=Pos	7	advmod	_	dutch=Waarschijnlijk
+1	Nei	nei	ADP	_	Degree=Pos	3	advmod	_	dutch=Waarschijnlijk
 2	alle	al	DET	_	Degree=Pos	3	advmod	_	dutch=Waarschijnlijk
 3	gedachten	gedachte	NOUN	_	Degree=Pos	7	advmod	_	dutch=Waarschijnlijk
 4	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	aux_pass	_	dutch=is
