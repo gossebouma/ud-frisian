@@ -12627,7 +12627,7 @@
 23	wurdich	wurdich	ADJ	_	Degree=Pos	0	root	_	dutch=begeerlijk
 24	om	om	ADP	_	_	34	mark	_	dutch=om
 25	in	in	DET	_	Definite=Ind	30	det	_	dutch=een
-26	mei	mei	ADP	_	_	28	root	_	dutch=KEY-MISSING
+26	mei	mei	ADP	_	_	28	case	_	dutch=KEY-MISSING
 27	de	de	DET	_	_	28	det	_	dutch=KEY-MISSING
 28	hân	hân	NOUN	_	_	29	obl	_	dutch=KEY-MISSING
 29	skreaun	skriuwe	VERB	_	VerbForm=Part	30	amod	_	dutch=handgeschreven
