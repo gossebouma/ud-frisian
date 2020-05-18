@@ -12234,7 +12234,7 @@
 3	foar	foar	ADP	_	VerbForm=Inf	5	advcl	_	dutch=voorkomen
 4	te	te	ADP	_	_	5	mark	_	dutch=te
 5	wêzen	wêzen	VERB	_	VerbForm=Inf	18	advcl	_	dutch=voorkomen
-6	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
+6	,	,	PUNCT	_	_	5	root	_	dutch=KEY-MISSING
 7	waarden	wurde	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	18	aux_pass	_	dutch=werden
 8	yn	yn	ADP	_	_	10	case	_	dutch=in
 9	’e	’e	DET	_	Definite=Def	10	det	_	dutch=de
