@@ -12009,7 +12009,7 @@
 5	mar	mar	ADV	_	_	6	advmod	_	dutch=maar
 6	fiif	fiif	NUM	_	_	9	advcl	_	dutch=vijf
 7	,	,	PUNCT	_	_	8	punct	_	dutch=,
-8	der	der	ADV	_	_	9	advcl	_	dutch=er
+8	der	der	ADV	_	_	9	cop	_	dutch=er
 9	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=is
 10	net	net	ADV	_	_	9	advmod	_	dutch=niet
 11	in	in	DET	_	Definite=Ind	13	det	_	dutch=een
