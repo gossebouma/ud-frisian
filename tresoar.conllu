@@ -12703,7 +12703,7 @@
 19	hielendal	hielendal	ADV	_	_	20	advmod	_	dutch=alleen
 20	sitten	sitte	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	17	xcomp	_	dutch=produceert
 21	yn	yn	ADP	_	_	23	case	_	dutch=KEY-MISSING
-22	it	it	DET	_	_	23	root	_	dutch=KEY-MISSING
+22	it	it	DET	_	_	23	det	_	dutch=KEY-MISSING
 23	brevier	brevier	NOUN	_	_	0	root	_	dutch=KEY-MISSING
 24	en	en	CCONJ	_	_	26	root	_	dutch=KEY-MISSING
 25	de	de	DET	_	_	26	root	_	dutch=KEY-MISSING
