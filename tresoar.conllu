@@ -12534,7 +12534,7 @@
 4	tekst	tekst	NOUN	_	Gender=Com|Number=Sing	2	obj	_	dutch=tekst
 5	yn	yn	ADP	_	_	8	case	_	dutch=in
 6	in	in	DET	_	Definite=Ind	8	det	_	dutch=een
-7	humanistyske	humanistysk	ADJ	_	Gender=Com|Number=Sing	8	obl	_	dutch=letter
+7	humanistyske	humanistysk	ADJ	_	Gender=Com|Number=Sing	8	amod	_	dutch=letter
 8	letter	letter	NOUN	_	Gender=Com|Number=Sing	2	obl	_	dutch=letter
 9	op	op	ADP	_	_	11	case	_	dutch=op
 10	earste	ien	ADJ	_	_	11	amod	_	dutch=eerste
