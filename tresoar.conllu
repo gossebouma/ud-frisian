@@ -12244,7 +12244,7 @@
 13	yn	yn	ADP	_	_	15	case	_	dutch=KEY-MISSING
 14	in	in	DET	_	_	15	det	_	dutch=KEY-MISSING
 15	biblioteek	biblioteek	NOUN	_	Number=Plur	18	obl	_	dutch=kettingen
-16	mei	mei	ADP	_	_	15	case	_	dutch=met
+16	mei	mei	ADP	_	_	17	case	_	dutch=met
 17	ketten	ket	NOUN	_	Number=Plur	18	obl	_	dutch=kettingen
 18	fêstmakke	fêstmeitsje	VERB	_	VerbForm=Part	0	root	_	dutch=bevestigd
 19	oan	oan	ADP	_	_	21	case	_	dutch=aan
