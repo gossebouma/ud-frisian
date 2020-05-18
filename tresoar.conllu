@@ -11994,7 +11994,7 @@
 19	fan	fan	ADP	_	Number=Plur	22	case	_	dutch=boektitels
 20	om-ende-by	om-ende-by	ADV	_	Number=Plur	16	obj	_	dutch=boektitels
 21	413	413	NUM	_	Person=3|Poss=Yes|PronType=Prs	22	nmod_poss	_	dutch=zijn
-22	boektitels	boektitel	NOUN	_	Gender=Com|Number=Sing	20	nmod	_	dutch=bibliotheek
+22	boektitels	boektitel	NOUN	_	Gender=Com|Number=Sing	18	nmod	_	dutch=bibliotheek
 23	.	.	PUNCT	_	_	16	punct	_	dutch=.
 
 # sent_id = 529
