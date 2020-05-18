@@ -12691,7 +12691,7 @@
 7	gjin	gjin	DET	_	_	9	det	_	dutch=geen
 8	klassike	klassyk	ADJ	_	Degree=Pos	9	amod	_	dutch=klassieke
 9	teksten	tekst	NOUN	_	Number=Plur	13	nsubj_pass	_	dutch=teksten
-10	mear	folle	ADV	_	Gender=Neut|Number=Sing	9	appos	_	dutch=meer
+10	mear	folle	ADV	_	Gender=Neut|Number=Sing	9	advmod	_	dutch=meer
 11	yn	yn	ADP	_	_	12	case	_	dutch=in
 12	hânskrift	hânskrift	NOUN	_	Gender=Neut|Number=Sing	9	nmod	_	dutch=handschrift
 13	kopiearre	kopiearje	VERB	_	VerbForm=Part	0	root	_	dutch=gekopieerd
