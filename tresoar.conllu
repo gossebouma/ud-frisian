@@ -12165,7 +12165,7 @@
 5	binne	wêze	AUX	_	_	9	aux_pass	_	dutch=er
 6	sa’n	sa’n	PRON	_	_	7	advmod	_	dutch=ongeveer
 7	20	20	NUM	_	_	8	nummod	_	dutch=20
-8	titels	titel	NOUN	_	Number=Plur	9	nsubj	_	dutch=titels
+8	titels	titel	NOUN	_	Number=Plur	9	nsubj_pass	_	dutch=titels
 9	weromfûn	weromfine	VERB	_	VerbForm=Part	0	root	_	dutch=teruggevonden
 10	en	en	CCONJ	_	_	12	cc	_	dutch=en
 11	bewarre	bewarje	VERB	_	VerbForm=Part	12	xcomp	_	dutch=bewaard
