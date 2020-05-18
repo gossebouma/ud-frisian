@@ -12606,7 +12606,7 @@
 2	de	de	DET	_	Definite=Def	5	det	_	dutch=de
 3	boekdrukkeunst	boekdrukkeunst	NOUN	_	Gender=Com|Number=Sing	6	nsubj_pass	_	dutch=boekdrukkunst
 4	al	al	ADV	_	_	6	advmod	_	dutch=al
-5	drok	drok	ADJ	_	Gender=Com|Number=Sing	6	nsubj_pass	_	dutch=boekdrukkunst
+5	drok	drok	ADJ	_	Gender=Com|Number=Sing	6	advmod	_	dutch=boekdrukkunst
 6	tapast	tapasse	VERB	_	VerbForm=Part	23	advcl	_	dutch=beoefend
 7	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	6	aux_pass	_	dutch=werd
 8	,	,	PUNCT	_	_	6	punct	_	dutch=,
