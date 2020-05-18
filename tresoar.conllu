@@ -12298,7 +12298,7 @@
 17	oar	oar	ADJ	_	Degree=Pos	18	amod	_	dutch=ander
 18	type	type	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=type
 19	boekekast	boekekast	NOUN	_	Gender=Com|Number=Sing	18	nmod	_	dutch=boekenkast
-20	pleatst	pleatse	VERB	_	Gender=Com|Number=Sing	18	nmod	_	dutch=boekenkast
+20	pleatst	pleatse	VERB	_	Gender=Com|Number=Sing	0	root	_	dutch=boekenkast
 21	.	.	PUNCT	_	_	0	root	_	dutch=.
 
 # sent_id = 543
