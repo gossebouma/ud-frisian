@@ -12147,7 +12147,7 @@
 3	de	de	DET	_	Definite=Def	5	det	_	dutch=de
 4	kostbere	kostber	ADJ	_	Degree=Pos	5	amod	_	dutch=kostbare
 5	boekesamling	boekesamling	NOUN	_	Gender=Com|Number=Sing	2	nsubj	_	dutch=boekerij
-6	fersille	fersilje	VERB	_	Gender=Com|Number=Sing	2	nsubj	_	dutch=boekerij
+6	fersille	fersilje	VERB	_	Gender=Com|Number=Sing	2	xcomp	_	dutch=boekerij
 7	oer	oer	ADP	_	_	9	case	_	dutch=over
 8	de	de	DET	_	Definite=Def	9	det	_	dutch=de
 9	wrâld	wrâld	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=wereld
