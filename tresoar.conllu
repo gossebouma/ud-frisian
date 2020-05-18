@@ -12418,7 +12418,7 @@
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
 2	boekbiner	boekbiner	NOUN	_	Gender=Com|Number=Sing	14	nsubj	_	dutch=boekbinder
 3	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	14	aux	_	dutch=heeft
-4	dêrnei	dêrnei	ADV	_	_	9	advmod	_	dutch=daarna
+4	dêrnei	dêrnei	ADV	_	_	14	advmod	_	dutch=daarna
 5	alle	al	DET	_	_	6	det	_	dutch=alle
 6	titels	titel	NOUN	_	Number=Plur	9	obj	_	dutch=titels
 7	mei	mei	ADP	_	_	9	case	_	dutch=KEY-MISSING
