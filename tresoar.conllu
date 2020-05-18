@@ -12509,7 +12509,7 @@
 4	Paradoxa	Paradoxa	PROPN	_	_	2	flat	_	dutch=Paradoxa
 5	stoicorum	stoicorum	PROPN	_	_	2	flat	_	dutch=stoicorum
 6	en	en	CCONJ	_	_	7	cc	_	dutch=en
-7	Somnium	Somnium	PROPN	_	_	2	flat	_	dutch=Somnium
+7	Somnium	Somnium	PROPN	_	_	2	conj	_	dutch=Somnium
 8	Sciponis	Sciponis	PROPN	_	_	7	flat	_	dutch=Sciponis
 9	fan	fan	ADP	_	_	11	case	_	dutch=van
 10	de	de	DET	_	Definite=Def	11	det	_	dutch=de
