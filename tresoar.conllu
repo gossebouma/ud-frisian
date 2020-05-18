@@ -12475,7 +12475,7 @@
 5	der	der	ADV	_	_	7	root	_	dutch=KEY-MISSING
 6	út	út	ADP	_	_	5	case	_	dutch=KEY-MISSING
 7	sjocht	sjen	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=lijkt
-8	as	as	SCONJ	_	_	11	advmod	_	dutch=KEY-MISSING
+8	as	as	SCONJ	_	_	11	mark	_	dutch=KEY-MISSING
 9	wie	wêze	AUX	_	_	11	aux_pass	_	dutch=KEY-MISSING
 10	it	it	PRON	_	_	11	nsubj_pass	_	dutch=KEY-MISSING
 11	printe	printsje	VERB	_	VerbForm=Part	7	ccomp	_	dutch=gedrukt
