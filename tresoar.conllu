@@ -12178,7 +12178,7 @@
 18	Ingelân	Ingelân	PROPN	_	Gender=Neut|Number=Sing	16	conj	_	dutch=Engeland
 19	en	en	CCONJ	_	_	20	cc	_	dutch=en
 20	Nederlân	Nederlân	PROPN	_	Gender=Neut|Number=Sing	16	conj	_	dutch=Nederland
-21	.	.	PUNCT	_	_	12	punct	_	dutch=.
+21	.	.	PUNCT	_	_	9	punct	_	dutch=.
 
 # sent_id = 537
 # text = De eksimplaren dy’t Tresoar yn besit hat , komme fan oarsprong út ’e biblioteek fan de Universiteit fan Frjentsjer .
