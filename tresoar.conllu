@@ -12423,7 +12423,7 @@
 6	titels	titel	NOUN	_	Number=Plur	9	obj	_	dutch=titels
 7	mei	mei	ADP	_	_	9	case	_	dutch=KEY-MISSING
 8	goudene	gouden	ADJ	_	Gender=Neut|Number=Sing	9	amod	_	dutch=goud
-9	letters	letter	NOUN	_	VerbForm=Part	14	root	_	dutch=gestempeld
+9	letters	letter	NOUN	_	VerbForm=Part	14	obl	_	dutch=gestempeld
 10	op	op	ADP	_	_	12	case	_	dutch=op
 11	in	in	DET	_	Definite=Ind	12	det	_	dutch=een
 12	stikje	stik	NOUN	_	Gender=Neut|Number=Sing	9	obl	_	dutch=stukje
