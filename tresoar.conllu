@@ -12313,7 +12313,7 @@
 5	Frjentsjerter	Frjentsjerter	PROPN	_	_	12	obl	_	dutch=Franeker
 6	Universiteitsbiblioteek	Universiteitsbiblioteek	PROPN	_	_	5	flat	_	dutch=Universiteitsbibliotheek
 7	yn	yn	ADP	_	_	8	case	_	dutch=in
-8	1683	1683	NUM	_	_	12	nmod	_	dutch=1683
+8	1683	1683	NUM	_	_	12	obl	_	dutch=1683
 9	de	de	DET	_	Definite=Def	11	det	_	dutch=de
 10	midsiuwske	midsiuwsk	ADJ	_	Degree=Pos	11	amod	_	dutch=middeleeuwse
 11	opstelling	opstelling	NOUN	_	Gender=Com|Number=Sing	12	nsubj_pass	_	dutch=opstelling
