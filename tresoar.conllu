@@ -12430,7 +12430,7 @@
 13	lear	lear	NOUN	_	Gender=Neut|Number=Sing	12	nmod	_	dutch=leer
 14	printe	printsje	VERB	_	_	0	root	_	dutch=KEY-MISSING
 15	en	en	CCONJ	_	_	26	cc	_	dutch=en
-16	dat	dat	DET	_	_	19	det	_	dutch=dat
+16	dat	dat	DET	_	_	18	det	_	dutch=dat
 17	‘	‘	PUNCT	_	Gender=Neut|Number=Sing	18	punct	_	dutch=schildje
 18	skyldsje	skyld	NOUN	_	Gender=Neut|Number=Sing	26	obj	_	dutch=schildje
 19	’	’	PUNCT	_	Gender=Neut|Number=Sing	18	punct	_	dutch=schildje
