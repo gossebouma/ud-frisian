@@ -12572,7 +12572,7 @@
 # ALIGNED
 1	Nei	nei	ADP	_	Degree=Pos	7	advmod	_	dutch=Waarschijnlijk
 2	alle	al	DET	_	Degree=Pos	1	advmod	_	dutch=Waarschijnlijk
-3	gedachten	gedachte	NOUN	_	Degree=Pos	7	advmod	_	dutch=Waarschijnlijk
+3	gedachten	gedachte	NOUN	_	Degree=Pos	1	advmod	_	dutch=Waarschijnlijk
 4	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	aux_pass	_	dutch=is
 5	it	it	DET	_	Definite=Def	6	det	_	dutch=het
 6	boek	boek	NOUN	_	Gender=Neut|Number=Sing	7	nsubj_pass	_	dutch=boek
