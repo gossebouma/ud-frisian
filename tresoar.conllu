@@ -12590,7 +12590,7 @@
 # ALIGNED
 1	Sinibaldi	Sinibaldi	PROPN	_	Gender=Com|Number=Sing	2	nsubj	_	dutch=Sinibaldi
 2	wurke	wurkje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=werkte
-3	û.o.	û.o.	X	_	Gender=Com|Number=Sing	2	parataxis	_	dutch=a
+3	û.o.	û.o.	X	_	Gender=Com|Number=Sing	2	advmod	_	dutch=a
 4	yn	yn	ADP	_	Number=Sing|Tense=Pres|VerbForm=Fin	2	parataxis	_	dutch=in
 5	Florence	Florence	PROPN	_	Gender=Neut|Number=Sing	4	obj	_	dutch=Florence
 6	en	en	CCONJ	_	_	7	cc	_	dutch=en
