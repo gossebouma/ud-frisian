@@ -12241,7 +12241,7 @@
 10	Midsiuwen	Midsiuwen	PROPN	_	Gender=Com_Neut|Number=Sing	18	obl	_	dutch=Middeleeuwen
 11	de	de	DET	_	Definite=Def	12	det	_	dutch=de
 12	boeken	boek	NOUN	_	Number=Plur	18	nsubj_pass	_	dutch=boeken
-13	yn	yn	ADP	_	_	15	root	_	dutch=KEY-MISSING
+13	yn	yn	ADP	_	_	15	case	_	dutch=KEY-MISSING
 14	in	in	DET	_	_	15	det	_	dutch=KEY-MISSING
 15	biblioteek	biblioteek	NOUN	_	Number=Plur	18	obl	_	dutch=kettingen
 16	mei	mei	ADP	_	_	15	case	_	dutch=met
