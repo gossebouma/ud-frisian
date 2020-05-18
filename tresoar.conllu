@@ -12433,7 +12433,7 @@
 16	dat	dat	DET	_	_	19	det	_	dutch=dat
 17	‘	‘	PUNCT	_	Gender=Neut|Number=Sing	18	punct	_	dutch=schildje
 18	skyldsje	skyld	NOUN	_	Gender=Neut|Number=Sing	26	obj	_	dutch=schildje
-19	’	’	PUNCT	_	Gender=Neut|Number=Sing	18	obj	_	dutch=schildje
+19	’	’	PUNCT	_	Gender=Neut|Number=Sing	18	punct	_	dutch=schildje
 20	op	op	ADP	_	_	22	case	_	dutch=op
 21	’e	’e	DET	_	Definite=Def	22	det	_	dutch=de
 22	rêch	rêch	NOUN	_	Gender=Com|Number=Sing	26	obl	_	dutch=rug
