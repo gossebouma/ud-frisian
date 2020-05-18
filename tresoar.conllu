@@ -12371,7 +12371,7 @@
 7	boeken	boek	NOUN	_	Number=Plur	5	nsubj	_	dutch=boeken
 8	mei	mei	ADP	_	_	10	case	_	dutch=met
 9	de	de	DET	_	Definite=Def	10	det	_	dutch=de
-10	boeksnede	boeksnede	NOUN	_	Gender=Com|Number=Sing	5	nmod	_	dutch=snede
+10	boeksnede	boeksnede	NOUN	_	Gender=Com|Number=Sing	5	obl	_	dutch=snede
 11	nei	nei	ADP	_	_	13	case	_	dutch=naar
 12	de	de	DET	_	Definite=Def	13	det	_	dutch=de
 13	lêzer	lêzer	NOUN	_	Gender=Com|Number=Sing	5	obl	_	dutch=lezer
