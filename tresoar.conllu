@@ -12740,7 +12740,7 @@
 6	Johan	Johan	PROPN	_	_	4	nmod	_	dutch=Johan
 7	Sjaardema	Sjaardema	PROPN	_	_	6	flat	_	dutch=Sjaardema
 8	(	(	PUNCT	_	_	9	punct	_	dutch=(
-9	1826	1826	NUM	_	_	6	nummod	_	dutch=1826-
+9	1826	1826	NUM	_	_	6	nmod	_	dutch=1826-
 10	-	-	PUNCT	_	_	11	punct	_	dutch=1871
 11	1871	1871	NUM	_	_	9	conj	_	dutch=1871
 12	)	)	PUNCT	_	_	9	punct	_	dutch=)
