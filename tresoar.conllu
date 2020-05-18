@@ -12281,7 +12281,7 @@
 # NOT ALIGNED
 1	Doe’t	doe’t	SCONJ	_	_	10	mark	_	dutch=Toen
 2	yn	yn	ADP	_	_	5	case	_	dutch=in
-3	’e	’e	DET	_	_	2	fixed	_	dutch=van
+3	’e	’e	DET	_	_	5	fixed	_	dutch=van
 4	sechstjinde	sechstjinde	VERB	_	_	5	amod	_	dutch=zestiende
 5	iu	iu	ADV	_	Gender=Com|Number=Sing	9	obl	_	dutch=eeuw
 6	de	de	DET	_	Definite=Def	7	det	_	dutch=de
