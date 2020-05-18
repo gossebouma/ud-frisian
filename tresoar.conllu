@@ -12018,7 +12018,7 @@
 14	yn	yn	ADP	_	_	16	case	_	dutch=KEY-MISSING
 15	’e	’e	DET	_	Gender=Com|Number=Sing	16	det	_	dutch=wereld
 16	wrâld	wrâld	NOUN	_	Gender=Com|Number=Sing	13	nmod	_	dutch=wereld
-17	te	te	ADP	_	_	18	case	_	dutch=ter
+17	te	te	ADP	_	_	18	mark	_	dutch=ter
 18	finen	fine	VERB	_	_	0	root	_	dutch=KEY-MISSING
 19	dy’t	dy’t	PRON	_	PronType=Rel	24	nsubj	_	dutch=die
 20	safolle	safolle	NUM	_	_	21	nmod	_	dutch=zoveel
