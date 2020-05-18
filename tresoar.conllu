@@ -12742,7 +12742,7 @@
 8	(	(	PUNCT	_	_	9	punct	_	dutch=(
 9	1826	1826	NUM	_	_	10	nummod	_	dutch=1826-
 10	-	-	PUNCT	_	_	6	nmod	_	dutch=1871
-11	1871	1871	NUM	_	_	6	nmod	_	dutch=1871
+11	1871	1871	NUM	_	_	9	nmod	_	dutch=1871
 12	)	)	PUNCT	_	_	10	punct	_	dutch=)
 13	fan	fan	ADP	_	_	14	case	_	dutch=uit
 14	Frjenstjer	Frjenstjer	PROPN	_	Gender=Neut|Number=Sing	4	nmod	_	dutch=Franeker
