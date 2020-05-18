@@ -12032,7 +12032,7 @@
 28	boekesamling	boekesamling	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=Erasmus
 29	as	as	SCONJ	_	_	30	mark	_	dutch=als
 30	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	20	advcl	_	dutch=Tresoar
-31	.	.	PUNCT	_	_	9	punct	_	dutch=.
+31	.	.	PUNCT	_	_	18	punct	_	dutch=.
 
 # sent_id = 530
 # text = Ien fan de fiif titels is in fiifdielich boekwurk fan de Grykske dokter Galenus .
