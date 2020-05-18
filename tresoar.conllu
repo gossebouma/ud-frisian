@@ -12520,7 +12520,7 @@
 15	(	(	PUNCT	_	_	16	punct	_	dutch=(
 16	106	106	NUM	_	_	0	root	_	dutch=106-
 17	-	-	SYM	_	_	18	punct	_	dutch=VAL-MISSING
-18	43	43	NUM	_	_	0	root	_	dutch=VAL-MISSING
+18	43	43	NUM	_	_	16	root	_	dutch=VAL-MISSING
 19	v.	v.	X	_	_	18	nmod	_	dutch=.
 
 # sent_id = 553
