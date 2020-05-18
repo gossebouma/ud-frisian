@@ -12290,7 +12290,7 @@
 9	grut	grut	ADJ	_	Degree=Pos	10	xcomp	_	dutch=groot
 10	waarden	wurde	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	dutch=werden
 11	,	,	PUNCT	_	_	10	punct	_	dutch=,
-12	waarden	wurde	AUX	_	Case=Nom|Person=3|PronType=Prs	0	root	_	dutch=men
+12	waarden	wurde	AUX	_	Case=Nom|Person=3|PronType=Prs	20	root	_	dutch=men
 13	de	de	DET	_	Definite=Def	14	det	_	dutch=de
 14	boeken	boek	NOUN	_	Number=Plur	0	root	_	dutch=boeken
 15	yn	yn	ADP	_	_	18	case	_	dutch=in
