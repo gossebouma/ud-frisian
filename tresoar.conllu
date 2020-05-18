@@ -12441,7 +12441,7 @@
 24	de	de	DET	_	Definite=Def	25	det	_	dutch=de
 25	boeken	boek	NOUN	_	Number=Plur	22	nmod	_	dutch=boeken
 26	plakt	plakke	VERB	_	VerbForm=Part	14	conj	_	dutch=gelijmd
-27	.	.	PUNCT	_	_	9	punct	_	dutch=.
+27	.	.	PUNCT	_	_	14	punct	_	dutch=.
 
 # sent_id = 548
 # text = 13 .
