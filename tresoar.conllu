@@ -12352,7 +12352,7 @@
 21	ta	ta	ADP	_	_	20	case	_	dutch=toe
 22	op	op	ADP	_	_	24	case	_	dutch=op
 23	’e	’e	DET	_	Definite=Def	24	det	_	dutch=de
-24	planke	planke	NOUN	_	VerbForm=Part	8	conj	_	dutch=gezet
+24	planke	planke	NOUN	_	VerbForm=Part	26	conj	_	dutch=gezet
 25	te	te	ADP	_	VerbForm=Part	26	mark	_	dutch=gezet
 26	stean	stean	VERB	_	VerbForm=Part	8	conj	_	dutch=gezet
 27	.	.	PUNCT	_	_	8	punct	_	dutch=.
