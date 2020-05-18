@@ -12635,7 +12635,7 @@
 31	yn	yn	ADP	_	_	32	case	_	dutch=KEY-MISSING
 32	besit	besit	NOUN	_	VerbForm=Inf	34	xcomp	_	dutch=bezitten
 33	te	te	ADP	_	_	34	mark	_	dutch=te
-34	hawwen	hawwe	VERB	_	VerbForm=Inf	17	acl	_	dutch=bezitten
+34	hawwen	hawwe	VERB	_	VerbForm=Inf	23	acl	_	dutch=bezitten
 35	.	.	PUNCT	_	_	23	punct	_	dutch=.
 
 # sent_id = 558
