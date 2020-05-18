@@ -11986,7 +11986,7 @@
 11	grutste	grut	ADJ	_	Degree=Sup	12	amod	_	dutch=grootste
 12	humanist	humanist	NOUN	_	Gender=Com|Number=Sing	1	appos	_	dutch=Humanist
 13	fan	fan	ADP	_	_	14	case	_	dutch=KEY-MISSING
-14	Nederlân	Nederlân	PROPN	_	Gender=Com|Number=Sing	12	appos	_	dutch=Humanist
+14	Nederlân	Nederlân	PROPN	_	Gender=Com|Number=Sing	12	nmod	_	dutch=Humanist
 15	,	,	PUNCT	_	_	1	punct	_	dutch=,
 16	hie	hawwe	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=had
 17	in	in	DET	_	_	16	advmod	_	dutch=ongeveer
