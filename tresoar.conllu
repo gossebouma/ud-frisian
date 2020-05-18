@@ -12708,7 +12708,7 @@
 24	en	en	CCONJ	_	_	26	cc	_	dutch=KEY-MISSING
 25	de	de	DET	_	_	26	det	_	dutch=KEY-MISSING
 26	gebedeboeken	gebedeboek	NOUN	_	_	23	conj	_	dutch=VAL-MISSING
-27	.	.	PUNCT	_	_	26	punct	_	dutch=.
+27	.	.	PUNCT	_	_	13	punct	_	dutch=.
 
 # sent_id = 561
 # text = 14 .
