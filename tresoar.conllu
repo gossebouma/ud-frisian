@@ -12079,7 +12079,7 @@
 17	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	18	nmod_poss	_	dutch=zijn
 18	krupsje	krupsje	NOUN	_	Gender=Com|Number=Sing	15	obl	_	dutch=kwaal
 19	:	:	PUNCT	_	_	20	punct	_	dutch=:
-20	nierstiennen	nierstien	NOUN	_	Number=Plur	18	parataxis	_	dutch=nierstenen
+20	nierstiennen	nierstien	NOUN	_	Number=Plur	18	nmod	_	dutch=nierstenen
 21	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 532
