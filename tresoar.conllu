@@ -12426,7 +12426,7 @@
 9	letters	letter	NOUN	_	VerbForm=Part	14	obl	_	dutch=gestempeld
 10	op	op	ADP	_	_	12	case	_	dutch=op
 11	in	in	DET	_	Definite=Ind	12	det	_	dutch=een
-12	stikje	stik	NOUN	_	Gender=Neut|Number=Sing	9	obl	_	dutch=stukje
+12	stikje	stik	NOUN	_	Gender=Neut|Number=Sing	14	obl	_	dutch=stukje
 13	lear	lear	NOUN	_	Gender=Neut|Number=Sing	12	nmod	_	dutch=leer
 14	printe	printsje	VERB	_	_	0	root	_	dutch=KEY-MISSING
 15	en	en	CCONJ	_	_	26	cc	_	dutch=en
