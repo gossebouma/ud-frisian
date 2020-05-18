@@ -12622,7 +12622,7 @@
 18	noch	noch	ADV	_	_	19	advmod	_	dutch=nog
 19	altyd	altyd	ADV	_	_	23	advmod	_	dutch=steeds
 20	tige	tige	ADJ	_	_	23	advmod	_	dutch=KEY-MISSING
-21	de	de	DET	_	_	22	root	_	dutch=KEY-MISSING
+21	de	de	DET	_	_	22	det	_	dutch=KEY-MISSING
 22	muoite	muoite	NOUN	_	VerbForm=Part	23	xcomp	_	dutch=handgeschreven
 23	wurdich	wurdich	ADJ	_	Degree=Pos	0	root	_	dutch=begeerlijk
 24	om	om	ADP	_	_	34	mark	_	dutch=om
