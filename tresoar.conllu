@@ -12288,7 +12288,7 @@
 7	boekerijen	boekerij	NOUN	_	Number=Plur	10	nsubj	_	dutch=bibliotheken
 8	te	te	ADV	_	_	9	advmod	_	dutch=te
 9	grut	grut	ADJ	_	Degree=Pos	10	xcomp	_	dutch=groot
-10	waarden	wurde	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	dutch=werden
+10	waarden	wurde	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	20	root	_	dutch=werden
 11	,	,	PUNCT	_	_	10	punct	_	dutch=,
 12	waarden	wurde	AUX	_	Case=Nom|Person=3|PronType=Prs	20	aux_pass	_	dutch=men
 13	de	de	DET	_	Definite=Def	14	det	_	dutch=de
