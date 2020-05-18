@@ -12559,7 +12559,7 @@
 9	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	10	aux_pass	_	dutch=is
 10	fersierd	fersiere	VERB	_	VerbForm=Part	3	conj	_	dutch=versierd
 11	mei	mei	ADP	_	_	15	case	_	dutch=met
-12	yn	yn	ADP	_	_	0	root	_	dutch=KEY-MISSING
+12	yn	yn	ADP	_	_	15	root	_	dutch=KEY-MISSING
 13	goud	goud	NOUN	_	Degree=Pos	15	amod	_	dutch=gouden
 14	útfierde	útfiere	VERB	_	Degree=Pos	15	amod	_	dutch=gouden
 15	inisjalen	inisjaal	NOUN	_	Number=Plur	10	obl	_	dutch=initialen
