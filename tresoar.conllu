@@ -12477,7 +12477,7 @@
 7	sjocht	sjen	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=lijkt
 8	as	as	SCONJ	_	_	11	root	_	dutch=KEY-MISSING
 9	wie	wêze	AUX	_	_	11	root	_	dutch=KEY-MISSING
-10	it	it	PRON	_	_	11	root	_	dutch=KEY-MISSING
+10	it	it	PRON	_	_	11	nsubj_pass	_	dutch=KEY-MISSING
 11	printe	printsje	VERB	_	VerbForm=Part	7	ccomp	_	dutch=gedrukt
 12	,	,	PUNCT	_	_	17	punct	_	dutch=,
 13	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	17	aux_pass	_	dutch=is
