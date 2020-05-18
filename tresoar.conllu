@@ -12655,7 +12655,7 @@
 10	iu	iu	ADJ	_	Gender=Com|Number=Sing	6	nmod	_	dutch=eeuw
 11	it	it	DET	_	Definite=Def	12	det	_	dutch=het
 12	hiele	hiel	ADJ	_	Gender=Neut|Number=Sing	2	obj	_	dutch=schrijfbedrijf
-13	‘	‘	PUNCT	_	_	12	punct	_	dutch=‘
+13	‘	‘	PUNCT	_	_	14	punct	_	dutch=‘
 14	skriuwbedriuw	skriuwbedriuw	NOUN	_	Gender=Neut|Number=Sing	2	obj	_	dutch=schrijfbedrijf
 15	’	’	PUNCT	_	_	12	punct	_	dutch=’
 16	yn	yn	ADP	_	_	18	case	_	dutch=in
