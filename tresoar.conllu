@@ -12660,7 +12660,7 @@
 15	’	’	PUNCT	_	_	14	punct	_	dutch=’
 16	yn	yn	ADP	_	_	18	case	_	dutch=in
 17	’e	’e	DET	_	Definite=Def	18	det	_	dutch=de
-18	stêd	stêd	NOUN	_	Gender=Com|Number=Sing	12	nmod	_	dutch=stad
+18	stêd	stêd	NOUN	_	Gender=Com|Number=Sing	14	nmod	_	dutch=stad
 19	Florence	Florence	PROPN	_	Gender=Neut|Number=Sing	18	appos	_	dutch=Florence
 20	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
