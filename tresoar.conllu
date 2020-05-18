@@ -12142,7 +12142,7 @@
 # source_text = Zo raakte de kostbare boekerij over de wereld verspreid .
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-4 6-5 7-6 8-7 9-9
 # NOT ALIGNED
-1	Sa	sa	ADV	_	_	2	root	_	dutch=Zo
+1	Sa	sa	ADV	_	_	2	advmod	_	dutch=Zo
 2	rekke	reitsje	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=raakte
 3	de	de	DET	_	Definite=Def	5	det	_	dutch=de
 4	kostbere	kostber	ADJ	_	Degree=Pos	5	amod	_	dutch=kostbare
