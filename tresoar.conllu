@@ -12231,7 +12231,7 @@
 # NOT ALIGNED
 1	Om	om	ADP	_	_	5	mark	_	dutch=Om
 2	dieven	dief	NOUN	_	Gender=Com|Number=Sing	5	obj	_	dutch=diefstal
-3	foar	foar	ADP	_	VerbForm=Inf	18	advcl	_	dutch=voorkomen
+3	foar	foar	ADP	_	VerbForm=Inf	5	advcl	_	dutch=voorkomen
 4	te	te	ADP	_	_	5	mark	_	dutch=te
 5	wêzen	wêzen	VERB	_	VerbForm=Inf	18	advcl	_	dutch=voorkomen
 6	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
