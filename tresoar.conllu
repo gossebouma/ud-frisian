@@ -11991,7 +11991,7 @@
 16	hie	hawwe	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=had
 17	in	in	DET	_	_	18	det	_	dutch=ongeveer
 18	biblioteek	biblioteek	NOUN	_	_	16	obj	_	dutch=KEY-MISSING
-19	fan	fan	ADP	_	Number=Plur	22	obj	_	dutch=boektitels
+19	fan	fan	ADP	_	Number=Plur	22	case	_	dutch=boektitels
 20	om-ende-by	om-ende-by	ADV	_	Number=Plur	16	obj	_	dutch=boektitels
 21	413	413	NUM	_	Person=3|Poss=Yes|PronType=Prs	22	nmod_poss	_	dutch=zijn
 22	boektitels	boektitel	NOUN	_	Gender=Com|Number=Sing	20	nmod	_	dutch=bibliotheek
