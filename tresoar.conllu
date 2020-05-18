@@ -12696,7 +12696,7 @@
 12	hânskrift	hânskrift	NOUN	_	Gender=Neut|Number=Sing	9	nmod	_	dutch=handschrift
 13	kopiearre	kopiearje	VERB	_	VerbForm=Part	0	root	_	dutch=gekopieerd
 14	,	,	PUNCT	_	_	17	punct	_	dutch=,
-15	syn	syn	PRON	_	_	16	root	_	dutch=KEY-MISSING
+15	syn	syn	PRON	_	_	16	nmod_poss	_	dutch=KEY-MISSING
 16	produksje	produksje	NOUN	_	_	17	nsubj	_	dutch=KEY-MISSING
 17	giet	gean	VERB	_	_	13	conj	_	dutch=KEY-MISSING
 18	dan	dan	ADV	_	_	20	advmod	_	dutch=dan
