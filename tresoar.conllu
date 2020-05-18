@@ -12629,7 +12629,7 @@
 25	in	in	DET	_	Definite=Ind	30	det	_	dutch=een
 26	mei	mei	ADP	_	_	28	root	_	dutch=KEY-MISSING
 27	de	de	DET	_	_	28	root	_	dutch=KEY-MISSING
-28	hân	hân	NOUN	_	_	29	root	_	dutch=KEY-MISSING
+28	hân	hân	NOUN	_	_	29	obl	_	dutch=KEY-MISSING
 29	skreaun	skriuwe	VERB	_	VerbForm=Part	30	amod	_	dutch=handgeschreven
 30	boek	boek	NOUN	_	Gender=Neut|Number=Sing	32	obj	_	dutch=boek
 31	yn	yn	ADP	_	_	32	case	_	dutch=KEY-MISSING
