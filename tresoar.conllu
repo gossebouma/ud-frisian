@@ -12150,7 +12150,7 @@
 6	fersille	fersilje	VERB	_	Gender=Com|Number=Sing	2	xcomp	_	dutch=boekerij
 7	oer	oer	ADP	_	_	9	case	_	dutch=over
 8	de	de	DET	_	Definite=Def	9	det	_	dutch=de
-9	wrâld	wrâld	NOUN	_	Gender=Com|Number=Sing	6	root	_	dutch=wereld
+9	wrâld	wrâld	NOUN	_	Gender=Com|Number=Sing	6	obl	_	dutch=wereld
 10	.	.	PUNCT	_	_	2	punct	_	dutch=.
 
 # sent_id = 536
