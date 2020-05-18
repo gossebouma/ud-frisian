@@ -12382,7 +12382,7 @@
 18	titels	titel	NOUN	_	Number=Plur	22	obj	_	dutch=titels
 19	op	op	ADP	_	_	21	case	_	dutch=op
 20	’e	’e	DET	_	Definite=Def	21	det	_	dutch=de
-21	snee	snee	NOUN	_	Gender=Com|Number=Sing	18	nmod	_	dutch=snee
+21	snee	snee	NOUN	_	Gender=Com|Number=Sing	22	nmod	_	dutch=snee
 22	skreaun	skriuwe	VERB	_	VerbForm=Part	5	conj	_	dutch=geschreven
 23	.	.	PUNCT	_	_	5	punct	_	dutch=.
 
