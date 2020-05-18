@@ -12625,7 +12625,7 @@
 21	de	de	DET	_	_	22	root	_	dutch=KEY-MISSING
 22	muoite	muoite	NOUN	_	VerbForm=Part	23	xcomp	_	dutch=handgeschreven
 23	wurdich	wurdich	ADJ	_	Degree=Pos	0	root	_	dutch=begeerlijk
-24	om	om	ADP	_	_	32	mark	_	dutch=om
+24	om	om	ADP	_	_	34	mark	_	dutch=om
 25	in	in	DET	_	Definite=Ind	30	det	_	dutch=een
 26	mei	mei	ADP	_	_	28	root	_	dutch=KEY-MISSING
 27	de	de	DET	_	_	28	root	_	dutch=KEY-MISSING
