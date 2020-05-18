@@ -12471,7 +12471,7 @@
 1	Dit	dit	DET	_	_	2	det	_	dutch=Dit
 2	boek	boek	NOUN	_	Gender=Neut|Number=Sing	7	nsubj	_	dutch=boek
 3	,	,	PUNCT	_	_	0	root	_	dutch=KEY-MISSING
-4	dat	dat	SCONJ	_	_	0	root	_	dutch=KEY-MISSING
+4	dat	dat	SCONJ	_	_	7	root	_	dutch=KEY-MISSING
 5	der	der	ADV	_	_	0	root	_	dutch=KEY-MISSING
 6	út	út	ADP	_	_	0	root	_	dutch=KEY-MISSING
 7	sjocht	sjen	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=lijkt
