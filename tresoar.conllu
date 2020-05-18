@@ -12194,7 +12194,7 @@
 7	hat	hawwe	VERB	_	Gender=Neut|Number=Sing	2	acl_relcl	_	dutch=bezit
 8	,	,	PUNCT	_	_	2	punct	_	dutch=KEY-MISSING
 9	komme	komme	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=komen
-10	fan	fan	ADP	_	Degree=Pos	9	advmod	_	dutch=oorspronkelijk
+10	fan	fan	ADP	_	Degree=Pos	11	advmod	_	dutch=oorspronkelijk
 11	oarsprong	oarsprong	NOUN	_	Degree=Pos	9	advmod	_	dutch=oorspronkelijk
 12	út	út	ADP	_	_	14	case	_	dutch=uit
 13	’e	’e	DET	_	Definite=Def	14	det	_	dutch=de
