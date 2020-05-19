@@ -12932,7 +12932,7 @@
 # source_text = Op de zogenaamde Friese bijbeldag van 29 september 1943 werd die vertaling , gemaakt door G. A. Wumkes en E. B. Folkertsma , gepresenteerd .
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22 23-23 24-24
 # NOT ALIGNED
-1	Op	op	ADP	_	_	3	case	_	dutch=Op
+1	Op	op	ADP	_	_	4	case	_	dutch=Op
 2	’e	’e	DET	_	Definite=Def	3	det	_	dutch=de
 3	saneamde	saneamd	ADJ	_	Degree=Pos	4	obl	_	dutch=zogenaamde
 4	Fryske	Frysk	ADJ	_	Degree=Pos	5	amod	_	dutch=Friese
