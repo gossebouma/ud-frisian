@@ -12833,7 +12833,7 @@
 5	Frjentsjer	Frjentsjer	PROPN	_	_	3	nmod	_	dutch=Franeker
 6	docht	dwaan	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=blijkt
 7	nammentlik	nammentlik	ADV	_	_	6	advmod	_	dutch=namelijk
-8	bliken	blike	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	root	_	dutch=blijkt
+8	bliken	blike	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	xcomp	_	dutch=blijkt
 9	dat	dat	SCONJ	_	_	18	mark	_	dutch=dat
 10	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	12	nmod_poss	_	dutch=zijn
 11	âldelju	âldelju	NOUN	_	_	13	case	_	dutch=met
