@@ -12889,7 +12889,7 @@
 17	Antje	Antje	PROPN	_	_	15	appos	_	dutch=Antje
 18	Wopkes	Wopkes	PROPN	_	_	17	flat	_	dutch=uit
 19	fan	fan	ADP	_	_	20	case	_	dutch=uit
-20	Feanwâlden	Feanwâlden	PROPN	_	Gender=Neut|Number=Sing	17	root	_	dutch=VAL-MISSING
+20	Feanwâlden	Feanwâlden	PROPN	_	Gender=Neut|Number=Sing	17	nmod	_	dutch=VAL-MISSING
 21	.	.	PUNCT	_	_	20	punct	_	dutch=.
 
 # sent_id = 571
