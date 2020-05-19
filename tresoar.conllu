@@ -13016,7 +13016,7 @@
 17	de	de	DET	_	Definite=Def	18	det	_	dutch=de
 18	oersetting	oersetting	NOUN	_	Gender=Com|Number=Sing	20	obl	_	dutch=vertaling
 19	út	út	ADP	_	VerbForm=Inf	14	advcl	_	dutch=beginnen
-20	ein	ein	NOUN	_	VerbForm=Inf	19	advcl	_	dutch=beginnen
+20	ein	ein	NOUN	_	VerbForm=Inf	19	fixed	_	dutch=beginnen
 21	te	te	ADP	_	_	22	mark	_	dutch=te
 22	setten	sette	VERB	_	_	0	root	_	dutch=KEY-MISSING
 23	.	.	PUNCT	_	_	14	punct	_	dutch=.
