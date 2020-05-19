@@ -12985,7 +12985,7 @@
 20	oersetting	oersetting	NOUN	_	Gender=Com|Number=Sing	24	obl	_	dutch=vertaling
 21	fan	fan	ADP	_	_	23	case	_	dutch=KEY-MISSING
 22	de	de	DET	_	Definite=Def	23	det	_	dutch=de
-23	bibel	bibel	NOUN	_	VerbForm=Part	20	acl_relcl	_	dutch=gebezigd
+23	bibel	bibel	NOUN	_	VerbForm=Part	20	nmod	_	dutch=gebezigd
 24	brûkt	brûke	VERB	_	VerbForm=Part	16	acl_relcl	_	dutch=gebezigd
 25	wurde	wurde	AUX	_	VerbForm=Inf	24	aux_pass	_	dutch=worden
 26	moatte	moatte	AUX	_	VerbForm=Inf	24	aux	_	dutch=moeten
