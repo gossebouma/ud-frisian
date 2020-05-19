@@ -13006,7 +13006,7 @@
 7	in	in	DET	_	Definite=Ind	8	det	_	dutch=een
 8	talage	talage	NOUN	_	Gender=Com|Number=Sing	14	nsubj_pass	_	dutch=toelage
 9	oan	oan	ADP	_	_	11	case	_	dutch=aan
-10	it	it	DET	_	Definite=Def	11	nsubj	_	dutch=het
+10	it	it	DET	_	Definite=Def	11	det	_	dutch=het
 11	Kristlik	Kristlik	PROPN	_	_	14	root	_	dutch=Frysk
 12	Frysk	Frysk	PROPN	_	_	11	root	_	dutch=Frysk
 13	Selskip	Selskip	PROPN	_	_	11	root	_	dutch=Selskip
