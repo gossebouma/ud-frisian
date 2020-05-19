@@ -12830,7 +12830,7 @@
 2	it	it	DET	_	Definite=Def	3	det	_	dutch=het
 3	befolkingsregister	befolkingsregister	NOUN	_	Gender=Neut|Number=Sing	6	obl	_	dutch=bevolkingsregister
 4	fan	fan	ADP	_	_	3	appos	_	dutch=van
-5	Frjentsjer	Frjentsjer	PROPN	_	_	3	flat	_	dutch=Franeker
+5	Frjentsjer	Frjentsjer	PROPN	_	_	3	nmod	_	dutch=Franeker
 6	docht	dwaan	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=blijkt
 7	nammentlik	nammentlik	ADV	_	_	6	advmod	_	dutch=namelijk
 8	bliken	blike	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=blijkt
