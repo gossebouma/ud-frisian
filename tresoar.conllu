@@ -12940,7 +12940,7 @@
 6	fan	fan	ADP	_	_	7	case	_	dutch=van
 7	29	29	NUM	_	_	5	nmod	_	dutch=29
 8	septimber	septimber	PROPN	_	Gender=Com|Number=Sing	7	nmod	_	dutch=september
-9	1943	1943	NUM	_	_	5	appos	_	dutch=1943
+9	1943	1943	NUM	_	_	7	appos	_	dutch=1943
 10	waard	wurde	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	24	aux_pass	_	dutch=werd
 11	dy	dy	PRON	_	_	12	det	_	dutch=die
 12	oersetting	oersetting	NOUN	_	Gender=Com|Number=Sing	24	nsubj_pass	_	dutch=vertaling
