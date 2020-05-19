@@ -13053,7 +13053,7 @@
 8	bibliotekaris	bibliotekaris	NOUN	_	Gender=Com|Number=Sing	1	acl_relcl	_	dutch=bibliothecaris
 9	fan	fan	ADP	_	_	11	case	_	dutch=van
 10	de	de	DET	_	Definite=Def	11	det	_	dutch=de
-11	Provinsjale	provinsjaal	PROPN	_	Degree=Pos	8	amod	_	dutch=Provinciale
+11	Provinsjale	provinsjaal	PROPN	_	Degree=Pos	8	nmod	_	dutch=Provinciale
 12	Biblioteek	Biblioteek	PROPN	_	Gender=Com|Number=Sing	13	nmod	_	dutch=Bibliotheek
 13	wurden	wurde	AUX	_	_	1	root	_	dutch=KEY-MISSING
 14	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	13	aux	_	dutch=was
