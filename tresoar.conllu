@@ -13078,7 +13078,7 @@
 33	Frysk	Frysk	PROPN	_	_	32	flat	_	dutch=VAL-MISSING
 34	Selskip	Selskip	PROPN	_	_	32	flat	_	dutch=VAL-MISSING
 35	,	,	PUNCT	_	_	29	punct	_	dutch=,
-36	mandaat	mandaat	NOUN	_	Gender=Neut|Number=Sing	22	appos	_	dutch=mandaat
+36	mandaat	mandaat	NOUN	_	Gender=Neut|Number=Sing	22	obj	_	dutch=mandaat
 37	om	om	ADP	_	_	0	root	_	dutch=om
 38	mei	mei	ADP	_	_	40	case	_	dutch=met
 39	de	de	DET	_	Definite=Def	0	root	_	dutch=de
