@@ -13014,7 +13014,7 @@
 15	om	om	ADP	_	_	20	mark	_	dutch=om
 16	mei	mei	ADP	_	_	18	case	_	dutch=met
 17	de	de	DET	_	Definite=Def	18	det	_	dutch=de
-18	oersetting	oersetting	NOUN	_	Gender=Com|Number=Sing	20	obl	_	dutch=vertaling
+18	oersetting	oersetting	NOUN	_	Gender=Com|Number=Sing	22	obl	_	dutch=vertaling
 19	út	út	ADP	_	VerbForm=Inf	22	advmod	_	dutch=beginnen
 20	ein	ein	NOUN	_	VerbForm=Inf	19	fixed	_	dutch=beginnen
 21	te	te	ADP	_	_	22	mark	_	dutch=te
