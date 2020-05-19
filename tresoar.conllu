@@ -12981,7 +12981,7 @@
 16	Frysk	Frysk	PROPN	_	Gender=Neut|Number=Sing	15	nmod	_	dutch=Fries
 17	dat	dat	SCONJ	_	Person=3|PronType=Rel	24	nsubj_pass	_	dutch=dat
 18	foar	foar	ADP	_	_	20	case	_	dutch=voor
-19	in	in	DET	_	_	20	root	_	dutch=KEY-MISSING
+19	in	in	DET	_	_	20	det	_	dutch=KEY-MISSING
 20	oersetting	oersetting	NOUN	_	Gender=Com|Number=Sing	24	obl	_	dutch=vertaling
 21	fan	fan	ADP	_	_	0	root	_	dutch=KEY-MISSING
 22	de	de	DET	_	Definite=Def	20	det	_	dutch=de
