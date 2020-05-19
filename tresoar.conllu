@@ -12880,7 +12880,7 @@
 8	hoede	hoede	NOUN	_	Gender=Com|Number=Sing	2	obl	_	dutch=hoede
 9	fan	fan	ADP	_	_	15	case	_	dutch=van
 10	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	15	nmod_poss	_	dutch=zijn
-11	hast	hast	ADV	_	_	13	amod	_	dutch=bijna
+11	hast	hast	ADV	_	_	12	amod	_	dutch=bijna
 12	tweintich	tweintich	NUM	_	_	13	nummod	_	dutch=twintig
 13	jier	jier	NOUN	_	Gender=Neut|Number=Sing	14	obl	_	dutch=jaar
 14	âldere	âld	ADJ	_	Degree=Cmp	15	amod	_	dutch=oudere
