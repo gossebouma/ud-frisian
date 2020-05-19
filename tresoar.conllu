@@ -13065,7 +13065,7 @@
 20	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	19	cop	_	dutch=was
 21	,	,	PUNCT	_	_	29	punct	_	dutch=,
 22	krige	krije	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=kreeg
-23	dêrnei	dêrnei	ADV	_	Number=Sing|Tense=Past|VerbForm=Fin	22	root	_	dutch=kreeg
+23	dêrnei	dêrnei	ADV	_	Number=Sing|Tense=Past|VerbForm=Fin	22	advmod	_	dutch=kreeg
 24	mei	mei	ADP	_	_	25	case	_	dutch=met
 25	Folkertsma	Folkertsma	PROPN	_	Gender=Com|Number=Sing	23	obl	_	dutch=Folkertsma
 26	,	,	PUNCT	_	_	29	punct	_	dutch=,
