@@ -13084,7 +13084,7 @@
 39	de	de	DET	_	Definite=Def	0	root	_	dutch=de
 40	oersetting	oersetting	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=vertaling
 41	fan	fan	ADP	_	_	0	root	_	dutch=VAL-MISSING
-42	it	it	DET	_	Definite=Def	0	root	_	dutch=VAL-MISSING
+42	it	it	DET	_	Definite=Def	43	root	_	dutch=VAL-MISSING
 43	Alde	Alde	PROPN	_	_	40	nmod	_	dutch=Oude
 44	Testamint	Testamint	PROPN	_	_	43	root	_	dutch=VAL-MISSING
 45	teset	teset	ADV	_	_	0	root	_	dutch=te
