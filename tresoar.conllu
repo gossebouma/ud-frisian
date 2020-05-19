@@ -12899,7 +12899,7 @@
 # ALIGNED
 1	Printwurk	printwurk	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=Drukwerk
 2	dus	dus	ADV	_	_	1	amod	_	dutch=dus
-3	út	út	ADP	_	_	5	case	_	dutch=uit
+3	út	út	ADP	_	_	6	case	_	dutch=uit
 4	’e	’e	DET	_	Definite=Def	5	det	_	dutch=de
 5	ûnderste	ûnder	ADJ	_	Gender=Com|Number=Sing	1	nmod	_	dutch=rafelrand
 6	lagen	laach	NOUN	_	Gender=Com|Number=Sing	1	nmod	_	dutch=rafelrand
