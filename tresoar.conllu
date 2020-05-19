@@ -13088,7 +13088,7 @@
 43	Alde	Alde	PROPN	_	_	40	nmod	_	dutch=Oude
 44	Testamint	Testamint	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 45	teset	teset	ADV	_	_	0	root	_	dutch=te
-46	.	.	PUNCT	_	_	23	punct	_	dutch=.
+46	.	.	PUNCT	_	_	22	punct	_	dutch=.
 
 # sent_id = 579
 # text = Wumkes as oersetter en Folkertsma as revisor .
