@@ -12840,7 +12840,7 @@
 12	en	en	CCONJ	_	Number=Plur	14	cc	_	dutch=ouders
 13	harren	harren	PRON	_	Case=Acc|Person=3|PronType=Prs	14	nmod_poss	_	dutch=hun
 14	bern	bern	NOUN	_	Number=Plur	11	appos	_	dutch=kinderen
-15	earst	earst	ADV	_	_	18	amod	_	dutch=pas
+15	earst	earst	ADV	_	_	18	advmod	_	dutch=pas
 16	yn	yn	ADP	_	_	17	case	_	dutch=in
 17	1847	1847	NUM	_	_	18	obl	_	dutch=1847
 18	útskreaun	útskriuwe	VERB	_	VerbForm=Part	6	csubj	_	dutch=uitgeschreven
