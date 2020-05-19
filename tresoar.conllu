@@ -12969,7 +12969,7 @@
 4	Wumkes	Wumkes	PROPN	_	Gender=Com|Number=Sing	12	nsubj	_	dutch=Wumkes
 5	foar	foar	ADP	_	_	7	case	_	dutch=voor
 6	it	it	DET	_	Definite=Def	7	det	_	dutch=het
-7	Nederlânsk	Nederlânsk	PROPN	_	Gender=Neut|Number=Sing	4	nmod	_	dutch=Nederlands
+7	Nederlânsk	Nederlânsk	PROPN	_	Gender=Neut|Number=Sing	12	nmod	_	dutch=Nederlands
 8	Bibelgenoatskip	Bibelgenoatskip	PROPN	_	Gender=Com|Number=Sing	7	flat	_	dutch=Bijbelgenootschap
 9	al	al	ADV	_	_	12	advmod	_	dutch=al
 10	in	in	DET	_	Definite=Ind	11	det	_	dutch=een
