@@ -13011,7 +13011,7 @@
 12	Frysk	Frysk	PROPN	_	_	11	flat	_	dutch=Frysk
 13	Selskip	Selskip	PROPN	_	_	11	flat	_	dutch=Selskip
 14	jûn	jaan	VERB	_	VerbForm=Part	0	root	_	dutch=gegeven
-15	om	om	ADP	_	_	20	mark	_	dutch=om
+15	om	om	ADP	_	_	22	mark	_	dutch=om
 16	mei	mei	ADP	_	_	18	case	_	dutch=met
 17	de	de	DET	_	Definite=Def	18	det	_	dutch=de
 18	oersetting	oersetting	NOUN	_	Gender=Com|Number=Sing	22	obl	_	dutch=vertaling
