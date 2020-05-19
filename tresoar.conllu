@@ -12835,7 +12835,7 @@
 7	nammentlik	nammentlik	ADV	_	_	6	advmod	_	dutch=namelijk
 8	bliken	blike	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	xcomp	_	dutch=blijkt
 9	dat	dat	SCONJ	_	_	18	mark	_	dutch=dat
-10	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	12	nmod_poss	_	dutch=zijn
+10	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	11	nmod_poss	_	dutch=zijn
 11	âldelju	âldelju	NOUN	_	_	13	case	_	dutch=met
 12	en	en	CCONJ	_	Number=Plur	18	nsubj_pass	_	dutch=ouders
 13	harren	harren	PRON	_	Case=Acc|Person=3|PronType=Prs	12	nmod	_	dutch=hun
