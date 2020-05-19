@@ -13086,7 +13086,7 @@
 41	fan	fan	ADP	_	_	0	root	_	dutch=VAL-MISSING
 42	it	it	DET	_	Definite=Def	0	root	_	dutch=VAL-MISSING
 43	Alde	Alde	PROPN	_	_	40	nmod	_	dutch=Oude
-44	Testamint	Testamint	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+44	Testamint	Testamint	PROPN	_	_	43	root	_	dutch=VAL-MISSING
 45	teset	teset	ADV	_	_	0	root	_	dutch=te
 46	.	.	PUNCT	_	_	22	punct	_	dutch=.
 
