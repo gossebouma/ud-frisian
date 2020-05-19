@@ -12935,7 +12935,7 @@
 1	Op	op	ADP	_	_	4	case	_	dutch=Op
 2	’e	’e	DET	_	Definite=Def	4	det	_	dutch=de
 3	saneamde	saneamd	ADJ	_	Degree=Pos	4	amod	_	dutch=zogenaamde
-4	Fryske	Frysk	ADJ	_	Degree=Pos	5	amod	_	dutch=Friese
+4	Fryske	Frysk	ADJ	_	Degree=Pos	24	amod	_	dutch=Friese
 5	bibeldei	bibeldei	NOUN	_	Gender=Com|Number=Sing	24	obl	_	dutch=bijbeldag
 6	fan	fan	ADP	_	_	7	case	_	dutch=van
 7	29	29	NUM	_	_	5	nmod	_	dutch=29
