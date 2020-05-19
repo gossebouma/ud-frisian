@@ -12915,7 +12915,7 @@
 # source_text = 15 .
 # alignment =  0-0 1-0 2-1
 # ALIGNED
-1	(	(	PUNCT	_	_	0	root	_	dutch=15
+1	(	(	PUNCT	_	_	2	root	_	dutch=15
 2	jvs	jvs	X	_	_	0	root	_	dutch=15
 3	)	)	PUNCT	_	_	2	punct	_	dutch=.
 
