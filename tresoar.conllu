@@ -12924,7 +12924,7 @@
 # source_text = Friese bijbel
 # alignment =  0-0 1-1
 # ALIGNED
-1	15	15	NUM	_	Degree=Pos	2	amod	_	dutch=Friese
+1	15	15	NUM	_	Degree=Pos	0	root	_	dutch=Friese
 2	.	.	PUNCT	_	Gender=Com|Number=Sing	0	root	_	dutch=bijbel
 
 # sent_id = 574
