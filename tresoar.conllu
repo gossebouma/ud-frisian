@@ -12953,7 +12953,7 @@
 19	en	en	CCONJ	_	_	0	root	_	dutch=VAL-MISSING
 20	E.	E.	PROPN	_	_	0	root	_	dutch=VAL-MISSING
 21	B.	B.	PROPN	_	_	20	root	_	dutch=VAL-MISSING
-22	Folkertsma	Folkertsma	PROPN	_	_	0	root	_	dutch=VAL-MISSING
+22	Folkertsma	Folkertsma	PROPN	_	_	20	root	_	dutch=VAL-MISSING
 23	,	,	PUNCT	_	_	24	punct	_	dutch=,
 24	presintearre	presintearje	VERB	_	VerbForm=Part	0	root	_	dutch=gepresenteerd
 25	.	.	PUNCT	_	_	24	punct	_	dutch=.
