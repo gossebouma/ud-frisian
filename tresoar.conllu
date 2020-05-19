@@ -13044,7 +13044,7 @@
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 13-12 14-13 15-14 16-20 17-15 18-16 19-17 20-23 21-19 22-19 23-21 24-22 25-23 26-24 27-25 28-26 29-27 30-28 31-30 32-30 33-31 34-32 35-33 36-34 37-35 38-43 39-37 40-38 41-39 42-40 43-41 44-45 45-47
 # NOT ALIGNED
 1	Wumkes	Wumkes	PROPN	_	Gender=Com|Number=Sing	23	nsubj	_	dutch=Wumkes
-2	,	,	PUNCT	_	_	8	punct	_	dutch=,
+2	,	,	PUNCT	_	_	13	punct	_	dutch=,
 3	dy’t	dy’t	PRON	_	PronType=Rel	8	nsubj	_	dutch=die
 4	yn	yn	ADP	_	_	5	case	_	dutch=in
 5	1924	1924	NUM	_	_	8	obl	_	dutch=1924
