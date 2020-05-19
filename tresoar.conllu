@@ -12901,7 +12901,7 @@
 2	dus	dus	ADV	_	_	1	amod	_	dutch=dus
 3	út	út	ADP	_	_	6	case	_	dutch=uit
 4	’e	’e	DET	_	Definite=Def	6	det	_	dutch=de
-5	ûnderste	ûnder	ADJ	_	Gender=Com|Number=Sing	1	nmod	_	dutch=rafelrand
+5	ûnderste	ûnder	ADJ	_	Gender=Com|Number=Sing	6	nmod	_	dutch=rafelrand
 6	lagen	laach	NOUN	_	Gender=Com|Number=Sing	1	nmod	_	dutch=rafelrand
 7	fan	fan	ADP	_	_	9	case	_	dutch=van
 8	de	de	DET	_	Definite=Def	9	det	_	dutch=de
