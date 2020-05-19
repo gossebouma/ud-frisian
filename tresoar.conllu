@@ -13050,7 +13050,7 @@
 5	1924	1924	NUM	_	_	13	obl	_	dutch=1924
 6	de	de	DET	_	Definite=Def	8	det	_	dutch=de
 7	earste	ien	ADJ	_	_	8	amod	_	dutch=eerste
-8	bibliotekaris	bibliotekaris	NOUN	_	Gender=Com|Number=Sing	13	acl_relcl	_	dutch=bibliothecaris
+8	bibliotekaris	bibliotekaris	NOUN	_	Gender=Com|Number=Sing	13	nsubj	_	dutch=bibliothecaris
 9	fan	fan	ADP	_	_	11	case	_	dutch=van
 10	de	de	DET	_	Definite=Def	11	det	_	dutch=de
 11	Provinsjale	provinsjaal	PROPN	_	Degree=Pos	8	nmod	_	dutch=Provinciale
