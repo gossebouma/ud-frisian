@@ -12925,7 +12925,7 @@
 # alignment =  0-0 1-1
 # ALIGNED
 1	15	15	NUM	_	Degree=Pos	0	root	_	dutch=Friese
-2	.	.	PUNCT	_	Gender=Com|Number=Sing	1	root	_	dutch=bijbel
+2	.	.	PUNCT	_	Gender=Com|Number=Sing	1	punct	_	dutch=bijbel
 
 # sent_id = 574
 # text = Op ’e saneamde Fryske bibeldei fan 29 septimber 1943 waard dy oersetting , makke troch G. A. Wumkes en E. B. Folkertsma , presintearre .
