@@ -12983,7 +12983,7 @@
 18	foar	foar	ADP	_	_	20	case	_	dutch=voor
 19	in	in	DET	_	_	20	det	_	dutch=KEY-MISSING
 20	oersetting	oersetting	NOUN	_	Gender=Com|Number=Sing	24	obl	_	dutch=vertaling
-21	fan	fan	ADP	_	_	0	root	_	dutch=KEY-MISSING
+21	fan	fan	ADP	_	_	23	root	_	dutch=KEY-MISSING
 22	de	de	DET	_	Definite=Def	20	det	_	dutch=de
 23	bibel	bibel	NOUN	_	VerbForm=Part	16	acl_relcl	_	dutch=gebezigd
 24	brûkt	brûke	VERB	_	VerbForm=Part	16	acl_relcl	_	dutch=gebezigd
