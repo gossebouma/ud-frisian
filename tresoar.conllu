@@ -13052,7 +13052,7 @@
 7	earste	ien	ADJ	_	_	8	amod	_	dutch=eerste
 8	bibliotekaris	bibliotekaris	NOUN	_	Gender=Com|Number=Sing	1	acl_relcl	_	dutch=bibliothecaris
 9	fan	fan	ADP	_	_	12	case	_	dutch=van
-10	de	de	DET	_	Definite=Def	12	det	_	dutch=de
+10	de	de	DET	_	Definite=Def	11	det	_	dutch=de
 11	Provinsjale	provinsjaal	PROPN	_	Degree=Pos	12	amod	_	dutch=Provinciale
 12	Biblioteek	Biblioteek	PROPN	_	Gender=Com|Number=Sing	8	nmod	_	dutch=Bibliotheek
 13	wurden	wurde	AUX	_	_	0	root	_	dutch=KEY-MISSING
