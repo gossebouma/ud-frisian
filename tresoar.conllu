@@ -12818,7 +12818,7 @@
 6	bysteld	bystelle	VERB	_	_	0	root	_	dutch=vanuit
 7	út	út	ADP	_	_	9	case	_	dutch=vanuit
 8	’e	’e	DET	_	Definite=Def	9	det	_	dutch=de
-9	argiven	argyf	NOUN	_	Number=Plur	6	root	_	dutch=archieven
+9	argiven	argyf	NOUN	_	Number=Plur	6	obl	_	dutch=archieven
 10	.	.	PUNCT	_	_	0	root	_	dutch=.
 
 # sent_id = 568
