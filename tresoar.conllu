@@ -13055,7 +13055,7 @@
 10	de	de	DET	_	Definite=Def	11	det	_	dutch=de
 11	Provinsjale	provinsjaal	PROPN	_	Degree=Pos	12	amod	_	dutch=Provinciale
 12	Biblioteek	Biblioteek	PROPN	_	Gender=Com|Number=Sing	13	nmod	_	dutch=Bibliotheek
-13	wurden	wurde	AUX	_	_	14	root	_	dutch=KEY-MISSING
+13	wurden	wurde	AUX	_	_	1	root	_	dutch=KEY-MISSING
 14	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	8	cop	_	dutch=was
 15	dy’t	dy’t	PRON	_	PronType=Rel	19	nsubj	_	dutch=die
 16	net	net	ADV	_	_	19	advmod	_	dutch=niet
