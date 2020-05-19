@@ -13082,7 +13082,7 @@
 37	om	om	ADP	_	_	45	mark	_	dutch=om
 38	mei	mei	ADP	_	_	40	case	_	dutch=met
 39	de	de	DET	_	Definite=Def	40	det	_	dutch=de
-40	oersetting	oersetting	NOUN	_	Gender=Com|Number=Sing	45	root	_	dutch=vertaling
+40	oersetting	oersetting	NOUN	_	Gender=Com|Number=Sing	45	obl	_	dutch=vertaling
 41	fan	fan	ADP	_	_	43	case	_	dutch=VAL-MISSING
 42	it	it	DET	_	Definite=Def	43	det	_	dutch=VAL-MISSING
 43	Alde	Alde	PROPN	_	_	40	nmod	_	dutch=Oude
