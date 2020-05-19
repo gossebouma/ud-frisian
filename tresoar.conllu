@@ -12917,7 +12917,7 @@
 # ALIGNED
 1	(	(	PUNCT	_	_	0	root	_	dutch=15
 2	jvs	jvs	X	_	_	0	root	_	dutch=15
-3	)	)	PUNCT	_	_	1	punct	_	dutch=.
+3	)	)	PUNCT	_	_	2	punct	_	dutch=.
 
 # sent_id = 573
 # text = 15 .
