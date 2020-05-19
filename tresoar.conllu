@@ -12946,7 +12946,7 @@
 12	oersetting	oersetting	NOUN	_	Gender=Com|Number=Sing	24	nsubj_pass	_	dutch=vertaling
 13	,	,	PUNCT	_	_	14	punct	_	dutch=,
 14	makke	meitsje	VERB	_	VerbForm=Part	12	acl	_	dutch=gemaakt
-15	troch	troch	ADP	_	_	0	root	_	dutch=VAL-MISSING
+15	troch	troch	ADP	_	_	16	root	_	dutch=VAL-MISSING
 16	G.	G.	PROPN	_	_	14	obl	_	dutch=G.
 17	A.	A.	PROPN	_	_	16	flat	_	dutch=VAL-MISSING
 18	Wumkes	Wumkes	PROPN	_	_	16	flat	_	dutch=VAL-MISSING
