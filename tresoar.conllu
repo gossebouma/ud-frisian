@@ -12814,7 +12814,7 @@
 2	hertferskuorrende	hertferskuorrend	ADJ	_	Degree=Pos	3	amod	_	dutch=hartverscheurende
 3	taferiel	taferiel	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=tafereel
 4	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=wordt
-5	wat	wat	ADV	_	_	0	root	_	dutch=enigszins
+5	wat	wat	ADV	_	_	6	root	_	dutch=enigszins
 6	bysteld	bystelle	VERB	_	_	0	root	_	dutch=vanuit
 7	út	út	ADP	_	_	9	case	_	dutch=vanuit
 8	’e	’e	DET	_	Definite=Def	9	det	_	dutch=de
