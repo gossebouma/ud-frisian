@@ -13018,7 +13018,7 @@
 19	út	út	ADP	_	VerbForm=Inf	22	advmod	_	dutch=beginnen
 20	ein	ein	NOUN	_	VerbForm=Inf	19	fixed	_	dutch=beginnen
 21	te	te	ADP	_	_	22	mark	_	dutch=te
-22	setten	sette	VERB	_	_	14	acl	_	dutch=KEY-MISSING
+22	setten	sette	VERB	_	_	14	advcl	_	dutch=KEY-MISSING
 23	.	.	PUNCT	_	_	14	punct	_	dutch=.
 
 # sent_id = 577
