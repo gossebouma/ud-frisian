@@ -12819,7 +12819,7 @@
 7	út	út	ADP	_	_	9	case	_	dutch=vanuit
 8	’e	’e	DET	_	Definite=Def	9	det	_	dutch=de
 9	argiven	argyf	NOUN	_	Number=Plur	6	obl	_	dutch=archieven
-10	.	.	PUNCT	_	_	0	root	_	dutch=.
+10	.	.	PUNCT	_	_	6	root	_	dutch=.
 
 # sent_id = 568
 # text = Ut it befolkingsregister fan Frjentsjer docht nammentlik bliken dat syn âldelju en harren bern earst yn 1847 útskreaun binne , ek Johan dus !
