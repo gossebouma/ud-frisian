@@ -13063,7 +13063,7 @@
 18	ek	ek	ADV	_	_	19	advmod	_	dutch=eveneens
 19	ryksargivaris	ryksargivaris	NOUN	_	Gender=Com|Number=Sing	8	acl_relcl	_	dutch=rijksarchivaris
 20	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	19	cop	_	dutch=was
-21	,	,	PUNCT	_	_	29	punct	_	dutch=,
+21	,	,	PUNCT	_	_	19	punct	_	dutch=,
 22	krige	krije	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=kreeg
 23	dêrnei	dêrnei	ADV	_	Number=Sing|Tense=Past|VerbForm=Fin	22	advmod	_	dutch=kreeg
 24	mei	mei	ADP	_	_	25	case	_	dutch=met
