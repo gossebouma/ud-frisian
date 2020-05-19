@@ -12770,7 +12770,7 @@
 15	noch	noch	ADV	_	_	16	advmod	_	dutch=nog
 16	altyd	altyd	ADV	_	_	17	advmod	_	dutch=altijd
 17	besteande	bestean	VERB	_	VerbForm=Part	18	acl	_	dutch=bestaande
-18	dôfstomme-ynstitút	dôfstomme-ynstitút	NOUN	_	Gender=Neut|Number=Sing	3	obl	_	dutch=doofstommeninstituut
+18	dôfstomme-ynstitút	dôfstomme-ynstitút	NOUN	_	Gender=Neut|Number=Sing	12	obl	_	dutch=doofstommeninstituut
 19	te	te	ADP	_	_	20	case	_	dutch=te
 20	Grins	Grins	PROPN	_	Gender=Neut|Number=Sing	18	nmod	_	dutch=Groningen
 21	.	.	PUNCT	_	_	3	punct	_	dutch=.
