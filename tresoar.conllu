@@ -13045,7 +13045,7 @@
 # NOT ALIGNED
 1	Wumkes	Wumkes	PROPN	_	Gender=Com|Number=Sing	23	nsubj	_	dutch=Wumkes
 2	,	,	PUNCT	_	_	13	punct	_	dutch=,
-3	dy’t	dy’t	PRON	_	PronType=Rel	8	nsubj	_	dutch=die
+3	dy’t	dy’t	PRON	_	PronType=Rel	13	nsubj	_	dutch=die
 4	yn	yn	ADP	_	_	5	case	_	dutch=in
 5	1924	1924	NUM	_	_	8	obl	_	dutch=1924
 6	de	de	DET	_	Definite=Def	8	det	_	dutch=de
