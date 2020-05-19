@@ -13061,7 +13061,7 @@
 16	net	net	ADV	_	_	19	advmod	_	dutch=niet
 17	tagelyk	tagelyk	ADV	_	_	19	advmod	_	dutch=daarmee
 18	ek	ek	ADV	_	_	19	advmod	_	dutch=eveneens
-19	ryksargivaris	ryksargivaris	NOUN	_	Gender=Com|Number=Sing	12	acl_relcl	_	dutch=rijksarchivaris
+19	ryksargivaris	ryksargivaris	NOUN	_	Gender=Com|Number=Sing	8	acl_relcl	_	dutch=rijksarchivaris
 20	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	19	cop	_	dutch=was
 21	,	,	PUNCT	_	_	29	punct	_	dutch=,
 22	krige	krije	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=kreeg
