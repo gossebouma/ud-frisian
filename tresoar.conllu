@@ -12837,7 +12837,7 @@
 9	dat	dat	SCONJ	_	_	18	mark	_	dutch=dat
 10	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	11	nmod_poss	_	dutch=zijn
 11	âldelju	âldelju	NOUN	_	_	18	nsubj_pass	_	dutch=met
-12	en	en	CCONJ	_	Number=Plur	18	nsubj_pass	_	dutch=ouders
+12	en	en	CCONJ	_	Number=Plur	14	nsubj_pass	_	dutch=ouders
 13	harren	harren	PRON	_	Case=Acc|Person=3|PronType=Prs	12	nmod	_	dutch=hun
 14	bern	bern	NOUN	_	Number=Plur	11	appos	_	dutch=kinderen
 15	earst	earst	ADV	_	_	13	amod	_	dutch=pas
