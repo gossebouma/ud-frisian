@@ -13008,7 +13008,7 @@
 9	oan	oan	ADP	_	_	0	root	_	dutch=aan
 10	it	it	DET	_	Definite=Def	0	root	_	dutch=het
 11	Kristlik	Kristlik	PROPN	_	_	0	root	_	dutch=Frysk
-12	Frysk	Frysk	PROPN	_	_	0	root	_	dutch=Frysk
+12	Frysk	Frysk	PROPN	_	_	11	root	_	dutch=Frysk
 13	Selskip	Selskip	PROPN	_	_	0	root	_	dutch=Selskip
 14	jûn	jaan	VERB	_	VerbForm=Part	0	root	_	dutch=gegeven
 15	om	om	ADP	_	_	20	mark	_	dutch=om
