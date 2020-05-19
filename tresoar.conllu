@@ -13074,7 +13074,7 @@
 29	foaroanman	foaroanman	NOUN	_	Gender=Com|Number=Sing	25	appos	_	dutch=voorman
 30	fan	fan	ADP	_	_	32	case	_	dutch=VAL-MISSING
 31	it	it	DET	_	Definite=Def	32	det	_	dutch=VAL-MISSING
-32	Kristlik	Kristlik	PROPN	_	_	29	root	_	dutch=VAL-MISSING
+32	Kristlik	Kristlik	PROPN	_	_	29	nmod	_	dutch=VAL-MISSING
 33	Frysk	Frysk	PROPN	_	_	32	flat	_	dutch=VAL-MISSING
 34	Selskip	Selskip	PROPN	_	_	32	flat	_	dutch=VAL-MISSING
 35	,	,	PUNCT	_	_	29	punct	_	dutch=,
