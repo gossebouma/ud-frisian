@@ -1106,7 +1106,7 @@
 10	besikers	besiker	NOUN	_	Number=Plur	14	nsubj	_	dutch=bezoekers
 11	al	al	ADV	_	_	12	advmod	_	dutch=al
 12	gau	gau	ADV	_	Degree=Pos	14	advmod	_	dutch=snel
-13	harsels	harsels	PRON	_	_	14	advmod	_	dutch=zelf
+13	harsels	harsels	PRON	_	_	0	root	_	dutch=zelf
 14	rêde	rêde	VERB	_	VerbForm=Inf	2	advcl	_	dutch=redden
 15	kinne	kinne	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	14	aux	_	dutch=kunnen
 16	.	.	PUNCT	_	_	2	punct	_	dutch=.
