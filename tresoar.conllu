@@ -283,7 +283,7 @@
 7	yn	yn	ADP	_	_	9	case	_	dutch=in
 8	dit	dit	DET	_	_	9	det	_	dutch=dit
 9	boekje	boek	NOUN	_	Gender=Neut|Number=Sing	10	nmod	_	dutch=boekje
-10	45	45	NUM	_	_	2	nsubj	_	dutch=45
+10	45	45	NUM	_	_	20	nsubj	_	dutch=45
 11	mei	mei	ADP	_	_	20	case	_	dutch=KEY-MISSING
 12	fan	fan	ADP	_	_	20	case	_	dutch=van
 13	de	de	DET	_	Definite=Def	20	det	_	dutch=de
@@ -5052,7 +5052,7 @@
 19	.	.	PUNCT	_	_	18	punct	_	dutch=.
 
 # sent_id = 220
-# text = Neffens de argivaris A. L. Heerma van Voss hat Aaxma in list gearstald fan minsken dy’t om in hinnekommen sjoen hiene en hat Regnerus a Solckema dy list systematysk yndield en de nammen en geslachtswapens byinoar set. 
+# text = Neffens de argivaris A. L. Heerma van Voss hat Aaxma in list gearstald fan minsken dy’t om in hinnekommen sjoen hiene en hat Regnerus a Solckema dy list systematysk yndield en de nammen en geslachtswapens byinoar set .
 # source_text = Volgens de archivaris A. L .
 # alignment =  0-0 1-1 2-4 3-3 4-5
 # NOT ALIGNED
@@ -5724,7 +5724,7 @@
 27	.	.	PUNCT	_	_	12	punct	_	dutch=.
 
 # sent_id = 253
-# text = It waard makke troch H. Backer en wie bedoeld foar it opbergjen fan akten.
+# text = It waard makke troch H. Backer en wie bedoeld foar it opbergjen fan akten .
 # source_text = Het werd gemaakt door H .
 # alignment =  0-0 1-1 2-2 3-3 4-5
 # NOT ALIGNED
@@ -5764,8 +5764,8 @@
 5	Rhijn	Rhijn	PROPN	_	_	3	flat	_	dutch=Rhijn
 
 # sent_id = 257
-# text = De skilder Rembrandt van Rhijn troude op 22 juny 1634 mei Saskia van Uylenburgh yn ’e tsjerke fan St. Anne. 
-# source_text = De schilder Rembrandt van Rhijn trouwde op 22 juni 1634 met Saskia van Uylenburgh de kerk van St . Annaparochie . 
+# text = De skilder Rembrandt van Rhijn troude op 22 juny 1634 mei Saskia van Uylenburgh yn ’e tsjerke fan St. Anne .
+# source_text = De schilder Rembrandt van Rhijn trouwde op 22 juni 1634 met Saskia van Uylenburgh de kerk van St . Annaparochie .
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 15-14 16-15 17-16 18-17
 # NOT ALIGNED
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
@@ -10462,7 +10462,7 @@
 7	Aberwo	Aberwo	PROPN	_	_	5	flat	_	dutch=Aberwo
 
 # sent_id = 461
-# text = Heal augustus 1939 kaam It boek fan it Paradys : It wûnderlike ferhaal fan Sjmoel Abbe Aberwo yn Warschau van de parse.
+# text = Heal augustus 1939 kaam It boek fan it Paradys : It wûnderlike libbensferhaal fan Sjmoel Abbe Aberwo yn Warschau fan de parse .
 # source_text = Half augustus 1939 kwam Dos boech fun gan-eden :
 # alignment =  0-0 1-1 2-5 3-3 4-4 5-4 6-5 7-6 8-7 9-8
 # ALIGNED
@@ -11107,7 +11107,7 @@
 20	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 491
-# text = In prominint lid fan it Frysk Genoatskip , J. G. Ottema, wie oertsjûge fan de autentisiteit en soarge fuortendaalks foar in útjefte. 
+# text = In prominint lid fan it Frysk Genoatskip , J. G. Ottema , wie oertsjûge fan de autentisiteit en soarge fuortendaalks foar in útjefte .
 # source_text = Een prominent lid van het Friesch Genootschap , J. G .
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-10
 # ALIGNED
