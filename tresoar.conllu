@@ -282,7 +282,7 @@
 6	dat	dat	SCONJ	_	_	29	mark	_	dutch=dat
 7	yn	yn	ADP	_	_	9	case	_	dutch=in
 8	dit	dit	DET	_	_	9	det	_	dutch=dit
-9	boekje	boek	NOUN	_	Gender=Neut|Number=Sing	0	root	_	dutch=boekje
+9	boekje	boek	NOUN	_	Gender=Neut|Number=Sing	29	root	_	dutch=boekje
 10	45	45	NUM	_	_	20	nummod	_	dutch=45
 11	mei	mei	ADP	_	_	20	case	_	dutch=KEY-MISSING
 12	fan	fan	ADP	_	_	20	case	_	dutch=van
