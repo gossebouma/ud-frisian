@@ -321,7 +321,7 @@
 6	2002	2002	NUM	_	_	4	flat	_	dutch=2002
 7	,	,	PUNCT	_	_	19	punct	_	dutch=,
 8	de	de	DET	_	Definite=Def	10	det	_	dutch=de
-9	formele	formeel	ADJ	_	Degree=Pos	10	amod	_	dutch=formele
+9	formele	formeel	ADJ	_	Degree=Pos	1	amod	_	dutch=formele
 10	fúzjedatum	fúzjedatum	NOUN	_	Gender=Com|Number=Sing	19	obl	_	dutch=fusiedatum
 11	,	,	PUNCT	_	_	10	punct	_	dutch=,
 12	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	19	aux_pass	_	dutch=zijn
