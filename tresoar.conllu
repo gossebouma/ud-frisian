@@ -1011,7 +1011,7 @@
 3	besikers	besiker	NOUN	_	Number=Plur	4	nsubj	_	dutch=bezoekers
 4	bliuwe	bliuwe	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=blijven
 5	in	in	DET	_	_	6	det	_	dutch=enkele
-6	pear	pear	NOUN	_	_	7	det	_	dutch=enkele
+6	pear	pear	NOUN	_	_	7	nmod	_	dutch=enkele
 7	oeren	oer	NOUN	_	Number=Plur	4	obl	_	dutch=uren
 8	of	of	CCONJ	_	_	12	cc	_	dutch=of
 9	sels	sels	ADV	_	_	12	amod	_	dutch=zelfs
