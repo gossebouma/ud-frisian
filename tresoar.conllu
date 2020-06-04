@@ -953,7 +953,7 @@
 # alignment =  0-0 1-1 2-2 3-3 4-5 5-4 6-6
 # ALIGNED
 1	Dêr	Dêr	ADV	_	_	5	advmod	_	dutch=Hier
-2	kin	kinne	NUM	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	aux	_	dutch=kan
+2	kin	kinne	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	aux	_	dutch=kan
 3	de	de	DET	_	Definite=Def	4	det	_	dutch=de
 4	kolleksje	kolleksje	NOUN	_	Gender=Com|Number=Sing	5	nsubj_pass	_	dutch=collectie
 5	rieplachte	rieplachtsje	VERB	_	VerbForm=Part	0	root	_	dutch=geraadpleegd
