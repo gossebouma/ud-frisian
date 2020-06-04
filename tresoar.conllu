@@ -2278,7 +2278,7 @@
 7	fan	fan	ADP	_	_	9	case	_	dutch=van
 8	ûnderskate	ûnderskaat	ADJ	_	VerbForm=Part	9	amod	_	dutch=uiteenlopende
 9	soarte	soart	NOUN	_	Gender=Com|Number=Sing	6	nmod	_	dutch=aard
-10	inoar	inoar	PRON	_	Case=Acc|PronType=Rcp	11	expl_sv	_	dutch=elkaar
+10	inoar	inoar	PRON	_	Case=Acc|PronType=Rcp	11	expl_pv	_	dutch=elkaar
 11	ôfwikselje	ôfwikselje	VERB	_	VerbForm=Inf	0	root	_	dutch=afwisselen
 12	.	.	PUNCT	_	_	11	punct	_	dutch=.
 
@@ -2472,7 +2472,7 @@
 20	sy	sy	PRON	_	Case=Nom|Person=3|PronType=Prs	18	conj	_	dutch=VAL-MISSING
 21	de	de	DET	_	Definite=Def	22	det	_	dutch=de
 22	depotdoar	depotdoar	NOUN	_	Number=Plur	24	obj	_	dutch=depotdeuren
-23	mei	mei	ADP	_	Number=Plur	24	compund_prt	_	dutch=depotdeuren
+23	mei	mei	ADP	_	Number=Plur	24	compound_prt	_	dutch=depotdeuren
 24	iepenje	iepenje	VERB	_	VerbForm=Inf	14	acl_relcl	_	dutch=openen
 25	kin	kinne	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	24	aux	_	dutch=kan
 26	.	.	PUNCT	_	_	2	punct	_	dutch=.
@@ -4386,7 +4386,7 @@
 15	de	de	DET	_	Definite=Def	17	det	_	dutch=de
 16	iepensteande	iepensteand	VERB	_	VerbForm=Part	17	amod	_	dutch=openstaande
 17	skulden	skuld	NOUN	_	Number=Plur	19	nsubj_pass	_	dutch=schulden
-18	op	op	ADP	_	_	19	prt_compound	_	dutch=KEY-MISSING
+18	op	op	ADP	_	_	19	compound_prt	_	dutch=KEY-MISSING
 19	fêstlein	fêstlizze	VERB	_	VerbForm=Part	11	acl_relcl	_	dutch=vastgelegd
 20	waarden	wurde	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	19	aux_pass	_	dutch=werden
 21	.	.	PUNCT	_	_	8	punct	_	dutch=.
@@ -5052,7 +5052,7 @@
 19	.	.	PUNCT	_	_	18	punct	_	dutch=.
 
 # sent_id = 220
-# text = Neffens de argivaris A. L.
+# text = Neffens de argivaris A. L. Heerma van Voss hat Aaxma in list gearstald fan minsken dy’t om in hinnekommen sjoen hiene en hat Regnerus a Solckema dy list systematysk yndield en de nammen en geslachtswapens byinoar set. 
 # source_text = Volgens de archivaris A. L .
 # alignment =  0-0 1-1 2-4 3-3 4-5
 # NOT ALIGNED
@@ -5724,7 +5724,7 @@
 27	.	.	PUNCT	_	_	12	punct	_	dutch=.
 
 # sent_id = 253
-# text = It waard makke troch H.
+# text = It waard makke troch H. Backer en wie bedoeld foar it opbergjen fan akten.
 # source_text = Het werd gemaakt door H .
 # alignment =  0-0 1-1 2-2 3-3 4-5
 # NOT ALIGNED
@@ -5764,8 +5764,8 @@
 5	Rhijn	Rhijn	PROPN	_	_	3	flat	_	dutch=Rhijn
 
 # sent_id = 257
-# text = De skilder Rembrandt van Rhijn troude op 22 juny 1634 mei Saskia van Uylenburgh yn ’e tsjerke fan St.
-# source_text = De schilder Rembrandt van Rhijn trouwde op 22 juni 1634 met Saskia van Uylenburgh de kerk van St .
+# text = De skilder Rembrandt van Rhijn troude op 22 juny 1634 mei Saskia van Uylenburgh yn ’e tsjerke fan St. Anne. 
+# source_text = De schilder Rembrandt van Rhijn trouwde op 22 juni 1634 met Saskia van Uylenburgh de kerk van St . Annaparochie . 
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 15-14 16-15 17-16 18-17
 # NOT ALIGNED
 1	De	de	DET	_	Definite=Def	2	det	_	dutch=De
@@ -10462,7 +10462,7 @@
 7	Aberwo	Aberwo	PROPN	_	_	5	flat	_	dutch=Aberwo
 
 # sent_id = 461
-# text = Heal augustus 1939 kaam It boek fan it Paradys :
+# text = Heal augustus 1939 kaam It boek fan it Paradys : It wûnderlike ferhaal fan Sjmoel Abbe Aberwo yn Warschau van de parse.
 # source_text = Half augustus 1939 kwam Dos boech fun gan-eden :
 # alignment =  0-0 1-1 2-5 3-3 4-4 5-4 6-5 7-6 8-7 9-8
 # ALIGNED
@@ -11107,7 +11107,7 @@
 20	.	.	PUNCT	_	_	3	punct	_	dutch=.
 
 # sent_id = 491
-# text = In prominint lid fan it Frysk Genoatskip , J. G.
+# text = In prominint lid fan it Frysk Genoatskip , J. G. Ottema, wie oertsjûge fan de autentisiteit en soarge fuortendaalks foar in útjefte. 
 # source_text = Een prominent lid van het Friesch Genootschap , J. G .
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-10
 # ALIGNED
