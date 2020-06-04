@@ -1022,7 +1022,7 @@
 14	om	om	ADP	_	_	16	case	_	dutch=daarom
 15	dy	dy	PRON	_	_	16	det	_	dutch=daarom
 16	reden	reden	NOUN	_	_	17	obl	_	dutch=daarom
-17	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	conj	_	dutch=is
+17	is	wêze	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	conj	_	dutch=is
 18	der	der	ADV	_	_	17	advmod	_	dutch=er
 19	ek	ek	ADV	_	_	17	advmod	_	dutch=er
 20	in	in	DET	_	Definite=Ind	22	det	_	dutch=een
