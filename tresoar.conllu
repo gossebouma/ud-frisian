@@ -1019,7 +1019,7 @@
 11	hiele	hiel	ADJ	_	Degree=Pos	12	amod	_	dutch=hele
 12	dei	dei	NOUN	_	Gender=Com|Number=Sing	7	conj	_	dutch=dag
 13	en	en	CCONJ	_	_	17	cc	_	dutch=en
-14	om	om	ADP	_	_	16	advmod	_	dutch=daarom
+14	om	om	ADP	_	_	16	punct	_	dutch=daarom
 15	dy	dy	PRON	_	_	16	advmod	_	dutch=daarom
 16	reden	reden	NOUN	_	_	17	advmod	_	dutch=daarom
 17	is	wêze	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	4	conj	_	dutch=is
