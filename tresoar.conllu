@@ -1235,7 +1235,7 @@
 10	Tresoar	Tresoar	PROPN	_	Gender=Neut|Number=Sing	8	nmod	_	dutch=Tresoar
 11	,	,	PUNCT	_	_	16	punct	_	dutch=,
 12	mar	mar	CCONJ	_	_	19	cc	_	dutch=maar
-13	wannear’t	wannear’t	ADV	_	_	11	mark	_	dutch=wanneer
+13	wannear’t	wannear’t	ADV	_	_	16	mark	_	dutch=wanneer
 14	jo	jo	PRON	_	Case=Nom|Person=3|PronType=Prs	16	nsubj	_	dutch=men
 15	boeken	boek	NOUN	_	Number=Plur	16	obj	_	dutch=boeken
 16	liene	liene	VERB	_	VerbForm=Inf	3	xcomp	_	dutch=lenen
