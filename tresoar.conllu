@@ -1241,7 +1241,7 @@
 16	liene	liene	VERB	_	VerbForm=Inf	3	xcomp	_	dutch=lenen
 17	wolle	wolle	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	19	advcl	_	dutch=wil
 18	,	,	PUNCT	_	_	16	punct	_	dutch=,
-19	jildt	jilde	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	3	conj	_	dutch=geldt
+19	jildt	jilde	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	16	conj	_	dutch=geldt
 20	in	in	DET	_	Definite=Ind	21	det	_	dutch=een
 21	taryf	taryf	NOUN	_	Gender=Neut|Number=Sing	19	nsubj	_	dutch=tarief
 22	.	.	PUNCT	_	_	3	punct	_	dutch=.
