@@ -4814,7 +4814,7 @@
 2	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	3	nsubj	_	dutch=hij
 3	sizze	sizze	VERB	_	VerbForm=Inf	4	ccomp	_	dutch=zeggen
 4	woe	wolle	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	6	ccomp	_	dutch=had
-5	,	,	PUNCT	_	_	3	punct	_	dutch=,
+5	,	,	PUNCT	_	_	4	punct	_	dutch=,
 6	skreau	skriuwe	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=schreef
 7	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	6	nsubj	_	dutch=hij
 8	,	,	PUNCT	_	_	6	punct	_	dutch=,
