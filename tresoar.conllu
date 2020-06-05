@@ -4820,7 +4820,7 @@
 8	,	,	PUNCT	_	_	6	punct	_	dutch=,
 9	foar	foar	ADP	_	Degree=Pos	11	case	_	dutch=deels
 10	in	in	DET	_	Degree=Pos	11	det	_	dutch=deels
-11	part	part	NOUN	_	Degree=Pos	6	advmod	_	dutch=deels
+11	part	part	NOUN	_	Degree=Pos	6	obl	_	dutch=deels
 12	mei	mei	ADP	_	_	13	case	_	dutch=met
 13	inket	inket	NOUN	_	Gender=Com|Number=Sing	11	nmod	_	dutch=inkt
 14	en	en	CCONJ	_	Gender=Com|Number=Sing	17	cc	_	dutch=inkt
