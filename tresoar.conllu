@@ -4812,7 +4812,7 @@
 # ALIGNED
 1	Wat	wat	PRON	_	Person=3|PronType=Int	3	obj	_	dutch=Wat
 2	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	4	nsubj	_	dutch=hij
-3	sizze	sizze	VERB	_	VerbForm=Inf	4	ccomp	_	dutch=zeggen
+3	sizze	sizze	VERB	_	VerbForm=Inf	4	xcomp	_	dutch=zeggen
 4	woe	wolle	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	6	ccomp	_	dutch=had
 5	,	,	PUNCT	_	_	4	punct	_	dutch=,
 6	skreau	skriuwe	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=schreef
