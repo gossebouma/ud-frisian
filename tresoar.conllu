@@ -1239,7 +1239,7 @@
 14	jo	jo	PRON	_	Case=Nom|Person=3|PronType=Prs	17	nsubj	_	dutch=men
 15	boeken	boek	NOUN	_	Number=Plur	16	obj	_	dutch=boeken
 16	liene	liene	VERB	_	VerbForm=Inf	19	advcl	_	dutch=lenen
-17	wolle	wolle	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	19	conj	_	dutch=wil
+17	wolle	wolle	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	19	advcl	_	dutch=wil
 18	,	,	PUNCT	_	_	17	punct	_	dutch=,
 19	jildt	jilde	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	3	conj	_	dutch=geldt
 20	in	in	DET	_	Definite=Ind	21	det	_	dutch=een
