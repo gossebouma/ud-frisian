@@ -1626,7 +1626,7 @@
 15	;	;	PUNCT	_	_	14	punct	_	dutch=;
 16	mear	folle	ADV	_	PronType=Ind	39	advmod	_	dutch=meer
 17	en	en	CCONJ	_	_	18	cc	_	dutch=en
-18	mear	folle	PRON	_	PronType=Ind	16	conj	_	dutch=meer
+18	mear	folle	ADV	_	PronType=Ind	16	conj	_	dutch=meer
 19	sil	sille	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	39	aux	_	dutch=zal
 20	ek	ek	ADV	_	_	39	advmod	_	dutch=ook
 21	de	de	DET	_	Definite=Def	22	det	_	dutch=de
