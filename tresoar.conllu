@@ -2783,7 +2783,7 @@
 12	de	de	DET	_	Definite=Def	15	det	_	dutch=VAL-MISSING
 13	lanlike	lanlik	ADJ	_	Degree=Pos	15	amod	_	dutch=VAL-MISSING
 14	‘	‘	PUNCT	_	_	15	punct	_	dutch=‘
-15	Stichting	Stichting	PROPN	_	_	10	nmod	_	dutch=Stichting
+15	Stichting	Stichting	PROPN	_	_	7	nmod	_	dutch=Stichting
 16	Schrijven	Schrijven	PROPN	_	_	15	flat	_	dutch=VAL-MISSING
 17	’	’	PUNCT	_	_	16	punct	_	dutch=’
 18	binne	wêze	AUX	_	_	23	cop	_	dutch=er
