@@ -4581,7 +4581,7 @@
 8	slach	slach	NOUN	_	Gender=Com|Number=Sing	12	obl	_	dutch=slag
 9	om	om	ADP	_	_	11	case	_	dutch=om
 10	de	de	DET	_	Definite=Def	11	det	_	dutch=de
-11	Berezina	Berezina	PROPN	_	Gender=Com_Neut|Number=Sing	8	nmod	_	dutch=Berezina
+11	Berezina	Berezina	PROPN	_	Gender=Com|Number=Sing	8	nmod	_	dutch=Berezina
 12	sneuvele	sneuvelje	VERB	_	VerbForm=Part	0	root	_	dutch=gesneuveld
 13	wêze	wêze	AUX	_	VerbForm=Inf	12	aux	_	dutch=zijn
 14	.	.	PUNCT	_	_	12	punct	_	dutch=.
