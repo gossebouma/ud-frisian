@@ -2520,7 +2520,7 @@
 36	pinne	pinne	NOUN	_	Gender=Com|Number=Sing	23	conj	_	dutch=pen
 37	fan	fan	ADP	_	_	38	case	_	dutch=van
 38	Nynke	Nynke	PROPN	_	Gender=Com|Number=Sing	36	nmod	_	dutch=Nienke
-39	fan	fan	PROPN	_	_	38	case	_	dutch=van
+39	fan	fan	PROPN	_	_	38	flat	_	dutch=van
 40	Hichtum	Hichtum	PROPN	_	Gender=Neut|Number=Sing	38	nmod	_	dutch=Hichtum
 41	.	.	PUNCT	_	_	21	punct	_	dutch=.
 
