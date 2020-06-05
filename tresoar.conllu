@@ -2490,7 +2490,7 @@
 6	mofkes	mofke	NOUN	_	Number=Plur	3	nmod	_	dutch=handschoenen
 7	oan	oan	ADP	_	Number=Plur	6	case	_	dutch=handschoenen
 8	,	,	PUNCT	_	_	21	punct	_	dutch=,
-9	meie	meie	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	21	aux	_	dutch=mogen
+9	meie	meie	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	21	aux	_	dutch=mogen
 10	âlde	âld	ADJ	_	Degree=Pos	13	nmod	_	dutch=oude
 11	en	en	CCONJ	_	_	12	cc	_	dutch=en
 12	bysûndere	bysûnder	ADJ	_	Degree=Pos	10	conj	_	dutch=bijzondere
