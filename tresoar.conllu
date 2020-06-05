@@ -5840,7 +5840,7 @@
 # source_text = Saskia en Rembrandt hebben elkaar waarschijnlijk leren kennen bij een familielid van Saskia , Hendrik van Uylenburgh , die in Amsterdam een kunsthandel dreef .
 # alignment =  0-0 1-1 2-2 3-3 4-5 5-5 6-5 7-4 10-7 12-8 13-9 14-10 15-11 16-12 17-13 18-14 19-15 20-16 21-17 22-18 23-19 24-20 25-21 26-23 27-22 28-24
 # NOT ALIGNED
-1	Saskia	Saskia	PROPN	_	Gender=Com|Number=Sing	4	nsubj	_	dutch=Saskia
+1	Saskia	Saskia	PROPN	_	Gender=Com|Number=Sing	12	nsubj	_	dutch=Saskia
 2	en	en	CCONJ	_	_	3	cc	_	dutch=en
 3	Rembrandt	Rembrandt	PROPN	_	Gender=Com|Number=Sing	1	conj	_	dutch=Rembrandt
 4	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	12	cop	_	dutch=hebben
