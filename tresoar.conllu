@@ -1234,7 +1234,7 @@
 9	yn	yn	ADP	_	_	10	case	_	dutch=in
 10	Tresoar	Tresoar	PROPN	_	Gender=Neut|Number=Sing	8	nmod	_	dutch=Tresoar
 11	,	,	PUNCT	_	_	17	punct	_	dutch=,
-12	mar	mar	CCONJ	_	_	18	cc	_	dutch=maar
+12	mar	mar	CCONJ	_	_	17	cc	_	dutch=maar
 13	wannear’t	wannear’t	ADV	_	_	16	advmod	_	dutch=wanneer
 14	jo	jo	PRON	_	Case=Nom|Person=3|PronType=Prs	16	nsubj	_	dutch=men
 15	boeken	boek	NOUN	_	Number=Plur	16	obj	_	dutch=boeken
