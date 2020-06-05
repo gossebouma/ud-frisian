@@ -5141,7 +5141,7 @@
 # source_text = Vanouds was er het recht op de zwanenjacht .
 # alignment =  0-0 1-0 2-1 3-2 4-3 5-4 6-4 7-5 8-7 9-7 10-7 11-8
 # ALIGNED
-1	By	by	ADP	_	_	3	case	_	dutch=Vanouds
+1	By	by	ADP	_	_	3	advmod	_	dutch=Vanouds
 2	âlds	âlds	NOUN	_	_	1	fixed	_	dutch=Vanouds
 3	wie	wêze	VERB	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=was
 4	der	der	ADV	_	_	3	advmod	_	dutch=er
