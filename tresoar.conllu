@@ -2388,7 +2388,7 @@
 11	foarmen	foarm	NOUN	_	VerbForm=Inf	8	conj	_	dutch=vormen
 12	fan	fan	ADP	_	_	13	case	_	dutch=van
 13	popularisearjen	popularisearje	VERB	_	Gender=Com|Number=Sing	11	nmod	_	dutch=popularisatie
-14	liket	lykje	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=lijkt
+14	liket	lykje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=lijkt
 15	hast	hast	ADV	_	_	16	advmod	_	dutch=bijna
 16	net	net	ADV	_	_	18	advmod	_	dutch=niet
 17	te	te	ADP	_	_	18	mark	_	dutch=te
