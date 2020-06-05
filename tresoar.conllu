@@ -1437,7 +1437,7 @@
 3	digitalisearring	digitalisearring	NOUN	_	Gender=Com|Number=Sing	1	appos	_	dutch=digitalisering
 4	,	,	PUNCT	_	_	5	punct	_	dutch=,
 5	ynternet	ynternet	NOUN	_	Gender=Neut|Number=Sing	1	appos	_	dutch=internet
-6	hawwe	hawwe	PROPN	_	Number=Plur|Tense=Pres|VerbForm=Fin	20	cop	_	dutch=hebben
+6	hawwe	hawwe	PROPN	_	Number=Plur|Tense=Pres|VerbForm=Fin	20	nummod	_	dutch=hebben
 7	ek	ek	ADV	_	_	19	advmod	_	dutch=ook
 8	yn	yn	ADP	_	_	10	case	_	dutch=in
 9	’e	’e	DET	_	Definite=Def	10	det	_	dutch=de
