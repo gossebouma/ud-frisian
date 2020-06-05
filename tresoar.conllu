@@ -1692,7 +1692,7 @@
 34	opfrege	opfreegje	VERB	_	VerbForm=Part	15	conj	_	dutch=opgevraagd
 35	wurde	wurde	AUX	_	VerbForm=Inf	34	aux_pass	_	dutch=worden
 36	kinne	kinne	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	34	aux	_	dutch=kunnen
-37	.	.	PUNCT	_	_	2	punct	_	dutch=.
+37	.	.	PUNCT	_	_	4	punct	_	dutch=.
 
 # sent_id = 75
 # text = Foar in lytser tal ûnderdielen fan de kolleksje kin in folslein ferhaal ferteld wurde , dêr’t de rol dy’t it objekt yn syn tiid spile yn beljochte wurdt en dêr’t wat oer de skiednis en de betsjutting fan it objekt yn ferteld wurdt .
