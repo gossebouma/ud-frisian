@@ -3714,7 +3714,7 @@
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-10 10-9 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22 23-23 24-24 25-25 26-26
 # ALIGNED
 1	Sa	sa	ADV	_	_	0	root	_	dutch=Zo
-2	is	wêze	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	1	cop	_	dutch=is
+2	is	wêze	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	1	aux	_	dutch=is
 3	der	der	ADV	_	_	1	advmod	_	dutch=er
 4	in	in	DET	_	Definite=Ind	6	det	_	dutch=een
 5	santjinde-iuwske	santjinde-iuwsk	ADJ	_	Degree=Pos	6	amod	_	dutch=zeventiende-eeuwse
