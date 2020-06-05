@@ -6302,7 +6302,7 @@
 # ALIGNED
 1	De	De	PROPN	_	Definite=Def	2	det	_	dutch=De
 2	Rymlerye	Rymlerye	PROPN	_	_	0	root	_	dutch=Rymlerye
-3	fan	fan	ADP	_	_	4	flat	_	dutch=van
+3	fan	fan	ADP	_	_	4	case	_	dutch=van
 4	Gysbert	Gysbert	PROPN	_	_	2	flat	_	dutch=Gysbert
 
 # sent_id = 285
