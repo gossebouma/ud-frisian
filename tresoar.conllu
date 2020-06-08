@@ -11003,7 +11003,7 @@
 4	fan	fan	ADP	_	_	6	case	_	dutch=van
 5	dizze	dizze	DET	_	_	6	det	_	dutch=deze
 6	útjefte	útjefte	NOUN	_	Gender=Com|Number=Sing	3	nmod	_	dutch=uitgave
-7	hat	hawwe	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	24	aux	_	dutch=heeft
+7	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	24	aux	_	dutch=heeft
 8	de	de	DET	_	Definite=Def	9	det	_	dutch=de
 9	printer	printer	NOUN	_	Gender=Com|Number=Sing	24	nsubj	_	dutch=drukker
 10	,	,	PUNCT	_	_	11	punct	_	dutch=,
