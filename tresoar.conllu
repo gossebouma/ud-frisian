@@ -12340,7 +12340,7 @@
 9	en	en	CCONJ	_	_	26	cc	_	dutch=en
 10	de	de	DET	_	Definite=Def	11	det	_	dutch=de
 11	boeken	boek	NOUN	_	Number=Plur	26	nsubj_pass	_	dutch=boeken
-12	kamen	komme	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	26	aux_pass	_	dutch=werden
+12	kamen	komme	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	26	aux_pass	_	dutch=werden
 13	rjocht	rjocht	ADJ	_	Gender=Neut|Number=Sing	14	obl	_	dutch=recht
 14	opsteand	opsteand	ADJ	_	VerbForm=Part	26	advcl	_	dutch=opstaand
 15	mei	mei	ADP	_	_	17	case	_	dutch=met
