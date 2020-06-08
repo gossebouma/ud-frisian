@@ -9142,7 +9142,7 @@
 1	Stikken	stik	NOUN	_	Number=Plur	16	obj	_	dutch=Artikelen
 2	mei	mei	ADP	_	_	4	case	_	dutch=met
 3	in	in	DET	_	_	4	det	_	dutch=veel
-4	soad	soad	NOUN	_	_	5	det	_	dutch=veel
+4	soad	soad	NOUN	_	_	1	det	_	dutch=veel
 5	humor	humor	NOUN	_	Gender=Com|Number=Sing	1	nmod	_	dutch=humor
 6	,	,	PUNCT	_	_	14	punct	_	dutch=,
 7	mar	mar	CCONJ	_	_	14	cc	_	dutch=maar
