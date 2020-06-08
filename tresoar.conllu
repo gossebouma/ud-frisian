@@ -7917,7 +7917,7 @@
 9	fan	fan	ADP	_	_	10	case	_	dutch=van
 10	seksualiteit	seksualiteit	NOUN	_	Gender=Com|Number=Sing	8	nmod	_	dutch=seksualiteit
 11	in	in	DET	_	_	13	det	_	dutch=veel
-12	protte	protte	NOUN	_	_	13	det	_	dutch=veel
+12	protte	protte	NOUN	_	_	11	det	_	dutch=veel
 13	reaksjes	reaksje	NOUN	_	Number=Plur	3	obj	_	dutch=reacties
 14	op	op	ADP	_	_	3	compound_prt	_	dutch=op
 15	.	.	PUNCT	_	_	3	punct	_	dutch=.
