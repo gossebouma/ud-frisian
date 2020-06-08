@@ -12519,7 +12519,7 @@
 14	Cicero	Cicero	PROPN	_	Gender=Com|Number=Sing	11	appos	_	dutch=Cicero
 15	(	(	PUNCT	_	_	16	punct	_	dutch=(
 16	106	106	NUM	_	_	11	nmod	_	dutch=106-
-17	-	-	SYM	_	_	18	punct	_	dutch=VAL-MISSING
+17	-	-	PUNCT	_	_	18	punct	_	dutch=VAL-MISSING
 18	43	43	NUM	_	_	16	conj	_	dutch=VAL-MISSING
 19	v.	v.	X	_	_	18	nmod	_	dutch=.
 
