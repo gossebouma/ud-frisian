@@ -10500,7 +10500,7 @@
 3	fan	fan	ADP	_	_	5	case	_	dutch=van
 4	de	de	DET	_	Definite=Def	5	det	_	dutch=de
 5	oplage	oplage	NOUN	_	Gender=Com|Number=Sing	2	nmod	_	dutch=oplage
-6	koene	kinne	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	11	aux	_	dutch=konden
+6	koene	kinne	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	11	aux	_	dutch=konden
 7	noch	noch	ADV	_	_	11	advmod	_	dutch=nog
 8	nei	nei	ADP	_	_	10	case	_	dutch=naar
 9	it	it	DET	_	Definite=Def	10	det	_	dutch=het
