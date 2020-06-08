@@ -11255,7 +11255,7 @@
 # source_text = Er zijn echter nog altijd mensen die overtuigd zijn van de echtheid van het Oera Linda-boek .
 # alignment =  0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16
 # NOT ALIGNED
-1	Der	der	PRON	_	_	2	root	_	dutch=Er
+1	Der	der	PRON	_	_	2	cop	_	dutch=Er
 2	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=zijn
 3	lykwols	lykwols	ADV	_	_	2	advmod	_	dutch=echter
 4	noch	noch	ADV	_	_	5	advmod	_	dutch=nog
