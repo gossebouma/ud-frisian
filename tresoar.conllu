@@ -8504,7 +8504,7 @@
 22	jûns	jûn	NOUN	_	Number=Plur	2	obl	_	dutch=avonduren
 23	,	,	PUNCT	_	_	26	punct	_	dutch=,
 24	want	want	CCONJ	_	_	30	mark	_	dutch=want
-25	oerdeis	oerdeis	ADV	_	_	26	advmod	_	dutch=overdag
+25	oerdeis	oerdeis	ADV	_	_	30	advmod	_	dutch=overdag
 26	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	30	aux	_	dutch=was
 27	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	30	nsubj	_	dutch=hij
 28	op	op	ADP	_	_	30	case	_	dutch=op
