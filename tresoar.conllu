@@ -11757,7 +11757,7 @@
 9	dan	dan	ADV	_	_	8	fixed	_	dutch=dan
 10	meastal	meastal	ADV	_	_	6	acl	_	dutch=meestal
 11	oangeande	oangeande	ADP	_	VerbForm=Part	2	acl	_	dutch=betreffende
-12	de	de	PROPN	_	Definite=Def	13	det	_	dutch=de
+12	de	de	DET	_	Definite=Def	13	det	_	dutch=de
 13	Ommelannen	Ommelannen	PROPN	_	Gender=Neut|Number=Sing	11	obj	_	dutch=Ommelanden
 14	,	,	PUNCT	_	_	2	punct	_	dutch=,
 15	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	17	aux	_	dutch=zijn
