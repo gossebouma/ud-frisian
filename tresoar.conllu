@@ -12965,7 +12965,7 @@
 # NOT ALIGNED
 1	Yn	yn	ADP	_	_	2	case	_	dutch=In
 2	1917	1917	NUM	_	_	12	obl	_	dutch=1917
-3	hie	hawwe	ADV	_	Number=Sing|Tense=Past|VerbForm=Fin	12	aux	_	dutch=had
+3	hie	hawwe	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	12	aux	_	dutch=had
 4	Wumkes	Wumkes	PROPN	_	Gender=Com|Number=Sing	12	nsubj	_	dutch=Wumkes
 5	foar	foar	ADP	_	_	7	case	_	dutch=voor
 6	it	it	DET	_	Definite=Def	7	det	_	dutch=het
