@@ -9628,7 +9628,7 @@
 2	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	4	cop	_	dutch=was
 3	it	it	DET	_	Definite=Def	4	det	_	dutch=de
 4	doel	doel	NOUN	_	Gender=Com|Number=Sing	0	root	_	dutch=bedoeling
-5	dat	dat	PRON	_	_	10	mark	_	dutch=dat
+5	dat	dat	SCONJ	_	_	10	mark	_	dutch=dat
 6	er	er	PRON	_	Case=Nom|Person=3|PronType=Prs	10	nsubj_pass	_	dutch=hij
 7	mei	mei	ADP	_	_	9	case	_	dutch=met
 8	it	it	DET	_	Definite=Def	9	det	_	dutch=het
