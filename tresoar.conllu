@@ -12615,7 +12615,7 @@
 11	foar	foar	ADP	_	_	13	case	_	dutch=voor
 12	in	in	DET	_	_	13	det	_	dutch=veel
 13	soad	soad	NOUN	_	_	23	obl	_	dutch=veel
-14	boekleafhawwers	boekleafhawwer	NOUN	_	Number=Plur	13	obj	_	dutch=boekliefhebbers
+14	boekleafhawwers	boekleafhawwer	NOUN	_	Number=Plur	13	nmod	_	dutch=boekliefhebbers
 15	yn	yn	ADP	_	_	17	case	_	dutch=in
 16	dy	dy	DET	_	_	17	det	_	dutch=die
 17	tiid	tiid	NOUN	_	Gender=Com|Number=Sing	14	nmod	_	dutch=tijd
