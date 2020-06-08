@@ -9126,7 +9126,7 @@
 23	hy	hy	PRON	_	Case=Nom|Person=3|PronType=Prs	24	nsubj	_	dutch=hij
 24	skriuwt	skriuwe	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	7	conj	_	dutch=schrijft
 25	noch	noch	ADV	_	_	24	advmod	_	dutch=nog
-26	geregeld	regelje	VERB	_	Degree=Pos	24	advmod	_	dutch=regelmatig
+26	geregeld	regelje	ADV	_	Degree=Pos	24	advmod	_	dutch=regelmatig
 27	stikken	stik	NOUN	_	Number=Plur	24	obj	_	dutch=artikelen
 28	yn	yn	ADP	_	_	30	case	_	dutch=VAL-MISSING
 29	syn	syn	PRON	_	Person=3|Poss=Yes|PronType=Prs	30	det	_	dutch=VAL-MISSING
