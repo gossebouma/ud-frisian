@@ -12612,7 +12612,7 @@
 8	,	,	PUNCT	_	_	6	punct	_	dutch=,
 9	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	23	cop	_	dutch=was
 10	it	it	PRON	_	Person=3|PronType=Prs	23	nsubj	_	dutch=het
-11	foar	foar	ADP	_	_	14	case	_	dutch=voor
+11	foar	foar	ADP	_	_	13	case	_	dutch=voor
 12	in	in	DET	_	_	13	det	_	dutch=veel
 13	soad	soad	NOUN	_	_	14	det	_	dutch=veel
 14	boekleafhawwers	boekleafhawwer	NOUN	_	Number=Plur	23	obj	_	dutch=boekliefhebbers
