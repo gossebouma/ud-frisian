@@ -6481,7 +6481,7 @@
 # NOT ALIGNED
 1	Mei	mei	ADP	_	Number=Sing|Tense=Pres|VerbForm=Fin	2	case	_	dutch=kan
 2	rjocht	rjocht	NOUN	_	Degree=Pos	5	obl	_	dutch=terecht
-3	kin	kin	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	aux	_	dutch=kan
+3	kin	kinne	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	aux	_	dutch=kan
 4	dan	dan	ADV	_	_	5	advmod	_	dutch=Dan
 5	sein	sizze	VERB	_	VerbForm=Part	0	root	_	dutch=opgemerkt
 6	wurde	wurde	AUX	_	VerbForm=Inf	5	aux_pass	_	dutch=worden
