@@ -11516,7 +11516,7 @@
 2	hânskrift	hânskrift	NOUN	_	Gender=Neut|Number=Sing	3	nsubj	_	dutch=handschrift
 3	befettet	befetsje	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=bevat
 4	nammentlik	nammentlik	ADV	_	_	3	advmod	_	dutch=namelijk
-5	gruttendiels	gruttendiels	ADV	_	_	6	punct	_	dutch=)
+5	gruttendiels	gruttendiels	ADV	_	_	6	advmod	_	dutch=)
 6	gebeden	gebed	NOUN	_	Number=Plur	3	obj	_	dutch=gebeden
 7	mei	mei	ADP	_	_	11	case	_	dutch=met
 8	dêrneist	dêrneist	ADV	_	_	11	amod	_	dutch=daarnaast
