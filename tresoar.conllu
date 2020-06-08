@@ -12190,7 +12190,7 @@
 3	dy’t	dy’t	PRON	_	_	7	obj	_	dutch=KEY-MISSING
 4	Tresoar	Tresoar	PROPN	_	Gender=Com|Number=Sing	7	nsubj	_	dutch=Tresoar
 5	yn	yn	ADP	_	Gender=Neut|Number=Sing	6	case	_	dutch=bezit
-6	besit	besit	NOUN	_	Gender=Neut|Number=Sing	7	advmod	_	dutch=bezit
+6	besit	besit	NOUN	_	Gender=Neut|Number=Sing	7	obl	_	dutch=bezit
 7	hat	hawwe	VERB	_	Gender=Neut|Number=Sing	2	acl_relcl	_	dutch=bezit
 8	,	,	PUNCT	_	_	2	punct	_	dutch=KEY-MISSING
 9	komme	komme	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=komen
