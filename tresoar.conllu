@@ -11432,7 +11432,7 @@
 8	dúdlik	dúdlik	ADJ	_	Degree=Pos	10	advmod	_	dutch=duidelijk
 9	yn	yn	ADP	_	_	7	case	_	dutch=waarin
 10	stiet	stean	NOUN	_	Number=Sing|Tense=Pres|VerbForm=Fin	6	acl_relcl	_	dutch=staat
-11	hoe’t	hoe’t	ADV	_	_	15	advmod	_	dutch=hoe
+11	hoe’t	hoe’t	ADV	_	_	20	advmod	_	dutch=hoe
 12	it	it	PRON	_	Person=3|PronType=Prs	15	nsubj	_	dutch=het
 13	ta	ta	ADP	_	_	14	case	_	dutch=tot
 14	stân	stân	NOUN	_	Gender=Com|Number=Sing	15	obl	_	dutch=stand
