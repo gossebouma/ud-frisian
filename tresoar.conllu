@@ -11209,7 +11209,7 @@
 # ALIGNED
 1	Yn	yn	ADP	_	_	4	case	_	dutch=Binnen
 2	in	in	DET	_	_	3	det	_	dutch=enkele
-3	pear	pear	NOUN	_	_	4	det	_	dutch=enkele
+3	pear	pear	NOUN	_	_	4	nmod	_	dutch=enkele
 4	jier	jier	NOUN	_	Number=Plur	5	obl	_	dutch=jaren
 5	wie	wêze	AUX	_	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=was
 6	de	de	DET	_	Definite=Def	8	det	_	dutch=de
