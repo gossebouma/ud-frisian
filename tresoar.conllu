@@ -11441,7 +11441,7 @@
 17	:	:	PUNCT	_	_	28	punct	_	dutch=:
 18	broer	broer	NOUN	_	Gender=Com|Number=Sing	28	nsubj	_	dutch=broeder
 19	Petrus	Petrus	PROPN	_	Gender=Com|Number=Sing	18	appos	_	dutch=Petrus
-20	fan	fan	ADV	_	_	21	case	_	dutch=van
+20	fan	fan	ADP	_	_	21	case	_	dutch=van
 21	Boalsert	Boalsert	PROPN	_	Gender=Neut|Number=Sing	18	nmod	_	dutch=Bolsward
 22	hat	hawwe	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	28	aux	_	dutch=heeft
 23	it	it	PRON	_	Person=3|PronType=Prs	28	obj	_	dutch=het
