@@ -7360,7 +7360,7 @@
 8	wiene	wêze	AUX	_	Number=Plur|Tense=Past|VerbForm=Fin	30	cop	_	dutch=waren
 9	de	de	DET	_	Definite=Def	11	det	_	dutch=de
 10	beide	beide	DET	_	_	11	det	_	dutch=beide
-11	bern	bern	NOUN	_	Number=Plur	8	nsubj	_	dutch=kinderen
+11	bern	bern	NOUN	_	Number=Plur	30	nsubj	_	dutch=kinderen
 12	,	,	PUNCT	_	_	13	punct	_	dutch=,
 13	Diuwke	Diuwke	PROPN	_	Gender=Com|Number=Sing	11	appos	_	dutch=Dieuwke
 14	en	en	CCONJ	_	_	15	cc	_	dutch=en
