@@ -7977,7 +7977,7 @@
 1	Yn	yn	ADP	_	_	3	case	_	dutch=In
 2	’e	’e	DET	_	Definite=Def	3	det	_	dutch=de
 3	marzje	marzje	NOUN	_	Gender=Com|Number=Sing	10	obl	_	dutch=marge
-4	binne	wêze	PRON	_	Number=Plur|Tense=Pres|VerbForm=Fin	10	aux_pass	_	dutch=zijn
+4	binne	wêze	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	10	aux_pass	_	dutch=zijn
 5	data	datum	NOUN	_	Number=Plur	10	nsubj_pass	_	dutch=data
 6	en	en	CCONJ	_	_	7	cc	_	dutch=en
 7	lingte	lingte	NOUN	_	Gender=Com|Number=Sing	5	conj	_	dutch=schrijfduur
