@@ -12060,7 +12060,7 @@
 # source_text = Gedacht wordt dat Erasmus dit werk heeft gebruikt om meer te weten te komen over zijn kwaal : nierstenen .
 # alignment =  0-0 1-1 2-0 3-2 4-3 5-4 6-5 7-7 8-6 9-8 10-9 11-10 12-11 13-12 14-13 15-14 16-15 17-16 18-17 19-18 20-19
 # ALIGNED
-1	Der	der	ADV	_	VerbForm=Part	3	expl	_	dutch=Gedacht
+1	Der	der	ADV	_	VerbForm=Part	0	root	_	dutch=Gedacht
 2	wurdt	wurde	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	3	aux_pass	_	dutch=wordt
 3	tocht	tocht	VERB	_	VerbForm=Part	0	root	_	dutch=Gedacht
 4	dat	dat	SCONJ	_	_	8	mark	_	dutch=dat
