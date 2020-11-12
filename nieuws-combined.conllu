@@ -4419,7 +4419,7 @@
 # text = De Friesland Flyers bliuwe troch dit ferlies op it fiifde plak stean .
 # source_text = De Friesland Flyers blijven door dit verlies op de vijfde plaats staan .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12
-1	De	De	PROPN	PROPN	Definite=Def	12	nsubj	_	dutch=De
+1	De	De	PROPN	PROPN	Definite=Def	4	nsubj	_	dutch=De
 2	Friesland	Friesland	PROPN	PROPN	_	1	flat	_	dutch=Friesland
 3	Flyers	Flyers	PROPN	PROPN	_	1	flat	_	dutch=Flyers
 4	bliuwe	bliuwe	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	12	aux	_	dutch=blijven
