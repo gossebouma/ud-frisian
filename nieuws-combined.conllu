@@ -4430,7 +4430,7 @@
 9	it	it	DET	DET	Definite=Def	11	det	_	dutch=de
 10	fiifde	fiif	ADJ	ADJ	_	11	amod	_	dutch=vijfde
 11	plak	plak	NOUN	NOUN	Gender=Com|Number=Sing	12	obl	_	dutch=plaats
-12	stean	stean	VERB	VERB	VerbForm=Inf	0	root	_	dutch=staan
+12	stean	stean	VERB	VERB	VerbForm=Inf	4	root	_	dutch=staan
 13	.	.	PUNCT	PUNCT	_	12	punct	_	dutch=.
 
 # sent_id = 2026
