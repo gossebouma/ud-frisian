@@ -65,16 +65,16 @@
 # source_text = Het bedrag dat dat opleverde , wordt begin februari bekendgemaakt .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-4 6-5 7-6 8-7 9-8 10-9 11-9 12-10
 1	It	it	DET	DET	Definite=Def	2	det	_	dutch=Het
-2	bedrach	bedrach	NOUN	NOUN	Gender=Neut|Number=Sing	12	nsubj_pass	_	dutch=bedrag
+2	bedrach	bedrach	NOUN	NOUN	Gender=Neut|Number=Sing	12	nsubj:pass	_	dutch=bedrag
 3	dat	dat	PRON	PRON	Person=3|PronType=Rel	5	obj	_	dutch=dat
 4	dat	dat	PRON	PRON	Person=3|PronType=Dem	5	nsubj	_	dutch=dat
-5	opsmiten	opsmite	VERB	VERB	Number=Sing|Tense=Past|VerbForm=Fin	2	acl_relcl	_	dutch=opleverde
+5	opsmiten	opsmite	VERB	VERB	Number=Sing|Tense=Past|VerbForm=Fin	2	acl:relcl	_	dutch=opleverde
 6	hat	hawwe	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	5	aux	_	dutch=opleverde
-7	,	,	PUNCT	PUNCT	_	12	punct	_	dutch=,
-8	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	12	aux_pass	_	dutch=wordt
+7	,	,	PUNCT	PUNCT	_	2	punct	_	dutch=,
+8	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	12	aux:pass	_	dutch=wordt
 9	begjin	begjin	NOUN	NOUN	Gender=Neut|Number=Sing	10	nmod	_	dutch=begin
 10	febrewaris	febrewaris	PROPN	PROPN	Gender=Com|Number=Sing	12	obl	_	dutch=februari
-11	bekend	bekend	ADJ	ADJ	VerbForm=Part	12	compound_prt	_	dutch=bekendgemaakt
+11	bekend	bekend	ADJ	ADJ	VerbForm=Part	12	compound:prt	_	dutch=bekendgemaakt
 12	makke	meitsje	VERB	VERB	VerbForm=Part	0	root	_	dutch=bekendgemaakt
 13	.	.	PUNCT	PUNCT	_	12	punct	_	dutch=.
 
@@ -96,10 +96,10 @@
 # source_text = Zo raakte ze in de Hongaarse hoofdstad Boedapest een camera kwijt door diefstal .
 # alignment = 0-0 1-1 2-2 3-8 4-9 5-7 6-3 7-4 8-10 9-6 10-12 11-13
 1	Sa	sa	ADV	ADV	_	6	advmod	_	dutch=Zo
-2	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	6	aux_pass	_	dutch=raakte
+2	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	6	aux:pass	_	dutch=raakte
 3	harren	harren	PRON	PRON	Person=3|PronType=Prs	6	iobj	_	dutch=ze
 4	in	in	DET	DET	Definite=Ind	5	det	_	dutch=een
-5	kamera	kamera	NOUN	NOUN	Gender=Com|Number=Sing	6	nsubj_pass	_	dutch=camera
+5	kamera	kamera	NOUN	NOUN	Gender=Com|Number=Sing	6	nsubj:pass	_	dutch=camera
 6	ûntstellen	ûntstelle	VERB	VERB	Gender=Neut|Number=Sing	0	root	_	dutch=Boedapest
 7	yn	yn	ADP	ADP	_	10	case	_	dutch=in
 8	de	de	DET	DET	Definite=Def	10	det	_	dutch=de
@@ -138,7 +138,7 @@
 7	intercity-trein	intercity-trein	NOUN	NOUN	Gender=Com|Number=Sing	2	obj	_	dutch=intercity
 8	nei	nei	ADP	ADP	_	9	case	_	dutch=naar
 9	Swol	Swol	PROPN	PROPN	Gender=Neut|Number=Sing	7	nmod	_	dutch=Zwolle
-10	kwyt	kwyt	ADJ	ADJ	Degree=Pos	2	compound_prt	_	dutch=kwijt
+10	kwyt	kwyt	ADJ	ADJ	Degree=Pos	2	compound:prt	_	dutch=kwijt
 11	.	.	PUNCT	PUNCT	_	2	punct	_	dutch=.
 
 # sent_id = 1816
@@ -219,7 +219,7 @@
 5	ôf	ôf	ADP	ADP	_	4	case	_	dutch=vanaf
 6	twa	twa	NUM	NUM	_	7	nummod	_	dutch=twee
 7	treinen	trein	NOUN	NOUN	VerbForm=Inf	2	nsubj	_	dutch=rijden
-8	,	,	PUNCT	PUNCT	_	2	punct	_	dutch=,
+8	,	,	PUNCT	PUNCT	_	19	punct	_	dutch=,
 9	mar	mar	CCONJ	CCONJ	_	19	cc	_	dutch=maar
 10	dy	dy	PRON	PRON	Person=3|PronType=Dem	19	nsubj	_	dutch=die
 11	sille	sille	AUX	AUX	_	19	aux	_	dutch=KEY-MISSING
@@ -310,7 +310,7 @@
 6	stoptrein	stoptrein	NOUN	NOUN	Gender=Com|Number=Sing	8	obj	_	dutch=stoptrein
 7	fan	fan	ADP	ADP	_	4	case	_	dutch=van
 8	meitsje	meitsje	VERB	VERB	VerbForm=Inf	3	xcomp	_	dutch=maken
-9	,	,	PUNCT	PUNCT	_	3	punct	_	dutch=,
+9	,	,	PUNCT	PUNCT	_	19	punct	_	dutch=,
 10	mar	mar	CCONJ	CCONJ	_	19	cc	_	dutch=maar
 11	dêr	dêr	ADV	ADV	_	19	obl	_	dutch=daar
 12	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	19	aux	_	dutch=is
@@ -429,9 +429,9 @@
 1	Al	al	ADV	ADV	_	3	advmod	_	dutch=Al
 2	35	35	NUM	NUM	_	3	nummod	_	dutch=35
 3	jier	jier	NOUN	NOUN	Gender=Neut|Number=Sing	8	obl	_	dutch=jaar
-4	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	8	aux_pass	_	dutch=zijn
+4	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	8	aux:pass	_	dutch=zijn
 5	de	de	DET	DET	Definite=Def	6	det	_	dutch=de
-6	twa	twa	NUM	NUM	_	8	nsubj_pass	_	dutch=twee
+6	twa	twa	NUM	NUM	_	8	nsubj:pass	_	dutch=twee
 7	ûnskiedber	ûnskiedber	ADJ	ADJ	Degree=Pos	8	advmod	_	dutch=onlosmakelijk
 8	ferbûn	ferbine	VERB	VERB	VerbForm=Part	0	root	_	dutch=verbonden
 9	oan	oan	ADP	ADP	_	11	case	_	dutch=aan
@@ -471,7 +471,7 @@
 19	fan	fan	ADP	ADP	_	20	case	_	dutch=van
 20	tichtby	tichtby	ADJ	ADJ	Degree=Pos	22	obl	_	dutch=dichtbij
 21	mei	mei	ADP	ADP	_	10	case	_	dutch=KEY-MISSING
-22	folgen	folgje	VERB	VERB	_	8	acl_relcl	_	dutch=KEY-MISSING
+22	folgen	folgje	VERB	VERB	_	8	acl:relcl	_	dutch=KEY-MISSING
 23	.	.	PUNCT	PUNCT	_	3	punct	_	dutch=.
 
 # sent_id = 1832
@@ -507,7 +507,7 @@
 10	stapte	stappe	VERB	VERB	Number=Sing|Tense=Past|VerbForm=Fin	2	conj	_	dutch=stapte
 11	al	al	ADV	ADV	_	12	advmod	_	dutch=al
 12	gau	gau	ADJ	ADJ	Degree=Pos	10	advmod	_	dutch=snel
-13	oer	oer	ADP	ADP	_	10	compound_prt	_	dutch=over
+13	oer	oer	ADP	ADP	_	10	compound:prt	_	dutch=over
 14	op	op	ADP	ADP	_	16	case	_	dutch=op
 15	'e	'e	DET	DET	Definite=Def	16	det	_	dutch=de
 16	boat	boat	NOUN	NOUN	Gender=Com|Number=Sing	10	obl	_	dutch=boot
@@ -529,7 +529,7 @@
 5	groeide	groeie	VERB	VERB	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=groeide
 6	it	it	DET	DET	Definite=Def	7	det	_	dutch=het
 7	skûtsjeprogramma	skûtsjeprogramma	NOUN	NOUN	Gender=Neut|Number=Sing	5	nsubj	_	dutch=skûtsjeprogramma
-8	út	út	ADP	ADP	_	5	compound_prt	_	dutch=uit
+8	út	út	ADP	ADP	_	5	compound:prt	_	dutch=uit
 9	fan	fan	ADP	ADP	_	11	case	_	dutch=van
 10	ien	ien	NUM	NUM	Definite=Ind	11	nummod	_	dutch=een
 11	oere	oere	NOUN	NOUN	Gender=Neut|Number=Sing	5	obl	_	dutch=uur
@@ -542,7 +542,7 @@
 18	'e	'e	DET	DET	Definite=Def	19	det	_	dutch=de
 19	wedstriiddei	wedstriiddei	NOUN	NOUN	Gender=Com|Number=Sing	16	nmod	_	dutch=wedstrijddag
 20	,	,	PUNCT	PUNCT	_	32	punct	_	dutch=,
-21	dat	dat	PRON	PRON	Person=3|PronType=Rel	32	nsubj_pass	_	dutch=dat
+21	dat	dat	PRON	PRON	Person=3|PronType=Rel	32	nsubj:pass	_	dutch=dat
 22	troch	troch	ADP	ADP	_	23	case	_	dutch=door
 23	tûzenen	tûzen	NUM	NUM	_	32	obl	_	dutch=duizenden
 24	harkers	harker	NOUN	NOUN	Number=Plur	23	nmod	_	dutch=luisteraars
@@ -553,8 +553,8 @@
 29	om	om	ADP	ADP	_	27	conj	_	dutch=rond
 30	it	it	DET	DET	Definite=Def	31	det	_	dutch=het
 31	wetter	wetter	NOUN	NOUN	Gender=Neut|Number=Sing	25	conj	_	dutch=water
-32	folge	folgje	VERB	VERB	VerbForm=Part	16	acl_relcl	_	dutch=gevolgd
-33	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	32	aux_pass	_	dutch=wordt
+32	folge	folgje	VERB	VERB	VerbForm=Part	16	acl:relcl	_	dutch=gevolgd
+33	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	32	aux:pass	_	dutch=wordt
 34	.	.	PUNCT	PUNCT	_	5	punct	_	dutch=.
 
 # sent_id = 1835
@@ -580,7 +580,7 @@
 10	moai	moai	ADJ	ADJ	Degree=Pos	11	amod	_	dutch=mooi
 11	momint	momint	NOUN	NOUN	Gender=Neut|Number=Sing	5	xcomp	_	dutch=moment
 12	om	om	ADP	ADP	_	15	mark	_	dutch=om
-13	op	op	ADP	ADP	VerbForm=Inf	15	compound_prt	_	dutch=stoppen
+13	op	op	ADP	ADP	VerbForm=Inf	15	compound:prt	_	dutch=stoppen
 14	te	te	ADP	ADP	_	15	mark	_	dutch=te
 15	hâlden	hâlde	VERB	VERB	VerbForm=Inf	11	acl	_	dutch=stoppen
 16	.	.	PUNCT	PUNCT	_	5	punct	_	dutch=.
@@ -628,7 +628,7 @@
 4	stuit	stuit	NOUN	NOUN	Gender=Neut|Number=Sing	10	obl	_	dutch=moment
 5	moatte	moatte	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	10	aux	_	dutch=moet
 6	je	je	PRON	PRON	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	dutch=je
-7	je	je	PRON	PRON	Person=2|PronType=Prs	8	nmod_poss	_	dutch=je
+7	je	je	PRON	PRON	Person=2|PronType=Prs	8	nmod:poss	_	dutch=je
 8	kennis	kennis	NOUN	NOUN	Gender=Com|Number=Sing	10	obj	_	dutch=kennis
 9	ek	ek	ADV	ADV	_	10	advmod	_	dutch=ook
 10	oerdrage	oerdrage	VERB	VERB	VerbForm=Inf	0	root	_	dutch=overdragen
@@ -654,7 +654,7 @@
 7	foar	foar	ADP	ADP	_	8	case	_	dutch=voor
 8	Omrop	Omrop	PROPN	PROPN	_	6	obl	_	dutch=Omrop
 9	Fryslân	Fryslân	PROPN	PROPN	_	8	flat	_	dutch=Fryslân
-10	,	,	PUNCT	PUNCT	_	8	punct	_	dutch=,
+10	,	,	PUNCT	PUNCT	_	15	punct	_	dutch=,
 11	ûnder	ûnder	ADP	ADP	_	15	amod	_	dutch=onder
 12	oaren	oar	ADJ	ADJ	Degree=Pos	11	fixed	_	dutch=andere
 13	foar	foar	ADP	ADP	_	15	case	_	dutch=voor
@@ -719,7 +719,7 @@
 7	er	er	PRON	PRON	Case=Nom|Person=3|PronType=Prs	13	nsubj	_	dutch=hij
 8	oer	oer	ADP	ADP	_	11	case	_	dutch=over
 9	in	in	DET	DET	Definite=Ind	10	det	_	dutch=een
-10	pear	pear	NOUN	NOUN	Gender=Com_Neut|Number=Sing	11	nummod	_	dutch=paar
+10	pear	pear	NOUN	NOUN	Gender=Com,Neut|Number=Sing	11	nummod	_	dutch=paar
 11	jier	jier	NOUN	NOUN	Gender=Neut|Number=Sing	12	obl	_	dutch=jaar
 12	ophâlde	ophâlde	VERB	VERB	VerbForm=Inf	13	xcomp	_	dutch=stoppen
 13	wol	wolle	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	5	ccomp	_	dutch=wil
@@ -768,7 +768,7 @@
 6	mei	mei	ADP	ADP	_	8	case	_	dutch=met
 7	sok	sok	DET	DET	_	8	det	_	dutch=zulk
 8	wurk	wurk	NOUN	NOUN	Gender=Neut|Number=Sing	11	obl	_	dutch=werk
-9	op	op	ADP	ADP	VerbForm=Inf	11	compound_prt	_	dutch=stoppen
+9	op	op	ADP	ADP	VerbForm=Inf	11	compound:prt	_	dutch=stoppen
 10	te	te	ADP	ADP	_	11	mark	_	dutch=te
 11	hâlden	hâlde	VERB	VERB	VerbForm=Inf	4	acl	_	dutch=stoppen
 12	.	.	PUNCT	PUNCT	_	4	punct	_	dutch=.
@@ -787,7 +787,7 @@
 8	skerpte	skerpte	NOUN	NOUN	Gender=Com|Number=Sing	3	obj	_	dutch=scherpte
 9	en	en	CCONJ	CCONJ	_	10	cc	_	dutch=en
 10	konsintraasje	konsintraasje	NOUN	NOUN	Gender=Com|Number=Sing	8	conj	_	dutch=concentratie
-11	,	,	PUNCT	PUNCT	_	10	punct	_	dutch=,
+11	,	,	PUNCT	PUNCT	_	16	punct	_	dutch=,
 12	en	en	CCONJ	CCONJ	_	16	cc	_	dutch=en
 13	ek	ek	ADV	ADV	_	16	advmod	_	dutch=ook
 14	sa'n	sa'n	DET	DET	_	16	det	_	dutch=n
@@ -843,12 +843,12 @@
 4	fan	fan	ADP	ADP	_	6	case	_	dutch=van
 5	it	it	DET	DET	Definite=Def	6	det	_	dutch=het
 6	skûtsjesilen	skûtsjesile	VERB	VERB	Gender=Neut|Number=Sing	3	nmod	_	dutch=skûtsjesilen
-7	der	der	ADV	ADV	_	10	compound_prt	_	dutch=er
+7	der	der	ADV	ADV	_	10	compound:prt	_	dutch=er
 8	yn	yn	ADP	ADP	_	9	case	_	dutch=in
 9	2013	2013	NUM	NUM	_	10	obl	_	dutch=2013
 10	útsjen	útsjen	VERB	VERB	VerbForm=Inf	16	csubj	_	dutch=zien
 11	sil	sille	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	10	aux	_	dutch=zal
-12	,	,	PUNCT	PUNCT	_	16	punct	_	dutch=,
+12	,	,	PUNCT	PUNCT	_	10	punct	_	dutch=,
 13	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	16	cop	_	dutch=is
 14	noch	noch	ADV	ADV	_	15	advmod	_	dutch=nog
 15	net	net	PART	PART	_	16	advmod	_	dutch=niet
@@ -886,11 +886,11 @@
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-6 6-5 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19
 1	De	de	DET	DET	Definite=Def	3	det	_	dutch=De
 2	twa	twa	NUM	NUM	_	3	nummod	_	dutch=twee
-3	minsken	minske	NOUN	NOUN	Number=Plur	19	nsubj_pass	_	dutch=mensen
-4	dy't	dy't	PRON	PRON	PronType=Rel	6	nsubj_pass	_	dutch=die
+3	minsken	minske	NOUN	NOUN	Number=Plur	19	nsubj:pass	_	dutch=mensen
+4	dy't	dy't	PRON	PRON	PronType=Rel	6	nsubj:pass	_	dutch=die
 5	derfan	derfan	ADV	ADV	_	8	case	_	dutch=ervan
-6	fertocht	fertinke	VERB	VERB	VerbForm=Part	3	acl_relcl	_	dutch=verdacht
-7	wurde	wurde	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	6	aux_pass	_	dutch=worden
+6	fertocht	fertinke	VERB	VERB	VerbForm=Part	3	acl:relcl	_	dutch=verdacht
+7	wurde	wurde	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	6	aux:pass	_	dutch=worden
 8	ferantwurdlik	ferantwurdlik	ADJ	ADJ	Degree=Pos	6	xcomp	_	dutch=verantwoordelijk
 9	te	te	ADP	ADP	_	10	mark	_	dutch=te
 10	wêzen	wêze	AUX	AUX	VerbForm=Inf	8	cop	_	dutch=zijn
@@ -900,7 +900,7 @@
 14	fan	fan	ADP	ADP	_	15	case	_	dutch=van
 15	Tom	Tom	PROPN	PROPN	_	13	nmod	_	dutch=Tom
 16	Oldenbroek	Oldenbroek	PROPN	PROPN	_	15	flat	_	dutch=Oldenbroek
-17	wurde	wurde	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	19	aux_pass	_	dutch=worden
+17	wurde	wurde	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	19	aux:pass	_	dutch=worden
 18	net	net	PART	PART	_	19	advmod	_	dutch=niet
 19	ferfolge	ferfolgje	VERB	VERB	VerbForm=Part	0	root	_	dutch=vervolgd
 20	.	.	PUNCT	PUNCT	_	19	punct	_	dutch=.
@@ -914,7 +914,7 @@
 3	it	it	DET	DET	Definite=Def	4	det	_	dutch=het
 4	Iepenbier	Iepenbier	PROPN	PROPN	_	7	nsubj	_	dutch=Openbaar
 5	Ministearje	Ministearje	PROPN	PROPN	_	4	flat	_	dutch=Ministerie
-6	bekend	bekend	ADJ	ADJ	VerbForm=Part	7	compound_prt	_	dutch=bekendgemaakt
+6	bekend	bekend	ADJ	ADJ	VerbForm=Part	7	compound:prt	_	dutch=bekendgemaakt
 7	makke	meitsje	VERB	VERB	VerbForm=Part	0	root	_	dutch=bekendgemaakt
 8	.	.	PUNCT	PUNCT	_	7	punct	_	dutch=.
 
@@ -925,11 +925,11 @@
 1	De	de	DET	DET	Definite=Def	4	det	_	dutch=De
 2	doe	doe	ADV	ADV	_	3	advmod	_	dutch=toen
 3	17-jierrige	17-jierrich	ADJ	ADJ	_	4	amod	_	dutch=17-jarige
-4	Tom	Tom	PROPN	PROPN	_	13	nsubj_pass	_	dutch=Tom
+4	Tom	Tom	PROPN	PROPN	_	13	nsubj:pass	_	dutch=Tom
 5	Oldenbroek	Oldenbroek	PROPN	PROPN	_	4	flat	_	dutch=Oldenbroek
 6	út	út	ADP	ADP	_	7	case	_	dutch=uit
 7	Parregea	Parregea	PROPN	PROPN	Gender=Neut|Number=Sing	4	nmod	_	dutch=Parrega
-8	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	13	aux_pass	_	dutch=werd
+8	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	13	aux:pass	_	dutch=werd
 9	tolve	tolve	NUM	NUM	_	10	nummod	_	dutch=twaalf
 10	jier	jier	NOUN	NOUN	Gender=Neut|Number=Sing	11	nmod	_	dutch=jaar
 11	lyn	lyn	ADV	ADV	_	13	advmod	_	dutch=geleden
@@ -979,7 +979,7 @@
 9	saak	saak	NOUN	NOUN	Gender=Com|Number=Sing	11	obj	_	dutch=zaak
 10	nochris	nochris	ADV	ADV	_	11	advmod	_	dutch=nogmaals
 11	besjoen	besjen	VERB	VERB	VerbForm=Part	0	root	_	dutch=bekeken
-12	,	,	PUNCT	PUNCT	_	11	punct	_	dutch=,
+12	,	,	PUNCT	PUNCT	_	18	punct	_	dutch=,
 13	mar	mar	CCONJ	CCONJ	_	18	cc	_	dutch=maar
 14	dat	dat	PRON	PRON	Person=3|PronType=Dem	18	nsubj	_	dutch=dat
 15	hat	hawwe	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	18	aux	_	dutch=heeft
@@ -1059,23 +1059,23 @@
 # source_text = Er is buurtonderzoek gedaan in Schraard , verschillende getuigen zijn gehoord en er werd ook aanvullend forensisch onderzoek gedaan .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-14 13-13 14-12 15-15 16-16 17-17 18-18 19-19
 1	Der	der	ADV	ADV	_	4	advmod	_	dutch=Er
-2	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	4	aux_pass	_	dutch=is
-3	buertûndersyk	buertûndersyk	NOUN	NOUN	Gender=Neut|Number=Sing	4	nsubj_pass	_	dutch=buurtonderzoek
+2	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	4	aux:pass	_	dutch=is
+3	buertûndersyk	buertûndersyk	NOUN	NOUN	Gender=Neut|Number=Sing	4	nsubj:pass	_	dutch=buurtonderzoek
 4	dien	dwaan	VERB	VERB	VerbForm=Part	0	root	_	dutch=gedaan
 5	yn	yn	ADP	ADP	_	6	case	_	dutch=in
 6	Skraard	Skraard	PROPN	PROPN	Gender=Neut|Number=Sing	4	obl	_	dutch=Schraard
-7	,	,	PUNCT	PUNCT	_	4	punct	_	dutch=,
+7	,	,	PUNCT	PUNCT	_	11	punct	_	dutch=,
 8	ferskate	ferskaat	ADJ	ADJ	Degree=Pos	9	amod	_	dutch=verschillende
-9	tsjûgen	tsjûge	NOUN	NOUN	Number=Plur	11	nsubj_pass	_	dutch=getuigen
-10	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	11	aux_pass	_	dutch=zijn
+9	tsjûgen	tsjûge	NOUN	NOUN	Number=Plur	11	nsubj:pass	_	dutch=getuigen
+10	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	11	aux:pass	_	dutch=zijn
 11	heard	hearre	VERB	VERB	VerbForm=Part	4	conj	_	dutch=gehoord
 12	en	en	CCONJ	CCONJ	_	19	cc	_	dutch=en
 13	ek	ek	ADV	ADV	_	19	advmod	_	dutch=ook
-14	is	wêze	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	19	aux_pass	_	dutch=werd
+14	is	wêze	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	19	aux:pass	_	dutch=werd
 15	der	der	ADV	ADV	_	19	advmod	_	dutch=er
 16	oanfollend	oanfolje	VERB	VERB	VerbForm=Part	18	amod	_	dutch=aanvullend
 17	forensysk	forensysk	ADJ	ADJ	Degree=Pos	18	amod	_	dutch=forensisch
-18	ûndersyk	ûndersyk	NOUN	NOUN	Gender=Neut|Number=Sing	19	nsubj_pass	_	dutch=onderzoek
+18	ûndersyk	ûndersyk	NOUN	NOUN	Gender=Neut|Number=Sing	19	nsubj:pass	_	dutch=onderzoek
 19	dien	dwaan	VERB	VERB	VerbForm=Part	4	conj	_	dutch=gedaan
 20	.	.	PUNCT	PUNCT	_	4	punct	_	dutch=.
 
@@ -1108,18 +1108,18 @@
 1	Omdat	omdat	SCONJ	SCONJ	_	5	mark	_	dutch=Omdat
 2	der	der	ADV	ADV	_	5	advmod	_	dutch=er
 3	gjin	gjin	DET	DET	_	4	det	_	dutch=geen
-4	oanwizingen	oanwizing	NOUN	NOUN	Number=Plur	5	nsubj_pass	_	dutch=aanwijzingen
+4	oanwizingen	oanwizing	NOUN	NOUN	Number=Plur	5	nsubj:pass	_	dutch=aanwijzingen
 5	fûn	fine	VERB	VERB	VerbForm=Part	17	advcl	_	dutch=gevonden
-6	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	5	aux_pass	_	dutch=zijn
+6	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	5	aux:pass	_	dutch=zijn
 7	dat	dat	SCONJ	SCONJ	_	12	mark	_	dutch=dat
 8	it	it	PRON	PRON	Person=3|PronType=Prs	12	nsubj	_	dutch=het
 9	om	om	ADP	ADP	_	11	case	_	dutch=om
 10	in	in	DET	DET	Definite=Ind	11	det	_	dutch=een
 11	misdriuw	misdriuw	NOUN	NOUN	Gender=Neut|Number=Sing	12	obl	_	dutch=misdrijf
 12	giet	gean	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	4	acl	_	dutch=gaat
-13	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	17	aux_pass	_	dutch=wordt
+13	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	17	aux:pass	_	dutch=wordt
 14	it	it	DET	DET	Definite=Def	15	det	_	dutch=het
-15	dossier	dossier	NOUN	NOUN	Gender=Neut|Number=Sing	17	nsubj_pass	_	dutch=dossier
+15	dossier	dossier	NOUN	NOUN	Gender=Neut|Number=Sing	17	nsubj:pass	_	dutch=dossier
 16	no	no	ADV	ADV	_	17	advmod	_	dutch=nu
 17	sletten	slute	VERB	VERB	VerbForm=Part	0	root	_	dutch=gesloten
 18	.	.	PUNCT	PUNCT	_	17	punct	_	dutch=.
@@ -1167,7 +1167,7 @@
 4	keas	kieze	VERB	VERB	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=koos
 5	foar	foar	ADP	ADP	_	6	case	_	dutch=voor
 6	Kiemer	Kiemer	PROPN	PROPN	Gender=Com|Number=Sing	4	obl	_	dutch=Kiemer
-7	,	,	PUNCT	PUNCT	_	4	punct	_	dutch=,
+7	,	,	PUNCT	PUNCT	_	10	punct	_	dutch=,
 8	in	in	DET	DET	Definite=Ind	10	det	_	dutch=een
 9	nije	nij	ADJ	ADJ	Degree=Pos	10	amod	_	dutch=nieuwe
 10	fersekering	fersekering	NOUN	NOUN	Gender=Com|Number=Sing	6	appos	_	dutch=verzekering
@@ -1209,7 +1209,7 @@
 8	de	de	DET	DET	Definite=Def	9	det	_	dutch=de
 9	sifers	sifer	NOUN	NOUN	Number=Plur	7	obj	_	dutch=cijfers
 10	tiisdei	tiisdei	PROPN	PROPN	Gender=Com|Number=Sing	7	obl	_	dutch=dinsdag
-11	bekend	bekend	ADJ	ADJ	Degree=Pos	7	compound_prt	_	dutch=bekend
+11	bekend	bekend	ADJ	ADJ	Degree=Pos	7	compound:prt	_	dutch=bekend
 12	by	by	ADP	ADP	_	14	case	_	dutch=bij
 13	it	it	DET	DET	Definite=Def	14	det	_	dutch=het
 14	nijjiersbrochje	nijjiersbrogge	NOUN	NOUN	Gender=Neut|Number=Sing	7	obl	_	dutch=nieuwjaarsontbijt
@@ -1300,11 +1300,11 @@
 5	debat	debat	NOUN	NOUN	Gender=Neut|Number=Sing	6	obj	_	dutch=debat
 6	oanfrege	oanfreegje	VERB	VERB	VerbForm=Part	0	root	_	dutch=aangevraagd
 7	en	en	CCONJ	CCONJ	_	9	cc	_	dutch=en
-8	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux_pass	_	dutch=wordt
+8	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux:pass	_	dutch=wordt
 9	stipe	stypje	VERB	VERB	VerbForm=Part	6	conj	_	dutch=gesteund
 10	troch	troch	ADP	ADP	_	12	case	_	dutch=door
 11	de	de	DET	DET	Definite=Def	12	det	_	dutch=de
-12	PvdA	PvdA	PROPN	PROPN	Gender=Com|Number=Sing	9	obl_agent	_	dutch=PvdA
+12	PvdA	PvdA	PROPN	PROPN	Gender=Com|Number=Sing	9	obl:agent	_	dutch=PvdA
 13	.	.	PUNCT	PUNCT	_	6	punct	_	dutch=.
 
 # sent_id = 1872
@@ -1375,7 +1375,7 @@
 9	spandoeken	spandoek	NOUN	NOUN	Number=Plur	7	obl	_	dutch=spandoeken
 10	en	en	CCONJ	CCONJ	_	11	cc	_	dutch=en
 11	hesjes	hesje	NOUN	NOUN	Number=Plur	9	conj	_	dutch=hesjes
-12	,	,	PUNCT	PUNCT	_	7	punct	_	dutch=,
+12	,	,	PUNCT	PUNCT	_	17	punct	_	dutch=,
 13	mar	mar	CCONJ	CCONJ	_	17	cc	_	dutch=maar
 14	moasten	moatte	AUX	AUX	Number=Plur|Tense=Past|VerbForm=Fin	17	aux	_	dutch=moesten
 15	dy	dy	DET	DET	_	16	det	_	dutch=die
@@ -1447,7 +1447,7 @@
 19	om	om	ADP	ADP	_	24	mark	_	dutch=om
 20	de	de	DET	DET	Definite=Def	21	det	_	dutch=de
 21	24-oeresoarch	24-oeresoarch	NOUN	NOUN	Gender=Com|Number=Sing	24	obj	_	dutch=24-oeresoarch
-22	oerein	oerein	ADV	ADV	VerbForm=Inf	24	compound_prt	_	dutch=behouden
+22	oerein	oerein	ADV	ADV	VerbForm=Inf	24	compound:prt	_	dutch=behouden
 23	te	te	ADP	ADP	_	24	mark	_	dutch=te
 24	hâlden	hâlde	VERB	VERB	VerbForm=Inf	18	acl	_	dutch=behouden
 25	grutter	grut	ADJ	ADJ	Degree=Cmp	26	xcomp	_	dutch=groter
@@ -1472,7 +1472,7 @@
 12	400	400	NUM	NUM	_	13	nummod	_	dutch=400
 13	meter	meter	NOUN	NOUN	Gender=Com|Number=Sing	14	nmod	_	dutch=meter
 14	baan	baan	NOUN	NOUN	_	9	nmod	_	dutch=400
-15	,	,	PUNCT	PUNCT	_	7	punct	_	dutch=,
+15	,	,	PUNCT	PUNCT	_	21	punct	_	dutch=,
 16	as	as	SCONJ	SCONJ	_	21	mark	_	dutch=als
 17	it	it	PRON	PRON	Person=3|PronType=Dem	21	nsubj	_	dutch=dat
 18	om	om	ADP	ADP	Degree=Pos	20	case	_	dutch=mogelijk
@@ -1541,7 +1541,7 @@
 15	18	18	NUM	NUM	_	16	nummod	_	dutch=18
 16	miljoen	miljoen	NOUN	NOUN	Gender=Neut|Number=Sing	13	nmod	_	dutch=miljoen
 17	euro	euro	NOUN	NOUN	Gender=Com|Number=Sing	16	nmod	_	dutch=euro
-18	,	,	PUNCT	PUNCT	_	27	punct	_	dutch=KEY-MISSING
+18	,	,	PUNCT	PUNCT	_	3	punct	_	dutch=KEY-MISSING
 19	moat	moatte	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	27	aux	_	dutch=moet
 20	wol	wol	ADV	ADV	_	27	advmod	_	dutch=wel
 21	5	5	NUM	NUM	_	22	nummod	_	dutch=5
@@ -1607,7 +1607,7 @@
 6	fan	fan	ADP	ADP	_	7	case	_	dutch=van
 7	It	It	PROPN	PROPN	Gender=Neut|Number=Sing	4	nmod	_	dutch=Heerenveen
 8	Hearrenfean	Hearrenfean	PROPN	PROPN	Gender=Neut|Number=Sing	7	flat	_	dutch=Heerenveen
-9	,	,	PUNCT	PUNCT	_	2	punct	_	dutch=,
+9	,	,	PUNCT	PUNCT	_	14	punct	_	dutch=,
 10	mar	mar	CCONJ	CCONJ	_	14	mark	_	dutch=maar
 11	krekt	krekt	ADJ	ADJ	_	14	amod	_	dutch=maar
 12	in	in	DET	DET	Definite=Ind	14	det	_	dutch=een
@@ -1651,11 +1651,11 @@
 5	yn	yn	ADP	ADP	_	7	case	_	dutch=in
 6	it	it	DET	DET	Definite=Def	7	det	_	dutch=het
 7	Lauwersmargebiet	Lauwersmargebiet	PROPN	PROPN	Gender=Neut|Number=Sing	4	nmod	_	dutch=Lauwersmeergebied
-8	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	13	aux_pass	_	dutch=is
+8	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	13	aux:pass	_	dutch=is
 9	in	in	DET	DET	Definite=Ind	12	det	_	dutch=een
 10	tige	tige	ADJ	ADJ	Degree=Pos	11	advmod	_	dutch=erg
 11	seldsume	seldsum	ADJ	ADJ	Degree=Pos	12	amod	_	dutch=zeldzame
-12	keningsearn	keningsearn	NOUN	NOUN	Gender=Com|Number=Sing	13	nsubj_pass	_	dutch=steenarend
+12	keningsearn	keningsearn	NOUN	NOUN	Gender=Com|Number=Sing	13	nsubj:pass	_	dutch=steenarend
 13	sjoen	sjen	VERB	VERB	VerbForm=Part	0	root	_	dutch=gezien
 14	.	.	PUNCT	PUNCT	_	13	punct	_	dutch=.
 
@@ -1682,7 +1682,7 @@
 17	Skotlân	Skotlân	PROPN	PROPN	Gender=Neut|Number=Sing	20	obl	_	dutch=Schotland
 18	yn	yn	ADP	ADP	_	19	case	_	dutch=in
 19	Fryslân	Fryslân	PROPN	PROPN	Gender=Neut|Number=Sing	20	obl	_	dutch=Fryslân
-20	bedarre	bedarje	VERB	VERB	VerbForm=Part	6	acl_relcl	_	dutch=terechtgekomen
+20	bedarre	bedarje	VERB	VERB	VerbForm=Part	6	acl:relcl	_	dutch=terechtgekomen
 21	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	20	aux	_	dutch=is
 22	.	.	PUNCT	PUNCT	_	2	punct	_	dutch=.
 
@@ -1695,13 +1695,13 @@
 3	in	in	DET	DET	Definite=Ind	4	det	_	dutch=een
 4	keningsearn	keningsearn	NOUN	NOUN	Gender=Com|Number=Sing	2	nsubj	_	dutch=steenarend
 5	allinnich	allinnich	ADV	ADV	_	2	advmod	_	dutch=alleen
-6	foar	foar	ADP	ADP	_	2	compound_prt	_	dutch=voor
+6	foar	foar	ADP	ADP	_	2	compound:prt	_	dutch=voor
 7	yn	yn	ADP	ADP	_	9	case	_	dutch=in
 8	bercheftige	bercheftich	ADJ	ADJ	Degree=Pos	9	amod	_	dutch=bergachtige
 9	gebieten	gebiet	NOUN	NOUN	Number=Plur	2	obl	_	dutch=gebieden
 10	yn	yn	ADP	ADP	_	11	case	_	dutch=in
 11	Skandinavië	Skandinavië	PROPN	PROPN	Gender=Neut|Number=Sing	9	nmod	_	dutch=Scandinavië
-12	,	,	PUNCT	PUNCT	_	11	punct	_	dutch=,
+12	,	,	PUNCT	PUNCT	_	13	punct	_	dutch=,
 13	Skotlân	Skotlân	PROPN	PROPN	Gender=Neut|Number=Sing	11	conj	_	dutch=Schotland
 14	en	en	CCONJ	CCONJ	_	15	cc	_	dutch=en
 15	Eastenryk	Eastenryk	PROPN	PROPN	Gender=Neut|Number=Sing	11	conj	_	dutch=Oostenrijk
@@ -1744,8 +1744,8 @@
 9	yn	yn	ADP	ADP	_	11	case	_	dutch=in
 10	it	it	DET	DET	Gender=Neut|Number=Sing	11	det	_	dutch=gebied
 11	Lauwersmargebiet	Lauwersmargebiet	PROPN	PROPN	Definite=Def	12	obl	_	dutch=het
-12	sitte	sitte	VERB	VERB	Number=Plur|Tense=Pres|VerbForm=Fin	6	acl_relcl	_	dutch=zitten
-13	,	,	PUNCT	PUNCT	_	3	punct	_	dutch=,
+12	sitte	sitte	VERB	VERB	Number=Plur|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	dutch=zitten
+13	,	,	PUNCT	PUNCT	_	23	punct	_	dutch=,
 14	mar	mar	CCONJ	CCONJ	_	23	cc	_	dutch=maar
 15	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	23	cop	_	dutch=is
 16	mei	mei	ADP	ADP	_	18	case	_	dutch=met
@@ -1789,7 +1789,7 @@
 6	bist	bist	NOUN	NOUN	Gender=Neut|Number=Sing	10	nsubj	_	dutch=dier
 7	meikoarten	meikoarten	ADV	ADV	_	10	advmod	_	dutch=binnenkort
 8	wer	wer	ADV	ADV	_	10	advmod	_	dutch=weer
-9	werom	werom	ADV	ADV	_	10	compound_prt	_	dutch=terug
+9	werom	werom	ADV	ADV	_	10	compound:prt	_	dutch=terug
 10	giet	gean	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	2	csubj	_	dutch=gaat
 11	nei	nei	ADP	ADP	_	12	case	_	dutch=naar
 12	Skotlân	Skotlân	PROPN	PROPN	Gender=Neut|Number=Sing	10	obl	_	dutch=Schotland
@@ -1866,10 +1866,10 @@
 7	Maria	Maria	PROPN	PROPN	_	3	obl	_	dutch=Maria
 8	Louiseskoalle	Louiseskoalle	PROPN	PROPN	_	7	flat	_	dutch=Louiseschool
 9	en	en	CCONJ	CCONJ	_	14	cc	_	dutch=en
-10	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	14	aux_pass	_	dutch=is
+10	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	14	aux:pass	_	dutch=is
 11	troch	troch	ADP	ADP	_	13	case	_	dutch=door
 12	de	de	DET	DET	Definite=Def	13	det	_	dutch=de
-13	haadmaster	haadmaster	NOUN	NOUN	Gender=Com|Number=Sing	14	obl_agent	_	dutch=hoofdmeester
+13	haadmaster	haadmaster	NOUN	NOUN	Gender=Com|Number=Sing	14	obl:agent	_	dutch=hoofdmeester
 14	meinommen	meinimme	VERB	VERB	VerbForm=Part	3	conj	_	dutch=meegenomen
 15	út	út	ADP	ADP	_	16	case	_	dutch=uit
 16	Yndonezië	Yndonezië	PROPN	PROPN	Gender=Neut|Number=Sing	14	obl	_	dutch=Indonesië
@@ -1889,7 +1889,7 @@
 8	fyftich	fyftich	NUM	NUM	_	7	appos	_	dutch=vijftig
 9	foar	foar	ADP	ADP	_	10	case	_	dutch=voor
 10	straf	straf	NOUN	NOUN	Gender=Com|Number=Sing	2	obl	_	dutch=straf
-11	:	:	PUNCT	PUNCT	_	2	punct	_	dutch=:
+11	:	:	PUNCT	PUNCT	_	20	punct	_	dutch=:
 12	ûndogenske	ûndogensk	ADJ	ADJ	Degree=Pos	13	amod	_	dutch=ondeugende
 13	bern	bern	NOUN	NOUN	Number=Plur	20	nsubj	_	dutch=kinderen
 14	moasten	moatte	AUX	AUX	Number=Plur|Tense=Past|VerbForm=Fin	20	aux	_	dutch=moesten
@@ -1915,7 +1915,7 @@
 8	in	in	DET	DET	Definite=Ind	10	det	_	dutch=een
 9	opsetten	opsette	VERB	VERB	_	10	amod	_	dutch=KEY-MISSING
 10	tsjerkûle	tsjerkûle	NOUN	NOUN	Gender=Com|Number=Sing	21	obj	_	dutch=kerkuil
-11	,	,	PUNCT	PUNCT	_	10	punct	_	dutch=,
+11	,	,	PUNCT	PUNCT	_	13	punct	_	dutch=,
 12	in	in	DET	DET	Definite=Ind	13	det	_	dutch=een
 13	slang	slang	NOUN	NOUN	Gender=Com|Number=Sing	10	conj	_	dutch=slang
 14	op	op	ADP	ADP	_	16	case	_	dutch=op
@@ -1940,13 +1940,13 @@
 # alignment = 0-0 1-1 2-2 3-2 4-3 5-4 6-5 7-6 8-7 9-8 10-9 11-10 12-11 13-12 14-13 15-14 16-15 17-16
 1	De	de	DET	DET	Definite=Def	3	det	_	dutch=De
 2	14-jierrige	14-jierrich	ADJ	ADJ	_	3	amod	_	dutch=14-jarige
-3	Olivier	Olivier	PROPN	PROPN	_	10	nsubj_pass	_	dutch=Olivier
+3	Olivier	Olivier	PROPN	PROPN	_	10	nsubj:pass	_	dutch=Olivier
 4	van	van	PROPN	PROPN	_	3	flat	_	dutch=van
 5	de	de	PROPN	PROPN	_	3	flat	_	dutch=de
 6	Voort	Voort	PROPN	PROPN	_	3	flat	_	dutch=Voort
 7	fan	fan	ADP	ADP	_	8	case	_	dutch=uit
 8	Elslo	Elslo	PROPN	PROPN	Gender=Neut|Number=Sing	3	nmod	_	dutch=Elsloo
-9	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	10	aux_pass	_	dutch=is
+9	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	10	aux:pass	_	dutch=is
 10	nominearre	nominearje	VERB	VERB	VerbForm=Part	0	root	_	dutch=genomineerd
 11	foar	foar	ADP	ADP	_	12	case	_	dutch=voor
 12	jongere	jong	NOUN	NOUN	Degree=Cmp	10	obl	_	dutch=jongere
@@ -1971,10 +1971,10 @@
 10	in	in	DET	DET	Definite=Ind	11	det	_	dutch=een
 11	part	part	NOUN	NOUN	Gender=Neut|Number=Sing	15	obj	_	dutch=deel
 12	fan	fan	ADP	ADP	_	14	case	_	dutch=van
-13	syn	syn	PRON	PRON	Person=3|PronType=Prs	14	nmod_poss	_	dutch=zijn
+13	syn	syn	PRON	PRON	Person=3|PronType=Prs	14	nmod:poss	_	dutch=zijn
 14	skonk	skonk	NOUN	NOUN	Gender=Neut|Number=Sing	11	nmod	_	dutch=been
 15	ferlern	ferlieze	VERB	VERB	VerbForm=Part	0	root	_	dutch=verloren
-16	,	,	PUNCT	PUNCT	_	15	punct	_	dutch=,
+16	,	,	PUNCT	PUNCT	_	18	punct	_	dutch=,
 17	it	it	DET	DET	Definite=Def	18	det	_	dutch=het
 18	diel	diel	NOUN	NOUN	Gender=Neut|Number=Sing	11	parataxis	_	dutch=deel
 19	ûnder	ûnder	ADP	ADP	_	21	case	_	dutch=onder
@@ -2036,9 +2036,9 @@
 # source_text = Er zijn acht jongeren genomineerd voor de titel .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8
 1	Der	der	ADV	ADV	_	5	advmod	_	dutch=Er
-2	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	5	aux_pass	_	dutch=zijn
+2	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	5	aux:pass	_	dutch=zijn
 3	acht	acht	NUM	NUM	_	4	nummod	_	dutch=acht
-4	jongeren	jong	ADJ	ADJ	Degree=Cmp	5	nsubj_pass	_	dutch=jongeren
+4	jongeren	jong	ADJ	ADJ	Degree=Cmp	5	nsubj:pass	_	dutch=jongeren
 5	nominearre	nominearje	VERB	VERB	VerbForm=Part	0	root	_	dutch=genomineerd
 6	foar	foar	ADP	ADP	_	8	case	_	dutch=voor
 7	de	de	DET	DET	Definite=Def	8	det	_	dutch=de
@@ -2050,12 +2050,12 @@
 # source_text = Donderdag wordt in Amsterdam de winnaar bekendgemaakt .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-6 8-7
 1	Tongersdei	tongersdei	PROPN	PROPN	Gender=Com|Number=Sing	8	obl	_	dutch=Donderdag
-2	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	8	aux_pass	_	dutch=wordt
+2	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	8	aux:pass	_	dutch=wordt
 3	yn	yn	ADP	ADP	_	4	case	_	dutch=in
 4	Amsterdam	Amsterdam	PROPN	PROPN	Gender=Neut|Number=Sing	8	obl	_	dutch=Amsterdam
 5	de	de	DET	DET	Definite=Def	6	det	_	dutch=de
-6	winner	winner	NOUN	NOUN	Gender=Com|Number=Sing	8	nsubj_pass	_	dutch=winnaar
-7	bekend	bekend	ADJ	ADJ	VerbForm=Part	8	compound_prt	_	dutch=bekendgemaakt
+6	winner	winner	NOUN	NOUN	Gender=Com|Number=Sing	8	nsubj:pass	_	dutch=winnaar
+7	bekend	bekend	ADJ	ADJ	VerbForm=Part	8	compound:prt	_	dutch=bekendgemaakt
 8	makke	meitsje	VERB	VERB	VerbForm=Part	0	root	_	dutch=bekendgemaakt
 9	.	.	PUNCT	PUNCT	_	8	punct	_	dutch=.
 
@@ -2083,7 +2083,7 @@
 # source_text = In onze provincie bewaken vier politiemensen full-time het welzijn van dieren .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11
 1	Yn	yn	ADP	ADP	_	3	case	_	dutch=In
-2	ús	ús	PRON	PRON	Person=1|PronType=Prs	3	nmod_poss	_	dutch=onze
+2	ús	ús	PRON	PRON	Person=1|PronType=Prs	3	nmod:poss	_	dutch=onze
 3	provinsje	provinsje	NOUN	NOUN	Gender=Com|Number=Sing	4	obl	_	dutch=provincie
 4	bewekje	bewekje	VERB	VERB	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=bewaken
 5	fjouwer	fjouwer	NUM	NUM	_	6	nummod	_	dutch=vier
@@ -2102,11 +2102,11 @@
 1	Yn	yn	ADP	ADP	_	3	case	_	dutch=KEY-MISSING
 2	'e	'e	DET	DET	_	3	det	_	dutch=KEY-MISSING
 3	tuskentiid	tuskentiid	NOUN	NOUN	_	9	obl	_	dutch=Intussen
-4	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	9	aux_pass	_	dutch=zijn
+4	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	9	aux:pass	_	dutch=zijn
 5	de	de	DET	DET	Definite=Def	8	det	_	dutch=de
 6	earste	ien	ADJ	ADJ	_	8	amod	_	dutch=eerste
 7	twa	twa	NUM	NUM	_	8	nummod	_	dutch=twee
-8	boetes	boete	NOUN	NOUN	Number=Plur	9	nsubj_pass	_	dutch=boetes
+8	boetes	boete	NOUN	NOUN	Number=Plur	9	nsubj:pass	_	dutch=boetes
 9	útdield	útdiele	VERB	VERB	VerbForm=Part	0	root	_	dutch=uitgedeeld
 10	.	.	PUNCT	PUNCT	_	9	punct	_	dutch=.
 
@@ -2124,16 +2124,16 @@
 8	de	de	DET	DET	Definite=Def	10	det	_	dutch=de
 9	saneamde	saneamd	ADJ	ADJ	Degree=Pos	10	amod	_	dutch=zogenoemde
 10	astromûs	astromûs	NOUN	NOUN	Gender=Com|Number=Sing	6	nmod	_	dutch=astromuis
-11	dy't	dy't	PRON	PRON	PronType=Rel	15	nsubj_pass	_	dutch=die
+11	dy't	dy't	PRON	PRON	PronType=Rel	15	nsubj:pass	_	dutch=die
 12	oan	oan	ADP	ADP	_	14	case	_	dutch=aan
 13	in	in	DET	DET	Definite=Ind	14	det	_	dutch=een
 14	fjoerpylk	fjoerpylk	NOUN	NOUN	Gender=Com|Number=Sing	15	obl	_	dutch=vuurpijl
-15	plakt	plakke	VERB	VERB	VerbForm=Part	10	acl_relcl	_	dutch=geplakt
-16	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	15	aux_pass	_	dutch=werd
+15	plakt	plakke	VERB	VERB	VerbForm=Part	10	acl:relcl	_	dutch=geplakt
+16	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	15	aux:pass	_	dutch=werd
 17	om	om	ADP	ADP	_	18	mark	_	dutch=om
 18	ôfsketten	ôfsjitte	VERB	VERB	VerbForm=Part	15	advcl	_	dutch=afgeschoten
 19	te	te	ADP	ADP	_	20	mark	_	dutch=te
-20	wurden	wurde	AUX	AUX	VerbForm=Inf	18	aux_pass	_	dutch=worden
+20	wurden	wurde	AUX	AUX	VerbForm=Inf	18	aux:pass	_	dutch=worden
 21	.	.	PUNCT	PUNCT	_	3	punct	_	dutch=.
 
 # sent_id = 1910
@@ -2143,7 +2143,7 @@
 1	Fia	fia	ADP	ADP	_	3	case	_	dutch=Via
 2	it	it	DET	DET	Definite=Def	3	det	_	dutch=het
 3	alarmnûmer	alarmnûmer	NOUN	NOUN	Gender=Neut|Number=Sing	14	obl	_	dutch=alarmnummer
-4	1-4-4	1-4-4	NUM	NUM	Gender=Com_Neut|Number=Sing	3	appos	_	dutch=1-4-4
+4	1-4-4	1-4-4	NUM	NUM	Gender=Com,Neut|Number=Sing	3	appos	_	dutch=1-4-4
 5	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	14	aux	_	dutch=zijn
 6	no	no	ADV	ADV	_	14	advmod	_	dutch=nu
 7	sa'n	sa'n	PRON	PRON	PronType=Dem	8	amod	_	dutch=zo'n
@@ -2210,10 +2210,10 @@
 9	banen	baan	NOUN	NOUN	Number=Plur	6	nsubj	_	dutch=banen
 10	elkoar	elkoar	PRON	PRON	Case=Acc|PronType=Rcp	6	obj	_	dutch=elkaar
 11	dea	dea	ADJ	ADJ	Degree=Pos	6	xcomp	_	dutch=dood
-12	,	,	PUNCT	PUNCT	_	6	punct	_	dutch=,
+12	,	,	PUNCT	PUNCT	_	13	punct	_	dutch=,
 13	sa	sa	ADV	ADV	_	6	parataxis	_	dutch=zo
 14	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	13	cop	_	dutch=is
-15	syn	syn	PRON	PRON	Person=3|PronType=Prs	16	nmod_poss	_	dutch=zijn
+15	syn	syn	PRON	PRON	Person=3|PronType=Prs	16	nmod:poss	_	dutch=zijn
 16	miening	miening	NOUN	NOUN	Gender=Com|Number=Sing	13	nsubj	_	dutch=mening
 17	.	.	PUNCT	PUNCT	_	6	punct	_	dutch=.
 
@@ -2253,9 +2253,9 @@
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22 23-23 24-24 25-25 26-26 27-27 28-28
 1	Yn	yn	ADP	ADP	_	2	case	_	dutch=In
 2	febrewaris	febrewaris	PROPN	PROPN	Gender=Com|Number=Sing	25	obl	_	dutch=februari
-3	wurde	wurde	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	25	aux_pass	_	dutch=worden
+3	wurde	wurde	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	25	aux:pass	_	dutch=worden
 4	de	de	DET	DET	Definite=Def	5	det	_	dutch=de
-5	plannen	plan	NOUN	NOUN	Number=Plur	25	nsubj_pass	_	dutch=plannen
+5	plannen	plan	NOUN	NOUN	Number=Plur	25	nsubj:pass	_	dutch=plannen
 6	foar	foar	ADP	ADP	_	8	case	_	dutch=voor
 7	de	de	DET	DET	Definite=Def	8	det	_	dutch=de
 8	baan	baan	NOUN	NOUN	Gender=Com|Number=Sing	5	nmod	_	dutch=baan
@@ -2324,10 +2324,10 @@
 8	nije	nije	PROPN	PROPN	Degree=Pos	7	flat	_	dutch=nieuwe
 9	Dei	Dei	PROPN	PROPN	_	7	flat	_	dutch=Dag
 10	'	'	PUNCT	PUNCT	_	7	punct	_	dutch='
-11	dat	dat	SCONJ	SCONJ	Person=3|PronType=Rel	13	nsubj_pass	_	dutch=dat
+11	dat	dat	SCONJ	SCONJ	Person=3|PronType=Rel	13	nsubj:pass	_	dutch=dat
 12	woansdei	woansdei	PROPN	PROPN	Gender=Com|Number=Sing	13	obl	_	dutch=woensdag
-13	presintearre	presintearje	VERB	VERB	VerbForm=Part	5	acl_relcl	_	dutch=gepresenteerd
-14	is	wêze	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	13	aux_pass	_	dutch=werd
+13	presintearre	presintearje	VERB	VERB	VerbForm=Part	5	acl:relcl	_	dutch=gepresenteerd
+14	is	wêze	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	13	aux:pass	_	dutch=werd
 15	.	.	PUNCT	PUNCT	_	2	punct	_	dutch=.
 
 # sent_id = 1921
@@ -2341,7 +2341,7 @@
 5	de	de	DET	DET	Definite=Def	6	det	_	dutch=de
 6	perioade	perioade	NOUN	NOUN	Gender=Com|Number=Sing	3	obl	_	dutch=periode
 7	2011	2011	NUM	NUM	_	9	nummod	_	dutch=2011-
-8	-	-	PUNCT	PUNCT	_	9	nummod	_	dutch=2011-
+8	-	-	PUNCT	PUNCT	_	7	punct	_	dutch=2011-
 9	2014	2014	NUM	NUM	_	6	appos	_	dutch=2014
 10	.	.	PUNCT	PUNCT	_	3	punct	_	dutch=.
 
@@ -2363,7 +2363,7 @@
 12	hearre	hearre	VERB	VERB	VerbForm=Inf	3	xcomp	_	dutch=behoren
 13	yn	yn	ADP	ADP	_	14	case	_	dutch=KEY-MISSING
 14	Nederlân	Nederlân	PROPN	PROPN	Gender=Neut|Number=Sing	11	nmod	_	dutch=Nederland
-15	,	,	PUNCT	PUNCT	_	3	punct	_	dutch=,
+15	,	,	PUNCT	PUNCT	_	21	punct	_	dutch=,
 16	geregeld	geregeld	ADJ	ADJ	Degree=Pos	21	advmod	_	dutch=regelmatig
 17	kwalifikaasje	kwalifikaasje	NOUN	NOUN	Gender=Com|Number=Sing	21	obj	_	dutch=kwalificatie
 18	foar	foar	ADP	ADP	_	20	case	_	dutch=voor
@@ -2392,7 +2392,7 @@
 11	yn	yn	ADP	ADP	_	13	case	_	dutch=in
 12	'e	'e	DET	DET	Definite=Def	13	det	_	dutch=de
 13	mienskip	mienskip	NOUN	NOUN	Gender=Com|Number=Sing	14	obl	_	dutch=gemeenschap
-14	stiet	stean	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	7	acl_relcl	_	dutch=staat
+14	stiet	stean	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	dutch=staat
 15	en	en	CCONJ	CCONJ	_	17	cc	_	dutch=en
 16	finansjeel	finansjeel	ADJ	ADJ	Degree=Pos	17	advmod	_	dutch=financieel
 17	sûn	sûn	ADJ	ADJ	Degree=Pos	7	conj	_	dutch=gezond
@@ -2422,7 +2422,7 @@
 10	namme	namme	NOUN	NOUN	Gender=Com|Number=Sing	7	nmod	_	dutch=naam
 11	'	'	PUNCT	PUNCT	_	12	punct	_	dutch='
 12	Trochsette	Trochsette	PROPN	PROPN	VerbForm=Inf	10	appos	_	dutch=Doorzetten
-13	,	,	PUNCT	PUNCT	_	12	punct	_	dutch=,
+13	,	,	PUNCT	PUNCT	_	14	punct	_	dutch=,
 14	mei	mei	PROPN	PROPN	_	12	flat	_	dutch=met
 15	syn	syn	PROPN	PROPN	Person=3|PronType=Prs	12	flat	_	dutch=z'n
 16	allen	allen	PROPN	PROPN	PronType=Ind	12	flat	_	dutch=allen
@@ -2466,16 +2466,16 @@
 8	om	om	ADP	ADP	_	13	mark	_	dutch=KEY-MISSING
 9	it	it	DET	DET	Definite=Def	10	det	_	dutch=het
 10	beliedsplan	beliedsplan	NOUN	NOUN	Gender=Neut|Number=Sing	13	obj	_	dutch=beleidsplan
-11	ta	ta	ADP	ADP	_	13	compound_prt	_	dutch=toe
+11	ta	ta	ADP	ADP	_	13	compound:prt	_	dutch=toe
 12	te	te	ADP	ADP	_	13	mark	_	dutch=te
 13	ljochtsjen	ljochtsje	VERB	VERB	VerbForm=Inf	7	xcomp	_	dutch=lichten
-14	,	,	PUNCT	PUNCT	_	7	punct	_	dutch=,
+14	,	,	PUNCT	PUNCT	_	17	punct	_	dutch=,
 15	mar	mar	CCONJ	CCONJ	_	17	cc	_	dutch=maar
 16	Veenstra	Veenstra	PROPN	PROPN	_	17	nsubj	_	dutch=KEY-MISSING
 17	wegeret	wegerje	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	7	conj	_	dutch=weigert
 18	Omrop	Omrop	PROPN	PROPN	_	23	obj	_	dutch=Omrop
 19	Fryslân	Fryslân	PROPN	PROPN	_	18	flat	_	dutch=Fryslân
-20	te	te	ADP	ADP	_	23	compound_prt	_	dutch=te
+20	te	te	ADP	ADP	_	23	compound:prt	_	dutch=te
 21	wurd	wurd	NOUN	NOUN	Gender=Neut|Number=Sing	20	fixed	_	dutch=woord
 22	te	te	ADP	ADP	_	23	mark	_	dutch=te
 23	stean	stean	VERB	VERB	VerbForm=Inf	17	xcomp	_	dutch=staan
@@ -2493,7 +2493,7 @@
 6	by	by	ADP	ADP	_	7	case	_	dutch=bij
 7	Stynsgea	Stynsgea	PROPN	PROPN	Gender=Neut|Number=Sing	5	nmod	_	dutch=Augustinusga
 8	fiele	fiele	VERB	VERB	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=voelen
-9	harren	harren	PRON	PRON	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	8	expl_pv	_	dutch=zich
+9	harren	harren	PRON	PRON	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	dutch=zich
 10	oerfallen	oerfalle	VERB	VERB	VerbForm=Part	8	ccomp	_	dutch=overvallen
 11	troch	troch	ADP	ADP	_	13	case	_	dutch=door
 12	in	in	DET	DET	Definite=Ind	13	det	_	dutch=een
@@ -2552,9 +2552,9 @@
 1	Tsien	tsien	NUM	NUM	_	2	nummod	_	dutch=Tien
 2	jier	jier	NOUN	NOUN	Gender=Neut|Number=Sing	3	nmod	_	dutch=jaar
 3	lyn	lyn	ADV	ADV	_	8	advmod	_	dutch=geleden
-4	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	8	aux_pass	_	dutch=is
+4	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	8	aux:pass	_	dutch=is
 5	de	de	DET	DET	Definite=Def	6	det	_	dutch=de
-6	wâlbeskoeiïng	wâlbeskoeiïng	NOUN	NOUN	Gender=Com|Number=Sing	8	nsubj_pass	_	dutch=walbeschoeiing
+6	wâlbeskoeiïng	wâlbeskoeiïng	NOUN	NOUN	Gender=Com|Number=Sing	8	nsubj:pass	_	dutch=walbeschoeiing
 7	noch	noch	ADV	ADV	_	8	advmod	_	dutch=nog
 8	oanpast	oanpasse	VERB	VERB	VerbForm=Part	0	root	_	dutch=aangepast
 9	.	.	PUNCT	PUNCT	_	8	punct	_	dutch=.
@@ -2566,7 +2566,7 @@
 1	Neffens	neffens	ADP	ADP	_	3	case	_	dutch=Volgens
 2	de	de	DET	DET	Definite=Def	3	det	_	dutch=de
 3	bewenners	bewenner	NOUN	NOUN	Number=Plur	14	obl	_	dutch=bewoners
-4	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	14	aux_pass	_	dutch=is
+4	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	14	aux:pass	_	dutch=is
 5	doe	doe	ADV	ADV	_	14	advmod	_	dutch=toen
 6	ek	ek	ADV	ADV	_	7	advmod	_	dutch=ook
 7	nea	nea	ADV	ADV	_	14	advmod	_	dutch=nooit
@@ -2603,13 +2603,13 @@
 2	bewenners	bewenner	NOUN	NOUN	Number=Plur	13	nsubj	_	dutch=inwoners
 3	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	13	aux	_	dutch=zijn
 4	net	net	PART	PART	_	13	advmod	_	dutch=niet
-5	fan	fan	ADP	ADP	_	13	compound_prt	_	dutch=van
+5	fan	fan	ADP	ADP	_	13	compound:prt	_	dutch=van
 6	doel	doel	NOUN	NOUN	Gender=Neut|Number=Sing	5	fixed	_	dutch=plan
-7	harren	harren	PRON	PRON	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	13	expl_pv	_	dutch=zich
+7	harren	harren	PRON	PRON	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	13	expl:pv	_	dutch=zich
 8	by	by	ADP	ADP	_	10	case	_	dutch=bij
 9	de	de	DET	DET	Definite=Def	10	det	_	dutch=de
 10	saak	saak	NOUN	NOUN	Gender=Com|Number=Sing	13	obl	_	dutch=zaak
-11	del	del	ADP	ADP	_	13	compound_prt	_	dutch=neer
+11	del	del	ADP	ADP	_	13	compound:prt	_	dutch=neer
 12	te	te	ADP	ADP	_	13	mark	_	dutch=te
 13	lizzen	lizze	VERB	VERB	VerbForm=Inf	0	root	_	dutch=leggen
 14	.	.	PUNCT	PUNCT	_	13	punct	_	dutch=.
@@ -2626,12 +2626,12 @@
 6	dei	dei	NOUN	NOUN	_	8	obl	_	dutch=KEY-MISSING
 7	net	net	PART	PART	_	8	advmod	_	dutch=niet
 8	útlizze	útlizze	VERB	VERB	VerbForm=Inf	3	xcomp	_	dutch=uitleggen
-9	,	,	PUNCT	PUNCT	_	8	punct	_	dutch=KEY-MISSING
+9	,	,	PUNCT	PUNCT	_	13	punct	_	dutch=KEY-MISSING
 10	wêrom’t	wêrom’t	ADV	ADV	_	13	advmod	_	dutch=waarom
 11	no	no	ADV	ADV	_	13	advmod	_	dutch=wel
 12	ynienen	ynienen	ADV	ADV	Degree=Pos	13	advmod	_	dutch=plotseling
 13	betelle	betelje	VERB	VERB	VerbForm=Part	8	ccomp	_	dutch=betaald
-14	wurde	wurde	AUX	AUX	VerbForm=Inf	13	aux_pass	_	dutch=worden
+14	wurde	wurde	AUX	AUX	VerbForm=Inf	13	aux:pass	_	dutch=worden
 15	moat	moatte	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	13	aux	_	dutch=moet
 16	foar	foar	ADP	ADP	_	18	case	_	dutch=voor
 17	de	de	DET	DET	Definite=Def	18	det	_	dutch=de
@@ -2655,7 +2655,7 @@
 11	Werson	Werson	PROPN	PROPN	_	10	flat	_	dutch=Werson
 12	presintearre	presintearje	VERB	VERB	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=presenteerde
 13	tongersdei	tongersdei	PROPN	PROPN	Gender=Com|Number=Sing	12	obl	_	dutch=donderdag
-14	syn	syn	PRON	PRON	Person=3|PronType=Prs	15	nmod_poss	_	dutch=z'n
+14	syn	syn	PRON	PRON	Person=3|PronType=Prs	15	nmod:poss	_	dutch=z'n
 15	boek	boek	NOUN	NOUN	Gender=Neut|Number=Sing	12	obj	_	dutch=boek
 16	oer	oer	ADP	ADP	_	17	case	_	dutch=over
 17	minskehannel	minskehannel	NOUN	NOUN	Gender=Com|Number=Sing	15	nmod	_	dutch=mensenhandel
@@ -2729,8 +2729,8 @@
 # text = It wurdt op dit stuit by de tiid brocht .
 # source_text = Het wordt op dit moment gemoderniseerd .
 # alignment = 0-0 1-1 2-2 3-3 4-4 7-5 8-5 9-6
-1	It	it	PRON	PRON	Person=3|PronType=Prs	9	nsubj_pass	_	dutch=Het
-2	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux_pass	_	dutch=wordt
+1	It	it	PRON	PRON	Person=3|PronType=Prs	9	nsubj:pass	_	dutch=Het
+2	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux:pass	_	dutch=wordt
 3	op	op	ADP	ADP	_	5	case	_	dutch=op
 4	dit	dit	DET	DET	_	5	det	_	dutch=dit
 5	stuit	stuit	NOUN	NOUN	Gender=Neut|Number=Sing	9	obl	_	dutch=moment
@@ -2752,7 +2752,7 @@
 6	opfangorganisaasje	opfangorganisaasje	NOUN	NOUN	Gender=Com|Number=Sing	3	obl	_	dutch=opvangorganisatie
 7	Fier	Fier	PROPN	PROPN	_	6	appos	_	dutch=Fier
 8	Fryslân	Fryslân	PROPN	PROPN	_	7	flat	_	dutch=Fryslân
-9	gear	gear	ADV	ADV	_	3	compound_prt	_	dutch=KEY-MISSING
+9	gear	gear	ADV	ADV	_	3	compound:prt	_	dutch=KEY-MISSING
 10	.	.	PUNCT	PUNCT	_	3	punct	_	dutch=.
 
 # sent_id = 1942
@@ -2767,10 +2767,10 @@
 6	de	de	DET	DET	Definite=Def	7	det	_	dutch=de
 7	opbringst	opbringst	NOUN	NOUN	Gender=Com|Number=Sing	17	nsubj	_	dutch=verkoop
 8	fan	fan	ADP	ADP	_	10	case	_	dutch=van
-9	syn	syn	PRON	PRON	Person=3|PronType=Prs	10	nmod_poss	_	dutch=z'n
+9	syn	syn	PRON	PRON	Person=3|PronType=Prs	10	nmod:poss	_	dutch=z'n
 10	boek	boek	NOUN	NOUN	Gender=Neut|Number=Sing	7	nmod	_	dutch=boek
 11	nei	nei	ADP	ADP	_	13	case	_	dutch=naar
-12	harren	harren	PRON	PRON	Person=3|PronType=Prs	13	nmod_poss	_	dutch=hun
+12	harren	harren	PRON	PRON	Person=3|PronType=Prs	13	nmod:poss	_	dutch=hun
 13	tehûs	tehûs	NOUN	NOUN	Gender=Neut|Number=Sing	17	obl	_	dutch=tehuis
 14	de	de	PROPN	PROPN	Definite=Def	13	appos	_	dutch=de
 15	Veilige	Veilige	PROPN	PROPN	_	14	flat	_	dutch=Veilige
@@ -2783,7 +2783,7 @@
 # source_text = In z'n boek komen alle facetten van mensenhandel aan de orde , ook z'n eigen ervaringen .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16
 1	Yn	yn	ADP	ADP	_	3	case	_	dutch=In
-2	syn	syn	PRON	PRON	Person=3|PronType=Prs	3	nmod_poss	_	dutch=z'n
+2	syn	syn	PRON	PRON	Person=3|PronType=Prs	3	nmod:poss	_	dutch=z'n
 3	boek	boek	NOUN	NOUN	Gender=Neut|Number=Sing	4	obl	_	dutch=boek
 4	komme	komme	VERB	VERB	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=komen
 5	alle	al	DET	DET	_	6	det	_	dutch=alle
@@ -2793,9 +2793,9 @@
 9	oan	oan	ADP	ADP	_	11	case	_	dutch=aan
 10	de	de	DET	DET	Definite=Def	11	det	_	dutch=de
 11	oarder	oarder	NOUN	NOUN	Gender=Com|Number=Sing	4	xcomp	_	dutch=orde
-12	,	,	PUNCT	PUNCT	_	6	punct	_	dutch=,
+12	,	,	PUNCT	PUNCT	_	16	punct	_	dutch=,
 13	ek	ek	ADV	ADV	_	16	amod	_	dutch=ook
-14	de	de	DET	DET	Person=3|PronType=Prs	16	nmod_poss	_	dutch=z'n
+14	de	de	DET	DET	Person=3|PronType=Prs	16	nmod:poss	_	dutch=z'n
 15	eigen	eigen	ADJ	ADJ	Degree=Pos	16	amod	_	dutch=eigen
 16	ûnderfiningen	ûnderfining	NOUN	NOUN	Number=Plur	6	appos	_	dutch=ervaringen
 17	.	.	PUNCT	PUNCT	_	4	punct	_	dutch=.
@@ -2804,13 +2804,13 @@
 # text = De Veilige Veste wurdt ein april yn gebrûk nommen .
 # source_text = De Veilige Veste wordt eind april in gebruik genomen .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9
-1	De	De	PROPN	PROPN	Definite=Def	9	nsubj_pass	_	dutch=De
+1	De	De	PROPN	PROPN	Definite=Def	9	nsubj:pass	_	dutch=De
 2	Veilige	Veilige	PROPN	PROPN	_	1	flat	_	dutch=Veilige
 3	Veste	Veste	PROPN	PROPN	_	1	flat	_	dutch=Veste
-4	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux_pass	_	dutch=wordt
+4	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux:pass	_	dutch=wordt
 5	ein	ein	NOUN	NOUN	Gender=Neut|Number=Sing	9	obl	_	dutch=eind
 6	april	april	PROPN	PROPN	Gender=Com|Number=Sing	5	nmod	_	dutch=april
-7	yn	yn	ADP	ADP	_	9	compound_prt	_	dutch=in
+7	yn	yn	ADP	ADP	_	9	compound:prt	_	dutch=in
 8	gebrûk	gebrûk	NOUN	NOUN	Gender=Neut|Number=Sing	7	fixed	_	dutch=gebruik
 9	nommen	nimme	VERB	VERB	VerbForm=Part	0	root	_	dutch=genomen
 10	.	.	PUNCT	PUNCT	_	9	punct	_	dutch=.
@@ -2835,7 +2835,7 @@
 14	de	de	DET	DET	Definite=Def	15	det	_	dutch=de
 15	dea	dea	NOUN	NOUN	Gender=Com|Number=Sing	11	nmod	_	dutch=dood
 16	fan	fan	ADP	ADP	_	18	case	_	dutch=van
-17	har	har	PRON	PRON	Person=3|PronType=Prs	18	nmod_poss	_	dutch=haar
+17	har	har	PRON	PRON	Person=3|PronType=Prs	18	nmod:poss	_	dutch=haar
 18	broer	broer	NOUN	NOUN	Gender=Com|Number=Sing	15	nmod	_	dutch=broer
 19	.	.	PUNCT	PUNCT	_	7	punct	_	dutch=.
 
@@ -2843,15 +2843,15 @@
 # text = Piet de Boer waard yn 1942 ombrocht troch Japanners by it Yndonesyske Tarakan .
 # source_text = Piet de Boer werd in 1942 om het leven gebracht door de Japanners bij het Indonesische Tarakan .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-10 7-10 8-12 9-13 10-14 11-15 12-16 13-17
-1	Piet	Piet	PROPN	PROPN	_	7	nsubj_pass	_	dutch=Piet
+1	Piet	Piet	PROPN	PROPN	_	7	nsubj:pass	_	dutch=Piet
 2	de	de	PROPN	PROPN	_	1	flat	_	dutch=de
 3	Boer	Boer	PROPN	PROPN	_	1	flat	_	dutch=Boer
-4	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	7	aux_pass	_	dutch=werd
+4	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	7	aux:pass	_	dutch=werd
 5	yn	yn	ADP	ADP	_	6	case	_	dutch=in
 6	1942	1942	NUM	NUM	_	7	obl	_	dutch=1942
 7	ombrocht	ombringe	VERB	VERB	_	0	root	_	dutch=door
 8	troch	troch	ADP	ADP	_	9	case	_	dutch=door
-9	Japanners	Japanner	PROPN	PROPN	Number=Plur	7	obl_agent	_	dutch=Japanners
+9	Japanners	Japanner	PROPN	PROPN	Number=Plur	7	obl:agent	_	dutch=Japanners
 10	by	by	ADP	ADP	_	13	case	_	dutch=bij
 11	it	it	DET	DET	Definite=Def	13	det	_	dutch=het
 12	Yndonesyske	Yndonesysk	ADJ	ADJ	_	13	amod	_	dutch=Indonesische
@@ -2866,10 +2866,10 @@
 2	Loenen	Loenen	PROPN	PROPN	Gender=Neut|Number=Sing	9	obl	_	dutch=Loenen
 3	yn	yn	ADP	ADP	_	4	case	_	dutch=in
 4	Gelderlân	Gelderlân	PROPN	PROPN	Gender=Neut|Number=Sing	2	nmod	_	dutch=Gelderland
-5	is	wêze	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	9	aux_pass	_	dutch=werd
+5	is	wêze	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	9	aux:pass	_	dutch=werd
 6	tongersdei	tongersdei	PROPN	PROPN	Gender=Com|Number=Sing	9	obl	_	dutch=donderdag
 7	in	in	DET	DET	Definite=Ind	8	det	_	dutch=een
-8	monumint	monumint	NOUN	NOUN	Gender=Neut|Number=Sing	9	nsubj_pass	_	dutch=monument
+8	monumint	monumint	NOUN	NOUN	Gender=Neut|Number=Sing	9	nsubj:pass	_	dutch=monument
 9	ûntbleate	ûntbleatsje	VERB	VERB	VerbForm=Part	0	root	_	dutch=onthuld
 10	ta	ta	ADP	ADP	_	14	case	_	dutch=ter
 11	neitins	neitins	NOUN	NOUN	_	10	fixed	_	dutch=nagedachtenis
@@ -2898,12 +2898,12 @@
 9	Nederlânsk-Ynje	Nederlânsk-Ynje	PROPN	PROPN	Gender=Neut|Number=Sing	3	obl	_	dutch=Nederlands-Indië
 10	doe't	doe't	SCONJ	SCONJ	_	13	mark	_	dutch=toen
 11	de	de	DET	DET	Definite=Def	12	det	_	dutch=de
-12	koloanje	koloanje	NOUN	NOUN	Gender=Com|Number=Sing	13	nsubj_pass	_	dutch=kolonie
+12	koloanje	koloanje	NOUN	NOUN	Gender=Com|Number=Sing	13	nsubj:pass	_	dutch=kolonie
 13	oanfallen	oanfalle	VERB	VERB	VerbForm=Part	3	advcl	_	dutch=aangevallen
-14	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	13	aux_pass	_	dutch=werd
+14	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	13	aux:pass	_	dutch=werd
 15	troch	troch	ADP	ADP	_	17	case	_	dutch=door
 16	de	de	DET	DET	Definite=Def	17	det	_	dutch=de
-17	Japanners	Japanner	PROPN	PROPN	Number=Plur	13	obl_agent	_	dutch=Japanners
+17	Japanners	Japanner	PROPN	PROPN	Number=Plur	13	obl:agent	_	dutch=Japanners
 18	.	.	PUNCT	PUNCT	_	3	punct	_	dutch=.
 
 # sent_id = 1949
@@ -2911,12 +2911,12 @@
 # source_text = Z' n eenheid wordt vastgenomen en ze worden op een schip vermoord .
 # alignment = 0-1 1-2 2-1 3-4 4-5 5-6 6-7 7-8 8-9 9-10 10-11 11-12
 1	Syn	syn	PRON	PRON	_	4	parataxis	_	dutch=n
-2	ienheid	ienheid	NOUN	NOUN	Gender=Com|Number=Sing	4	nsubj_pass	_	dutch=eenheid
-3	waard	wurde	AUX	AUX	_	4	aux_pass	_	dutch=n
+2	ienheid	ienheid	NOUN	NOUN	Gender=Com|Number=Sing	4	nsubj:pass	_	dutch=eenheid
+3	waard	wurde	AUX	AUX	_	4	aux:pass	_	dutch=n
 4	fêstnommen	fêstnimme	VERB	VERB	VerbForm=Part	0	root	_	dutch=vastgenomen
 5	en	en	CCONJ	CCONJ	_	11	cc	_	dutch=en
-6	se	se	PRON	PRON	Person=3|PronType=Prs	11	nsubj_pass	_	dutch=ze
-7	waarden	wurde	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	11	aux_pass	_	dutch=worden
+6	se	se	PRON	PRON	Person=3|PronType=Prs	11	nsubj:pass	_	dutch=ze
+7	waarden	wurde	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	11	aux:pass	_	dutch=worden
 8	op	op	ADP	ADP	_	10	case	_	dutch=op
 9	in	in	DET	DET	Definite=Ind	10	det	_	dutch=een
 10	skip	skip	NOUN	NOUN	Gender=Neut|Number=Sing	11	obl	_	dutch=schip
@@ -2977,7 +2977,7 @@
 4	en	en	CCONJ	CCONJ	_	5	cc	_	dutch=en
 5	organisaasjes	organisaasje	NOUN	NOUN	Number=Plur	3	conj	_	dutch=organisaties
 6	steane	stean	VERB	VERB	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=staan
-7	garant	garant	NOUN	NOUN	Gender=Com|Number=Sing	6	compound_prt	_	dutch=garant
+7	garant	garant	NOUN	NOUN	Gender=Com|Number=Sing	6	compound:prt	_	dutch=garant
 8	foar	foar	ADP	ADP	_	10	case	_	dutch=voor
 9	it	it	DET	DET	Definite=Def	10	det	_	dutch=het
 10	oanbieden	oanbiede	VERB	VERB	VerbForm=Inf	6	obl	_	dutch=aanbieden
@@ -3040,10 +3040,10 @@
 6	oer	oer	ADP	ADP	_	8	case	_	dutch=over
 7	it	it	DET	DET	Definite=Def	8	det	_	dutch=het
 8	plan	plan	NOUN	NOUN	Gender=Neut|Number=Sing	3	obl	_	dutch=plan
-9	dat	dat	SCONJ	SCONJ	Person=3|PronType=Rel	11	nsubj_pass	_	dutch=dat
+9	dat	dat	SCONJ	SCONJ	Person=3|PronType=Rel	11	nsubj:pass	_	dutch=dat
 10	tongersdei	tongersdei	PROPN	PROPN	Gender=Com|Number=Sing	11	obl	_	dutch=donderdag
-11	presintearre	presintearje	VERB	VERB	VerbForm=Part	8	acl_relcl	_	dutch=gepresenteerd
-12	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	11	aux_pass	_	dutch=werd
+11	presintearre	presintearje	VERB	VERB	VerbForm=Part	8	acl:relcl	_	dutch=gepresenteerd
+12	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	11	aux:pass	_	dutch=werd
 13	.	.	PUNCT	PUNCT	_	3	punct	_	dutch=.
 
 # sent_id = 1957
@@ -3058,7 +3058,7 @@
 6	ûnder	ûnder	ADP	ADP	_	8	nmod	_	dutch=onder
 7	mear	folle	PRON	PRON	Degree=Pos	6	fixed	_	dutch=andere
 8	HSL	HSL	PROPN	PROPN	Gender=Com|Number=Sing	5	nsubj	_	dutch=HCL
-9	,	,	PUNCT	PUNCT	_	8	punct	_	dutch=,
+9	,	,	PUNCT	PUNCT	_	10	punct	_	dutch=,
 10	Tryater	Tryater	PROPN	PROPN	Gender=Com|Number=Sing	8	conj	_	dutch=Tryater
 11	,	,	PUNCT	PUNCT	_	10	punct	_	dutch=,
 12	De	De	PROPN	PROPN	_	8	conj	_	dutch=De
@@ -3101,7 +3101,7 @@
 4	Balk	Balk	PROPN	PROPN	Gender=Neut|Number=Sing	1	nmod	_	dutch=Balk
 5	seit	sizze	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=zegt
 6	neat	neat	PRON	PRON	Person=3|PronType=Ind	9	obj	_	dutch=niets
-7	ôf	ôf	ADP	ADP	_	9	compound_prt	_	dutch=af
+7	ôf	ôf	ADP	ADP	_	9	compound:prt	_	dutch=af
 8	te	te	ADP	ADP	_	9	mark	_	dutch=te
 9	witten	witte	VERB	VERB	VerbForm=Inf	5	xcomp	_	dutch=weten
 10	fan	fan	ADP	ADP	_	11	case	_	dutch=van
@@ -3109,7 +3109,7 @@
 12	fan	fan	ADP	ADP	_	13	case	_	dutch=van
 13	buertgenoaten	buertgenoat	NOUN	NOUN	Number=Plur	11	nmod	_	dutch=buurtgenoten
 14	oer	oer	ADP	ADP	_	16	case	_	dutch=over
-15	syn	syn	PRON	PRON	Person=3|PronType=Prs	16	nmod_poss	_	dutch=zijn
+15	syn	syn	PRON	PRON	Person=3|PronType=Prs	16	nmod:poss	_	dutch=zijn
 16	hûn	hûn	NOUN	NOUN	Gender=Com|Number=Sing	11	nmod	_	dutch=hond
 17	Gino	Gino	PROPN	PROPN	Gender=Com|Number=Sing	16	appos	_	dutch=Gino
 18	.	.	PUNCT	PUNCT	_	5	punct	_	dutch=.
@@ -3122,11 +3122,11 @@
 2	biet	bite	VERB	VERB	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=beet
 3	ôfrûne	ôfrinne	VERB	VERB	Number=Sing|Tense=Past|VerbForm=Fin	4	amod	_	dutch=beet
 4	tiisdei	tiisdei	PROPN	PROPN	Gender=Com|Number=Sing	2	obl	_	dutch=dinsdag
-5	syn	syn	PRON	PRON	Person=3|PronType=Prs	6	nmod_poss	_	dutch=zijn
+5	syn	syn	PRON	PRON	Person=3|PronType=Prs	6	nmod:poss	_	dutch=zijn
 6	baas	baas	NOUN	NOUN	Gender=Com|Number=Sing	2	iobj	_	dutch=baas
 7	in	in	DET	DET	Definite=Ind	8	det	_	dutch=een
 8	ear	ear	NOUN	NOUN	Gender=Neut|Number=Sing	2	obj	_	dutch=oor
-9	ôf	ôf	ADP	ADP	_	2	compound_prt	_	dutch=af
+9	ôf	ôf	ADP	ADP	_	2	compound:prt	_	dutch=af
 10	.	.	PUNCT	PUNCT	_	2	punct	_	dutch=.
 
 # sent_id = 1961
@@ -3143,7 +3143,7 @@
 8	hûn	hûn	NOUN	NOUN	Gender=Com|Number=Sing	9	nsubj	_	dutch=hond
 9	agressyf	agressyf	ADJ	ADJ	Degree=Pos	3	advcl	_	dutch=agressief
 10	wie	wêze	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	9	cop	_	dutch=was
-11	,	,	PUNCT	PUNCT	_	3	punct	_	dutch=,
+11	,	,	PUNCT	PUNCT	_	13	punct	_	dutch=,
 12	mar	mar	CCONJ	CCONJ	_	13	cc	_	dutch=maar
 13	woe	wolle	VERB	VERB	Number=Sing|Tense=Past|VerbForm=Fin	3	conj	_	dutch=wilde
 14	de	de	DET	DET	Definite=Def	15	det	_	dutch=de
@@ -3166,9 +3166,9 @@
 1	Nei	nei	ADP	ADP	_	3	case	_	dutch=Na
 2	it	it	DET	DET	Definite=Def	3	det	_	dutch=het
 3	ynsidint	ynsidint	NOUN	NOUN	Gender=Neut|Number=Sing	7	obl	_	dutch=incidint
-4	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	7	aux_pass	_	dutch=werd
+4	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	7	aux:pass	_	dutch=werd
 5	de	de	DET	DET	Definite=Def	6	det	_	dutch=de
-6	hûn	hûn	NOUN	NOUN	Gender=Com|Number=Sing	7	nsubj_pass	_	dutch=hond
+6	hûn	hûn	NOUN	NOUN	Gender=Com|Number=Sing	7	nsubj:pass	_	dutch=hond
 7	ôfmakke	ôfmeitsje	VERB	VERB	VerbForm=Part	0	root	_	dutch=afgemaakt
 8	.	.	PUNCT	PUNCT	_	7	punct	_	dutch=.
 
@@ -3179,7 +3179,7 @@
 1	Lenger	Lenger	PROPN	PROPN	Gender=Com|Number=Sing	2	nsubj	_	dutch=Lenger
 2	stimde	stimme	VERB	VERB	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	dutch=stemde
 3	dêrmei	dêrmei	ADV	ADV	_	2	advmod	_	dutch=hiermee
-4	yn	yn	ADP	ADP	_	2	compound_prt	_	dutch=in
+4	yn	yn	ADP	ADP	_	2	compound:prt	_	dutch=in
 5	omdat	omdat	SCONJ	SCONJ	_	9	mark	_	dutch=omdat
 6	de	de	DET	DET	Definite=Def	7	det	_	dutch=de
 7	hûn	hûn	NOUN	NOUN	Gender=Com|Number=Sing	9	nsubj	_	dutch=hond
@@ -3214,7 +3214,7 @@
 13	hûn	hûn	NOUN	NOUN	Gender=Com|Number=Sing	10	nmod	_	dutch=hond
 14	klage	kleie	VERB	VERB	VerbForm=Part	0	root	_	dutch=geklaagd
 15	hawwe	hawwe	AUX	AUX	VerbForm=Inf	14	aux	_	dutch=hebben
-16	,	,	PUNCT	PUNCT	_	14	punct	_	dutch=,
+16	,	,	PUNCT	PUNCT	_	23	punct	_	dutch=,
 17	ek	ek	ADV	ADV	_	23	amod	_	dutch=ook
 18	mei	mei	ADP	ADP	_	23	case	_	dutch=met
 19	it	it	DET	DET	Definite=Def	18	fixed	_	dutch=het
@@ -3224,7 +3224,7 @@
 23	skoalle	skoalle	NOUN	NOUN	Gender=Com|Number=Sing	14	obl	_	dutch=school
 24	dy't	dy't	PRON	PRON	_	26	nsubj	_	dutch=KEY-MISSING
 25	flakby	flakby	ADV	ADV	Definite=Def	26	advmod	_	dutch=de
-26	stiet	stean	VERB	VERB	_	23	acl_relcl	_	dutch=KEY-MISSING
+26	stiet	stean	VERB	VERB	_	23	acl:relcl	_	dutch=KEY-MISSING
 27	.	.	PUNCT	PUNCT	_	14	punct	_	dutch=.
 
 # sent_id = 1965
@@ -3254,7 +3254,7 @@
 5	der	der	ADV	ADV	_	7	advmod	_	dutch=er
 6	wer	wer	ADV	ADV	_	7	advmod	_	dutch=weer
 7	oanset	oansette	VERB	VERB	VerbForm=Part	0	root	_	dutch=aangezet
-8	,	,	PUNCT	PUNCT	_	7	punct	_	dutch=,
+8	,	,	PUNCT	PUNCT	_	20	punct	_	dutch=,
 9	mar	mar	CCONJ	CCONJ	_	20	cc	_	dutch=maar
 10	oft	oft	SCONJ	SCONJ	_	13	mark	_	dutch=of
 11	de	de	DET	DET	Definite=Def	12	det	_	dutch=de
@@ -3289,10 +3289,10 @@
 # alignment = 0-0 1-1 2-2 3-2 4-3 5-4 6-5 7-6 8-7 9-8 10-9 11-10 12-11 13-12 14-13 15-14 16-15 17-16 18-17 19-17 20-18 21-19
 1	In	in	DET	DET	Definite=Ind	3	det	_	dutch=Een
 2	68-jierrige	68-jierrich	ADJ	ADJ	_	3	amod	_	dutch=68-jierrige
-3	skipper	skipper	NOUN	NOUN	Gender=Com|Number=Sing	8	nsubj_pass	_	dutch=schipper
+3	skipper	skipper	NOUN	NOUN	Gender=Com|Number=Sing	8	nsubj:pass	_	dutch=schipper
 4	út	út	ADP	ADP	_	5	case	_	dutch=uit
 5	Doetinchem	Doetinchem	PROPN	PROPN	Gender=Neut|Number=Sing	3	nmod	_	dutch=Doetinchem
-6	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	8	aux_pass	_	dutch=wordt
+6	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	8	aux:pass	_	dutch=wordt
 7	net	net	PART	PART	_	8	advmod	_	dutch=niet
 8	ferfolge	ferfolgje	VERB	VERB	VerbForm=Part	0	root	_	dutch=vervolgd
 9	yn	yn	ADP	ADP	_	13	case	_	dutch=in
@@ -3337,9 +3337,9 @@
 7	in	in	DET	DET	Definite=Ind	8	det	_	dutch=een
 8	sylkamp	sylkamp	NOUN	NOUN	Gender=Neut|Number=Sing	0	root	_	dutch=zeilkamp
 9	dy't	dy't	PRON	PRON	Person=3|PronType=Rel	12	obj	_	dutch=dat
-10	har	har	PRON	PRON	Person=3|PronType=Prs	11	nmod_poss	_	dutch=haar
+10	har	har	PRON	PRON	Person=3|PronType=Prs	11	nmod:poss	_	dutch=haar
 11	oplieding	oplieding	NOUN	NOUN	Gender=Com|Number=Sing	12	nsubj	_	dutch=oplieding
-12	organisearre	organisearje	VERB	VERB	VerbForm=Part	8	acl_relcl	_	dutch=georganiseerd
+12	organisearre	organisearje	VERB	VERB	VerbForm=Part	8	acl:relcl	_	dutch=georganiseerd
 13	hie	hawwe	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	12	aux	_	dutch=had
 14	.	.	PUNCT	PUNCT	_	8	punct	_	dutch=.
 
@@ -3349,7 +3349,7 @@
 # alignment = 0-0 1-1 2-2 3-3 4-4 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 16-15 17-15 18-17 19-16 20-18
 1	De	de	DET	DET	Definite=Def	2	det	_	dutch=De
 2	skipper	skipper	NOUN	NOUN	Gender=Com|Number=Sing	19	nsubj	_	dutch=schipper
-3	,	,	PUNCT	PUNCT	_	2	punct	_	dutch=,
+3	,	,	PUNCT	PUNCT	_	7	punct	_	dutch=,
 4	mar	mar	CCONJ	CCONJ	_	7	cc	_	dutch=maar
 5	ek	ek	ADV	ADV	_	7	advmod	_	dutch=ook
 6	de	de	DET	DET	_	7	det	_	dutch=KEY-MISSING
@@ -3376,7 +3376,7 @@
 1	Likegoed	likegoed	ADV	ADV	_	11	advmod	_	dutch=Toch
 2	kin	kinne	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	11	aux	_	dutch=kan
 3	de	de	DET	DET	Definite=Def	4	det	_	dutch=de
-4	dea	dea	NOUN	NOUN	Gender=Com|Number=Sing	11	nsubj_pass	_	dutch=dood
+4	dea	dea	NOUN	NOUN	Gender=Com|Number=Sing	11	nsubj:pass	_	dutch=dood
 5	fan	fan	ADP	ADP	_	7	case	_	dutch=van
 6	'e	'e	DET	DET	Definite=Def	7	det	_	dutch=de
 7	frou	frou	NOUN	NOUN	Gender=Com|Number=Sing	4	nmod	_	dutch=vrouw
@@ -3384,7 +3384,7 @@
 9	skipper	skipper	NOUN	NOUN	Gender=Com|Number=Sing	11	iobj	_	dutch=schipper
 10	net	net	PART	PART	_	11	advmod	_	dutch=niet
 11	oanrekkene	oanrekkenje	VERB	VERB	VerbForm=Part	0	root	_	dutch=aangerekend
-12	wurde	wurde	AUX	AUX	VerbForm=Inf	11	aux_pass	_	dutch=worden
+12	wurde	wurde	AUX	AUX	VerbForm=Inf	11	aux:pass	_	dutch=worden
 13	.	.	PUNCT	PUNCT	_	11	punct	_	dutch=.
 
 # sent_id = 1973
@@ -3424,7 +3424,7 @@
 5	docht	dwaan	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=doet
 6	tegearre	tegearre	ADV	ADV	_	5	advcl	_	dutch=samen
 7	mei	mei	ADP	ADP	_	9	case	_	dutch=met
-8	syn	syn	PRON	PRON	Gender=Com|Number=Sing	9	nmod_poss	_	dutch=advocaat
+8	syn	syn	PRON	PRON	Gender=Com|Number=Sing	9	nmod:poss	_	dutch=advocaat
 9	advokaat	advokaat	NOUN	NOUN	Gender=Com|Number=Sing	6	obl	_	dutch=advocaat
 10	Henri	Henri	PROPN	PROPN	_	9	appos	_	dutch=Henri
 11	Sarolea	Sarolea	PROPN	PROPN	_	10	flat	_	dutch=Sarolea
@@ -3466,15 +3466,15 @@
 # alignment = 0-0 1-1 3-2 4-3 5-4 6-5 7-6 8-7 9-8 10-9 11-10 12-11 13-12
 1	De	de	DET	DET	Definite=Def	3	det	_	dutch=De
 2	earste	ien	ADJ	ADJ	_	3	amod	_	dutch=eerste
-3	miljeufergunning	miljeufergunning	NOUN	NOUN	_	8	nsubj_pass	_	dutch=KEY-MISSING
-4	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	8	aux_pass	_	dutch=is
+3	miljeufergunning	miljeufergunning	NOUN	NOUN	_	8	nsubj:pass	_	dutch=KEY-MISSING
+4	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	8	aux:pass	_	dutch=is
 5	twa	twa	NUM	NUM	_	6	nummod	_	dutch=twee
 6	jier	jier	NOUN	NOUN	Gender=Neut|Number=Sing	7	nmod	_	dutch=jaar
 7	ferlyn	ferlyn	ADV	ADV	_	8	advmod	_	dutch=geleden
 8	ferneatige	ferneatigje	VERB	VERB	VerbForm=Part	0	root	_	dutch=vernietigd
 9	troch	troch	ADP	ADP	_	11	case	_	dutch=door
 10	de	de	DET	DET	Definite=Def	11	det	_	dutch=de
-11	Rie	Rie	PROPN	PROPN	_	8	obl_agent	_	dutch=Raad
+11	Rie	Rie	PROPN	PROPN	_	8	obl:agent	_	dutch=Raad
 12	fan	fan	PROPN	PROPN	_	11	flat	_	dutch=van
 13	Steat	Steat	PROPN	PROPN	_	11	flat	_	dutch=State
 14	.	.	PUNCT	PUNCT	_	8	punct	_	dutch=.
@@ -3550,7 +3550,7 @@
 3	in	in	DET	DET	_	4	det	_	dutch=veel
 4	soad	soad	NOUN	NOUN	_	2	nsubj	_	dutch=veel
 5	minsken	minske	NOUN	NOUN	Number=Plur	4	nmod	_	dutch=mensen
-6	del	del	ADP	ADP	_	2	compound_prt	_	dutch=langs
+6	del	del	ADP	ADP	_	2	compound:prt	_	dutch=langs
 7	.	.	PUNCT	PUNCT	_	2	punct	_	dutch=.
 
 # sent_id = 1982
@@ -3562,7 +3562,7 @@
 3	earder	earder	ADJ	ADJ	Degree=Pos	2	advmod	_	dutch=eerder
 4	ek	ek	ADV	ADV	_	5	advmod	_	dutch=al
 5	alris	alris	ADV	ADV	_	2	advmod	_	dutch=eens
-6	mei	mei	ADP	ADP	_	2	compound_prt	_	dutch=mee
+6	mei	mei	ADP	ADP	_	2	compound:prt	_	dutch=mee
 7	oan	oan	ADP	ADP	_	8	case	_	dutch=aan
 8	The	The	PROPN	PROPN	_	2	obl	_	dutch=The
 9	Fryske	Fryske	PROPN	PROPN	_	8	flat	_	dutch=Fryske
@@ -3599,14 +3599,14 @@
 7	soad	soad	NOUN	NOUN	_	6	fixed	_	dutch=veel
 8	yndruk	yndruk	NOUN	NOUN	Gender=Com|Number=Sing	4	obj	_	dutch=indruk
 9	troch	troch	ADP	ADP	_	11	case	_	dutch=door
-10	har	har	PRON	PRON	Person=3|PronType=Prs	11	nmod_poss	_	dutch=haar
+10	har	har	PRON	PRON	Person=3|PronType=Prs	11	nmod:poss	_	dutch=haar
 11	sjongen	sjonge	VERB	VERB	VerbForm=Inf	4	obl	_	dutch=zingen
 12	dêr't	dêr't	ADV	ADV	_	17	advmod	_	dutch=waarbij
 13	se	se	PRON	PRON	Person=3|PronType=Prs	17	nsubj	_	dutch=ze
 14	harsels	harsels	PRON	PRON	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	17	obj	_	dutch=zichzelf
 15	op	op	ADP	ADP	_	16	case	_	dutch=op
 16	harpe	harpe	NOUN	NOUN	Gender=Com|Number=Sing	17	obl	_	dutch=harp
-17	begelate	begeliede	VERB	VERB	Number=Sing|Tense=Past|VerbForm=Fin	11	acl_relcl	_	dutch=begeleidde
+17	begelate	begeliede	VERB	VERB	Number=Sing|Tense=Past|VerbForm=Fin	11	acl:relcl	_	dutch=begeleidde
 18	.	.	PUNCT	PUNCT	_	4	punct	_	dutch=.
 
 # sent_id = 1985
@@ -3642,7 +3642,7 @@
 5	oer	oer	ADP	ADP	_	7	case	_	dutch=over
 6	trije	trije	NUM	NUM	_	7	nummod	_	dutch=drie
 7	moanne	moanne	NOUN	NOUN	Number=Plur	4	obl	_	dutch=maanden
-8	iepen	iepen	ADJ	ADJ	Degree=Pos	4	compound_prt	_	dutch=open
+8	iepen	iepen	ADJ	ADJ	Degree=Pos	4	compound:prt	_	dutch=open
 9	.	.	PUNCT	PUNCT	_	4	punct	_	dutch=.
 
 # sent_id = 1987
@@ -3652,14 +3652,14 @@
 1	Der	der	ADV	ADV	_	10	advmod	_	dutch=Er
 2	sille	sille	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	10	aux	_	dutch=zullen
 3	ynearsten	ynearsten	ADV	ADV	_	10	advmod	_	dutch=eerst
-4	slachtoffers	slachtoffer	NOUN	NOUN	Number=Plur	10	nsubj_pass	_	dutch=slachtoffers
+4	slachtoffers	slachtoffer	NOUN	NOUN	Number=Plur	10	nsubj:pass	_	dutch=slachtoffers
 5	fan	fan	ADP	ADP	_	6	case	_	dutch=van
 6	loverboys	loverboy	NOUN	NOUN	Number=Plur	4	nmod	_	dutch=loverboys
 7	en	en	CCONJ	CCONJ	_	9	cc	_	dutch=en
 8	twongen	twinge	VERB	VERB	VerbForm=Part	9	amod	_	dutch=gedwongen
 9	prostitúsje	prostitúsje	NOUN	NOUN	Gender=Com|Number=Sing	6	conj	_	dutch=prostitutie
 10	opfongen	opfange	VERB	VERB	VerbForm=Part	0	root	_	dutch=opgevangen
-11	wurde	wurde	AUX	AUX	VerbForm=Inf	10	aux_pass	_	dutch=worden
+11	wurde	wurde	AUX	AUX	VerbForm=Inf	10	aux:pass	_	dutch=worden
 12	.	.	PUNCT	PUNCT	_	10	punct	_	dutch=.
 
 # sent_id = 1988
@@ -3682,11 +3682,11 @@
 # source_text = Het gebouw kan ook gebruikt worden voor congressen over mensenhandel of eerwraak .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12
 1	It	it	DET	DET	Definite=Def	2	det	_	dutch=Het
-2	gebou	gebou	NOUN	NOUN	Gender=Neut|Number=Sing	5	nsubj_pass	_	dutch=gebouw
+2	gebou	gebou	NOUN	NOUN	Gender=Neut|Number=Sing	5	nsubj:pass	_	dutch=gebouw
 3	kin	kinne	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	5	aux	_	dutch=kan
 4	ek	ek	ADV	ADV	_	5	advmod	_	dutch=ook
 5	brûkt	brûke	VERB	VERB	VerbForm=Part	0	root	_	dutch=gebruikt
-6	wurde	wurde	AUX	AUX	VerbForm=Inf	5	aux_pass	_	dutch=worden
+6	wurde	wurde	AUX	AUX	VerbForm=Inf	5	aux:pass	_	dutch=worden
 7	foar	foar	ADP	ADP	_	8	case	_	dutch=voor
 8	kongressen	kongres	NOUN	NOUN	Number=Plur	5	obl	_	dutch=congressen
 9	oer	oer	ADP	ADP	_	10	case	_	dutch=over
@@ -3760,7 +3760,7 @@
 4	sa't	sa't	SCONJ	SCONJ	_	3	xcomp	_	dutch=zoals
 5	er	er	PRON	PRON	Case=Nom|Person=3|PronType=Prs	4	nsubj	_	dutch=hij
 6	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	4	cop	_	dutch=is
-7	,	,	PUNCT	PUNCT	_	6	punct	_	dutch=,
+7	,	,	PUNCT	PUNCT	_	18	punct	_	dutch=,
 8	om	om	ADP	ADP	_	18	mark	_	dutch=om
 9	de	de	DET	DET	Definite=Def	11	det	_	dutch=de
 10	foarige	foarich	ADJ	ADJ	Degree=Pos	11	amod	_	dutch=vorige
@@ -3803,10 +3803,10 @@
 # source_text = Friese bossen en natuurgebieden worden steeds meer misbruikt als dumpplek voor illegaal afval .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13
 1	Fryske	Frysk	ADJ	ADJ	Degree=Pos	2	amod	_	dutch=Friese
-2	bosken	bosk	NOUN	NOUN	Number=Plur	8	nsubj_pass	_	dutch=bossen
+2	bosken	bosk	NOUN	NOUN	Number=Plur	8	nsubj:pass	_	dutch=bossen
 3	en	en	CCONJ	CCONJ	_	4	cc	_	dutch=en
 4	natuergebieten	natuergebiet	NOUN	NOUN	Number=Plur	2	conj	_	dutch=natuurgebieden
-5	wurde	wurde	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	8	aux_pass	_	dutch=worden
+5	wurde	wurde	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	8	aux:pass	_	dutch=worden
 6	hieltyd	hieltyd	ADV	ADV	_	8	advmod	_	dutch=steeds
 7	mear	folle	ADV	ADV	PronType=Ind	6	obl	_	dutch=meer
 8	misbrûkt	misbrûke	VERB	VERB	VerbForm=Part	0	root	_	dutch=misbruikt
@@ -3822,11 +3822,11 @@
 # source_text = Daar wordt van alles achtergelaten , varieërend van onschuldig groenafval tot zwaar chemisch afval .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 12-11 13-11 14-12 15-13 16-14
 1	Der	der	ADV	ADV	_	5	advmod	_	dutch=Daar
-2	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	5	aux_pass	_	dutch=wordt
-3	fan	fan	ADP	ADP	_	5	nsubj_pass	_	dutch=van
+2	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	5	aux:pass	_	dutch=wordt
+3	fan	fan	ADP	ADP	_	5	nsubj:pass	_	dutch=van
 4	alles	alles	PRON	PRON	Person=3|PronType=Ind	3	fixed	_	dutch=alles
 5	delsmiten	delsmite	VERB	VERB	VerbForm=Part	0	root	_	dutch=achtergelaten
-6	,	,	PUNCT	PUNCT	_	5	punct	_	dutch=,
+6	,	,	PUNCT	PUNCT	_	7	punct	_	dutch=,
 7	fariearjend	fariearje	VERB	VERB	VerbForm=Part	5	advcl	_	dutch=varieërend
 8	fan	fan	ADP	ADP	_	10	case	_	dutch=van
 9	ûnskuldich	ûnskuldich	ADJ	ADJ	Degree=Pos	10	amod	_	dutch=onschuldig
@@ -3857,7 +3857,7 @@
 # source_text = Daarbij wordt samengewerkt met de politie .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6
 1	Dêrby	dêrby	ADV	ADV	_	3	advmod	_	dutch=Daarbij
-2	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	3	aux_pass	_	dutch=wordt
+2	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	3	aux:pass	_	dutch=wordt
 3	gearwurke	gearwurkje	VERB	VERB	VerbForm=Part	0	root	_	dutch=samengewerkt
 4	mei	mei	ADP	ADP	_	6	case	_	dutch=met
 5	de	de	DET	DET	Definite=Def	6	det	_	dutch=de
@@ -3942,7 +3942,7 @@
 9	de	de	DET	DET	Definite=Def	10	det	_	dutch=de
 10	show	show	NOUN	NOUN	Gender=Com|Number=Sing	11	obj	_	dutch=show
 11	ferlitte	ferlitte	VERB	VERB	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=verlaten
-12	,	,	PUNCT	PUNCT	_	11	punct	_	dutch=,
+12	,	,	PUNCT	PUNCT	_	13	punct	_	dutch=,
 13	folge	folgje	VERB	VERB	VerbForm=Part	11	advcl	_	dutch=gevolgd
 14	troch	troch	ADP	ADP	_	15	case	_	dutch=door
 15	Erwin	Erwin	PROPN	PROPN	_	13	obl	_	dutch=Erwin
@@ -3976,16 +3976,16 @@
 6	yn	yn	ADP	ADP	_	8	case	_	dutch=in
 7	'e	'e	DET	DET	Definite=Def	8	det	_	dutch=de
 8	finale	finale	NOUN	NOUN	Gender=Com|Number=Sing	9	obl	_	dutch=finale
-9	die	dwaan	VERB	VERB	Number=Sing|Tense=Past|VerbForm=Fin	3	acl_relcl	_	dutch=deed
-10	,	,	PUNCT	PUNCT	_	13	punct	_	dutch=,
+9	die	dwaan	VERB	VERB	Number=Sing|Tense=Past|VerbForm=Fin	3	acl:relcl	_	dutch=deed
+10	,	,	PUNCT	PUNCT	_	3	punct	_	dutch=,
 11	wie	wêze	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	13	cop	_	dutch=was
-12	‘	‘	PUNCT	PUNCT	_	13	punct	_	dutch=‘
+12	‘	‘	PUNCT	PUNCT	_	11	punct	_	dutch=‘
 13	Skinny	Skinny	PROPN	PROPN	_	0	root	_	dutch=Skinny
 14	love	love	PROPN	PROPN	_	13	flat	_	dutch=love
-15	’	’	PUNCT	PUNCT	_	13	punct	_	dutch=’
+15	’	’	PUNCT	PUNCT	_	18	punct	_	dutch=’
 16	dat	dat	PRON	PRON	Person=3|PronType=Rel	18	obj	_	dutch=dat
 17	se	se	PRON	PRON	Person=3|PronType=Prs	18	nsubj	_	dutch=ze
-18	song	sjonge	VERB	VERB	Number=Sing|Tense=Past|VerbForm=Fin	13	acl_relcl	_	dutch=zong
+18	song	sjonge	VERB	VERB	Number=Sing|Tense=Past|VerbForm=Fin	13	acl:relcl	_	dutch=zong
 19	mei	mei	ADP	ADP	_	23	case	_	dutch=met
 20	de	de	DET	DET	Definite=Def	23	det	_	dutch=de
 21	jonge	jong	ADJ	ADJ	Degree=Pos	23	amod	_	dutch=jonge
@@ -4004,11 +4004,11 @@
 4	se	se	PRON	PRON	Person=3|PronType=Prs	5	nsubj	_	dutch=ze
 5	keazen	kieze	VERB	VERB	VerbForm=Part	0	root	_	dutch=gekozen
 6	foar	foar	ADP	ADP	_	8	case	_	dutch=voor
-7	‘	‘	PUNCT	PUNCT	_	8	punct	_	dutch=‘
+7	‘	‘	PUNCT	PUNCT	_	6	punct	_	dutch=‘
 8	Someone	Someone	PROPN	PROPN	_	5	obl	_	dutch=like
 9	like	like	PROPN	PROPN	_	8	flat	_	dutch=like
 10	you	you	PROPN	PROPN	_	8	flat	_	dutch=you
-11	’	’	PUNCT	PUNCT	_	8	punct	_	dutch=’
+11	’	’	PUNCT	PUNCT	_	13	punct	_	dutch=’
 12	fan	fan	ADP	ADP	_	13	case	_	dutch=van
 13	Adèle	Adèle	PROPN	PROPN	Gender=Com|Number=Sing	8	nmod	_	dutch=Adèle
 14	.	.	PUNCT	PUNCT	_	5	punct	_	dutch=.
@@ -4072,7 +4072,7 @@
 5	joegen	jaan	VERB	VERB	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	dutch=gaven
 6	Iris	Iris	PROPN	PROPN	Gender=Com|Number=Sing	5	iobj	_	dutch=Iris
 7	foar	foar	ADP	ADP	_	9	case	_	dutch=voor
-8	har	har	PRON	PRON	Person=3|PronType=Prs	9	nmod_poss	_	dutch=haar
+8	har	har	PRON	PRON	Person=3|PronType=Prs	9	nmod:poss	_	dutch=haar
 9	optreden	optreden	NOUN	NOUN	Gender=Neut|Number=Sing	5	obl	_	dutch=optreden
 10	in	in	DET	DET	Definite=Ind	11	det	_	dutch=een
 11	8,5	8,5	NUM	NUM	_	5	obj	_	dutch=8,5
@@ -4092,7 +4092,7 @@
 8	foar	foar	ADP	ADP	_	10	case	_	dutch=voor
 9	it	it	DET	DET	Definite=Def	10	det	_	dutch=het
 10	optreden	optreden	NOUN	NOUN	Gender=Neut|Number=Sing	4	obl	_	dutch=optreden
-11	oer	oer	ADP	ADP	_	4	compound_prt	_	dutch=over
+11	oer	oer	ADP	ADP	_	4	compound:prt	_	dutch=over
 12	.	.	PUNCT	PUNCT	_	4	punct	_	dutch=.
 
 # sent_id = 2012
@@ -4109,7 +4109,7 @@
 8	rekke	reitsje	VERB	VERB	VerbForm=Part	4	ccomp	_	dutch=geraakt
 9	wie	wêze	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	8	aux	_	dutch=was
 10	troch	troch	ADP	ADP	_	12	case	_	dutch=door
-11	har	har	PRON	PRON	Person=3|PronType=Prs	12	nmod_poss	_	dutch=haar
+11	har	har	PRON	PRON	Person=3|PronType=Prs	12	nmod:poss	_	dutch=haar
 12	optreden	optreden	NOUN	NOUN	Gender=Neut|Number=Sing	8	obl	_	dutch=optreden
 13	en	en	CCONJ	CCONJ	_	20	cc	_	dutch=en
 14	dat	dat	SCONJ	SCONJ	_	20	mark	_	dutch=dat
@@ -4121,7 +4121,7 @@
 20	groeid	groeie	VERB	VERB	VerbForm=Part	8	conj	_	dutch=gegroeid
 21	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	20	aux	_	dutch=is
 22	yn	yn	ADP	ADP	_	24	case	_	dutch=in
-23	har	har	PRON	PRON	Person=3|PronType=Prs	24	nmod_poss	_	dutch=haar
+23	har	har	PRON	PRON	Person=3|PronType=Prs	24	nmod:poss	_	dutch=haar
 24	performance	performance	NOUN	NOUN	Gender=Com|Number=Sing	20	obl	_	dutch=performance
 25	.	.	PUNCT	PUNCT	_	4	punct	_	dutch=.
 
@@ -4133,8 +4133,8 @@
 2	om	om	ADP	ADP	_	3	case	_	dutch=om
 3	fjouwer	fjouwer	NUM	NUM	_	1	nmod	_	dutch=vier
 4	oere	oere	NOUN	NOUN	Gender=Neut|Number=Sing	3	fixed	_	dutch=uur
-5	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	8	aux_pass	_	dutch=wordt
-6	Iris	Iris	PROPN	PROPN	_	8	nsubj_pass	_	dutch=Iris
+5	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	8	aux:pass	_	dutch=wordt
+6	Iris	Iris	PROPN	PROPN	_	8	nsubj:pass	_	dutch=Iris
 7	Kroes	Kroes	PROPN	PROPN	_	6	flat	_	dutch=Kroes
 8	huldige	huldigje	VERB	VERB	VerbForm=Part	0	root	_	dutch=gehuldigd
 9	yn	yn	ADP	ADP	_	10	case	_	dutch=in
@@ -4161,7 +4161,7 @@
 11	djipste	djip	ADJ	ADJ	Degree=Sup	12	amod	_	dutch=diepste
 12	geheim	geheim	NOUN	NOUN	Gender=Neut|Number=Sing	13	obl	_	dutch=geheim
 13	wurke	wurkje	VERB	VERB	VerbForm=Part	7	csubj	_	dutch=gewerkt
-14	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	13	aux_pass	_	dutch=is
+14	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	13	aux:pass	_	dutch=is
 15	oan	oan	ADP	ADP	_	18	case	_	dutch=aan
 16	in	in	DET	DET	Definite=Ind	18	det	_	dutch=een
 17	grut	grut	ADJ	ADJ	Degree=Pos	18	amod	_	dutch=groot
@@ -4195,7 +4195,7 @@
 6	wat	wat	DET	DET	_	7	det	_	dutch=wat
 7	misferstannen	misferstân	NOUN	NOUN	Number=Plur	2	nsubj	_	dutch=misverstanden
 8	oer	oer	ADP	ADP	_	1	case	_	dutch=over
-9	,	,	PUNCT	PUNCT	_	2	punct	_	dutch=,
+9	,	,	PUNCT	PUNCT	_	17	punct	_	dutch=,
 10	mar	mar	CCONJ	CCONJ	_	17	cc	_	dutch=maar
 11	Ad	Ad	PROPN	PROPN	_	17	nsubj	_	dutch=Ad
 12	Roskam	Roskam	PROPN	PROPN	_	11	flat	_	dutch=Roskam
@@ -4222,14 +4222,14 @@
 10	fan	fan	ADP	ADP	_	11	case	_	dutch=van
 11	febrewaris	febrewaris	PROPN	PROPN	Gender=Com|Number=Sing	9	nmod	_	dutch=februari
 12	in	in	DET	DET	Definite=Ind	13	det	_	dutch=een
-13	kar	kar	NOUN	NOUN	Gender=Com|Number=Sing	14	nsubj_pass	_	dutch=keuze
+13	kar	kar	NOUN	NOUN	Gender=Com|Number=Sing	14	nsubj:pass	_	dutch=keuze
 14	makke	meitsje	VERB	VERB	VerbForm=Part	3	ccomp	_	dutch=gemaakt
-15	wurde	wurde	AUX	AUX	VerbForm=Inf	14	aux_pass	_	dutch=worden
+15	wurde	wurde	AUX	AUX	VerbForm=Inf	14	aux:pass	_	dutch=worden
 16	moat	moatte	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	14	aux	_	dutch=moet
 17	tusken	tusken	ADP	ADP	_	19	case	_	dutch=tussen
 18	beide	beide	DET	DET	_	19	det	_	dutch=beide
 19	turners	turner	NOUN	NOUN	Number=Plur	13	nmod	_	dutch=turners
-20	,	,	PUNCT	PUNCT	_	3	punct	_	dutch=,
+20	,	,	PUNCT	PUNCT	_	23	punct	_	dutch=,
 21	want	want	CCONJ	CCONJ	_	23	cc	_	dutch=want
 22	der	der	ADV	ADV	_	23	advmod	_	dutch=er
 23	mei	meie	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	3	conj	_	dutch=mag
@@ -4252,10 +4252,10 @@
 7	net	net	PART	PART	_	9	advmod	_	dutch=niet
 8	mei	mei	ADP	ADP	_	5	case	_	dutch=mee
 9	iens	iens	ADJ	ADJ	_	0	root	_	dutch=eens
-10	,	,	PUNCT	PUNCT	_	9	punct	_	dutch=,
+10	,	,	PUNCT	PUNCT	_	15	punct	_	dutch=,
 11	omdat	omdat	SCONJ	SCONJ	_	15	mark	_	dutch=omdat
 12	er	er	PRON	PRON	Case=Nom|Person=3|PronType=Prs	15	nsubj	_	dutch=hij
-13	fan	fan	ADP	ADP	_	15	compound_prt	_	dutch=van
+13	fan	fan	ADP	ADP	_	15	compound:prt	_	dutch=van
 14	miening	miening	NOUN	NOUN	Gender=Com|Number=Sing	13	fixed	_	dutch=mening
 15	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	9	advcl	_	dutch=is
 16	dat	dat	SCONJ	SCONJ	_	22	mark	_	dutch=dat
@@ -4263,7 +4263,7 @@
 18	noch	noch	ADV	ADV	_	22	advmod	_	dutch=nog
 19	gjin	gjin	DET	DET	_	20	det	_	dutch=geen
 20	foarmbehâld	foarmbehâld	NOUN	NOUN	Gender=Neut|Number=Sing	22	obj	_	dutch=vormbehoud
-21	sjen	sjen	VERB	VERB	VerbForm=Inf	22	compound_prt	_	dutch=zien
+21	sjen	sjen	VERB	VERB	VerbForm=Inf	22	compound:prt	_	dutch=zien
 22	litten	litte	VERB	VERB	VerbForm=Inf	15	ccomp	_	dutch=laten
 23	hat	hawwe	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	22	aux	_	dutch=heeft
 24	.	.	PUNCT	PUNCT	_	9	punct	_	dutch=.
@@ -4274,7 +4274,7 @@
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-11 13-12 14-13 15-14 16-15 17-16 18-17 19-18 20-19 21-20 22-21 23-22 24-23 25-24 26-25 27-26 28-27 29-28
 1	Dêrom	dêrom	ADV	ADV	_	10	advmod	_	dutch=Daarom
 2	hat	hawwe	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	10	aux	_	dutch=heeft
-3	syn	syn	PRON	PRON	Person=3|PronType=Prs	4	nmod_poss	_	dutch=zijn
+3	syn	syn	PRON	PRON	Person=3|PronType=Prs	4	nmod:poss	_	dutch=zijn
 4	advokaat	advokaat	NOUN	NOUN	Gender=Com|Number=Sing	10	nsubj	_	dutch=advocaat
 5	in	in	DET	DET	Definite=Ind	6	det	_	dutch=een
 6	brief	brief	NOUN	NOUN	Gender=Com|Number=Sing	10	obj	_	dutch=brief
@@ -4282,10 +4282,10 @@
 8	de	de	DET	DET	Definite=Def	9	det	_	dutch=de
 9	KNGU	KNGU	PROPN	PROPN	Gender=Com|Number=Sing	10	obl	_	dutch=KNGU
 10	stjoerd	stjoere	VERB	VERB	VerbForm=Part	0	root	_	dutch=gestuurd
-11	,	,	PUNCT	PUNCT	_	10	punct	_	dutch=,
+11	,	,	PUNCT	PUNCT	_	14	punct	_	dutch=,
 12	wêryn't	wêryn't	ADV	ADV	_	14	advmod	_	dutch=waarin
 13	Jeffrey	Jeffrey	PROPN	PROPN	Gender=Com|Number=Sing	14	nsubj	_	dutch=Jeffrey
-14	easket	easkje	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	6	acl_relcl	_	dutch=eist
+14	easket	easkje	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	dutch=eist
 15	dat	dat	SCONJ	SCONJ	_	22	mark	_	dutch=dat
 16	it	it	DET	DET	Definite=Def	17	det	_	dutch=de
 17	bûn	bûn	NOUN	NOUN	Gender=Com|Number=Sing	22	nsubj	_	dutch=bond
@@ -4308,7 +4308,7 @@
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11
 1	Sa	sa	ADV	ADV	_	5	parataxis	_	dutch=Zo
 2	net	net	PART	PART	_	1	fixed	_	dutch=niet
-3	,	,	PUNCT	PUNCT	_	5	punct	_	dutch=,
+3	,	,	PUNCT	PUNCT	_	1	punct	_	dutch=,
 4	dan	dan	ADV	ADV	_	5	advmod	_	dutch=dan
 5	bringt	bringe	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=brengt
 6	er	er	PRON	PRON	Case=Nom|Person=3|PronType=Prs	5	nsubj	_	dutch=hij
@@ -4325,13 +4325,13 @@
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16
 1	Roskam	Roskam	PROPN	PROPN	Gender=Com|Number=Sing	2	nsubj	_	dutch=Roskam
 2	jout	jaan	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=geeft
-3	ta	ta	ADP	ADP	_	2	compound_prt	_	dutch=toe
+3	ta	ta	ADP	ADP	_	2	compound:prt	_	dutch=toe
 4	dat	dat	SCONJ	SCONJ	_	8	mark	_	dutch=dat
 5	der	der	ADV	ADV	_	8	advmod	_	dutch=er
 6	in	in	DET	DET	Definite=Ind	7	det	_	dutch=een
 7	brief	brief	NOUN	NOUN	Gender=Com|Number=Sing	8	nsubj	_	dutch=brief
 8	leit	lizze	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	2	ccomp	_	dutch=ligt
-9	,	,	PUNCT	PUNCT	_	2	punct	_	dutch=,
+9	,	,	PUNCT	PUNCT	_	11	punct	_	dutch=,
 10	mar	mar	CCONJ	CCONJ	_	11	cc	_	dutch=maar
 11	wol	wolle	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	2	conj	_	dutch=wil
 12	net	net	PART	PART	_	13	advmod	_	dutch=niet
@@ -4351,7 +4351,7 @@
 4	It	It	PROPN	PROPN	Gender=Neut|Number=Sing	2	nmod	_	dutch=Heerenveen
 5	Hearrrenfean	Hearrrenfean	PROPN	PROPN	Degree=Pos	4	flat	_	dutch=meerdere
 6	moasten	moatte	AUX	AUX	Person=3|PronType=Prs	8	aux	_	dutch=hun
-7	belies	belies	NOUN	NOUN	VerbForm=Inf	8	compound_prt	_	dutch=erkennen
+7	belies	belies	NOUN	NOUN	VerbForm=Inf	8	compound:prt	_	dutch=erkennen
 8	jaan	jaan	VERB	VERB	VerbForm=Inf	0	root	_	dutch=erkennen
 9	tsjin	tsjin	ADP	ADP	Gender=Neut|Number=Sing	10	case	_	dutch=Tilburg
 10	Tilburg	Tilburg	PROPN	PROPN	Gender=Neut|Number=Sing	8	obl	_	dutch=Tilburg
@@ -4365,7 +4365,7 @@
 2	de	de	DET	DET	Definite=Def	3	det	_	dutch=de
 3	perioadestannen	perioadestân	NOUN	NOUN	Number=Plur	9	obl	_	dutch=periodestanden
 4	1-2	1-2	NUM	NUM	_	3	appos	_	dutch=1-2
-5	,	,	PUNCT	PUNCT	_	4	punct	_	dutch=,
+5	,	,	PUNCT	PUNCT	_	6	punct	_	dutch=,
 6	1-2	1-2	NUM	NUM	_	4	conj	_	dutch=1-2
 7	en	en	CCONJ	CCONJ	_	8	cc	_	dutch=en
 8	0-2	0-2	NUM	NUM	_	4	conj	_	dutch=0-2
@@ -4401,7 +4401,7 @@
 16	spannend	spannend	ADJ	ADJ	Degree=Pos	18	xcomp	_	dutch=spannend
 17	te	te	ADP	ADP	_	18	mark	_	dutch=te
 18	wurden	wurde	VERB	VERB	VerbForm=Inf	14	xcomp	_	dutch=worden
-19	,	,	PUNCT	PUNCT	_	8	punct	_	dutch=,
+19	,	,	PUNCT	PUNCT	_	26	punct	_	dutch=,
 20	mar	mar	CCONJ	CCONJ	_	26	cc	_	dutch=maar
 21	doe't	doe't	SCONJ	SCONJ	_	25	mark	_	dutch=toen
 22	fuortdaliks	fuortdaliks	ADV	ADV	_	25	advmod	_	dutch=meteen
@@ -4457,7 +4457,7 @@
 4	en	en	CCONJ	CCONJ	_	5	cc	_	dutch=en
 5	bûtenlân	bûtenlân	NOUN	NOUN	Gender=Neut|Number=Sing	3	conj	_	dutch=buitenland
 6	bûge	bûge	VERB	VERB	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=buigen
-7	har	har	PRON	PRON	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	6	expl_pv	_	dutch=zich
+7	har	har	PRON	PRON	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	6	expl:pv	_	dutch=zich
 8	sneon	sneon	PROPN	PROPN	Gender=Com|Number=Sing	6	obl	_	dutch=zaterdag
 9	yn	yn	ADP	ADP	_	11	case	_	dutch=in
 10	it	it	DET	DET	Definite=Def	11	det	_	dutch=het
@@ -4467,12 +4467,12 @@
 14	de	de	DET	DET	Definite=Def	16	det	_	dutch=de
 15	histoaryske	histoarysk	ADJ	ADJ	Degree=Pos	16	amod	_	dutch=historische
 16	ynskripsjes	ynskripsje	NOUN	NOUN	Number=Plur	6	obl	_	dutch=inscripties
-17	dy't	dy't	PRON	PRON	PronType=Rel	21	nsubj_pass	_	dutch=die
+17	dy't	dy't	PRON	PRON	PronType=Rel	21	nsubj:pass	_	dutch=die
 18	yn	yn	ADP	ADP	_	20	case	_	dutch=in
 19	'e	'e	DET	DET	Definite=Def	20	det	_	dutch=de
 20	terpen	terp	NOUN	NOUN	Number=Plur	21	obl	_	dutch=terpen
-21	fûn	fine	VERB	VERB	VerbForm=Part	16	acl_relcl	_	dutch=gevonden
-22	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	21	aux_pass	_	dutch=zijn
+21	fûn	fine	VERB	VERB	VerbForm=Part	16	acl:relcl	_	dutch=gevonden
+22	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	21	aux:pass	_	dutch=zijn
 23	.	.	PUNCT	PUNCT	_	6	punct	_	dutch=.
 
 # sent_id = 2028
@@ -4488,7 +4488,7 @@
 7	en	en	CCONJ	CCONJ	_	8	cc	_	dutch=en
 8	6e	6	ADJ	ADJ	_	6	conj	_	dutch=6e
 9	iuw	iuw	NOUN	NOUN	Gender=Com|Number=Sing	3	obl	_	dutch=eeuw
-10	,	,	PUNCT	PUNCT	_	3	punct	_	dutch=,
+10	,	,	PUNCT	PUNCT	_	17	punct	_	dutch=,
 11	mar	mar	CCONJ	CCONJ	_	17	cc	_	dutch=maar
 12	it	it	PRON	PRON	Person=3|PronType=Prs	17	expl	_	dutch=het
 13	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	17	aux	_	dutch=is
@@ -4497,12 +4497,12 @@
 16	dúdlik	dúdlik	ADJ	ADJ	Degree=Pos	17	xcomp	_	dutch=duidelijk
 17	wurden	wurde	VERB	VERB	VerbForm=Part	3	conj	_	dutch=geworden
 18	oft	oft	SCONJ	SCONJ	_	20	mark	_	dutch=of
-19	se	se	PRON	PRON	Person=3|PronType=Prs	20	nsubj_pass	_	dutch=ze
+19	se	se	PRON	PRON	Person=3|PronType=Prs	20	nsubj:pass	_	dutch=ze
 20	skreaun	skriuwe	VERB	VERB	VerbForm=Part	17	csubj	_	dutch=geschreven
-21	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	20	aux_pass	_	dutch=zijn
+21	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	20	aux:pass	_	dutch=zijn
 22	troch	troch	ADP	ADP	_	24	case	_	dutch=door
 23	de	de	DET	DET	Definite=Def	24	det	_	dutch=de
-24	Friezen	Fries	PROPN	PROPN	Number=Plur	20	obl_agent	_	dutch=Friezen
+24	Friezen	Fries	PROPN	PROPN	Number=Plur	20	obl:agent	_	dutch=Friezen
 25	fan	fan	ADP	ADP	_	26	case	_	dutch=van
 26	doe	doe	ADV	ADV	_	24	nmod	_	dutch=toen
 27	.	.	PUNCT	PUNCT	_	3	punct	_	dutch=.
@@ -4514,7 +4514,7 @@
 1	Wittenskippers	wittenskipper	NOUN	NOUN	Number=Plur	8	nsubj	_	dutch=Wetenschappers
 2	út	út	ADP	ADP	_	3	case	_	dutch=uit
 3	Ingelân	Ingelân	PROPN	PROPN	Gender=Neut|Number=Sing	1	nmod	_	dutch=Engeland
-4	,	,	PUNCT	PUNCT	_	3	punct	_	dutch=,
+4	,	,	PUNCT	PUNCT	_	5	punct	_	dutch=,
 5	Dútslân	Dútslân	PROPN	PROPN	Gender=Neut|Number=Sing	3	conj	_	dutch=Duitsland
 6	en	en	CCONJ	CCONJ	_	7	cc	_	dutch=en
 7	Denemarken	Denemarken	PROPN	PROPN	Gender=Neut|Number=Sing	3	conj	_	dutch=Denemarken
@@ -4526,7 +4526,7 @@
 13	en	en	CCONJ	CCONJ	_	15	cc	_	dutch=en
 14	foar	foar	ADP	ADP	_	15	case	_	dutch=voor
 15	altyd	altyd	ADV	ADV	_	12	conj	_	dutch=altijd
-16	fêst	fêst	ADJ	ADJ	Degree=Pos	18	compound_prt	_	dutch=vast
+16	fêst	fêst	ADJ	ADJ	Degree=Pos	18	compound:prt	_	dutch=vast
 17	te	te	ADP	ADP	_	18	mark	_	dutch=te
 18	stellen	stelle	VERB	VERB	VerbForm=Inf	8	xcomp	_	dutch=stellen
 19	.	.	PUNCT	PUNCT	_	8	punct	_	dutch=.
@@ -4537,7 +4537,7 @@
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18
 1	Iris	Iris	PROPN	PROPN	_	14	nsubj	_	dutch=Iris
 2	Kroes	Kroes	PROPN	PROPN	_	1	flat	_	dutch=Kroes
-3	,	,	PUNCT	PUNCT	_	1	punct	_	dutch=,
+3	,	,	PUNCT	PUNCT	_	5	punct	_	dutch=,
 4	de	de	DET	DET	Definite=Def	5	det	_	dutch=de
 5	winner	winner	NOUN	NOUN	Gender=Com|Number=Sing	1	appos	_	dutch=winnaar
 6	fan	fan	ADP	ADP	_	7	case	_	dutch=van
@@ -4545,12 +4545,12 @@
 8	Voice	Voice	PROPN	PROPN	_	7	flat	_	dutch=Voice
 9	of	of	PROPN	PROPN	_	7	flat	_	dutch=of
 10	Holland	Holland	PROPN	PROPN	_	7	flat	_	dutch=Holland
-11	,	,	PUNCT	PUNCT	_	14	punct	_	dutch=,
-12	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	14	aux_pass	_	dutch=is
+11	,	,	PUNCT	PUNCT	_	1	punct	_	dutch=,
+12	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	14	aux:pass	_	dutch=is
 13	sneontemiddei	sneontemiddei	NOUN	NOUN	Gender=Com|Number=Sing	14	obl	_	dutch=zaterdagmiddag
 14	huldige	huldigje	VERB	VERB	VerbForm=Part	0	root	_	dutch=gehuldigd
 15	yn	yn	ADP	ADP	_	17	case	_	dutch=in
-16	har	har	PRON	PRON	Person=3|PronType=Prs	17	nmod_poss	_	dutch=haar
+16	har	har	PRON	PRON	Person=3|PronType=Prs	17	nmod:poss	_	dutch=haar
 17	wenplak	wenplak	NOUN	NOUN	Gender=Com|Number=Sing	14	obl	_	dutch=woonplaats
 18	Drachten	Drachten	PROPN	PROPN	Gender=Neut|Number=Sing	17	appos	_	dutch=Drachten
 19	.	.	PUNCT	PUNCT	_	14	punct	_	dutch=.
@@ -4562,11 +4562,11 @@
 1	Der	der	ADV	ADV	_	2	obl	_	dutch=Er
 2	kamen	komme	VERB	VERB	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	dutch=kwamen
 3	in	in	DET	DET	Definite=Ind	4	det	_	dutch=een
-4	pear	pear	NOUN	NOUN	Gender=Com_Neut|Number=Sing	5	nmod	_	dutch=paar
+4	pear	pear	NOUN	NOUN	Gender=Com,Neut|Number=Sing	5	nmod	_	dutch=paar
 5	tûzen	tûzen	NUM	NUM	_	6	nummod	_	dutch=duizend
 6	minsken	minske	NOUN	NOUN	Number=Plur	2	nsubj	_	dutch=mensen
 7	op	op	ADP	ADP	_	1	case	_	dutch=op
-8	ôf	ôf	ADP	ADP	_	2	compound_prt	_	dutch=af
+8	ôf	ôf	ADP	ADP	_	2	compound:prt	_	dutch=af
 9	.	.	PUNCT	PUNCT	_	2	punct	_	dutch=.
 
 # sent_id = 2032
@@ -4577,8 +4577,8 @@
 2	in	in	DET	DET	Definite=Ind	4	det	_	dutch=een
 3	iepen	iepen	ADJ	ADJ	Degree=Pos	4	amod	_	dutch=open
 4	auto	auto	NOUN	NOUN	Gender=Com|Number=Sing	9	obl	_	dutch=auto
-5	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	9	aux_pass	_	dutch=werd
-6	Iris	Iris	PROPN	PROPN	Gender=Com|Number=Sing	9	nsubj_pass	_	dutch=Iris
+5	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	9	aux:pass	_	dutch=werd
+6	Iris	Iris	PROPN	PROPN	Gender=Com|Number=Sing	9	nsubj:pass	_	dutch=Iris
 7	fan	fan	ADP	ADP	_	8	case	_	dutch=van
 8	hûs	hûs	NOUN	NOUN	Gender=Neut|Number=Sing	9	obl	_	dutch=huis
 9	helle	helje	VERB	VERB	VerbForm=Part	0	root	_	dutch=gehaald
@@ -4590,7 +4590,7 @@
 15	Drachten	Drachten	PROPN	PROPN	Gender=Neut|Number=Sing	13	nmod	_	dutch=Drachten
 16	huldige	huldigje	VERB	VERB	VerbForm=Part	9	advcl	_	dutch=gehuldigd
 17	te	te	ADP	ADP	_	18	mark	_	dutch=te
-18	wurden	wurde	AUX	AUX	VerbForm=Inf	16	aux_pass	_	dutch=worden
+18	wurden	wurde	AUX	AUX	VerbForm=Inf	16	aux:pass	_	dutch=worden
 19	yn	yn	ADP	ADP	_	20	case	_	dutch=in
 20	skouboarch	skouboarch	NOUN	NOUN	Gender=Com|Number=Sing	16	obl	_	dutch=schouwburg
 21	De	De	PROPN	PROPN	_	20	appos	_	dutch=De
@@ -4640,7 +4640,7 @@
 3	Bouwe	Bouwe	PROPN	PROPN	_	2	nsubj	_	dutch=Bouwe
 4	de	de	PROPN	PROPN	_	3	flat	_	dutch=de
 5	Boer	Boer	PROPN	PROPN	_	3	flat	_	dutch=Boer
-6	,	,	PUNCT	PUNCT	_	3	punct	_	dutch=,
+6	,	,	PUNCT	PUNCT	_	7	punct	_	dutch=,
 7	koördinator	koördinator	NOUN	NOUN	Gender=Com|Number=Sing	3	appos	_	dutch=coördinator
 8	enerzjy	enerzjy	NOUN	NOUN	Gender=Com|Number=Sing	7	appos	_	dutch=energie
 9	fan	fan	ADP	ADP	_	11	case	_	dutch=van
@@ -4654,20 +4654,20 @@
 # source_text = Het geld dat anders aan energiebedrijven betaald wordt , kan met de nieuwe coöperatie worden geïnvesteerd in het opwekken van groene energie .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-7 7-8 8-9 9-10 10-11 11-12 12-13 13-15 14-14 15-16 16-17 17-18 18-19 19-20 20-21 21-22
 1	It	it	DET	DET	Definite=Def	2	det	_	dutch=Het
-2	jild	jild	NOUN	NOUN	Gender=Neut|Number=Sing	14	nsubj_pass	_	dutch=geld
+2	jild	jild	NOUN	NOUN	Gender=Neut|Number=Sing	14	nsubj:pass	_	dutch=geld
 3	dat	dat	PRON	PRON	Person=3|PronType=Rel	7	nsubj	_	dutch=dat
 4	oars	oars	ADV	ADV	_	7	advmod	_	dutch=anders
 5	nei	nei	ADP	ADP	_	6	case	_	dutch=aan
 6	enerzjybedriuwen	enerzjybedriuw	NOUN	NOUN	Number=Plur	7	obl	_	dutch=energiebedrijven
-7	giet	gean	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	2	acl_relcl	_	dutch=wordt
-8	,	,	PUNCT	PUNCT	_	14	punct	_	dutch=,
+7	giet	gean	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	dutch=wordt
+8	,	,	PUNCT	PUNCT	_	2	punct	_	dutch=,
 9	kin	kinne	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	14	aux	_	dutch=kan
 10	mei	mei	ADP	ADP	_	13	case	_	dutch=met
 11	de	de	DET	DET	Definite=Def	13	det	_	dutch=de
 12	nije	nij	ADJ	ADJ	Degree=Pos	13	amod	_	dutch=nieuwe
 13	koöperaasje	koöperaasje	NOUN	NOUN	Gender=Com|Number=Sing	14	obl	_	dutch=coöperatie
 14	ynvestearre	ynvestearje	VERB	VERB	VerbForm=Part	0	root	_	dutch=geïnvesteerd
-15	wurde	wurde	AUX	AUX	VerbForm=Inf	14	aux_pass	_	dutch=worden
+15	wurde	wurde	AUX	AUX	VerbForm=Inf	14	aux:pass	_	dutch=worden
 16	yn	yn	ADP	ADP	_	18	case	_	dutch=in
 17	it	it	DET	DET	Definite=Def	18	det	_	dutch=het
 18	opwekken	opwekje	VERB	VERB	VerbForm=Inf	14	obl	_	dutch=opwekken
@@ -4707,11 +4707,11 @@
 10	easkje	easkje	VERB	VERB	VerbForm=Inf	0	root	_	dutch=eisen
 11	dat	dat	SCONJ	SCONJ	_	16	mark	_	dutch=dat
 12	griene	grien	ADJ	ADJ	Degree=Pos	13	amod	_	dutch=groene
-13	enerzjy	enerzjy	NOUN	NOUN	Gender=Com|Number=Sing	16	nsubj_pass	_	dutch=energie
+13	enerzjy	enerzjy	NOUN	NOUN	Gender=Com|Number=Sing	16	nsubj:pass	_	dutch=energie
 14	út	út	ADP	ADP	_	15	case	_	dutch=KEY-MISSING
 15	Fryslân	Fryslân	PROPN	PROPN	Gender=Neut|Number=Sing	13	nmod	_	dutch=Fryslân
 16	brûkt	brûke	VERB	VERB	VerbForm=Part	10	ccomp	_	dutch=gebruikt
-17	wurde	wurde	AUX	AUX	VerbForm=Inf	16	aux_pass	_	dutch=worden
+17	wurde	wurde	AUX	AUX	VerbForm=Inf	16	aux:pass	_	dutch=worden
 18	moat	moatte	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	16	aux	_	dutch=moet
 19	.	.	PUNCT	PUNCT	_	10	punct	_	dutch=.
 
@@ -4805,7 +4805,7 @@
 3	dêr't	dêr't	ADV	ADV	_	6	advmod	_	dutch=waarin
 4	Koudum	Koudum	PROPN	PROPN	Gender=Neut|Number=Sing	6	nsubj	_	dutch=Koudum
 5	yn	yn	ADP	ADP	_	3	case	_	dutch=waarin
-6	lei	lizze	VERB	VERB	Number=Sing|Tense=Past|VerbForm=Fin	2	acl_relcl	_	dutch=lag
+6	lei	lizze	VERB	VERB	Number=Sing|Tense=Past|VerbForm=Fin	2	acl:relcl	_	dutch=lag
 7	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	10	aux	_	dutch=is
 8	troch	troch	ADP	ADP	_	9	case	_	dutch=door
 9	fúzje	fúzje	NOUN	NOUN	Gender=Com|Number=Sing	10	obl	_	dutch=fusie
@@ -4840,7 +4840,7 @@
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10
 1	Om	om	ADP	ADP	_	5	mark	_	dutch=Om
 2	ôffal	ôffal	NOUN	NOUN	Gender=Com|Number=Sing	5	obj	_	dutch=afval
-3	fuort	fuort	ADV	ADV	_	5	compound_prt	_	dutch=weg
+3	fuort	fuort	ADV	ADV	_	5	compound:prt	_	dutch=weg
 4	te	te	ADP	ADP	_	5	mark	_	dutch=te
 5	bringen	bringe	VERB	VERB	VerbForm=Inf	6	advcl	_	dutch=brengen
 6	moatte	moatte	VERB	VERB	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=moeten
@@ -4855,8 +4855,8 @@
 # source_text = De sluiting wordt in Koudum gezien als een overval .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9
 1	De	de	DET	DET	Definite=Def	2	det	_	dutch=De
-2	sluting	sluting	NOUN	NOUN	Gender=Com|Number=Sing	6	nsubj_pass	_	dutch=sluiting
-3	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	6	aux_pass	_	dutch=wordt
+2	sluting	sluting	NOUN	NOUN	Gender=Com|Number=Sing	6	nsubj:pass	_	dutch=sluiting
+3	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	6	aux:pass	_	dutch=wordt
 4	yn	yn	ADP	ADP	_	5	case	_	dutch=in
 5	Koudum	Koudum	PROPN	PROPN	Gender=Neut|Number=Sing	6	obl	_	dutch=Koudum
 6	sjoen	sjen	VERB	VERB	VerbForm=Part	0	root	_	dutch=gezien
@@ -4870,7 +4870,7 @@
 # source_text = Er heeft van tevoren geen overleg plaatsgevonden .
 # alignment = 0-0 1-1 2-3 3-3 4-3 5-4 6-5 7-6 8-7
 1	Der	der	ADV	ADV	_	8	advmod	_	dutch=Er
-2	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	8	aux_pass	_	dutch=heeft
+2	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	8	aux:pass	_	dutch=heeft
 3	yn	yn	ADP	ADP	_	5	case	_	dutch=tevoren
 4	't	't	DET	DET	_	5	det	_	dutch=tevoren
 5	foar	foar	NOUN	NOUN	_	8	obl	_	dutch=tevoren
@@ -4940,11 +4940,11 @@
 8	yn	yn	ADP	ADP	_	10	case	_	dutch=in
 9	'e	'e	DET	DET	_	10	det	_	dutch=de
 10	Flevopolder	Flevopolder	PROPN	PROPN	_	7	nmod	_	dutch=Flevopolder
-11	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	16	aux_pass	_	dutch=zijn
+11	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	16	aux:pass	_	dutch=zijn
 12	moandeitemoarn	moandeitemoarn	NOUN	NOUN	Gender=Com|Number=Sing	16	obl	_	dutch=maandag
 13	bysûndere	bysûnder	ADJ	ADJ	Degree=Pos	15	amod	_	dutch=bijzondere
 14	houten	houten	ADJ	ADJ	Degree=Pos	15	amod	_	dutch=houten
-15	klapredens	klapreed	NOUN	NOUN	Number=Plur	16	nsubj_pass	_	dutch=klapschaatsen
+15	klapredens	klapreed	NOUN	NOUN	Number=Plur	16	nsubj:pass	_	dutch=klapschaatsen
 16	presintearre	presintearje	VERB	VERB	VerbForm=Part	0	root	_	dutch=gepresenteerd
 17	.	.	PUNCT	PUNCT	_	16	punct	_	dutch=.
 
@@ -4978,12 +4978,12 @@
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14
 1	It	it	DET	DET	Definite=Def	3	det	_	dutch=Het
 2	earste	ien	ADJ	ADJ	_	3	amod	_	dutch=eerste
-3	pear	pear	NOUN	NOUN	Gender=Neut|Number=Sing	9	nsubj_pass	_	dutch=paar
+3	pear	pear	NOUN	NOUN	Gender=Neut|Number=Sing	9	nsubj:pass	_	dutch=paar
 4	fan	fan	ADP	ADP	_	7	case	_	dutch=van
 5	'e	'e	DET	DET	Definite=Def	7	det	_	dutch=de
 6	houten	houten	ADJ	ADJ	Degree=Pos	7	amod	_	dutch=houten
 7	klapredens	klapreed	NOUN	NOUN	Number=Plur	3	nmod	_	dutch=klapschaatsen
-8	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux_pass	_	dutch=is
+8	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux:pass	_	dutch=is
 9	oanbean	oanbiede	VERB	VERB	VerbForm=Part	0	root	_	dutch=aangeboden
 10	oan	oan	ADP	ADP	_	11	case	_	dutch=aan
 11	maratonreedrider	maratonreedrider	NOUN	NOUN	Gender=Com|Number=Sing	9	obl	_	dutch=marathonschaatser
@@ -4997,7 +4997,7 @@
 # source_text = Er zijn eerst vijftig exemplaren geproduceerd .
 # alignment = 0-0 1-1 2-2 3-3 4-5 5-5 6-6
 1	Der	der	ADV	ADV	_	6	advmod	_	dutch=Er
-2	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	6	aux_pass	_	dutch=zijn
+2	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	6	aux:pass	_	dutch=zijn
 3	foarearst	foarearst	ADV	ADV	_	6	advmod	_	dutch=eerst
 4	fyftich	fyftich	NUM	NUM	_	5	nummod	_	dutch=vijftig
 5	eksimplaren	eksimplaar	NOUN	NOUN	VerbForm=Part	6	nsubj	_	dutch=geproduceerd
@@ -5041,12 +5041,12 @@
 # source_text = Degenen die nog niet vastgenomen zijn , kunnen ook bezoek van de politie verwachten .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-8 10-9 11-9 12-10 13-11 14-13 15-14
 1	Minsken	minske	NOUN	NOUN	PronType=Dem	10	nsubj	_	dutch=Degenen
-2	dy't	dy't	PRON	PRON	PronType=Rel	5	nsubj_pass	_	dutch=die
+2	dy't	dy't	PRON	PRON	PronType=Rel	5	nsubj:pass	_	dutch=die
 3	noch	noch	ADV	ADV	_	4	advmod	_	dutch=nog
 4	net	net	PART	PART	_	5	advmod	_	dutch=niet
-5	pakt	pakke	VERB	VERB	VerbForm=Part	1	acl_relcl	_	dutch=vastgenomen
-6	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	5	aux_pass	_	dutch=zijn
-7	,	,	PUNCT	PUNCT	_	10	punct	_	dutch=,
+5	pakt	pakke	VERB	VERB	VerbForm=Part	1	acl:relcl	_	dutch=vastgenomen
+6	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	5	aux:pass	_	dutch=zijn
+7	,	,	PUNCT	PUNCT	_	1	punct	_	dutch=,
 8	kinne	kinne	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	10	aux	_	dutch=kunnen
 9	ek	ek	ADV	ADV	_	10	advmod	_	dutch=ook
 10	rekkenje	rekkenje	VERB	VERB	_	0	root	_	dutch=ook
@@ -5081,7 +5081,7 @@
 6	Kollum	Kollum	PROPN	PROPN	Gender=Neut|Number=Sing	4	nmod	_	dutch=Kollum
 7	en	en	CCONJ	CCONJ	_	8	cc	_	dutch=en
 8	Boalsert	Boalsert	PROPN	PROPN	Gender=Neut|Number=Sing	6	conj	_	dutch=Bolsward
-9	him	him	PRON	PRON	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	3	expl_pv	_	dutch=zich
+9	him	him	PRON	PRON	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	dutch=zich
 10	tsjin	tsjin	ADP	ADP	_	12	case	_	dutch=tegen
 11	de	de	DET	DET	Definite=Def	12	det	_	dutch=de
 12	plysje	plysje	NOUN	NOUN	Gender=Com|Number=Sing	3	obl	_	dutch=politie
@@ -5105,7 +5105,7 @@
 12	rûnen	rinne	VERB	VERB	Number=Plur|Tense=Past|VerbForm=Fin	3	conj	_	dutch=liepen
 13	plysjes	plysje	NOUN	NOUN	Number=Plur	12	nsubj	_	dutch=agenten
 14	ferwûningen	ferwûning	NOUN	NOUN	Number=Plur	12	obj	_	dutch=verwondingen
-15	op	op	ADP	ADP	_	12	compound_prt	_	dutch=op
+15	op	op	ADP	ADP	_	12	compound:prt	_	dutch=op
 16	.	.	PUNCT	PUNCT	_	3	punct	_	dutch=.
 
 # sent_id = 2061
@@ -5117,9 +5117,9 @@
 3	it	it	PRON	PRON	Person=3|PronType=Prs	2	expl	_	dutch=het
 4	ûnakseptabel	ûnakseptabel	ADJ	ADJ	Number=Plur	2	xcomp	_	dutch=politie-agenten
 5	dat	dat	SCONJ	SCONJ	_	7	mark	_	dutch=dat
-6	plysjeminsken	plysjeminske	NOUN	NOUN	VerbForm=Part	7	nsubj_pass	_	dutch=belaagd
+6	plysjeminsken	plysjeminske	NOUN	NOUN	VerbForm=Part	7	nsubj:pass	_	dutch=belaagd
 7	oanfallen	oanfalle	VERB	VERB	VerbForm=Part	4	ccomp	_	dutch=aangevallen
-8	wurde	wurde	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	7	aux_pass	_	dutch=worden
+8	wurde	wurde	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	7	aux:pass	_	dutch=worden
 9	.	.	PUNCT	PUNCT	_	2	punct	_	dutch=.
 
 # sent_id = 2062
@@ -5222,7 +5222,7 @@
 4	binne	wêze	VERB	VERB	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=vinden
 5	yn	yn	ADP	ADP	_	6	case	_	dutch=in
 6	Surch	Surch	PROPN	PROPN	Gender=Neut|Number=Sing	4	obl	_	dutch=Zurich
-7	,	,	PUNCT	PUNCT	_	6	punct	_	dutch=,
+7	,	,	PUNCT	PUNCT	_	8	punct	_	dutch=,
 8	Lollum	Lollum	PROPN	PROPN	Gender=Neut|Number=Sing	6	conj	_	dutch=Lollum
 9	,	,	PUNCT	PUNCT	_	8	punct	_	dutch=,
 10	Penjum	Penjum	PROPN	PROPN	Gender=Neut|Number=Sing	6	conj	_	dutch=Pingjum
@@ -5274,7 +5274,7 @@
 # source_text = Maandag werd in het algemeen bestuur van Wetterskip Fryslân de aanpak van de wateroverlast van begin dit jaar geëvalueerd .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19
 1	Moandei	moandei	PROPN	PROPN	Gender=Com|Number=Sing	19	obl	_	dutch=Maandag
-2	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	19	aux_pass	_	dutch=werd
+2	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	19	aux:pass	_	dutch=werd
 3	yn	yn	ADP	ADP	_	6	case	_	dutch=in
 4	it	it	DET	DET	Definite=Def	6	det	_	dutch=het
 5	algemien	algemien	ADJ	ADJ	Degree=Pos	6	amod	_	dutch=algemeen
@@ -5283,7 +5283,7 @@
 8	Wetterskip	Wetterskip	PROPN	PROPN	_	6	nmod	_	dutch=Wetterskip
 9	Fryslân	Fryslân	PROPN	PROPN	_	8	flat	_	dutch=Fryslân
 10	de	de	DET	DET	Definite=Def	11	det	_	dutch=de
-11	oanpak	oanpak	NOUN	NOUN	Gender=Com|Number=Sing	19	nsubj_pass	_	dutch=aanpak
+11	oanpak	oanpak	NOUN	NOUN	Gender=Com|Number=Sing	19	nsubj:pass	_	dutch=aanpak
 12	fan	fan	ADP	ADP	_	14	case	_	dutch=van
 13	'e	'e	DET	DET	Definite=Def	14	det	_	dutch=de
 14	wetteroerlêst	wetteroerlêst	NOUN	NOUN	Gender=Com|Number=Sing	11	nmod	_	dutch=wateroverlast
@@ -5322,11 +5322,11 @@
 2	dy	dy	DET	DET	_	3	det	_	dutch=die
 3	partij	partij	NOUN	NOUN	Gender=Com|Number=Sing	8	obl	_	dutch=partij
 4	soene	sille	AUX	AUX	Number=Plur|Tense=Past|VerbForm=Fin	8	aux	_	dutch=zouden
-5	dy	dy	PRON	PRON	PronType=Dem	8	nsubj_pass	_	dutch=deze
+5	dy	dy	PRON	PRON	PronType=Dem	8	nsubj:pass	_	dutch=deze
 6	tenei	tenei	ADV	ADV	_	8	advmod	_	dutch=voortaan
 7	earder	earder	ADJ	ADJ	Degree=Pos	8	advmod	_	dutch=eerder
 8	brûkt	brûke	VERB	VERB	VerbForm=Part	0	root	_	dutch=gebruikt
-9	wurde	wurde	AUX	AUX	VerbForm=Inf	8	aux_pass	_	dutch=worden
+9	wurde	wurde	AUX	AUX	VerbForm=Inf	8	aux:pass	_	dutch=worden
 10	moatte	moatte	AUX	AUX	VerbForm=Inf	8	aux	_	dutch=moeten
 11	.	.	PUNCT	PUNCT	_	8	punct	_	dutch=.
 
@@ -5338,16 +5338,16 @@
 2	wetterskip	wetterskip	NOUN	NOUN	Gender=Neut|Number=Sing	3	nsubj	_	dutch=waterschap
 3	lit	litte	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=laat
 4	lykwols	lykwols	ADV	ADV	_	3	advmod	_	dutch=echter
-5	witte	witte	VERB	VERB	VerbForm=Inf	3	compound_prt	_	dutch=weten
+5	witte	witte	VERB	VERB	VerbForm=Inf	3	compound:prt	_	dutch=weten
 6	dat	dat	SCONJ	SCONJ	_	13	mark	_	dutch=dat
 7	de	de	DET	DET	Definite=Def	8	det	_	dutch=de
-8	polders	polder	NOUN	NOUN	Number=Plur	13	nsubj_pass	_	dutch=polders
+8	polders	polder	NOUN	NOUN	Number=Plur	13	nsubj:pass	_	dutch=polders
 9	alhiel	alhiel	ADV	ADV	_	12	amod	_	dutch=helemaal
 10	neffens	neffens	ADP	ADP	_	12	case	_	dutch=volgens
 11	de	de	DET	DET	Definite=Def	12	det	_	dutch=de
 12	ôfspraken	ôfspraak	NOUN	NOUN	Number=Plur	13	obl	_	dutch=afspraken
 13	ynset	ynsette	VERB	VERB	VerbForm=Part	3	ccomp	_	dutch=ingezet
-14	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	13	aux_pass	_	dutch=zijn
+14	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	13	aux:pass	_	dutch=zijn
 15	.	.	PUNCT	PUNCT	_	3	punct	_	dutch=.
 
 # sent_id = 2073
@@ -5362,7 +5362,7 @@
 6	Dokkum	Dokkum	PROPN	PROPN	_	3	nmod	_	dutch=Dokkum
 7	en	en	CCONJ	CCONJ	_	8	cc	_	dutch=en
 8	omkriten	omkriten	NOUN	NOUN	Gender=Com|Number=Sing	6	conj	_	dutch=omgeving
-9	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	20	aux_pass	_	dutch=zijn
+9	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	20	aux:pass	_	dutch=zijn
 10	yn	yn	ADP	ADP	_	12	case	_	dutch=in
 11	dy	dy	DET	DET	_	12	det	_	dutch=die
 12	regio	regio	NOUN	NOUN	Gender=Com|Number=Sing	20	obl	_	dutch=regio
@@ -5372,7 +5372,7 @@
 16	twa	twa	NUM	NUM	_	14	conj	_	dutch=twee
 17	bedriuwen	bedriuw	NOUN	NOUN	Number=Plur	20	obl	_	dutch=bedrijven
 18	misfoarme	misfoarmje	VERB	VERB	VerbForm=Part	19	amod	_	dutch=misvormde
-19	kealtsjes	keal	NOUN	NOUN	Number=Plur	20	nsubj_pass	_	dutch=kalfjes
+19	kealtsjes	keal	NOUN	NOUN	Number=Plur	20	nsubj:pass	_	dutch=kalfjes
 20	berne	bernje	VERB	VERB	VerbForm=Part	0	root	_	dutch=geboren
 21	mei	mei	ADP	ADP	_	23	case	_	dutch=met
 22	mooglike	mooglik	ADJ	ADJ	Degree=Pos	23	amod	_	dutch=mogelijke
@@ -5386,8 +5386,8 @@
 # text = Dat wurdt op dit stuit ûndersocht .
 # source_text = Dit wordt momenteel onderzocht .
 # alignment = 0-0 1-1 2-2 3-2 4-2 5-3 6-4
-1	Dat	dat	PRON	PRON	Person=3|PronType=Dem	6	nsubj_pass	_	dutch=Dit
-2	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	6	aux_pass	_	dutch=wordt
+1	Dat	dat	PRON	PRON	Person=3|PronType=Dem	6	nsubj:pass	_	dutch=Dit
+2	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	6	aux:pass	_	dutch=wordt
 3	op	op	ADP	ADP	Degree=Pos	5	case	_	dutch=momenteel
 4	dit	dit	DET	DET	Degree=Pos	5	det	_	dutch=momenteel
 5	stuit	stuit	NOUN	NOUN	Degree=Pos	6	obl	_	dutch=momenteel
@@ -5425,8 +5425,8 @@
 # source_text = Extra voorzorgsmaatregelen worden dan voorlopig ook niet getroffen .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8
 1	Ekstra	ekstra	ADJ	ADJ	Degree=Pos	2	amod	_	dutch=Extra
-2	foarsoarchsmaatregels	foarsoarchsmaatregel	NOUN	NOUN	Number=Plur	8	nsubj_pass	_	dutch=voorzorgsmaatregelen
-3	wurde	wurde	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	8	aux_pass	_	dutch=worden
+2	foarsoarchsmaatregels	foarsoarchsmaatregel	NOUN	NOUN	Number=Plur	8	nsubj:pass	_	dutch=voorzorgsmaatregelen
+3	wurde	wurde	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	8	aux:pass	_	dutch=worden
 4	dan	dan	ADV	ADV	_	8	advmod	_	dutch=dan
 5	foarearst	foarearst	ADV	ADV	Degree=Pos	8	advmod	_	dutch=voorlopig
 6	ek	ek	ADV	ADV	_	8	advmod	_	dutch=ook
@@ -5463,12 +5463,12 @@
 2	ynternet	ynternet	NOUN	NOUN	Gender=Neut|Number=Sing	3	obl	_	dutch=internet
 3	litte	litte	VERB	VERB	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	dutch=laten
 4	se	se	PRON	PRON	Person=3|PronType=Prs	3	nsubj	_	dutch=ze
-5	witte	witte	VERB	VERB	VerbForm=Inf	3	compound_prt	_	dutch=weten
+5	witte	witte	VERB	VERB	VerbForm=Inf	3	compound:prt	_	dutch=weten
 6	dat	dat	SCONJ	SCONJ	_	11	mark	_	dutch=dat
 7	se	se	PRON	PRON	Person=3|PronType=Prs	11	nsubj	_	dutch=ze
 8	skjin	skjin	ADJ	ADJ	Degree=Pos	11	advmod	_	dutch=schoon
-9	har	har	PRON	PRON	_	10	nmod_poss	_	dutch=genoeg
-10	nocht	nocht	NOUN	NOUN	_	11	compound_prt	_	dutch=van
+9	har	har	PRON	PRON	_	10	nmod:poss	_	dutch=genoeg
+10	nocht	nocht	NOUN	NOUN	_	11	compound:prt	_	dutch=van
 11	hawwe	hawwe	VERB	VERB	Number=Plur|Tense=Pres|VerbForm=Fin	3	ccomp	_	dutch=hebben
 12	.	.	PUNCT	PUNCT	_	3	punct	_	dutch=.
 
@@ -5496,13 +5496,13 @@
 6	Boalsert	Boalsert	PROPN	PROPN	Gender=Neut|Number=Sing	4	nmod	_	dutch=Bolsward
 7	dêr't	dêr't	ADV	ADV	_	14	advmod	_	dutch=waar
 8	de	de	DET	DET	Definite=Def	9	det	_	dutch=de
-9	plysje	plysje	NOUN	NOUN	Gender=Com|Number=Sing	14	nsubj_pass	_	dutch=politie
+9	plysje	plysje	NOUN	NOUN	Gender=Com|Number=Sing	14	nsubj:pass	_	dutch=politie
 10	troch	troch	ADP	ADP	_	12	case	_	dutch=door
 11	30	30	NUM	NUM	_	12	nummod	_	dutch=30
-12	minsken	minske	NOUN	NOUN	Number=Plur	14	obl_agent	_	dutch=minsken
-13	lestich	lestich	ADJ	ADJ	Number=Plur	14	compound_prt	_	dutch=minsken
-14	fallen	falle	VERB	VERB	VerbForm=Part	6	acl_relcl	_	dutch=belaagd
-15	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	14	aux_pass	_	dutch=is
+12	minsken	minske	NOUN	NOUN	Number=Plur	14	obl:agent	_	dutch=minsken
+13	lestich	lestich	ADJ	ADJ	Number=Plur	14	compound:prt	_	dutch=minsken
+14	fallen	falle	VERB	VERB	VerbForm=Part	6	acl:relcl	_	dutch=belaagd
+15	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	14	aux:pass	_	dutch=is
 16	.	.	PUNCT	PUNCT	_	3	punct	_	dutch=.
 
 # sent_id = 2082
@@ -5510,10 +5510,10 @@
 # source_text = Hier werd in 22-jarige man opgepakt maar de politie heeft intussen meer verdachten op het oog .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-4 6-5 7-6 8-7 9-8 10-9 11-10 12-11 13-12 14-13 15-14 16-15 17-16 18-17
 1	Dêr	dêr	ADV	ADV	_	6	advmod	_	dutch=Hier
-2	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	6	aux_pass	_	dutch=werd
+2	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	6	aux:pass	_	dutch=werd
 3	in	in	DET	DET	_	5	det	_	dutch=in
 4	22-jierrige	22-jierrich	ADJ	ADJ	_	5	amod	_	dutch=22-jarig
-5	man	man	NOUN	NOUN	Gender=Com|Number=Sing	6	nsubj_pass	_	dutch=man
+5	man	man	NOUN	NOUN	Gender=Com|Number=Sing	6	nsubj:pass	_	dutch=man
 6	oppakt	oppakke	VERB	VERB	VerbForm=Part	0	root	_	dutch=opgepakt
 7	mar	mar	CCONJ	CCONJ	_	10	cc	_	dutch=maar
 8	de	de	DET	DET	Definite=Def	9	det	_	dutch=de
@@ -5522,7 +5522,7 @@
 11	yntusken	yntusken	ADV	ADV	_	10	advmod	_	dutch=intussen
 12	mear	folle	PRON	PRON	_	13	det	_	dutch=meer
 13	fertochten	fertinke	VERB	VERB	VerbForm=Part	10	obj	_	dutch=verdachten
-14	op	op	ADP	ADP	_	10	compound_prt	_	dutch=op
+14	op	op	ADP	ADP	_	10	compound:prt	_	dutch=op
 15	it	it	DET	DET	Definite=Def	14	fixed	_	dutch=het
 16	each	each	NOUN	NOUN	Gender=Neut|Number=Sing	14	fixed	_	dutch=oog
 17	.	.	PUNCT	PUNCT	_	6	punct	_	dutch=.
@@ -5533,9 +5533,9 @@
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20
 1	Yn	yn	ADP	ADP	_	2	case	_	dutch=In
 2	Kollum	Kollum	PROPN	PROPN	Gender=Neut|Number=Sing	14	obl	_	dutch=Kollum
-3	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	14	aux_pass	_	dutch=zijn
+3	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	14	aux:pass	_	dutch=zijn
 4	in	in	DET	DET	Definite=Ind	5	det	_	dutch=een
-5	heit	heit	NOUN	NOUN	Gender=Com|Number=Sing	14	nsubj_pass	_	dutch=vader
+5	heit	heit	NOUN	NOUN	Gender=Com|Number=Sing	14	nsubj:pass	_	dutch=vader
 6	en	en	CCONJ	CCONJ	_	7	cc	_	dutch=en
 7	soan	soan	NOUN	NOUN	Gender=Com|Number=Sing	5	conj	_	dutch=zoon
 8	fan	fan	ADP	ADP	_	9	case	_	dutch=van
@@ -5557,8 +5557,8 @@
 # text = Se wurde woansdei foarlaat oan 'e rjochter-kommissaris .
 # source_text = Ze worden woensdag voorgeleid aan de rechter-commissaris .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7
-1	Se	se	PRON	PRON	Person=3|PronType=Prs	4	nsubj_pass	_	dutch=Ze
-2	wurde	wurde	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	4	aux_pass	_	dutch=worden
+1	Se	se	PRON	PRON	Person=3|PronType=Prs	4	nsubj:pass	_	dutch=Ze
+2	wurde	wurde	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	4	aux:pass	_	dutch=worden
 3	woansdei	woansdei	PROPN	PROPN	Gender=Com|Number=Sing	4	obl	_	dutch=woensdag
 4	foarlaat	foarliede	VERB	VERB	VerbForm=Part	0	root	_	dutch=voorgeleid
 5	oan	oan	ADP	ADP	_	7	case	_	dutch=aan
@@ -5574,11 +5574,11 @@
 2	Arkum	Arkum	PROPN	PROPN	Gender=Com|Number=Sing	10	obl	_	dutch=Arkum
 3	ûnder	ûnder	ADP	ADP	_	4	case	_	dutch=onder
 4	Tsjerkwert	Tsjerkwert	PROPN	PROPN	Gender=Neut|Number=Sing	2	nmod	_	dutch=Tjerkwerd
-5	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	10	aux_pass	_	dutch=is
+5	is	wêze	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	10	aux:pass	_	dutch=is
 6	in	in	DET	DET	Definite=Ind	9	det	_	dutch=een
 7	bysûndere	bysûnder	ADJ	ADJ	Degree=Pos	9	amod	_	dutch=bijzondere
 8	argeologyske	argeologysk	ADJ	ADJ	Degree=Pos	9	amod	_	dutch=archeologische
-9	fynst	fynst	NOUN	NOUN	Gender=Com|Number=Sing	10	nsubj_pass	_	dutch=vondst
+9	fynst	fynst	NOUN	NOUN	Gender=Com|Number=Sing	10	nsubj:pass	_	dutch=vondst
 10	dien	dwaan	VERB	VERB	VerbForm=Part	0	root	_	dutch=gedaan
 11	.	.	PUNCT	PUNCT	_	10	punct	_	dutch=.
 
@@ -5589,7 +5589,7 @@
 1	Ut	út	ADP	ADP	_	2	case	_	dutch=Uit
 2	opgravingen	opgraving	NOUN	NOUN	Number=Plur	3	obl	_	dutch=opgravingen
 3	docht	dwaan	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=blijkt
-4	bliken	blyk	NOUN	NOUN	Number=Sing|Tense=Pres|VerbForm=Fin	3	compound_prt	_	dutch=blijkt
+4	bliken	blyk	NOUN	NOUN	Number=Sing|Tense=Pres|VerbForm=Fin	3	compound:prt	_	dutch=blijkt
 5	dat	dat	SCONJ	SCONJ	_	14	mark	_	dutch=dat
 6	2000	2000	NUM	NUM	_	7	nummod	_	dutch=2000
 7	jier	jier	NOUN	NOUN	Number=Plur	8	nmod	_	dutch=jier
@@ -5622,7 +5622,7 @@
 14	dêrom	dêrom	ADV	ADV	_	13	advmod	_	dutch=daarom
 15	in	in	DET	DET	Definite=Ind	16	det	_	dutch=een
 16	terp	terp	NOUN	NOUN	Gender=Com|Number=Sing	13	obj	_	dutch=terp
-17	oan	oan	ADP	ADP	_	13	compound_prt	_	dutch=aan
+17	oan	oan	ADP	ADP	_	13	compound:prt	_	dutch=aan
 18	.	.	PUNCT	PUNCT	_	11	punct	_	dutch=.
 
 # sent_id = 2088
@@ -5630,8 +5630,8 @@
 # source_text = Het onderzoek wordt gedaan omdat op die plek een nieuwe stal moet komen .
 # alignment = 0-0 1-1 2-2 3-3 4-4 5-4 6-5 7-6 8-7 9-8 10-10 11-12 12-11 13-13
 1	It	it	DET	DET	Definite=Def	2	det	_	dutch=Het
-2	ûndersyk	ûndersyk	NOUN	NOUN	Gender=Neut|Number=Sing	4	nsubj_pass	_	dutch=onderzoek
-3	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	4	aux_pass	_	dutch=wordt
+2	ûndersyk	ûndersyk	NOUN	NOUN	Gender=Neut|Number=Sing	4	nsubj:pass	_	dutch=onderzoek
+3	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	4	aux:pass	_	dutch=wordt
 4	dien	dwaan	VERB	VERB	VerbForm=Part	0	root	_	dutch=gedaan
 5	om't	om't	SCONJ	SCONJ	_	11	mark	_	dutch=omdat
 6	op	op	ADP	ADP	_	8	case	_	dutch=op
@@ -5672,9 +5672,9 @@
 5	oft	oft	SCONJ	SCONJ	_	15	mark	_	dutch=er
 6	yn	yn	ADP	ADP	_	7	case	_	dutch=in
 7	meunsters	meunster	NOUN	NOUN	Number=Plur	15	obl	_	dutch=monsters
-8	dy't	dy't	PRON	PRON	PronType=Rel	9	nsubj_pass	_	dutch=die
-9	nommen	nimme	VERB	VERB	VerbForm=Part	7	acl_relcl	_	dutch=genomen
-10	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	9	aux_pass	_	dutch=zijn
+8	dy't	dy't	PRON	PRON	PronType=Rel	9	nsubj:pass	_	dutch=die
+9	nommen	nimme	VERB	VERB	VerbForm=Part	7	acl:relcl	_	dutch=genomen
+10	binne	wêze	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	9	aux:pass	_	dutch=zijn
 11	bygelyks	bygelyks	ADV	ADV	_	15	advmod	_	dutch=bijvoorbeeld
 12	sied	sied	NOUN	NOUN	Gender=Neut|Number=Sing	15	nsubj	_	dutch=zaad
 13	en	en	CCONJ	CCONJ	_	14	cc	_	dutch=en
@@ -5697,14 +5697,14 @@
 9	bewenners	bewenner	NOUN	NOUN	Number=Plur	13	nsubj	_	dutch=bewoners
 10	hjir	hjir	ADV	ADV	_	13	advmod	_	dutch=hier
 11	wer	wer	ADV	ADV	_	13	advmod	_	dutch=weer
-12	wei	wei	ADV	ADV	_	13	compound_prt	_	dutch=hier
+12	wei	wei	ADV	ADV	_	13	compound:prt	_	dutch=hier
 13	tein	tsjen	VERB	VERB	VerbForm=Part	0	root	_	dutch=weggetrokken
-14	,	,	PUNCT	PUNCT	_	13	punct	_	dutch=,
+14	,	,	PUNCT	PUNCT	_	21	punct	_	dutch=,
 15	om	om	ADP	ADP	_	21	mark	_	dutch=om
 16	krekt	krekt	ADJ	ADJ	_	18	advmod	_	dutch=pas
 17	iuwen	iuw	NOUN	NOUN	Number=Plur	18	obl	_	dutch=eeuwen
 18	letter	let	ADJ	ADJ	Degree=Cmp	21	advmod	_	dutch=later
-19	werom	werom	ADV	ADV	_	21	compound_prt	_	dutch=terug
+19	werom	werom	ADV	ADV	_	21	compound:prt	_	dutch=terug
 20	te	te	ADP	ADP	_	21	mark	_	dutch=te
 21	kommen	komme	VERB	VERB	VerbForm=Inf	13	advcl	_	dutch=komen
 22	.	.	PUNCT	PUNCT	_	13	punct	_	dutch=.
@@ -5722,7 +5722,7 @@
 7	dy't	dy't	PRON	PRON	PronType=Rel	10	nsubj	_	dutch=die
 8	mear	folle	PRON	PRON	PronType=Ind	9	obj	_	dutch=meer
 9	witte	witte	VERB	VERB	VerbForm=Inf	10	xcomp	_	dutch=weten
-10	wol	wolle	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	6	acl_relcl	_	dutch=wil
+10	wol	wolle	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	dutch=wil
 11	in	in	DET	DET	Definite=Ind	13	det	_	dutch=een
 12	iepen	iepen	ADJ	ADJ	Gender=Com|Number=Sing	13	amod	_	dutch=opendag
 13	dei	dei	NOUN	NOUN	Gender=Com|Number=Sing	3	nsubj	_	dutch=opendag
@@ -5783,7 +5783,7 @@
 11	dat	dat	PRON	PRON	_	14	obj	_	dutch=dat
 12	Syb	Syb	PROPN	PROPN	Gender=Com|Number=Sing	14	nsubj	_	dutch=Syb
 13	spesjaal	spesjaal	ADJ	ADJ	Degree=Pos	14	advmod	_	dutch=speciaal
-14	skreaun	skriuwe	VERB	VERB	VerbForm=Part	10	acl_relcl	_	dutch=geschreven
+14	skreaun	skriuwe	VERB	VERB	VerbForm=Part	10	acl:relcl	_	dutch=geschreven
 15	hat	hawwe	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	14	aux	_	dutch=heeft
 16	en	en	CCONJ	CCONJ	_	25	cc	_	dutch=en
 17	dat	dat	PRON	PRON	_	25	obj	_	dutch=dat
@@ -5810,7 +5810,7 @@
 3	studio	studio	NOUN	NOUN	Gender=Com|Number=Sing	10	obl	_	dutch=studio
 4	fan	fan	ADP	ADP	_	5	case	_	dutch=van
 5	Syb	Syb	PROPN	PROPN	Gender=Com|Number=Sing	3	nmod	_	dutch=Syb
-6	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	10	aux_pass	_	dutch=wordt
+6	wurdt	wurde	AUX	AUX	Number=Sing|Tense=Pres|VerbForm=Fin	10	aux:pass	_	dutch=wordt
 7	op	op	ADP	ADP	Degree=Pos	9	case	_	dutch=momenteel
 8	it	it	DET	DET	Degree=Pos	9	det	_	dutch=momenteel
 9	stuit	stuit	NOUN	NOUN	Degree=Pos	10	obl	_	dutch=momenteel
@@ -5848,7 +5848,7 @@
 1	Fryske	Frysk	ADJ	ADJ	Degree=Pos	2	amod	_	dutch=Friese
 2	koaren	koar	NOUN	NOUN	Number=Plur	6	nsubj	_	dutch=koren
 3	kinne	kinne	AUX	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	6	aux	_	dutch=kunnen
-4	har	har	PRON	PRON	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	6	expl_pv	_	dutch=zich
+4	har	har	PRON	PRON	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	6	expl:pv	_	dutch=zich
 5	noch	noch	ADV	ADV	_	6	advmod	_	dutch=nog
 6	oanmelde	oanmelde	VERB	VERB	VerbForm=Inf	0	root	_	dutch=aanmelden
 7	oant	oant	ADP	ADP	_	8	case	_	dutch=tot
@@ -5884,7 +5884,7 @@
 5	wurdt	wurde	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	dutch=wordt
 6	hieltyd	hieltyd	ADV	ADV	_	7	advmod	_	dutch=steeds
 7	groffer	grof	ADJ	ADJ	Gender=Com|Number=Sing	5	xcomp	_	dutch=groffer
-8	,	,	PUNCT	PUNCT	_	5	punct	_	dutch=,
+8	,	,	PUNCT	PUNCT	_	9	punct	_	dutch=,
 9	sinjalearret	sinjalearje	VERB	VERB	Number=Sing|Tense=Pres|VerbForm=Fin	5	parataxis	_	dutch=signaleert
 10	Maarten	Maarten	PROPN	PROPN	_	9	nsubj	_	dutch=Maarten
 11	Liebregts	Liebregts	PROPN	PROPN	_	10	flat	_	dutch=Liebregts
@@ -5898,9 +5898,9 @@
 2	pear	pear	NOUN	NOUN	_	4	nmod	_	dutch=Enkele
 3	jier	jier	NOUN	NOUN	Number=Plur	2	nmod	_	dutch=jaren
 4	ferlyn	ferlyn	ADV	ADV	_	8	advmod	_	dutch=terug
-5	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	8	aux_pass	_	dutch=werd
+5	waard	wurde	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	8	aux:pass	_	dutch=werd
 6	de	de	DET	DET	Definite=Def	7	det	_	dutch=de
-7	hûnebegelieder	hûnebegelieder	NOUN	NOUN	Gender=Com|Number=Sing	8	nsubj_pass	_	dutch=hondenbegeleider
+7	hûnebegelieder	hûnebegelieder	NOUN	NOUN	Gender=Com|Number=Sing	8	nsubj:pass	_	dutch=hondenbegeleider
 8	oanfallen	oanfalle	VERB	VERB	VerbForm=Part	0	root	_	dutch=aangevallen
 9	neidat	neidat	SCONJ	SCONJ	_	17	mark	_	dutch=nadat
 10	er	er	PRON	PRON	Case=Nom|Person=3|PronType=Prs	17	nsubj	_	dutch=hij
@@ -6005,7 +6005,7 @@
 14	mooglik	mooglik	ADJ	ADJ	Degree=Pos	17	advmod	_	dutch=mogelijk
 15	kriminelen	krimineel	NOUN	NOUN	Number=Plur	17	nsubj	_	dutch=criminelen
 16	efter	efter	ADP	ADP	_	13	case	_	dutch=achter
-17	sitte	sitte	VERB	VERB	Number=Plur|Tense=Pres|VerbForm=Fin	12	acl_relcl	_	dutch=zitten
+17	sitte	sitte	VERB	VERB	Number=Plur|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	dutch=zitten
 18	.	.	PUNCT	PUNCT	_	2	punct	_	dutch=.
 
 # sent_id = 2105
@@ -6027,7 +6027,7 @@
 13	gala	gala	NOUN	NOUN	Gender=Neut|Number=Sing	11	nsubj	_	dutch=gala
 14	neat	neat	PRON	PRON	Person=3|PronType=Ind	11	obj	_	dutch=niets
 15	te	te	ADP	ADP	_	16	mark	_	dutch=te
-16	krijen	krije	VERB	VERB	VerbForm=Inf	11	compound_prt	_	dutch=maken
+16	krijen	krije	VERB	VERB	VerbForm=Inf	11	compound:prt	_	dutch=maken
 17	mei	mei	ADP	ADP	_	18	case	_	dutch=met
 18	kriminaliteit	kriminaliteit	NOUN	NOUN	Gender=Com|Number=Sing	11	obl	_	dutch=criminaliteit
 19	.	.	PUNCT	PUNCT	_	11	punct	_	dutch=.
