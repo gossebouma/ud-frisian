@@ -4396,7 +4396,7 @@
 11	de	de	DET	DET	Definite=Def	12	det	_	dutch=de
 12	2-3	2-3	NUM	NUM	_	8	obj	_	dutch=2-3
 13	en	en	CCONJ	CCONJ	_	14	cc	_	dutch=en
-14	like	lykje	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Fin	8	conj	_	dutch=leek
+14	like	lykje	VERB	AUX	Number=Sing|Tense=Past|VerbForm=Fin	8	conj	_	dutch=leek
 15	it	it	PRON	PRON	Person=3|PronType=Prs	14	nsubj	_	dutch=het
 16	spannend	spannend	ADJ	ADJ	Degree=Pos	18	xcomp	_	dutch=spannend
 17	te	te	ADP	ADP	_	18	mark	_	dutch=te
