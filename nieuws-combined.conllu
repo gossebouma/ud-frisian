@@ -4431,7 +4431,7 @@
 10	fiifde	fiif	ADJ	ADJ	_	11	amod	_	dutch=vijfde
 11	plak	plak	NOUN	NOUN	Gender=Com|Number=Sing	12	obl	_	dutch=plaats
 12	stean	stean	VERB	VERB	VerbForm=Inf	4	xcomp	_	dutch=staan
-13	.	.	PUNCT	PUNCT	_	12	punct	_	dutch=.
+13	.	.	PUNCT	PUNCT	_	4	punct	_	dutch=.
 
 # sent_id = 2026
 # text = Snein spylje de Flyers yn en tsjin Amsterdam .
