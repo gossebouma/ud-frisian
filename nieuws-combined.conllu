@@ -4400,7 +4400,7 @@
 15	it	it	PRON	PRON	Person=3|PronType=Prs	14	nsubj	_	dutch=het
 16	spannend	spannend	ADJ	ADJ	Degree=Pos	18	xcomp	_	dutch=spannend
 17	te	te	ADP	ADP	_	18	mark	_	dutch=te
-18	wurden	wurde	VERB	VERB	VerbForm=Inf	14	conj	_	dutch=worden
+18	wurden	wurde	VERB	VERB	VerbForm=Inf	14	xcomp	_	dutch=worden
 19	,	,	PUNCT	PUNCT	_	8	punct	_	dutch=,
 20	mar	mar	CCONJ	CCONJ	_	26	cc	_	dutch=maar
 21	doe't	doe't	SCONJ	SCONJ	_	25	mark	_	dutch=toen
