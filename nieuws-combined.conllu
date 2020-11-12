@@ -4422,7 +4422,7 @@
 1	De	De	PROPN	PROPN	Definite=Def	4	nsubj	_	dutch=De
 2	Friesland	Friesland	PROPN	PROPN	_	1	flat	_	dutch=Friesland
 3	Flyers	Flyers	PROPN	PROPN	_	1	flat	_	dutch=Flyers
-4	bliuwe	bliuwe	VERB	AUX	Number=Plur|Tense=Pres|VerbForm=Fin	12	aux	_	dutch=blijven
+4	bliuwe	bliuwe	VERB	VERB	Number=Plur|Tense=Pres|VerbForm=Fin	12	aux	_	dutch=blijven
 5	troch	troch	ADP	ADP	_	7	case	_	dutch=door
 6	dit	dit	DET	DET	_	7	det	_	dutch=dit
 7	ferlies	ferlies	NOUN	NOUN	Gender=Neut|Number=Sing	12	obl	_	dutch=verlies
